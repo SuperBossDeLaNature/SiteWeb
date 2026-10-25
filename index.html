@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b1020">
+<title>MédiDuel</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main id="app">
+
+  <!-- ACCUEIL -->
+  <section id="s-home" class="screen active">
+    <button class="snd" id="snd-home" aria-label="Activer ou couper le son">🔊</button>
+    <div class="logo">⚔️ <b>Médi</b>Duel</div>
+    <p class="tag">Révise en duel, en direct.</p>
+
+    <label class="field">
+      <span>Ton pseudo</span>
+      <input id="name" maxlength="14" autocomplete="off" placeholder="ex. Haris">
+    </label>
+
+    <button class="btn primary" id="btn-create">Défier un ami</button>
+
+    <div class="join">
+      <input id="code" maxlength="4" placeholder="CODE" autocapitalize="characters" autocomplete="off" spellcheck="false">
+      <button class="btn" id="btn-join">Rejoindre</button>
+    </div>
+
+    <button class="btn ghost" id="btn-solo">Entraînement contre un bot</button>
+    <label class="volrow"><span>🔈</span><input type="range" class="vol" min="0" max="100" step="1" aria-label="Volume des bruitages"><span>🔊</span></label>
+    <p class="note" id="net-note"></p>
+  </section>
+
+  <!-- CHOIX DE LA MATIÈRE -->
+  <section id="s-themes" class="screen">
+    <header class="top">
+      <button class="icon-btn" id="themes-back" aria-label="Retour">←</button>
+      <h2>Choisis une matière</h2>
+    </header>
+    <div class="theme-grid" id="theme-grid"></div>
+  </section>
+
+  <!-- RÉGLAGES DE LA PARTIE -->
+  <section id="s-setup" class="screen">
+    <header class="top">
+      <button class="icon-btn" id="setup-back" aria-label="Retour">←</button>
+      <h2 id="setup-title">Réglages</h2>
+    </header>
+    <div class="panel">
+      <div class="lbl-row"><span>Chapitres</span><button class="link" id="chap-all">Tout / rien</button></div>
+      <div class="pills" id="chap-chips"></div>
+    </div>
+    <div class="panel">
+      <div class="lbl-row"><span>Nombre de questions</span><span class="hint" id="pool-hint"></span></div>
+      <div class="pills" id="n-chips"></div>
+    </div>
+    <div class="panel">
+      <div class="lbl-row"><span>Volume des bruitages</span></div>
+      <label class="volrow"><span>🔈</span><input type="range" class="vol" min="0" max="100" step="1" aria-label="Volume des bruitages"><span>🔊</span></label>
+    </div>
+    <button class="btn primary" id="setup-go">Lancer</button>
+  </section>
+
+  <!-- SALON -->
+  <section id="s-lobby" class="screen">
+    <header class="top">
+      <button class="icon-btn" id="lb-leave" aria-label="Quitter">←</button>
+      <h2>Salon</h2>
+    </header>
+    <div class="code-box">
+      <span class="lbl">Code du salon</span>
+      <div class="code" id="lb-code">----</div>
+      <button class="btn small" id="btn-share">Partager le lien</button>
+    </div>
+    <div class="slots">
+      <div class="slot"><div class="av" id="lb-av-me"></div><div class="nm" id="lb-nm-me"></div></div>
+      <div class="vs-mark">VS</div>
+      <div class="slot"><div class="av ghost-av" id="lb-av-opp">?</div><div class="nm" id="lb-nm-opp">En attente…</div></div>
+    </div>
+    <p class="status" id="lb-status"></p>
+    <button class="btn primary" id="lb-start" hidden>Lancer le duel</button>
+  </section>
+
+  <!-- DUEL -->
+  <section id="s-game" class="screen">
+    <header class="vs">
+      <div class="pl">
+        <div class="av" id="av-me"></div>
+        <div class="nm" id="nm-me"></div>
+        <div class="sc" id="sc-me">0</div>
+      </div>
+      <div class="mid">
+        <div id="qn">1/7</div>
+        <button class="snd" id="snd-game" aria-label="Activer ou couper le son">🔊</button>
+        <button class="quit" id="btn-quit" aria-label="Quitter le duel">Quitter</button>
+      </div>
+      <div class="pl r">
+        <div class="av" id="av-opp"></div>
+        <div class="nm" id="nm-opp"></div>
+        <div class="sc" id="sc-opp">0</div>
+        <div class="chip" id="chip-opp"></div>
+      </div>
+    </header>
+    <div class="bar"><i id="bar"></i></div>
+    <div class="qcard" id="qtext"></div>
+    <div class="choices" id="choices"></div>
+    <div class="exp" id="exp" hidden></div>
+    <div class="overlay" id="countdown" hidden></div>
+  </section>
+
+  <!-- RÉSULTATS -->
+  <section id="s-result" class="screen">
+    <div class="verdict" id="verdict"></div>
+    <div class="final">
+      <div class="fp"><div class="av" id="rf-av-me"></div><div class="nm" id="rf-nm-me"></div><div class="big" id="rf-sc-me">0</div></div>
+      <div class="vs-mark">VS</div>
+      <div class="fp"><div class="av" id="rf-av-opp"></div><div class="nm" id="rf-nm-opp"></div><div class="big" id="rf-sc-opp">0</div></div>
+    </div>
+    <p class="rv-sum" id="rv-sum"></p>
+
+    <button class="btn primary" id="btn-rematch">Revanche</button>
+    <button class="btn" id="btn-other">Autre matière</button>
+    <button class="btn ghost" id="btn-home">Accueil</button>
+
+    <div class="rv-bar">
+      <h3>Revue des questions</h3>
+      <div class="pills">
+        <button class="pill on" id="rv-all">Toutes</button>
+        <button class="pill" id="rv-err">Mes erreurs</button>
+      </div>
+    </div>
+    <p class="hint">Touche une question pour voir la réponse et l'explication. ✓/✗ et points : toi, puis ton adversaire.</p>
+    <div id="review"></div>
+  </section>
+
+</main>
+<div id="toast" role="status"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="config.js"></script>
+<script src="questions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
