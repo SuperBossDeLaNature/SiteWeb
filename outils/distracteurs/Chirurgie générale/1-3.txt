@@ -1,0 +1,262 @@
+1731900200001|Antiquité|Renaissance|19e siècle
+1731900200002|16e siècle|18e siècle|20e siècle
+1731900200003|Robert Koch|Joseph Lister|Ignace Semmelweis
+1731900200004|Joseph Lister|Louis Pasteur|William Halsted
+1731900200005|Alcool éthylique|Phénol|Eau de Javel
+1731900200006|Ignace Semmelweis|Louis Pasteur|Ambroise Paré
+1731900200007|Chlorure de chaux|Iode|Alcool
+1731900200008|Galien|Léonard de Vinci|William Harvey
+1731900200009|Paris|Bologne|Leyde
+1731900200010|André Vésale|Michel Servet|Marcello Malpighi
+1731900200012|Dominique-Jean Larrey|Guy de Chauliac|Pierre-François Percy
+1731900200014|Épines de cactus|Crochets en bronze|Fil de soie
+1731900200015|Galien|Abulcassis|Averroès
+1731900200017|Erreurs de traduction|Dissections humaines bâclées|Influence religieuse
+1731900200018|Chirurgie|Anatomie|Médecine légale
+1731900200019|Sang, lymphe, bile, eau|Air, eau, feu, terre|Sang, urine, salive, sueur
+1731900200020|Rhodes|Crète|Délos
+1731900200021|Galien|Hippocrate|Avicenne
+1731900200022|Carpe diem|Mens sana in corpore sano|Ubi pus, ibi evacua
+1731900200023|Athènes|Rome|Pergame
+1731900200024|Papyrus d'Ebers|Code d'Hammourabi|Papyrus de Kahun
+1731900200025|Papyrus d'Edwin Smith|Papyrus de Turin|Pierre de Rosette
+1731900200026|Lambeau italien|Lambeau frontal de Gillies|Greffe de cartilage
+1731900200027|Extraction du cristallin|Incision cornéenne|Application de collyre
+1731900200028|Papyrus d'Ebers|Code de Justinien|Serment d'Hippocrate
+1731900200029|Amputation|Circoncision|Suture de plaie
+1731900200030|Concile de Trente|Concile de Nicée|Concile de Tours
+1731900200031|Ciseaux croisés|Croix rouge|Bâton d'Esculape
+1731900200032|Saint-Luc|Saint-Pierre|Saint-Barthélemy
+1731900200033|Montpellier|Bologne|Padoue
+1731900200034|Padoue|Paris|Salerne
+1731900200035|Paris|Lyon|Strasbourg
+1731900200036|Taille de la vessie du Roi|Amputation du Roi|Cataracte du Roi
+1731900200037|Faculté de médecine de Paris|Collège de Saint-Côme|Hôtel-Dieu
+1731900200038|Louis Pasteur|Robert Koch|Edward Lister
+1731900200040|Ambroise Paré|Pierre-François Percy|Guillaume Dupuytren
+1731900200041|Plus dangereuse|Plus hémorragique|Impossible
+1731900200042|Dominique-Jean Larrey|Ambroise Paré|Florence Nightingale
+1731900200043|Antoine Depage|Jules Bordet|Léopold Ier
+1731900200044|Chloroforme|Protoxyde d'azote|Cocaïne
+1731900200045|Éther|Chloroforme|Cocaïne
+1731900200047|Louis Pasteur|Claude Bernard et Magendie|Charles Richet
+1731900200048|Sévoflurane|Desflurane|Isoflurane
+1731900200051|Joseph Lister|Theodor Billroth|Theodor Kocher
+1731900200053|Selman Waksman|Gerhard Domagk|Howard Florey seul
+1731900200054|Pénicilline|Isoniazide|Rifampicine
+1731900200055|Salvarsan|Pénicilline|Streptomycine
+1731900200056|Albert Hustin|Robert Koch|Paul Ehrlich
+1731900200057|Héparine|Dicoumarol|EDTA
+1731900200059|Héparine|Hirudine|Aspirine
+1731900200060|Rudolf Virchow|Paul Ehrlich|Antoni van Leeuwenhoek
+1731900200061|Intrinsèque|Commune seule|Fibrinolytique
+1731900200062|V, VIII, XI, XII|I, V, VIII, XIII|III, IV, V, VI
+1731900200063|Theodor Kocher|William Halsted|Charles Mayo
+1731900200065|Theodor Billroth|Harvey Cushing|William Halsted
+1731900200066|Theodor Kocher|Wilder Penfield|Victor Horsley
+1731900200068|Shunt de Waterston|Shunt de Potts|Fontan
+1731900200069|Circulation croisée|Machine cœur-poumon|Cardioplégie au potassium
+1731900200070|Walton Lillehei|Alfred Blalock|Christiaan Barnard
+1731900200071|Hypothermie profonde|Cœur artificiel|Oxygénateur à bulles
+1731900200072|Thrombolyse|Filtre cave|Pontage
+1731900200074|Albin Lambotte|Robert Danis|Jules Bordet
+1731900200075|Amputation précoce|Antisepsie au phénol|Suture primaire
+1731900200076|Florence Nightingale|Marie Curie|Clara Barton
+1731900200077|Service de traumatologie|Service de radiologie|Service de pédiatrie
+1731900200078|Christiaan Barnard|Antoine Depage|Albin Lambotte
+1731900200080|Marie Curie|Edith Cavell|Madeleine Brès
+1731900200081|Robert Danis|Lorenz Böhler|Gerhard Küntscher
+1731900200082|Albin Lambotte|Gerhard Küntscher|Maurice Müller
+1731900200083|Ostéosynthèse par plaque|Enclouage centromédullaire|Fixateur externe
+1731900200085|Cystoscope|Laparoscope|Fibroscope
+1731900200087|Philipp Bozzini|Harold Hopkins|Antonin Desormeaux
+1731900200089|Système de fibres optiques souples|Caméra CCD|Ampoule à incandescence
+1731900200090|Philippe Mouret|Kurt Semm|Jacques Périssat
+1731900200091|Anesthésie|Coût|Stérilisation
+1731900200093|Opération Atlantique|Projet Da Vinci|Opération Hopkins
+1731900200095|TAVI|PTCA|EVLT
+1731900200111|Laver les plaies|Anesthésier le patient|Prier les dieux
+1731900200112|Hypothermie|Infection|Jeûne
+1731900200113|Hypothermie|Hyperglycémie|Infection
+1731900200115|Pyramidale|Rubro-spinale|Vestibulo-spinale
+1731900200116|Fibres Aα|Fibres Aβ|Fibres B
+1731900200118|Noradrénaline|Dopamine|Acétylcholine
+1731900200120|Incision cutanée|Réveil|Ponction veineuse
+1731900200122|Jeûne prolongé|Hyperhydratation|Arrêt des β-bloquants
+1731900200123|α1|α2|D1
+1731900200125|TRH et GnRH|GHRH et somatostatine|Dopamine et ocytocine
+1731900200126|Prolactine|Proinsuline|Thyroglobuline
+1731900200128|Hypoglycémie|Aucun effet|Normoglycémie stricte
+1731900200129|Hyperkaliémie seule|ADH|Glucagon
+1731900200132|Enzyme de conversion|Kininase|Chymase
+1731900200133|Hypernatrémie|Hypertension|Hypokaliémie
+1731900200134|Foie|Rein|Surrénales
+1731900200136|AT2|AT4|Mas
+1731900200138|Jusqu'à 1 %|100 %|90 %
+1731900200139|Stimulation|Aucun|Potentialisation
+1731900200140|Quelques minutes|1 semaine|1 mois
+1731900200143|Augmentation de la sécrétion d'insuline|Destruction des cellules β|Inhibition du glucagon
+1731900200145|Ghréline|GHRH|IGF-1 uniquement stimulateur
+1731900200146|Hyperthyroïdie|Hypothyroïdie centrale|Thyroïdite
+1731900200147|Haute|Normale|Très haute
+1731900200150|Cortisol bas|Insuline|Glucagon
+1731900200151|IL-4, IL-10, TGF-β|IL-2, IFN-γ, IL-12|IL-5, IL-13, IL-17
+1731900200152|IL-10|IL-4|TGF-β
+1731900200153|IL-10|IL-4|IL-2
+1731900200154|Neutrophiles|Lymphocytes B|Plaquettes
+1731900200155|Facteur VII|Facteur X|Facteur VIII
+1731900200156|IL-1|TNF|IL-10
+1731900200158|Infections, défaillance multiviscérale|Embolie pulmonaire|Insuffisance rénale
+1731900200159|Hémorragie|Lésion cérébrale|Embolie graisseuse
+1731900200160|4 %|90 %|15 %
+1731900200162|T cytotoxiques|T helpers|Lymphocytes B
+1731900200163|Lymphocytes T CD8|Plasmocytes|Lymphocytes B
+1731900200165|IgM|IgG|IgE
+1731900200166|IgA|IgM|IgD
+1731900200169|≥ 1 sur 4|4 sur 4|≥ 3 sur 4
+1731900200170|> 120/min|> 70/min|> 150/min
+1731900200171|< 35 °C ou > 40 °C|> 37 °C|< 37 °C ou > 37,5 °C
+1731900200172|> 12/min|> 30/min|> 16/min
+1731900200173|> 20 000 ou < 2 000/mm³|> 8 000/mm³|> 10 000 seul
+1731900200175|PAMP|PRR|MHC
+1731900200176|TCR|BCR|Récepteurs Fc
+1731900200177|DAMP|PRR|CD
+1731900200178|C1q et C4|C3b et C5b|C8 et C9
+1731900200179|SIRS|MODS|PICS
+1731900200180|IL-1, TNF, IL-6|IL-2, IFN-γ|IL-8, IL-17
+1731900200181|CARS|MARS|SIRS
+1731900200184|Lymphocytose|Aucun effet|Éosinophilie
+1731900200185|Diminution|Aucun effet|Disparition
+1731900200186|Cortisol/DHEA bas|Insuline/glucagon élevé|TSH/T4 élevé
+1731900200187|IL-10|TGF-β|IL-4
+1731900200188|Théorie des humeurs|Inflammation stérile|Tolérance immunitaire
+1731900200190|Procoagulante|Antiagrégante|Vasoconstrictrice
+1731900200192|BPCO|Asthme|Pneumothorax
+1731900200193|Leucotriènes et thromboxanes|Prostaglandines E2|Cytokines
+1731900200194|Cervelet|Tronc cérébral|Cortex occipital
+1731900200197|CRASH 2|CRASH 3|NASCIS
+1731900200198|Méthylprednisolone|Vitamine K|Plasma frais
+1731900200199|Ringer lactate|NaCl 0,9 %|Albumine
+1731900200200|120 à 130 mmHg|40 à 50 mmHg|> 140 mmHg
+1731900200203|Plus d'infections|Aucun effet|Plus de diarrhées
+1731900200204|Bradycardie|Hypertension|Aucun effet
+1731900200205|Glucose|Protéines|Corps cétoniques
+1731900200206|Lipogenèse|Excrétion urinaire|Cétogenèse
+1731900200207|Insuline et GH|Cortisol seul|Aldostérone
+1731900200210|50 à 100 %|1 %|200 %
+1731900200211|1er jour|10e jour|30e jour
+1731900200212|Leucine et valine|Tryptophane et lysine|Glycine et proline
+1731900200213|Cycle de Krebs|Cycle de l'urée|Cycle glucose-alanine
+1731900200215|> 1|= 1|> 10
+1731900200216|Anabolique, catabolique, inversion, synthèse|Inversion, catabolique, anabolique|Synthèse graisseuse, anabolique, catabolique
+1731900200217|Âge du chirurgien|Type de suture|Saison
+1731900200220|Disparition de la fièvre|Reprise de la marche|Sortie de l'hôpital
+1731900200221|J0-J1|J30|J60
+1731900200222|J2 à J5|J30 à J90|J1 à J3
+1731900200223|Reprise de l'alimentation|Mobilisation|Sortie
+1731900200224|1er mois|1 an|3e semaine
+1731900200225|Consentement éclairé|Bilan préopératoire|Classification ASA
+1731900200226|Indication opératoire|Bilan préopératoire|Secret médical
+1731900200230|Classe III|Classe IIb|Classe IIa
+1731900200231|C|B|D
+1731900200233|Cholécystectomie|Hernie inguinale|Thyroïdectomie
+1731900200234|1 mois|2 ans|1 semaine
+1731900200236|ECG et radiographie|Biologie et scanner|Groupe sanguin et ECG
+1731900200237|NYHA|Glasgow|Charlson
+1731900200238|Patient sain|Pathologie systémique sévère|Menace vitale
+1731900200239|Pathologie systémique modérée|Patient sain|Patient mourant
+1731900200240|Pathologie systémique sévère|Patient mourant|Mort encéphalique
+1731900200241|Menace vitale|Mort encéphalique|Pathologie modérée
+1731900200248|Iode|Pénicilline|Arachide
+1731900200249|Arachide|Gluten|Lait
+1731900200250|Risque d'intubation difficile|Risque d'allergie|Risque de saignement
+1731900200252|Fracture|Infection|Thrombose
+1731900200255|Coût et disponibilité|Rapidité et confort|Âge et sexe
+1731900200257|Échocardiographie|Épreuve d'effort|Holter
+1731900200260|Tout patient > 40 ans|Tout patient|Aucun
+1731900200261|> 1 mg/dl|> 5 mg/dl|> 0,5 mg/dl
+1731900200262|Diabète de type 2 sous régime|Prédiabète|Diabète gestationnel
+1731900200263|Mineure|Ambulatoire|Cataracte
+1731900200264|Urée seule|Glycémie, HbA1c|Bilirubine, transaminases
+1731900200265|ASA 1|ASA 1/2|Tous
+1731900200267|Cholécystectomie|Hernie|Thyroïdectomie
+1731900200269|Adénosine|Atropine|Isoprénaline
+1731900200270|Elle est systématique|Le patient est âgé|Le patient est anxieux
+1731900200271|< 10 METs|< 1 MET|> 4 METs
+1731900200273|> 30 %|> 70 %|> 40 %
+1731900200275|30 %|99 %|50 %
+1731900200276|Asthme léger|Hypertension|Diabète
+1731900200279|1 an|1 semaine|6 mois
+1731900200280|Âge et sexe|Groupe sanguin et Rhésus|Taille et poids
+1731900200281|Arrêter tous les médicaments|Prescrire des antibiotiques|Augmenter les doses
+1731900200282|Arrêter 1 semaine avant|Arrêter le matin|Doubler la dose
+1731900200285|Hypotension|Bradycardie|Hypoglycémie
+1731900200286|1 semaine avant|1 mois avant|Jamais
+1731900200287|1 semaine post-op|24 h post-op|1 mois post-op
+1731900200288|Hyperkaliémie|Hypercalcémie|Hypernatrémie
+1731900200290|Arrêter 1 semaine avant|Arrêter le matin|Doubler la dose
+1731900200291|Continuer|Doubler|Remplacer par une statine IV
+1731900200292|Inhibition réversible de la COX|Blocage du récepteur P2Y12|Inhibition de la thrombine
+1731900200295|Chirurgie cardiaque|Chirurgie vasculaire|Chirurgie digestive
+1731900200296|Sulfonylurée|Coumarine|Gliptine
+1731900200297|Clopidogrel, prasugrel|Aspirine, AINS|Dabigatran, rivaroxaban
+1731900200298|Âge > 75 ans|HTA|Diabète
+1731900200299|Inhibition irréversible de la COX-1|Inhibition de la thrombine|Blocage du P2Y12
+1731900200301|HAS-BLED|Wells|Caprini
+1731900200303|Aspirine|Clopidogrel|Rien
+1731900200304|7 à 10 jours|6 heures|1 mois
+1731900200305|Andexanet alfa|Protamine|Vitamine K
+1731900200306|Idarucizumab|Protamine|Vitamine K
+1731900200307|Inhibition du facteur Xa|Inhibition de la vitamine K|Inhibition plaquettaire
+1731900200308|Fibrillation auriculaire|Thrombose veineuse profonde|Âge > 75 ans
+1731900200311|1 semaine avant|Matin même après la prise|Jamais
+1731900200313|Oui|Uniquement chez l'enfant|Oui, en perfusion continue
+1731900200314|Jeunes|Femmes enceintes|Diabétiques
+1731900200315|70-100 mg/dl|200-300 mg/dl|< 70 mg/dl
+1731900200316|Doublée|Maintenue à pleine dose|Remplacée par un ADO
+1731900200317|Gliclazide|Sitagliptine|Acarbose
+1731900200319|1 semaine|6 mois|Aucun arrêt
+1731900200320|Infection pulmonaire|Saignement|Fracture
+1731900200321|24 heures|1 an|1 semaine
+1731900200323|3 jours|1 an|Aucun délai
+1731900200324|Immédiatement avant|6 mois|1 an
+1731900200325|1 à 2 jours|1 mois|Aucun arrêt
+1731900200326|1 jour|1 mois|10 à 14 jours
+1731900200327|48 h|1 semaine|30 min
+1731900200328|7 à 10 jours|1 mois|Aucun
+1731900200329|~5 %|~90 %|~70 %
+1731900200330|≥ 10 %|≥ 50 %|≥ 0,01 %
+1731900200331|7 jours|6 mois|1 an
+1731900200332|Le mineur seul|Le chirurgien|L'hôpital
+1731900200333|5 à 10 %|100 %|20 à 30 %
+1731900200335|Blunting|Coping émotionnel|Évitement
+1731900200336|Monitoring|Vigilance|Acceptation
+1731900200338|Échelle de Hamilton|Échelle de Beck|Échelle de Glasgow
+1731900200339|12-13 g/dl|5 g/dl|10-11 g/dl
+1731900200341|> 10 %|> 90 %|> 25 %
+1731900200344|Rasage à la lame|Crème dépilatoire|Épilation à la cire
+1731900200345|La veille au soir|1 semaine avant|Après l'incision
+1731900200346|Savon neutre quelconque|Savon parfumé|Eau seule
+1731900200347|5 à 10|Aucune|1 par semaine
+1731900200348|Antibiotiques, drain, sonde|Fil résorbable, colle, agrafes|Jeûne, sonde, repos
+1731900200349|Laxatif stimulant|Antibiotique local|Ralentisseur du transit
+1731900200350|PEG|Picosulfate|Lavement
+1731900200351|Hyperkaliémie|Pancréatite|Hépatite
+1731900200352|Hypernatrémie|Hyperkaliémie|Hypercalcémie
+1731900200353|Chirurgie gastrique|Cholécystectomie|Chirurgie du côlon droit
+1731900200355|30 à 50 %|0,01 %|60 %
+1731900200356|ASA|CHA2DS2-VASc|Wells
+1731900200357|≥ 2|≥ 10|≥ 1
+1731900200358|1|10|3
+1731900200359|1|5|2
+1731900200360|≥ 2|≥ 3|≥ 12
+1731900200361|HBPM|Compression pneumatique|Anticoagulation curative
+1731900200362|HBPM|Rien|AVK
+1731900200363|Bas de contention|Bandes élastiques|Mobilisation seule
+1731900200364|Insuffisance veineuse|Obésité|Grossesse
+1731900200365|Mobilisation seule|Bas seuls|Aspirine
+1731900200367|Moins chère|Antidote plus efficace|Élimination hépatique
+1731900200369|< 150 000/µl|< 100 000/µl|< 300 000/µl
+1731900200371|Chirurgie ophtalmologique|Chirurgie dermatologique|Endoscopie digestive
+1731900200373|Stase, infection, tumeur|Hypertension, diabète, tabac|Anémie, thrombopénie, déshydratation
+1731900200374|Embolie pulmonaire|Hypertension pulmonaire|Ulcère artériel

@@ -1,0 +1,166 @@
+1010382465643|Plexus de Batson|Plexus de Valsalva|Plexus de Rouvière
+1071295573280|Taille < 1 mm|Absence de mitoses|Pigmentation intense
+1125069540491|Lipœdème|Lymphangite|Œdème cardiaque
+1188693121382|80 %|0,8 %|30 %
+1208119005376|Ganglion de Virchow|Ganglion de Troisier|Ganglion de Cloquet
+1336316925226|Prostate, poumon|Thyroïde, côlon|Rein, vessie
+1366495121705|Thrombose veineuse profonde, varices|Insuffisance cardiaque|Érysipèle aigu
+1449287270798|Parenchyme glandulaire profond|Mamelon et aréole uniquement|Muscle pectoral
+1543193862589|18F-FDG|99mTc-MDP|99mTc-MAA
+1560186337942|1|5|2
+1634857387280|10 à 20 min|24 à 48 h|7 jours
+1766556547122|Grand pectoral|Grand dorsal|Clavicule
+1795045883855|Niveaux de Clark|Niveaux de Breslow|Zones de Robbins
+1021285356297|Stade avancé (> 10 ans)|Après dopathérapie|Chez le sujet jeune uniquement
+1064083416632|0,01 %|10 %|5 %
+1096135910817|Maladie de Parkinson idiopathique|PSP|Tremblement essentiel
+1105675964990|18F-FDG, 99mTc-HMPAO|123I-ioflupane, 11C-PIB|68Ga-DOTATATE, 18F-PSMA
+1130242627392|DLFT TDP-43 +|Maladie d'Alzheimer|Corps de Lewy
+1156726634481|80-90 %|1-2 %|50 %
+1199121495696|Quantifier les plaques amyloïdes|Mesurer la perfusion|Explorer la voie dopaminergique
+1212741546719|Atrophie, Trouble, Névrose|ApoE, Tau, NfL|Amyloïde, Thalamus, Noyaux gris
+1227854926884|Hypermétabolisme intense|Métabolisme normal|Hyperperfusion
+1232754395309|1re cause|10e cause|Cause exceptionnelle
+1236117076171|Tumeur cérébrale, AVC hémorragique|Parkinson, tremblement|Méningite, abcès
+1245176830236|APP sémantique|APP non fluente|Atrophie corticale postérieure
+1284218870559|18F-FDG|123I-ioflupane|11C-méthionine
+1300717009440|60 % / 70 %|100 % / 50 %|80 % / 80 %
+1345712280447|MMSE|CDR|NIA 1984
+1442962669961|Frontal et temporal antérieur|Occipital primaire|Cérébelleux
+1444473118510|Diagnostic, chimiothérapie, perfusion, dopamine|Uniquement diagnostic|Thérapie vectorisée
+1472668433175|Troubles du langage|Troubles visuo-spatiaux|Troubles moteurs
+1492759479626|Change 3 % des diagnostics|Ne change rien|Change 90 % des diagnostics
+1502836781145|0 %|60 à 80 %|1 à 2 %
+1509128322407|Jeûne, injection IV|CT injecté, prélèvement urinaire|Acquisition statique, sang veineux
+1525421662479|50 % / 50 %|99 % / 60 %|70 % / 95 %
+1563091794011|Débit sanguin cérébral|Densité dopaminergique|Charge amyloïde
+1644171100294|Démence vasculaire (60 %)|Démence à corps de Lewy (60 %)|DFT (60 %)
+1653788808752|18F-FDG|99mTc-HMPAO|11C-PIB
+1656291937381|Schizophrénie|Trouble bipolaire|TOC
+1674367116266|1/100|3/4|1/2
+1674774428367|> 85 ans|> 75 ans|< 40 ans uniquement
+1714890027797|Dopamine|Sérotonine|Acétylcholine
+1731060156819|DLFT tau +|Maladie d'Alzheimer|Synucléinopathie
+1734174280708|Récepteurs D2 postsynaptiques|Voie sérotoninergique|Perfusion striatale
+1746992748060|Maladie d'Alzheimer|Démence vasculaire|Démence à corps de Lewy
+1755930805740|50-60 %|< 30 %|70 %
+1795045883822|MA, DLB, Parkinson|Huntington, Wilson|SEP, Guillain-Barré
+1795045883823|ROI|SUV|TOF
+1795045883826|1-2 %|80-90 %|5-10 %
+1795045883856|56 % / 93 %|50 % / 50 %|100 % / 100 %
+1795045883902|AMS, PSP|Tremblement essentiel|Alzheimer, DFT
+1795045883929|99mTc-HMPAO|11C-raclopride|18F-FDOPA
+1795045883945|99mTc-MAG3, 99mTc-DMSA|18F-FDG, 11C-PIB|123I-ioflupane
+1795045883976|Effondré bilatéralement|Asymétrique|Effondré au putamen postérieur
+1795045883978|DAT-scan|PET amyloïde|EEG seul
+1025864769491|Riche en glucides, pauvre en graisses|Jeûne sans restriction|Hyperprotéiné sucré
+1056793000885|Maladie de Lyme|Brucellose|Tularémie
+1057009927487|Infection / inflammation osseuse|Fièvre / insuffisance d'organe|Inflammation unilatérale / opératoire
+1070597021872|M. avium|M. leprae|M. marinum
+1142507379591|Baisse de l'antibioprophylaxie|Plus de RAA|Moins de toxicomanie
+1162991912441|Mesurer la CRP|Remplacer l'hémoculture|Doser la procalcitonine
+1170461779166|HBPM|Insuline|Aspirine
+1194973736505|Mineur|Exclusion|Non utilisable
+1282994523606|18F-FDG|Scintigraphie osseuse|99mTc-MAA
+1314273604800|LFHC|HCLF|KDHF
+1379473460492|10-15 min|24 h|3 jours
+1409556669469|2 %|80 %|50 %
+1418042800181|Majeur|Exclusion|Non utilisable
+1446523156702|Jones|Wells|Light
+1523871216915|Infarctus, angor, HTA|Myocardite virale, péricardite, IC|Thrombose veineuse, EP, AVC
+1635125759445|Mineur|Exclusion|Non évaluable
+1795045883818|Majeur|Exclusion|Non évaluable
+1795045883842|Isoniazide|Rifampicine|Éthambutol
+1795045883893|Dosage des marqueurs, surveillance de la CRP, échographie|Uniquement diagnostic|Traitement par isotope
+1795045883942|Dissection coronaire|Thrombose de la VCI|Infarctus splénique
+1795045883962|1/10|2/3|1/100
+1005113316704|Lait au 99mTc|Eau au 99mTc-MAA|Pain au 18F-FDG
+1068856923150|> 28 % à 60 min|< 0,28 % à 60 min|> 2,8 % à 10 min
+1077706871510|Atropine|Érythromycine|Furosémide
+1129327076763|Diminution (inhibition)|Aucun effet|Faux positif constant
+1155697598734|Morphine, atropine|L-dopa, opioïdes|Anticholinergiques
+1161829579258|99mTc-MDP|99mTc-DMSA|99mTc-MAA
+1203561339886|< 1 min|< 1 h|Sans limite
+1204777474047|Infection à H. pylori|Malabsorption des graisses|Fonction hépatique
+1207280794594|Achalasie|Diverticule de Zenker|Cancer gastrique
+1207632487169|Repas riche en graisses|Décubitus ventral|Apnée
+1254205947042|14C-cholylglycine|Lactulose-H2|13C-octanoate
+1255587771490|99mTc-MAA|111In-DTPA|18F-FDG
+1258622478024|10 min|1 semaine|30 min
+1282507281165|Sténose du pylore|Invagination|Mucoviscidose
+1284837702136|99mTc-IDA|99mTc-sulfure colloïdal|GR marqués
+1289229817634|Uréase|Lactase|Lipase pancréatique
+1297345964033|99mTc-pertechnétate libre|18F-FDG|99mTc-MDP
+1321729413752|Morphine|Jeûne prolongé|Atropine
+1462260883064|Érythromycine, métoclopramide|Dompéridone|Antibiotiques
+1462519577696|Ouraque|Canal thyréoglosse|Canal de Wolff
+1484830009564|> 8 %|> 0,08 %|> 80 %
+1488354043552|Parotidite ourlienne aiguë|Cancer de la thyroïde|Lithiase biliaire
+1490682733690|Oméprazole|Ranitidine|Glucagon
+1520783553974|Hypothyroïdie, anémie|Hyperthyroïdie|Ulcère, gastrite
+1540012015897|99mTc-MAA|18F-FDG|99mTc-MDP
+1548539274579|Pilocarpine IV|Chewing-gum mentholé|Eau sucrée
+1565414506547|Atrésie biliaire|Fuite biliaire|Bilan post-op
+1580594686758|Sténose pylorique|Dumping syndrome|Achalasie
+1598535498006|Se et Sp ~50 %|Se 99 %, Sp 30 %|Se 30 %, Sp 99 %
+1602714775408|99mTc-MAA|123I|99mTc-IDA
+1659060475057|Tardif|Absent|Retardé de 6 h
+1693616712310|Douleur abdominale chronique de l'adulte|Occlusion|Constipation
+1725668658965|Toutes les 2 min|Toutes les 4 h|Une seule image
+1739059034126|Jus d'orange|Compote|Eau sucrée
+1741169319629|Vésicule hyperfixante|Retard de transit duodénal|Fuite biliaire
+1757678840779|Avant, 1 h et 2 h|Après 24 h|À 5 min uniquement
+1764567392259|Muqueuse colique|Tissu pancréatique ectopique|Tissu lymphoïde
+1795045883844|pH-métrie|Scintigraphie œsophagienne|Manométrie
+1795045883847|Lait au 99mTc-MAA|Eau au 18F-FDG|Jus au 123I
+1795045883862|24 h|Pas de jeûne|30 min
+1795045883869|Réduire la dose|Augmenter la résolution|Mesurer le pH
+1795045883888|Somme simple AP + PA|Image antérieure seule|Moyenne arithmétique
+1795045883959|5 à 10 min|3 à 4 h|120 à 180 min
+1795045883974|Après repas, sans tabac|À jeun, sous IPP|Après effort
+1029389083044|< médiastin|= médiastin|= foie
+1142602249498|3 semaines|3 mois|Indifférent
+1208886302918|Horton|Behçet|Kawasaki
+1300404748135|Sarcoïdose, lymphome|Arthrose, ostéoporose|Endocardite
+1313386732457|Atteinte axiale isolée|Enthésites des pieds|Atteinte des petites articulations distales
+1435634827670|Takayasu|Kawasaki|Polyartérite noueuse
+1469131114762|Sinusite maxillaire|Caries dentaires|Calcifications vasculaires
+1492607329170|Médiastin|Muscle|Rate
+1680072644217|Lupus et polyarthrite|Lymphome et pneumopathie|Vascularite des petits vaisseaux ; polymyosite
+1719337291884|Diagnostic initial uniquement|Remplacer la biopsie|Dépister les cancers
+1795045883948|Sarcoïdose|Maladie de Castleman|Lupus
+1157594772466|Irradiation élevée, allergie|Faible sensibilité|Contre-indiqué chez la femme enceinte
+1219466994065|50 % / 70 %|99 % / 50 %|70 % / 90 %
+1441759883476|Patient instable, BPCO sévère, obésité|Âge > 80 ans|Suspicion de dissection aortique
+1482256006701|99mTc-DTPA|81mKr|99mTc-MDP
+1500895002919|0,1 %|30 %|50 %
+1553552769473|Pneumonie, asthme|Cancer bronchique|BPCO stable
+1671090101560|7/100/an|7/1 000 000/an|70/10 000/an
+1673192469346|99mTc-MAA|133Xe exclusivement|18F-FDG
+1763926371768|Défect perfusion et ventilation concordants|Ventilation anormale, perfusion normale|Hyperperfusion
+1795045883829|Ventilation seule|Pas d'examen possible|Double dose
+1795045883904|Faible sensibilité|Lenteur|Indisponibilité
+1795045883919|Asthme|Pneumonie|Suivi d'EP
+1795045883937|20 %|50 %|4 %
+1795045883967|Fibrose pulmonaire|BPCO|Cancer
+1128409351968|99mTc-DMSA, 99mTc-MAG3|18F-FDG, 99mTc-MDP|123I, 201Tl
+1146556833950|~5 min|~24 h|~1 semaine
+1160479767816|Captopril|Spironolactone|Mannitol
+1192093807445|Activité urinaire sur 24 h|Image rénale à 3 min|Activité cutanée
+1226092559874|Furosémide|Bêta-bloquant|Inhibiteur calcique
+1232308129414|Obstruction de la JPU|HTA rénovasculaire|Reflux vésico-urétéral
+1234061293735|Rein globalement hypertrophié|Hyperfixation focale|Rein absent
+1344658133274|Aucune|1 semaine|1 mois
+1397995064013|Obstruction urétérale|Lithiase rénale|Cicatrices rénales
+1416556593652|Filtration seule|Fixation tubulaire|Élimination biliaire
+1475449590559|Rein unique|Enfant de moins de 1 an|PNA aiguë
+1487946824058|10 min|24 h|30 min
+1488418061531|Rejet aigu hyperaigu|Thrombose artérielle|Obstruction urétérale
+1507527824390|Corticale, médullaire, pyélique|Afférente, efférente, tubulaire|Précoce, tardive, différée
+1605253162513|Lithiase, reflux|Infection urinaire|Hyperfiltration
+1665891905779|6,5 %|100 %|35 %
+1745460055352|Filtration glomérulaire|Débit sanguin rénal|Excrétion urinaire
+1795045883819|Reflux vésico-urétéral|Méga-uretère|Valves urétrales
+1795045883848|Néphropathie de reflux|Hydronéphrose|Polykystose
+1795045883943|Enfant sous anesthésie|Sonde à demeure|Âge < 1 an
+1795045883953|Débit de filtration total|Temps de transit|Clearance absolue

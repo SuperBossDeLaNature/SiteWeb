@@ -1,0 +1,164 @@
+1794988259593|Discale|Radiculaire|Viscérale
+1794988259628|Migraine, AVC, SEP|Arthrose de l'épaule, tendinite|Canal carpien, Guyon
+1794988259633|Corticale, sous-corticale, ventriculaire|Cervicale, dorsale, lombaire|Osseuse, discale, ligamentaire
+1794988259648|Spondylolyse|Discarthrose|Spondylarthrite
+1794988259649|5 %|70 %|50 %
+1794988259652|Sclérose en plaques|Myasthénie|Parkinson
+1794988259657|Cardiaques, pulmonaires|ORL, ophtalmologiques|Cutanées, dentaires
+1794988259666|C1 à C4|C3 à C7|C2 à T4
+1794988259680|L2|L5|S1
+1794988259683|Motricité, réflexes|Vision, audition|Cognition, mémoire
+1794988259685|IRM|Radiographie|EMG
+1794988259701|Articulaire|Musculaire|Radiculaire
+1794988259706|Collier cervical|Kinésithérapie|Infiltrations
+1794988259717|Chirurgie immédiate|Corset|Repos strict prolongé
+1794988259720|Lumbago aigu|Douleur nocturne|Paralysie brutale
+1794988259723|Neurochirurgie exclusivement|Neurologie|Chirurgie plastique uniquement
+1794988259732|Épendymome, astrocytome|Métastases, myélome|Hémangioblastome, lipome
+1794988259734|Postérieure|Latérale transpsoas|Transforaminale
+1794988259736|Moelle et nerfs|Ligaments|Muscles
+1794988259751|Arthrose cervicale|Tumeur|Traumatisme
+1794988259761|Scoliose, Scheuermann, hernie|Spondylolisthésis, canal étroit, tumeur|Torticolis, whiplash, NCB
+1794988259765|CT|Radiographie|Scintigraphie
+1794988259773|Collier rigide|Laminectomie|Arthrodèse antérieure
+1794988259792|Hyper T1, hyper T2|Hypo T1, hypo T2|Hyper T1, hypo T2
+1794988259806|Hernie discale|Compression radiculaire|Canal étroit
+1794988259807|Hyper T1, hyper T2|Hypo T1, hyper T2|Hyper T1, iso T2
+1794988259808|Douleur cervicale isolée|Radiculalgie isolée|Céphalées
+1794988259814|Sciatique L5|Cruralgie|Méralgie paresthésique
+1794988259825|Laminectomie, discectomie, foraminotomie|Infiltration, thermocoagulation, kiné|Cimentoplastie, vertébroplastie, corset
+1794988259835|Céphalées, vertiges|Troubles urinaires, diplopie|Douleur du bras, paresthésies
+1794988259837|Syndrome cérébelleux|Aréflexie généralisée|Syndrome extrapyramidal
+1794988259838|Viscérale, vasculaire, osseuse|Tumorale, infectieuse, traumatique|Radiculaire, médullaire, discale
+1794988259853|Douleur cervicale isolée|Atteinte de la moelle|Paresthésies des 4 membres
+1794988259856|IRM|CT|EMG
+1794988259886|C6-C7|C4-C5|C7-T1
+1794988259889|Inspection, palpation, percussion, auscultation, rachis|Force, tonus, réflexes, coordination, marche|Trajet, EMG, IRM, CT, radio
+1794988259905|Torticolis|Entorse grave|Fracture de Jefferson
+1794988259918|Radiographie seule|EMG, PES|Scintigraphie seule
+1794988259919|≈ 30 %|≈ 95 %|≈ 50 %
+1794988259935|Corticoïdes seuls|Radiothérapie seule|Surveillance
+1794988259944|1 semaine|5 ans|2 semaines
+1794988259947|3-5 semaines|Aucun repos|10-15 jours
+1794988259967|Sport, chute de hauteur|Plongeon, agression|Manipulation, faux mouvement
+1794988259977|Effort, toux, tabac|Âge, sexe, obésité|Sommeil, stress, posture
+1794988259989|Hydrocéphalie|Épilepsie|Retard mental
+1794988260003|Mal de Kümmell|Maladie de Scheuermann|Maladie de Paget
+1794988260012|Métastases, myélomes|Épendymomes, astrocytomes|Lipomes, kystes
+1794988260015|1 semaine|1 an|6 mois
+1794988260026|Chirurgie urgente|Infiltration|Collier rigide
+1794988260029|2-3 semaines|Aucun|2 mois
+1794988260031|Rapides et sévères|Absents|Brutaux
+1794988260033|Arthrodèse|Laminectomie|Prothèse discale
+1794988260034|5 %|70 %|10 %
+1794988260043|Infection|Rupture discale|Inflammation musculaire
+1794988260047|Os uniquement|Ligaments|Calcifications
+1794988260054|L5|L4|S2
+1794988260063|Protection médullaire seule|Mobilité|Soutien musculaire
+1794988260077|Laminectomie ou arthrodèse postérieure|Greffe ou ciment|Rien
+1794988260088|Hernie discale|Spondylolisthésis|Torticolis
+1794988260091|Réflexes|Force musculaire|Mobilité du rachis
+1794988260097|Transnasale|Postérieure|Latérale
+1794988260099|Excellent|Bon|Modéré
+1794988260100|Neurinomes, méningiomes|Métastases, myélomes|Lipomes, kystes
+1794988260101|Mécanique, matinale|Brève, déclenchée par la toux|Aiguë et brutale
+1794988260102|Spondylolyse|Spondylodiscite|Rétrolisthésis
+1794988260107|Canal carpien|Pathologie du coude|Torticolis
+1794988260112|S1|L4|L3
+1794988260124|Hernie discale aiguë|Inflammation|Tumeur
+1794988260141|Tuberculose, brucellose|Traumatisme, tumeur|Diabète, obésité
+1794988260151|Traitement médical|Infiltration|Kinésithérapie
+1794988260159|Discectomie|Arthrodèse|Prothèse discale
+1794988260164|Hyperalgie, récidive|Déficit sensitif, douleur nocturne|Fièvre, lombalgie
+1794988260182|Canal lombaire étroit|Tumeur|Spondylolisthésis
+1794988260203|Repos|Chirurgie|Corticoïdes
+1794988260205|Infiltration|Collier|Kinésithérapie
+1794988260211|Épendymomes|Méningiomes|Neurinomes
+1794988260233|IRM|CT|Scintigraphie
+1794988260239|Hypo T1, hyper T2|Hypo T1, hypo T2|Hyper T1, hypo T2
+1794988260244|Kystes arachnoïdiens|Kystes hydatiques|Kystes dermoïdes
+1356487251711|Céphalées|Crises d'épilepsie|Troubles visuels
+1794988259596|Glucose, lactate, glutamate, GABA|NAA, choline, glucose, oxygène|Créatine, urée, lipides, ATP
+1794988259597|Quadranopsie supérieure|Hémianopsie bitemporale|Cécité monoculaire
+1794988259599|150-200|10 000-15 000|500-800
+1794988259606|Sinus caverneux|Clivus|Fosse ptérygo-palatine
+1794988259608|Hémiplégie, aphasie|Crises d'épilepsie|Troubles du comportement
+1794988259610|Pronostic meilleur|Lésion bénigne|Radionécrose
+1794988259619|Fluorescéine|Indocyanine|Gadolinium
+1794988259630|Mutation IDH|Méthylation MGMT|Perte d'ATRX
+1794988259670|5 %|80 %|50 %
+1794988259672|Position debout|Hypoglycémie|Hypotension
+1794988259675|Bleue|Ultraviolette|Infrarouge
+1794988259689|MGMT non méthylé|EGFR amplifié|TERT
+1794988259708|Ptôsis|Mydriase|Nystagmus vertical
+1794988259724|FDG, fluorure|Méthionine, technétium|DOPA, gallium
+1794988259725|Non sécrétant|À GH|À ACTH
+1794988259726|1-2/100 000/an|100-150/100 000/an|50/100 000/an
+1794988259729|1 %|50 %|35 %
+1794988259738|Abstention|Radiothérapie d'emblée|Chimiothérapie seule
+1794988259753|Gamma Knife|Proton therapy|Laser interstitiel
+1794988259762|Visuelles|Tactiles|Cénesthésiques
+1794988259764|Pyramidaux, sensitifs, aphasie, hémianopsie, crises|Extrapyramidaux, comportementaux, démence|Endocriniens, visuels, olfactifs
+1794988259768|Sinus sphénoïdal|Clivus|Sinus caverneux
+1794988259778|Ataxie cinétique unilatérale|Hémiplégie|Tremblement de repos
+1794988259781|Glioblastome|Métastase|Neurinome
+1794988259796|Cisplatine|Méthotrexate|Bévacizumab
+1794988259801|Taille des molécules|Liquide céphalo-rachidien|Pression intracrânienne
+1794988259802|Chimiothérapie|Corticoïdes|Surveillance
+1794988259805|5 %|90 %|20 %
+1794988259811|Trijumeau (V)|Glossopharyngien (IX)|Oculomoteur (III)
+1794988259819|Toujours fatal|Survie de 2 ans|Récidive constante
+1794988259821|Toujours épilepsie|Toujours HTIC|Toujours asymptomatique
+1794988259830|Hémianopsie|Aphasie|Crises d'épilepsie
+1794988259842|NAA/créatine|Lactate/lipides|Choline/glucose
+1794988259859|Signe du chapeau|Signe de la casquette|Signe du turban
+1794988259861|Homme|Identique|Enfant
+1794988259871|Radiothérapie|Corticoïdes|Ligature carotidienne
+1794988259878|Dure-mère|Pie-mère|Épendyme
+1794988259892|Méningiome|Épendymome|Kyste épidermoïde
+1794988259906|Diffusion|FLAIR|T1 sans injection
+1794988259927|Chirurgie transsphénoïdale|Radiothérapie|Corticoïdes
+1794988259933|NF1|Von Hippel-Lindau|Li-Fraumeni
+1794988259946|≥ 5 mm|≥ 3 cm|≥ 20 mm
+1794988259950|Radiographie|EEG|Scanner sans injection
+1794988259951|À GH|À ACTH|À TSH
+1794988259953|Chimiothérapie|Radiothérapie panencéphalique|Abstention
+1794988259968|≥ 50 %|100 % strictement|≥ 70 %
+1794988259970|Hémianopsie, alexie|Surdité, acouphènes|Ataxie, nystagmus
+1794988259971|Anticorps anti-VEGF|Cellules CAR-T|Vaccins antiviraux
+1794988259979|Hypoxie|Hémorragie|Œdème
+1794988259982|Coût élevé|Irradiation|Durée courte
+1794988259995|Âge, sexe, taille|Grade, localisation, corticoïdes|KPS, latéralité, épilepsie
+1794988260005|Chimiothérapie seule|Abstention|Corticoïdes seuls
+1794988260006|Euphorie, logorrhée|Hallucinations|Amnésie antérograde
+1794988260009|Hémianopsie latérale homonyme|Quadranopsie|Scotome central
+1794988260013|Quadranopsie inférieure controlatérale|Hémianopsie bitemporale|Cécité corticale
+1794988260021|1-2 ans|> 30 ans|3-6 ans
+1794988260022|Nature histologique|Grade tumoral|Vascularisation
+1794988260038|Biopsie, radiothérapie, chimiothérapie|CT, PET, spectro|Embolisation, laser, Gamma Knife
+1794988260051|Noyau du VI|Noyau rouge|Hypothalamus
+1794988260056|I|XII|VII
+1794988260067|5-10 %|80-90 %|20 %
+1794988260068|Côlon, prostate, vessie|Foie, pancréas, estomac|Thyroïde, rein, ovaire
+1794988260094|Cushing|Hyperthyroïdie|Galactorrhée
+1794988260105|Son grade|Sa nature|Son type histologique
+1794988260109|KPS < 50, < 1 cm|Âge > 80 ans|Toute métastase
+1794988260114|Acromégalie|Galactorrhée|Hyperthyroïdie
+1794988260121|Frontale|Diffuse|Temporale
+1794988260126|5 %|95 %|30 %
+1794988260129|Craniotomie frontale|Voie transorale|Voie ptérionale
+1794988260142|Agnosie|Prosopagnosie|Aphasie de Broca
+1794988260148|IDH muté|Codélétion 1p/19q|EGFR
+1794988260152|Tumeur de fosse postérieure|Tumeur hypophysaire|Méningiome de la convexité
+1794988260170|9-12 ans|< 1 an|15-20 ans
+1794988260173|Vespérales, améliorées par l'effort|Pulsatiles avec aura|En coup de tonnerre
+1794988260183|IRM|PET|Spectro-IRM
+1794988260199|Hémianopsie bitemporale|Ataxie|Aphasie de Broca
+1794988260200|1-2 %|60-80 %|50-60 %
+1794988260230|Grade IV|Grade III|Grade II
+1794988260231|Guérison, prévention, esthétique|Radiothérapie, chimio, immunothérapie|Diagnostic, épilepsie, douleur
+1794988260235|Acromégalie|Cushing|Hyperthyroïdie
+1794988260245|Méningiomes|Métastases|Adénomes
+1794988260247|20 Gy|100 Gy|30 Gy
+1794988260249|Ataxie tronculaire|Hémiplégie|Tremblement de repos
+1794988260263|> 1 cm|> 10 cm|> 5 mm

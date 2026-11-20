@@ -1,0 +1,78 @@
+1795017229431|La glycosurie|L'insulinorésistance|L'hyperinsulinisme
+1795017229433|Excès de sécrétion de glucagon isolé|Défaut d'absorption intestinale du glucose|Excès de cortisol
+1795017229435|Foie, poumons, peau, os, rate|Thyroïde, surrénales, hypophyse|Intestin, pancréas, estomac
+1795017229437|422 millions|1,3 milliard|537 millions
+1795017229439|Environ 600 millions|Environ 3 milliards|Stable à 830 millions
+1795017229441|L'étiologie|Les auto-anticorps|L'âge de début
+1795017229443|Le traitement|La glycémie à jeun|L'âge de début
+1795017229445|Insulinorésistance hépatique|Mutation monogénique de la glucokinase|Dépôts amyloïdes dans les îlots
+1795017229447|Destruction auto-immune des cellules β|Mutation de HNF1A|Excès d'hormones de contre-régulation
+1795017229449|Insulinome, glucagonome|Hépatite C, cirrhose|Lithiase biliaire, cholécystite
+1795017229451|Addison, hypothyroïdie, hypopituitarisme|Hyperaldostéronisme isolé, hypoparathyroïdie|Prolactinome, diabète insipide
+1795017229453|Type 1 – type 2 – type 3 – type 4|Insulino-dépendant – non insulino-dépendant – gestationnel – juvénile|Type 1 – type 2 – MODY – LADA
+1795017229455|DT1 ~8 % – DT2 ~0,5 %|DT1 ~5 % – DT2 ~5 %|DT1 ~0,05 % – DT2 ~20 %
+1795017229457|DT1 > 40 ans – DT2 < 30 ans|DT1 < 5 ans – DT2 > 70 ans|Pas de différence d'âge
+1795017229459|DT1 insidieuse – DT2 brutale|Les deux brutales|Les deux asymptomatiques
+1795017229461|Le DT2|Le diabète gestationnel|Le MODY
+1795017229463|Le DT1 (+++)|Le MODY (+++)|Aucun des deux
+1795017229465|Oui, toujours|Oui, sauf chez l'enfant|Non : les DT1 sont toujours maigres
+1795017229467|Charles Best|John Macleod seul|Frederick Sanger
+1795017229469|Insuline : 50/130 vivants – sans insuline : 100/164 morts|Pas de différence|Insuline : 130/130 vivants – sans insuline : 50/164 morts
+1795017229471|40 % – 90 %|1 % – 5 %|20 % – 100 %
+1795017229473|~50 %|~2 %|~85 %
+1795017229475|200 à 400 nouveaux cas/an/100 000|0,1 à 1 nouveau cas/an/100 000|2 à 40 nouveaux cas/an/1 000
+1795017229477|2–4 ans|20–24 ans|30–40 ans
+1795017229479|Gradient sud-nord (Grèce +++) – exception : Islande|Gradient est-ouest – exception : Irlande|Aucun gradient
+1795017229481|La Sardaigne : incidence 6× plus faible qu'en Finlande|Les Pima : incidence 6× plus élevée aux USA qu'au Mexique|L'Islande : incidence 6× plus faible qu'en Norvège
+1795017229483|Plus de cas en été|Prédominance masculine|Association aux HLA
+1795017229485|Obésité – excès de glucides – sédentarité|Tabac – alcool – stress|Excès de vitamine D – allaitement prolongé
+1795017229487|TCF7L2 puis FTO|HNF1A puis GCK|KCNJ11 puis PPARG
+1795017229489|< 5 %|~20 %|100 %
+1795017229491|Les dépôts amyloïdes|La fibrose pancréatique|L'hyperplasie des cellules α
+1795017229493|Obésité – HLA – hérédité forte – insulinorésistance|Dépôts amyloïdes – auto-anticorps – cétose – âge jeune|Insulite – cétose – saisonnalité – polyurie
+1795017229495|Psoriasis, polyarthrite – SEP|Lupus, Sjögren – sclérodermie|Myasthénie – Guillain-Barré
+1795017229497|ANCA, ANA, anti-TPO|Anti-CCP, anti-DNA, RF|TRAb, anti-Tg, anti-21-hydroxylase
+1795017229499|Lymphocytes B producteurs d'Ac|Macrophages seuls|Polynucléaires neutrophiles
+1795017229501|Oui : ils détruisent directement les cellules β|Oui : ils bloquent le récepteur de l'insuline|Oui : par activation du complément
+1795017229503|IAA (81 %)|ZnT8A (81 %)|ICA (25 %)
+1795017229505|Elle augmente (34 % → 75 %)|Elle reste stable|Elle s'annule après 20 ans
+1795017229507|59 % vs 91 %|50 % vs 50 %|30 % vs 10 %
+1795017229509|Événement déclenchant → prédisposition génétique → diabète → anticorps|Intolérance → anticorps → prédisposition → diabète|Perte de la sécrétion → anticorps → événement déclenchant → diabète
+1795017229511|Hyperglycémie à jeun|Glycosurie|Perte du pic insulinique à l'HGPO à 2 h
+1795017229513|Risque ↓ avec le nombre d'auto-Ac|Aucune influence|Seul le titre d'ICA compte
+1795017229515|IAA ou ICA|GADA isolés|Anti-TPO
+1795017229517|Guérison définitive dans 50 % des cas|Aucune rémission|Rémission durable sans toxicité
+1795017229519|Greffe de pancréas systématique – corticoïdes|Metformine – GLP-1|Ciclosporine au long cours
+1795017229521|Guérison définitive|Aucun effet|Aggravation du déclin β
+1795017229523|Retarde le DT1 (27,1 vs 59,6 mois)|Aucun effet|Prévient définitivement le DT1
+1795017229525|↓ des IgG anti-insuline bovine|Aucun effet immunologique|↑ des auto-Ac anti-GAD
+1795017229527|Vitamine D vs placebo chez des enfants à risque|Insuline orale vs placebo|Allaitement prolongé vs court
+1795017229529|Auto-immunité – HLA – insulite|Monogénique – transmission dominante – début jeune|Origine virale – saisonnalité – maladie homogène
+1795017229531|1 % / 5 %|5–10 % / 70–80 %|30–40 % / 5–10 %
+1795017229533|~30 % / 40 %|~10 % / 20 %|~100 % / 100 %
+1795017229535|611 vs 11|2 vs 50|100 vs 150
+1795017229537|Les allèles à risque|Les deux pèsent autant|Ni l'un ni l'autre
+1795017229539|Pima USA : BMI ~25 – Pima Mexique ~34,5 → prévalence plus haute au Mexique|BMI identique, prévalence identique|BMI identique, prévalence plus haute au Mexique
+1795017229541|Oui, de façon linéaire|Oui, surtout les fibres|Oui, multiplié par 3 au 5e quintile
+1795017229543|25 %|50 %|9 %
+1795017229545|BMI < 30 – riche en glucides – activité > 2 h/j – abstinence totale|BMI < 25 – riche en graisses saturées – tabac autorisé|BMI < 27 – régime cétogène – sédentarité
+1795017229547|Plus l'activité ↑, plus le risque ↑|Aucun lien|Effet seulement chez la femme
+1795017229549|Sécrétion totalement absente|Sécrétion normale, action normale|Excès de sécrétion d'insuline inefficace
+1795017229551|↑ pulsatilité – riposte précoce exagérée – ↓ proinsuline – non sélective|Absence totale de sécrétion – auto-anticorps – cétose|↑ peptide C – ↑ riposte précoce – hyperinsulinisme sélectif
+1795017229553|Insulite – auto-anticorps – infection virale|↑ masse β – hyperplasie – glucagonome|Fibrose – calcifications – pancréatite
+1795017229555|90 à 100 %|5 à 10 %|Elle augmente de 50 %
+1795017229557|Non, elle est abolie comme au glucose|Non, elle est inversée|Oui, mais aussi celle au glucose IV
+1795017229559|Capacité sécrétoire maximale augmentée|Capacité sécrétoire normale|Sécrétion de glucagon diminuée
+1795017229561|↑ captation musculaire – ↓ production hépatique – ↓ lipolyse|↓ glucagon – ↑ glycogène hépatique – ↓ AGL|↓ absorption intestinale – ↑ glycosurie – ↑ cétose
+1795017229563|Auto-anticorps anti-récepteur dans tous les cas|Absence de récepteur à l'insuline|Mutation de la proinsuline
+1795017229565|Perte de poids, activité physique|Metformine, régime|Diminution des AGL
+1795017229567|↑ captation musculaire du glucose|↑ lipogenèse hépatique|↓ glucagon intestinal
+1795017229569|AIRg / SI|Insuline à jeun × glycémie à jeun / 22,5|Glycémie à 2 h / insuline à 2 h
+1795017229571|La sensibilité hépatique à l'insuline seule|La sécrétion de glucagon|La masse de cellules α
+1795017229573|Oui, la sécrétion est indépendante de la sensibilité|Oui, si on dose le peptide C|Oui, par l'HbA1c
+1795017229575|Fonction β augmentée|Fonction β normale, sensibilité ↓ seulement|Perte tardive, après le diabète
+1795017229577|Monophasique : ↑ progressive|Monophasique : ↓ progressive dès l'intolérance|Stable quelle que soit la glycémie
+1795017229579|Fonction β stable – sensibilité ↓|Les deux s'améliorent|Les deux déclinent rapidement
+1795017229581|Toxicité directe du glucose sur le foie (stéatose)|Effet de l'hyperglycémie sur les vaisseaux|Hypoglycémie induite par l'insuline
+1795017229583|2 jours|1 an|6 mois
+1795017229585|Oui, seulement avec l'insuline|Oui, seulement avec les SU|Oui, seulement avec le régime

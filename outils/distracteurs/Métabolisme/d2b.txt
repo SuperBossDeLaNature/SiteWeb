@@ -1,0 +1,91 @@
+1795017229753|Sulfonylurées et glinides|Gliptines et gliflozines|Acarbose et orlistat
+1795017229755|Biguanides et glitazones|Gliflozines et gliptines|Acarbose et metformine
+1795017229757|Sulfonylurées – glinides – glitazones|Gliflozines – biguanides – acarbose|Insuline rapide – insuline basale – amyline
+1795017229759|↑ sécrétion d'insuline|↑ glycosurie|↓ absorption intestinale des graisses
+1795017229761|↑ sécrétion d'insuline – ↓ glucagon – ↑ glycosurie|Activation des PPARγ – ↑ adiponectine|Fermeture des canaux K-ATP – ↑ amplification
+1795017229763|Effet musculaire majeur – stimule l'insuline|Effet musculaire majeur – pas de stimulation de l'insuline|Pas d'effet musculaire – stimule fortement l'insuline
+1795017229765|Hépatique par le CYP3A4|Biliaire > 90 %|Rénale après glucuronidation hépatique
+1795017229767|Perte de poids majeure – bénéfice rénal démontré|Pas d'effets digestifs – injection hebdomadaire|Stimule la masse β – zéro contre-indication
+1795017229769|Hypoglycémies sévères – prise de poids|Infections génitales – acidocétose|Rétention hydrosodée – fractures
+1795017229771|Prise à jeun|Prise au coucher|Association systématique à un IPP
+1795017229773|Obésité – âge > 65 ans – HTA|Hypothyroïdie – asthme|Grossesse uniquement
+1795017229775|Effet anti-infectieux|Effet ostéoporotique|Effet antidépresseur
+1795017229777|Fermeture des canaux K-ATP → ↑ insuline|Inhibition du SGLT2 → glycosurie|Activation des PPARα → ↓ TG
+1795017229779|Rénale inchangée > 90 %|Hépatique – élimination urinaire 75 %, biliaire 25 %|Plasmatique par les estérases
+1795017229781|Perte de poids – ↓ LDL – protection osseuse|Prix bas – bénéfice sur l'IC|Effet rapide en quelques heures – oral 1×/semaine
+1795017229783|Hypoglycémies – acidose lactique|Infections génitales – acidocétose|Nausées – pancréatite
+1795017229785|Graisse viscérale + effet anorexigène|Prise de masse musculaire|Déficit en hormones thyroïdiennes
+1795017229787|Glibenclamide > metformine > rosiglitazone|Metformine > rosiglitazone > glibenclamide|Les trois identiques
+1795017229789|Rosi 26 % – metformine 36 % – glibenclamide 40 %|Rosi 70 % – metformine 60 % – glibenclamide 50 %|Rosi 40 % – metformine 40 % – glibenclamide 40 %
+1795017229791|~1 kg (pour 1 % d'HbA1c)|~20 kg|Aucun écart
+1795017229793|Cancer du sein|Infarctus du myocarde|Acidose lactique
+1795017229795|Oui (HR 0,50, significatif)|Oui (HR 0,70)|Non, elle les augmente (HR 1,50)
+1795017229797|Glibenclamide, tolbutamide|Répaglinide, natéglinide|Gliclazide, répaglinide
+1795017229799|Inhibition de la néoglucogenèse hépatique|Stimulation de la sécrétion d'insuline + ↑ sensibilité musculaire|Inhibition de la DPP-4
+1795017229801|Glucose → ↓ ATP/ADP → ouverture K-ATP → hyperpolarisation → exocytose|Glucose → AMPc → PKA → exocytose|Glucose → ouverture K-ATP → sortie Ca²⁺ → exocytose
+1795017229803|Sur le canal K-ATP (sous-unité Kir6.2) → ouverture|Sur le récepteur du GLP-1|Sur le transporteur GLUT2
+1795017229805|Glucose, sulfonylurées|Insuline, glucagon|Somatostatine, adrénaline
+1795017229807|Rénale inchangée|Biliaire exclusive|Glucuronidation hépatique puis élimination fécale
+1795017229809|Acidose lactique – perte de poids|Infections génitales – acidocétose|Nausées – pancréatite
+1795017229811|Obésité – HTA – dyslipidémie|Hypothyroïdie – asthme|Âge < 40 ans
+1795017229813|Resucrage et retour à domicile|Arrêt des SU et contrôle dans 1 mois|Glucagon puis retour à domicile
+1795017229815|Le natéglinide|Le gliclazide|Le glimépiride
+1795017229817|Action lente et prolongée : 1 prise/semaine|Action indépendante des repas|Action par voie sous-cutanée
+1795017229819|Perte de poids importante|Bénéfice CV démontré|Absence totale d'hypoglycémie
+1795017229821|Rénale inchangée|Pulmonaire|Plasmatique (estérases)
+1795017229823|Plus d'insuline après glucose IV qu'après glucose oral|Moins de glucagon après un repas|Plus d'insuline après un repas riche en graisses
+1795017229825|GIP (cellules L) – GLP-1 (cellules K)|Ghréline (cellules X/A) – PYY (cellules L)|Sécrétine (cellules S) – CCK (cellules I)
+1795017229827|1 à 5 %|80 à 100 %|5 à 10 %
+1795017229829|GIP : sécrétion ↓, effet normal – GLP-1 : sécrétion ↑, effet aboli|Tous deux normaux|Tous deux absents
+1795017229831|Aucun effet|Hypoglycémies sévères|Aggravation de la glycémie
+1795017229833|↓ sécrétion, quelle que soit la glycémie|↑ sécrétion indépendante du glucose|Apoptose des cellules β
+1795017229835|↑ glucagon – ↑ vidange gastrique – ↑ appétit|↓ glucagon – ↑ vidange gastrique – ↑ appétit|Aucun effet extra-pancréatique
+1795017229837|↑ apoptose, ↓ prolifération|Aucun effet|Transdifférenciation en cellules α
+1795017229839|~2 h|~12 h|~7 jours
+1795017229841|L'active en clivant l'extrémité C-terminale|Le stocke dans la cellule L|Le transforme en GIP
+1795017229843|Dapagliflozine, empagliflozine, canagliflozine|Liraglutide, dulaglutide, sémaglutide|Gliclazide, glimépiride, glibenclamide
+1795017229845|7 jours, 1 injection/semaine|12–14 h, 1 injection/j|2 min, perfusion continue
+1795017229847|Mutation résistante à la DPP-4 seule|Formulation en microsphères|Liaison à l'immunoglobuline Fc
+1795017229849|Exénatide, liraglutide|Lixisénatide, sitagliptine|Liraglutide, linagliptine
+1795017229851|aGLP-1 : per os, ~×2 – iDPP-4 : SC, ~×5|Les deux : SC, ~×5|Les deux : per os, ~×2
+1795017229853|aGLP-1 : neutres – iDPP-4 : ralentissent et font perdre du poids|Les deux font prendre du poids|Les deux accélèrent la vidange
+1795017229855|~0,3 % vs ~2 %|~2 % vs ~2 %|~0,7 % vs ~1 %
+1795017229857|< 5 % vs 40–50 %|80 % vs 50 %|Aucun effet digestif
+1795017229859|Oui, fréquemment|Oui, seulement les iDPP-4|Oui, dans 30 % des cas
+1795017229861|Cancer papillaire de la thyroïde|Insuffisance cardiaque|Ostéoporose
+1795017229863|Acidose lactique ? fractures ?|Infections génitales ? amputations ?|Hypoglycémies sévères ? prise de poids ?
+1795017229865|Exénatide, lixisénatide|Sitagliptine, saxagliptine|Lixisénatide, sitagliptine
+1795017229867|Sémaglutide, 1 comprimé/j|Tirzépatide, 2 injections SC/j|Liraglutide, 1 injection SC/j
+1795017229869|0 % / 42 % / 27 %|12 % / 12 % / 12 %|5 % / 80 % / 95 %
+1795017229871|Malabsorption des glucides|↓ du GLP-1 par exclusion du duodénum|↑ de la ghréline
+1795017229873|10 % / 90 %|50 % / 50 %|70 % / 30 %
+1795017229875|Stimule SGLT2 → hypoglycémie|Inhibe uniquement SGLT1 → malabsorption|Inhibe GLUT2 → ↑ glycémie
+1795017229877|Inhibition du SGLT1 (faible capacité, haute affinité)|Inhibition de GLUT4|Stimulation de la sécrétion d'insuline
+1795017229879|De la réserve en insuline|De la masse β|Du poids
+1795017229881|Rénale inchangée > 90 %|Biliaire inchangée|Pulmonaire
+1795017229883|Hypoglycémies – prise de poids|Acidose lactique – carence en B12|Rétention hydrosodée – fractures
+1795017229885|Dapagliflozine (aucun) – sitagliptine|Canagliflozine (aucun)|Empagliflozine (rénal seulement)
+1795017229887|Prise de poids – ↑ PA|Perte de poids – ↑ PA|Prise de poids – ↓ PA
+1795017229889|Metformine et iSGLT2|iDPP-4 et aGLP-1|Glitazones et metformine
+1795017229891|Metformine, iSGLT2, aGLP-1|iDPP-4, metformine|aGLP-1, iSGLT2
+1795017229893|iDPP-4, metformine|Glitazones, glinides|iSGLT2, acarbose
+1795017229895|Les glitazones|Les sulfonylurées|Les iDPP-4 seules
+1795017229897|aGLP-1, iSGLT2, tirzépatide|Insuline, iDPP-4|Sémaglutide, empagliflozine
+1795017229899|~×2|~×100|~×5
+1795017229901|L'insulinorésistance|La glycosurie|Le glucagon
+1795017229903|Le déficit sécrétoire|La glycosurie|L'effet incrétine
+1795017229905|Le déficit sécrétoire|L'insulinorésistance musculaire|La vidange gastrique
+1795017229907|Uniquement le prix|Uniquement l'âge du patient|Uniquement l'HbA1c de départ
+1795017229909|Uniquement de la molécule, pas de l'HbA1c de départ|De l'âge du patient|Plus l'HbA1c de départ est haute, plus la baisse est faible
+1795017229911|Maladie stable sous traitement|Fonction β qui s'améliore sous SU|Seule l'insulinorésistance progresse
+1795017229913|Arrêter tous les ADO et passer au schéma basal-bolus|Augmenter les ADO au-delà des doses maximales|Ajouter une insuline rapide au petit-déjeuner
+1795017229915|Corriger d'abord la glycémie postprandiale|Commencer par l'insuline rapide|Traiter d'abord les lipides
+1795017229917|Déficit en vitamine B12|Résistance génétique aux ADO|DT1 lent
+1795017229919|MODY|Diabète gestationnel|Insulinome
+1795017229921|Allergie aux ADO|Excès d'exercice|Hyperthyroïdie systématique
+1795017229923|Le peptide C élevé|L'HbA1c > 7 %|Le BMI > 30
+1795017229925|HbA1c à 7,5 % chez l'obèse – âge > 70 ans|Diagnostic récent asymptomatique|Prise de poids sous metformine
+1795017229927|Grossesse|Décompensation hyperosmolaire|Contre-indication aux ADO
+1795017229929|Monothérapie à vie – ignorer le poids – traiter l'HbA1c seule|Insuline d'emblée chez tous|Arrêt des ADO dès l'insuline
+1795017229931|–20 %|–90 %|–5 %
+1795017229933|~2 ans|~20 ans|~0,5 an

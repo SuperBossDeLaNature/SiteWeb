@@ -1,0 +1,94 @@
+1795098084698|Abdomen en coupe|Cliché de profil|Transit simple
+1795098084699|Lithiase vésiculaire cholestérolique, appendicite|Lésions hépatiques focales|Pancréatite œdémateuse
+1795098084701|≈ 99 %|≈ 10 %|≈ 80 %
+1795098084702|Debout uniquement|Profil couché|Oblique
+1795098084704|Chez ≈ 5 %|Chez ≈ 100 %|Chez ≈ 30 %
+1795098084707|Voit l'air extradigestif mieux que le CT|Aucune limite liée au patient|Mesure la densité en UH
+1795098084708|Meilleure vision de l'air|Moins cher que l'échographie simple|Irradiant mais rapide
+1795098084709|Lésions hépatiques focales et leur rehaussement|Thrombose porte|Ischémie mésentérique artérielle
+1795098084712|Aorte très rehaussée, veine porte vide|Rate tigrée, veine porte non opacifiée|Excrétion urinaire de contraste
+1795098084713|Le foie n'a pas d'artère|Le contraste est éliminé par la bile|Le foie est trop dense
+1795098084714|Ils ont plus d'eau|Le contraste agit plus vite|La dose est plus faible
+1795098084715|Mesurer le volume hépatique|Remplacer la biopsie de cirrhose|Voir les calculs biliaires
+1795098084716|Lithiase rénale, appendicite|Occlusion du grêle|Bilan de stéatose
+1795098084717|Rate|Foie|Pancréas
+1795098084719|Hyperéchogène ; dôme hépatique|Anéchogène ; segment IV uniquement|Hyperéchogène ; lobe caudé
+1795098084721|Hypersignal T2 intense|Chute du signal en diffusion|Hyposignal T1 en phase
+1795098084722|CT (plus précis)|Échographie|ASP
+1795098084725|Foie atrophique, nodulaire|Vésicule distendue, lithiase|Foie hyperéchogène brillant
+1795098084727|Veine porte fine, flux accéléré|Hépatomégalie isolée|Vésicule distendue
+1795098084728|Flux normal|Thrombose complète|Accélération du flux
+1795098084730|Pancréatite|Appendicite|Ulcère gastrique
+1795098084731|Tumeur vasculaire primitive|Anévrysme porte|Fistule artério-porte
+1795098084734|Autosomique récessive|Liée à l'X|Sporadique
+1795098084735|Entamoeba ; abcès sans paroi|Toxoplasma ; calcifications|Schistosoma ; fibrose
+1795098084736|Lymphatique, cutanée, osseuse, rénale, pulmonaire|Urinaire, génitale|Cérébrale, cardiaque
+1795098084737|Hyperdense homogène sans paroi|Calcifié en coquille|Graisseux
+1795098084739|Anéchogène avec renforcement|Hypoéchogène avec halo|Hétérogène avec cône d'ombre
+1795098084740|Hyperéchogène|Anéchogène|Calcifié
+1795098084742|Hyposignal T2|Isosignal T2|Hyposignal diffusion
+1795098084743|Il est toujours calcifié|Il saigne|Il se rompt
+1795098084744|Hépatocytes avec cellules malignes|Vaisseaux sanguins dilatés|Kystes biliaires
+1795098084745|Vascularisation périphérique en couronne|Absence de vascularisation|Flux veineux central
+1795098084746|Hyperdense dans toutes les phases|Calcifiée|Rehaussée en artériel seulement
+1795098084748|Calcification|Transformation en HNF|Thrombose porte
+1795098084749|≈ 50 %|≈ 0 %|≈ 25 %
+1795098084751|Cicatrice centrale|Prise de contraste en mottes|Hypersignal T2 franc
+1795098084752|Cholangiocarcinome|Hémangiosarcome|Hépatoblastome
+1795098084755|CT annuel|IRM mensuelle|PET-FDG
+1795098084757|BI-RADS|PI-RADS|Bosniak
+1795098084758|Conclure au kyste|Conclure à la stéatose|Ne rien faire
+1795098084759|ASP|Échographie seule|CT sans contraste
+1795098084760|Cholangiocarcinome intra-hépatique périphérique|Tumeur de la vésicule|Ampullome
+1795098084761|Côlon, poumon|Estomac, pancréas|Lymphome, poumon
+1795098084762|Mélanome, rein|Neuroendocrine|Sein, thyroïde
+1795098084763|Métastases kystiques|Métastases graisseuses|Métastases hémorragiques
+1795098084764|Pour la facturation|Pour choisir l'aiguille|Ce n'est pas utile
+1795098084765|Poumon, lymphome, côlon|Mélanome|ORL
+1795098084766|LI-RADS|Deauville|TNM
+1795098084772|Ils sont toujours calcifiés|Le CT est trop irradiant|La vésicule n'est pas visible au CT
+1795098084773|Lithiase, cholécystite|Adénomyomatose|Polype
+1795098084774|Cône d'ombre net|Renforcement postérieur|Image en miroir
+1795098084775|Infection primitive|Tumeur|Ischémie
+1795098084776|Vésicule vide à paroi fine|Calcification de la paroi|Pneumobilie
+1795098084778|Conclure à l'absence de pathologie|Opérer d'emblée|CT avec baryte
+1795098084779|Jeune femme en bonne santé|Sportif|Enfant
+1795098084780|Toujours fébrile|Murphy toujours présent|Toujours lithiasique
+1795098084781|Jeune femme ; échographie|Alcoolique ; IRM|Enfant ; ASP
+1795098084784|Médicaments et infections|Hypertriglycéridémie et CPRE|Traumatisme et tumeur
+1795098084786|Toute pancréatite dès l'admission|Uniquement si lipase > 3N|Jamais
+1795098084787|Une lithiase|Un diabète|Une hypercalcémie
+1795098084788|Nécrotique (90 %) et œdémateuse (10 %)|Aiguë et chronique|Biliaire et alcoolique
+1795098084789|Calcifications|Hyperrehaussement|Dilatation du Wirsung
+1795098084790|RECIST|LI-RADS|Fisher
+1795098084791|Pseudokyste / collection aiguë|Nécrose encapsulée / abcès|Kyste vrai / cystadénome
+1795098084792|Pseudokyste / collection liquidienne|Abcès / kyste|Collection aiguë / pseudokyste
+1795098084793|Thrombose artérielle mésentérique supérieure|Dissection aortique|Anévrysme de l'aorte abdominale
+1795098084794|Tabac, infection, grossesse|Traumatisme, idiopathique, médicaments|Tumorale uniquement
+1795098084795|IRM pour les calcifications ; CT pour les canaux|Échographie pour les deux|ASP pour les deux
+1795098084796|Ascite|Ictère|Splénomégalie isolée
+1795098084797|Hyperdense en phase portale|Calcifié|Hypervasculaire
+1795098084800|Kyste unique sans communication|Lésion solide|Calcification centrale bénigne
+1795098084801|Macrokystes mucineux malins|Communique avec le Wirsung|Lésion solide
+1795098084802|Microkystes avec cicatrice centrale|Bénin sans potentiel|Lésion solide
+1795098084803|CT|IRM|Échographie
+1795098084804|Rectum et côlon gauche exclusivement|Estomac|Duodénum
+1795098084806|IRM|Échographie|Lavement baryté
+1795098084807|Plus rapide que le CT|Moins chère|Ne nécessite pas de préparation
+1795098084808|Côlon en « pile d'assiettes »|Pavage|Fistules
+1795098084810|Aucune préparation, anesthésie générale|Préparation, anesthésie générale|Aucune préparation, sédation
+1795098084811|Score de gravité de la pancréatite|Score de Glasgow|Score de Child-Pugh
+1795098084814|L'antalgique fausse l'image|Pour ne pas fausser la prise de sang|Le patient doit être à jeun
+1795098084815|> 3 mm|> 15 mm|> 10 mm
+1795098084816|Toujours|Seulement chez l'enfant|Seulement si obèse
+1795098084817|Signe de gravité nul|Signe d'appendicite simple|Signe de guérison
+1795098084818|CT d'emblée|ASP|Abstention
+1795098084820|Chirurgie ; appendice dilaté|Antibiotiques ; abcès|Drainage ; collection liquide
+1795098084821|ASP debout|Échographie|IRM
+1795098084822|Diverticulite sigmoïdienne|Appendicite|Post-coloscopie
+1795098084824|Tumeur colique|Hernie|Iléus biliaire
+1795098084825|Paroi fine, rehaussement normal|Air libre isolé|Calcifications
+1795098084826|Échographie|IRM|ASP
+1795098084827|Veineuse : défaut de rehaussement ; artérielle : halo|Aucune différence|Veineuse : air portal immédiat
+1795098084828|Rehaussement accru → guérison|Calcification|Dilatation simple
+1795098084830|Échographie FAST seule|ASP|IRM

@@ -1,0 +1,94 @@
+1795017230623|Les lipides ne sont jamais élevés|Le terme hyperlipidémie est réservé aux formes génétiques|Les lipides ne sont dosables qu'à jeun
+1795017230625|< 250 mg/dl|< 130 mg/dl|< 220 mg/dl
+1795017230627|↓ de la consommation de sucres|Changement de méthode de dosage|↑ de l'activité physique seule
+1795017230629|Aiguës/chroniques ; selon l'âge|Selon les symptômes ; selon le sexe|Primaires/secondaires ; selon l'HbA1c
+1795017230631|LDL – cholestérol ↑↑↑↑, TG ~N|VLDL – TG ↑↑, cholestérol ↑|IDL – cholestérol = TG
+1795017230633|Chylomicrons – TG ↑↑↑↑|VLDL – TG ↑↑ > cholestérol|LDL + VLDL – cholestérol ↑↑↑ > TG ↑
+1795017230635|LDL seules – cholestérol ↑↑, TG ~N|IDL – cholestérol = TG|Chylomicrons + VLDL – TG ↑↑↑
+1795017230637|LDL – cholestérol ↑↑, TG ~N|Chylomicrons – TG ↑↑↑↑|VLDL – TG ↑↑ > cholestérol ↑
+1795017230639|LDL – cholestérol ↑↑, TG ~N|Chylomicrons + VLDL – TG ↑↑↑|IDL – cholestérol = TG
+1795017230641|VLDL seules – TG ↑↑|Chylomicrons seuls – TG ↑↑↑↑|LDL + VLDL – cholestérol ↑↑↑
+1795017230643|Autosomique récessive – LPL|Liée à l'X – apo E|Polygénique – PCSK9 seul
+1795017230645|1/50 / 1/10 000|1/5000 / 1/100 millions|1/100 / 1/1000
+1795017230647|≥ 200 / jusqu'à 400 mg/dl|≥ 500 / jusqu'à 3000 mg/dl|≥ 250 / jusqu'à 600 mg/dl
+1795017230649|Type IV, TG élevés|Type I, TG très élevés|Type III, TG = cholestérol
+1795017230651|× 1,5|× 20|× 10
+1795017230653|Pancréatite aiguë néonatale|Lipémie rétinienne isolée|Xanthomes éruptifs sans risque CV
+1795017230655|Xanthomes éruptifs, lipémie rétinienne, pancréatite|Xanthomes plans palmaires|Acanthosis nigricans, hirsutisme
+1795017230657|Les statines sont contre-indiquées|Le traitement n'est efficace qu'après l'infarctus|Les symptômes sont toujours sévères
+1795017230659|Le xanthome éruptif|Le xanthome plan palmaire|Le xanthélasma
+1795017230661|1/500 – risque nul|1/1 million – risque +++|1/2 – risque nul
+1795017230663|Récepteur LDL – autosomique dominante, fréquente|Apo E2 – récessive, fréquente|CETP – dominante, fréquente
+1795017230665|1/100 – LDL|1/500 – chylomicrons|1/10 000 – IDL
+1795017230667|1/10 000|1/10|1/500
+1795017230669|1/100|1/500|1/1 million
+1795017230671|Xanthomes tendineux, infarctus précoce|Xanthomes plans palmaires, artériopathie|Gérontoxon isolé
+1795017230673|Très : infarctus dans l'enfance|Très : risque × 10|Autant que l'HF homozygote
+1795017230675|↓ glucides + ↑ graisses saturées|Régime cétogène|Régime hyperlipidique riche en TG à longue chaîne
+1795017230677|< 150 mg/dl|< 400 mg/dl|< 3000 mg/dl
+1795017230679|Dépôts de cholestérol dans les tendons|Inflammation cutanée auto-immune|Infiltration par des LDL oxydées
+1795017230681|Mutation du récepteur LDL|Déficit total en LPL|Apo E2/E2
+1795017230683|I (jamais IV)|IIa|III
+1795017230685|Régime pauvre en HC, exercice|Hyperthyroïdie, maigreur|Œstrogènes transdermiques, metformine
+1795017230687|HTG familiale : très athérogène – Combinée : peu athérogène|Les deux : très athérogènes|Les deux : peu athérogènes
+1795017230689|I, III, V|IIa uniquement|III, IV, V
+1795017230691|Déficit en LPL → chylomicrons|Mutation du récepteur LDL → grosses LDL|Apo E2 → IDL
+1795017230693|1–2 %|60–70 %|5 %
+1795017230695|Apo E4/E4 (haute affinité)|Mutation du récepteur LDL|Déficit en LPL
+1795017230697|60 % vs 1 %|10 % vs 10 %|0,01 % vs 99 %
+1795017230699|LDL ↑ isolées – TG normaux|Chylomicrons ↑ – cholestérol normal|HDL ↑ – TG ↓
+1795017230701|Xanthomes tendineux d'Achille|Xanthélasma|Xanthomes éruptifs
+1795017230703|Aucun|Pancréatite uniquement|Risque uniquement cérébral
+1795017230705|Mutations de la CETP, déficit en lipase hépatique|Mutations du récepteur LDL|Apo E2/E2
+1795017230707|Mutations apo AI, ABCA1, LCAT|Mutations du récepteur LDL, apo B|Déficit en LPL
+1795017230709|0–5 %|90–100 %|10–20 %
+1795017230711|La LPL est inhibée par les œstrogènes|Les androgènes ↑ la synthèse d'apo AI|La CETP est plus active chez la femme
+1795017230713|HDL ↓ avec l'activité LPL, ↑ avec la lipase hépatique|Les HDL sont produites à partir des TG alimentaires|Le dosage des TG interfère avec celui du HDL
+1795017230715|Statines et fibrates|Tabac et obésité|β-bloquants et thiazidiques
+1795017230717|Échange cholestérol libre contre phospholipides|Hydrolyse des TG des chylomicrons|Captation hépatique des LDL
+1795017230719|HDL : 1 % – LDL : 3 %|HDL : 10 % – LDL : 10 %|HDL : 0,5 % – LDL : 5 %
+1795017230721|Oui, de manière proportionnelle|Oui, avec les inhibiteurs de la CETP|Oui, chez le diabétique seulement
+1795017230723|L'hypothèse des TG|L'hypothèse de la Lp(a)|L'hypothèse inflammatoire seule
+1795017230725|Transport du cholestérol vers les tissus périphériques – pro-oxydant|Inhibition de la LPL|Activation plaquettaire
+1795017230727|Effets vasoprotecteurs renforcés|Ils disparaissent complètement|Ils deviennent des LDL
+1795017230729|HDL (apo AI) + apo(a)|VLDL (apo E) + plasminogène|Chylomicron (apo B48) + apo(a)
+1795017230731|À l'apo B100|À l'albumine|Au fibrinogène
+1795017230733|~160 mg/dl|~1,6 mg/dl|~60 mg/dl
+1795017230735|Chez tous les sujets chaque année|Uniquement chez les diabétiques|En cas de TG > 400
+1795017230737|> 30 mg/dl|> 500 mg/dl|> 90 mg/dl
+1795017230739|Oui, de façon majeure|Oui, par cancers|Oui, par infections
+1795017230741|Hyperthyroïdie, Addison, maigreur|Insuffisance cardiaque, BPCO|Anémie, ostéoporose
+1795017230743|Très athérogène (↑ TG, ↓ HDL)|Hypercholestérolémie majeure|Hyperchylomicronémie
+1795017230745|↓ AGL → ↓ VLDL + ↑ LPL|↑ récepteur LDL|↑ insuline → ↑ lipogenèse
+1795017230747|↑ activité du récepteur B100-E|↑ HDL|↓ production d'apo B
+1795017230749|Plus d'affinité pour le récepteur → captation hépatique ↑|Elles sont éliminées par le rein|Elles deviennent des HDL
+1795017230751|↑ LDL isolées – HDL normal|↓ TG – ↑ HDL – grosses LDL|Hyperchylomicronémie isolée
+1795017230753|Oui, toujours|Oui, s'il est sous metformine|Oui, si HbA1c < 7 %
+1795017230755|À l'insulinorésistance musculaire seule|À l'âge|À l'HbA1c
+1795017230757|Identique|Plus bas chez le diabétique|Plus élevé uniquement chez la femme non diabétique
+1795017230759|↓, puis normalisation|↑ définitivement|Inchangés
+1795017230761|VLDL ↓, LDL ↑, HDL ↓ → défavorable|Aucun effet|LDL ↑, HDL ↑ → neutre
+1795017230763|LDL ↓, HDL ↑ → favorable|Neutre|TG ↓↓ → favorable
+1795017230765|LDL ↑↑, HDL ↓↓|LDL ↓, HDL ↑↑|TG ↑↑↑
+1795017230767|Les deux montrent une protection|Observationnelles : ↑ risque – WHI : ↓ risque|Les deux montrent un ↑ du risque
+1795017230769|↓ LDL, ↓ TG, ↑ HDL|Aucun effet|↑ HDL seul
+1795017230771|↑ HDL, ↓ TG|↓ LDL|Aucun effet
+1795017230773|Les thiazidiques|Les β-bloquants|Les IEC (↑ HDL majeur)
+1795017230775|↓ LDL, HDL, TG|↑ TG isolés|Aucun effet
+1795017230777|↓ TG|↓ cholestérol|↑ HDL
+1795017230779|Le cholestérol est un marqueur sans rôle causal|Les TG sont le seul facteur causal|L'athérosclérose est purement inflammatoire
+1795017230781|Le risque coronaire reste identique|Le risque ↓ en Californie|Le risque ↑ uniquement par la génétique
+1795017230783|Effet seuil à 300 mg/dl|Courbe en U|Aucune relation
+1795017230785|Tabac, HTA, diabète, LDL|Obésité, sédentarité|Âge, tabac, Lp(a), HTA
+1795017230787|< 50 / < 60 mg/dl|< 30 / < 35 mg/dl|< 35 / < 50 mg/dl
+1795017230789|TG > 400 mg/dl – PA > 160/100|TG > 100 mg/dl – PA > 120/80|TG > 200 mg/dl – PA > 130/85
+1795017230791|20 ans (H), 30 ans (F)|60 ans (H), 70 ans (F)|50 ans (H), 40 ans (F)
+1795017230793|Uniquement après un infarctus|Uniquement les femmes ménopausées|Asthme, ostéoporose, migraine
+1795017230795|Débuter une statine – doser l'HbA1c – contrôler à 1 an|Un seul profil suffit, puis traiter|Doser la Lp(a) – traiter – revoir à 5 ans
+1795017230797|Même jour – après 48 h de jeûne – sous statine|Intervalle de 2 jours – régime strict – pendant l'affection aiguë|N'importe quand, une seule fois
+1795017230799|Le cholestérol alimentaire n'est pas absorbé|Le foie élimine tout le cholestérol du repas|Le cholestérol est dosé dans les globules rouges
+1795017230801|LDLc = CT – (HDLc + TG/2,2)|LDLc = CT + HDLc – TG/5|LDLc = HDLc – (CT + TG/5)
+1795017230803|Non valable si TG < 150|Nécessite un dosage d'apoB|Non valable chez la femme
+1795017230805|TG seuls à jeun|Lp(a) seule|LDL directe + TG à jeun
+1795017230807|LDLc à jeun|Cholestérol total|TG non à jeun
+1795017230809|HF typique avec TG normaux|Chez tous les jeunes sans FRCV|Uniquement en cas d'hyperchylomicronémie

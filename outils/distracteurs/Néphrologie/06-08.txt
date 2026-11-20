@@ -1,0 +1,121 @@
+1760500000595|≥ 140/90 mmHg|≥ 135/85 mmHg|≥ 120/70 mmHg
+1760500000597|Le bras le plus bas|La moyenne des deux bras|Le bras dominant
+1760500000604|Supérieure à 5 %|Supérieure à 100 %|Toute hausse
+1760500000606|SPRINT|ACCORD|ALLHAT
+1760500000607|Hypokaliémie sévère|Hypernatrémie|Hypoglycémie
+1760500000609|IEC|Diurétiques thiazidiques|Bêta-bloquants
+1760500000610|IEC + diurétique thiazidique|ARA2 + bêta-bloquant|IEC + ARA2
+1760500000612|PA > 140/90 sous monothérapie|PA > 180/110 à la 1re consultation|Non contrôlée sous bithérapie sans diurétique
+1760500000613|Âge, sexe, obésité|Diabète, dyslipidémie, tabac|Hyperthyroïdie, Cushing, phéochromocytome seulement
+1760500000616|Nécrose fibrinoïde|Dépôts amyloïdes|Granulomes vasculaires
+1760500000617|Gros, kystiques|Asymétriques, cicatriciels|Normaux à l'échographie
+1760500000618|Vasculite, embolie|Thrombose veineuse, compression|Dissection, traumatisme
+1760500000620|Rétrécissement artériel isolé|Croisements artério-veineux seuls|Fond d'œil normal
+1760500000624|Dès le diagnostic|Après 20 ans d'évolution|Uniquement si HTA
+1760500000626|< 30 mg/g|> 300 mg/g|3 à 30 mg/g
+1760500000628|Hypoglycémie, cétose|Hyperthyroïdie, anémie|Prise d'IEC, statine
+1760500000630|Vasoconstriction efférente seule, natriurèse|Baisse du débit rénal|Excès de glucagon, cortisol
+1760500000631|Quelques mois|30 à 40 ans|1 an
+1760500000632|2 à 3 ans|40 à 50 ans|5 ans
+1760500000635|Dépôts d'IgA, croissants|Granulomes, nécrose fibrinoïde|Kystes, calcifications
+1760500000642|5 %|80 à 90 %|Elle augmente
+1760500000644|≈ −10 % de risque cardiovasculaire|Aucun bénéfice|≈ −90 % de risque cardiovasculaire
+1760500000646|Infection, lithiase|Œstrogènes, ADH|Hypervolémie, hyperfiltration seule
+1760500000648|L'ignorer|Contrôle après l'accouchement|Hospitaliser
+1760500000649|Avant 12 SA|Après l'accouchement uniquement|Dès la conception
+1760500000650|≥ 3 g/24 h|≥ 0,03 g/24 h|≥ 1 g/24 h
+1760500000652|Hyperplacentose|Placenta prævia|Décollement placentaire
+1760500000653|Dépôts mésangiaux d'IgA|Croissants glomérulaires|Fusion des pédicelles isolée
+1760500000655|La protéinurie massive|L'HTA > 160/110|L'œdème pulmonaire
+1760500000656|Hypertension, élévation des lipides, pression basse|Hématurie, leucocyturie, protéinurie|Hémorragie, hyperkaliémie, lithiase
+1760500000658|Néphropathie à IgA|Polykystose|Néphropathie diabétique
+1760500000660|IEC, ARA2|Spironolactone, aliskiren|Atenolol, diurétique de l'anse
+1760500000662|Héparine|Calcium seul|IEC
+1760500000666|Deux|Trois|Quatre
+1760500000667|Toujours 1 mg/dL|La valeur la plus haute|Valeur à la sortie de l'hôpital
+1760500000668|1,1 à 1,4 × base|2,0 à 2,9 × base|≥ 3 × base
+1760500000669|1,5 à 1,9 × base|≥ 3 × base|1,2 à 1,4 × base
+1760500000671|< 0,5 mL/kg/h pendant 6 h|< 1 mL/kg/h pendant 2 h|< 0,5 mL/kg/h pendant 12 h
+1760500000676|Fonctionnelle|Organique tubulaire|Glomérulaire
+1760500000677|Biopsie rénale immédiate|Scanner injecté|Dialyse
+1760500000679|< 1 %|< 0,1 %|Égale à 0
+1760500000680|> 40 mmol/L|> 100 mmol/L|20 à 40 mmol/L
+1760500000681|< 1|< 0,1|Égal à 0
+1760500000682|> 50 %|> 80 %|Égale à 100 %
+1760500000683|< 5|Égal à 1|< 3
+1760500000684|< 10|< 20|Égal à 1
+1760500000687|Cylindres granuleux|Cylindres hématiques|Leucocyturie massive
+1760500000688|Bas|Normal|Effondré
+1760500000689|Oui, une nécrose tubulaire|Oui, une glomérulonéphrite|Oui, une fibrose
+1760500000690|Obstacle, tubulaire, glomérulaire, interstitielle|Toxique, ischémique, immunologique, infectieuse|Aiguë, chronique, mixte, terminale
+1760500000691|Sepsis, anaphylaxie|Diarrhée, vomissements|Insuffisance cardiaque, tamponnade
+1760500000692|AINS, ciclosporine|Diarrhées, brûlures|IEC, diurétiques
+1760500000695|Dialyse seule|Furosémide + restriction hydrique|IEC + diurétiques
+1760500000696|Statines, aspirine|Insuline, calcium|Paracétamol, IPP
+1760500000698|Lithiase bilatérale|Cancer du rein|Fibrose rétropéritonéale
+1760500000700|Fonctionnel, obstructif, glomérulaire|Immunologique, allergique, vasculaire|Congénital, génétique, infectieux
+1760500000701|IPP, allopurinol, rifampicine|IEC, ARA2, diurétiques|Statines, aciclovir, quinine
+1760500000702|Aminosides, cisplatine, PDC|Bêta-lactamines, IPP, AINS|Glucose, urée, sodium
+1760500000703|24 à 48 heures|6 mois à 1 an|Jamais
+1760500000704|> 3 g/24 h|> 10 g/24 h|1 à 3 g/24 h
+1760500000705|Cylindres hématiques|Cylindres hyalins seuls|Cylindres graisseux
+1760500000707|Toujours anurie|Polyurie massive|Oligurie systématique
+1760500000708|Hématurie macroscopique|Protéinurie néphrotique|Glycosurie
+1760500000711|Absente|Uniquement macroscopique|Toujours massive
+1760500000713|48 heures|6 mois|1 semaine
+1760500000715|Remplissage vasculaire|Restriction sodée seule|IEC
+1760500000716|Prévention des nausées|Diminuer l'urée|Correction de l'acidose
+1760500000720|Gros reins lisses|Reins hyperéchogènes symétriques|Calcifications corticales
+1760500000721|Pré-, per-, post-rénale, glomérulaire, vasculaire, mixte|Aiguë, chronique, mixte, terminale, réversible, irréversible|Diabète, HTA, GN, PKD, reflux, inconnue
+1760500000723|≈ 10 mL/min/an|≈ 0,1 mL/min/an|≈ 20 mL/min/an
+1760500000725|Eau du robinet, poisson|Tabac, alcool|Pesticides, solvants
+1760500000726|Tubulopathie distale (ATR 1)|Glomérulonéphrite|Néphrocalcinose
+1760500000727|Dépôts d'IgA|Granulomes|Croissants glomérulaires
+1760500000728|90 à 100 %|1 à 2 %|50 à 60 %
+1760500000729|Femme jeune, lupus|Enfant, infection ORL|Sujet âgé, myélome
+1760500000732|IEC, ARA2|Aciclovir, indinavir|Quinine, rifampicine
+1760500000733|Quinine, rifampicine|Statines, fibrates|Ciclosporine, tacrolimus
+1760500000734|Aciclovir|Statines|Lithium
+1760500000735|Aminosides, cisplatine|Statines, fibrates|Ciclosporine, gemcitabine
+1760500000736|Aminosides, cisplatine, PDC|AINS, IPP, allopurinol|Aciclovir, indinavir, méthotrexate
+1760500000737|Aminosides, vancomycine, colistine|Lithium, ténofovir, ifosfamide|Statines, fibrates, aciclovir
+1760500000738|Lithium, ciclosporine|AINS, IPP|Aminosides, vancomycine
+1760500000742|2|10|4
+1760500000743|Néphropathie à IgA, GNMP|Goodpasture, vasculite|Amylose, FSGS
+1760500000744|↑ prostaglandines → vasodilatation|↓ angiotensine II → vasodilatation efférente|Obstruction tubulaire
+1760500000745|Furosémide|Bicarbonate systématique|Restriction hydrique
+1760500000748|Plus de 0,3 g/g|Plus de 10 g/g|Toute protéinurie
+1760500000755|L'hématurie|La pression artérielle|L'âge
+1760500000756|Le sujet âgé|Le diabétique|La femme enceinte
+1760500000757|Impur|Néphritique|Mixte avec IRA constante
+1760500000758|Dépôts sous-épithéliaux|Double contour|Dépôts mésangiaux
+1760500000759|VIH, héroïne|Lupus, VHB|Cancer solide, VHC
+1760500000761|Albumine ≥ 20 g/L et Pu ≤ 3 g/j|Disparition des œdèmes seule|Pu ≤ 1 g/j
+1760500000763|Pur|Toujours néphritique|Absent
+1760500000764|Oui|Uniquement chez l'enfant|Toujours
+1760500000765|Lymphomes, AINS|Cancer solide, VHC|Amylose, myélome
+1760500000766|Cyclophosphamide seul|Rituximab en 1re ligne systématique|Échanges plasmatiques
+1760500000767|Aucun risque|Rejet hyperaigu systématique|Polykystose
+1760500000771|IgA mésangiaux|IgG linéaires|C3 isolé endomembraneux
+1760500000773|VIH, héroïne|Lymphome, AINS|Diabète, HTA
+1760500000776|50 % guérison, 50 % IRC|100 % IRC|10 % guérison, 90 % IRC
+1760500000779|Épaissie avec spicules|Linéaire avec IgG|Normale
+1760500000780|Auto-anticorps anti-MBG, ANCA|Diabète, HTA|Toxique, médicamenteuse
+1760500000781|GEM|FSGS|Lésions glomérulaires minimes
+1760500000782|Syndrome néphrotique pur|IRA anurique|Hypertension maligne
+1760500000785|Dépôts linéaires d'IgG|Dépôts extramembraneux d'IgG4|Pas de dépôts
+1760500000786|Excès d'anti-PLA2R|Déficit en ADAMTS13|Excès de complément C3
+1760500000791|Syndrome néphrotique pur|Hématurie isolée|Syndrome hépatorénal
+1760500000792|Rituximab seul|Ciclosporine|Hémodialyse seule
+1760500000795|c-ANCA anti-PR3|Anti-MBG|Anti-PLA2R
+1760500000796|Sinusite + nodules pulmonaires|Purpura + arthralgies|Livedo + HTA
+1760500000798|Ciclosporine + corticoïdes|Échanges plasmatiques seuls|Rituximab + tacrolimus
+1760500000802|Classe II (mésangiale)|Classe V (membraneuse)|Classe I (minime)
+1760500000804|Lésions glomérulaires minimes|FSGS|Néphropathie à IgA
+1760500000805|Anémie ferriprive + thrombocytose|Anémie hémolytique auto-immune + polyglobulie|Pancytopénie centrale
+1760500000806|Excès de facteur H|Toxine Shiga-like|Anticorps anti-PF4
+1760500000807|Déficit en ADAMTS13|Anomalie du complément|Pneumocoque
+1760500000808|Activité ADAMTS13|Coproculture standard|Test de Coombs
+1760500000810|Albumine 5 %|NaCl 0,9 %|Immunoglobulines IV
+1760500000813|Petits reins atrophiques|Reins kystiques|Asymétriques
+1760500000814|ATTR et Aβ2m|AL et Aβ|AA et ATTR

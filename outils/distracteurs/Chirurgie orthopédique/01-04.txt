@@ -1,0 +1,269 @@
+1700000050000|1 à 2 %|40 à 60 %|70 à 80 %
+1700000050001|10 %|25 %|80 %
+1700000050004|Collagène, sodium, potassium|Élastine, calcium, magnésium|Kératine, phosphore, fer
+1700000050006|Ostéoclastes, ostéocytes|Ostéoclastes, chondrocytes|Fibroblastes, ostéoclastes
+1700000050009|Hématopoïèse, thermorégulation|Stockage lipidique, immunité|Croissance en longueur, nutrition
+1700000050011|Ossification enchondrale|Cartilage de croissance|Remodelage haversien
+1700000050012|À la naissance|10 ans|18 ans
+1700000050013|Canal de Volkmann|Canal médullaire|Canalicule
+1700000050014|Lamelle interstitielle|Trabécule|Ostéoplaste
+1700000050016|> 95 %|Identique|< 20 %
+1700000050017|Périphérie → centre|Homogène|Aléatoire
+1700000050018|Remaniement trabéculaire|Apposition périostée|Ossification enchondrale
+1700000050019|Périphérie → centre|Homogène|Endoste → médullaire
+1700000050021|Traction|Cisaillement|Torsion
+1700000050022|Compression|Cisaillement|Aucune contrainte
+1700000050023|Zone de cisaillement|Zone de compression maximale|Zone corticale
+1700000050025|Force × distance|Déformation / module d'élasticité|Masse × accélération
+1700000050027|Contrainte maximale en périphérie|Fracture spontanée|Contrainte nulle au centre
+1700000050028|Module d'élasticité|Moment de force|Coefficient de friction
+1700000050029|Σ masse × distance|Σ surface × distance|Force × bras de levier
+1700000050032|Plus résistant en compression seule|Plus souple|Plus de moelle
+1700000050033|Inhibition|Aucun effet|Apoptose
+1700000050034|Loi de Hooke|Loi de Laplace|Loi de Poiseuille
+1700000050035|Zones très contraintes|Corticale externe|Diaphyse
+1700000050036|Diaphyse fémorale|Calvaria|Diaphyse tibiale
+1700000050037|Poids égaux|Bras de levier égaux|Somme des poids nulle
+1700000050038|1 kg|0,5 kg|4 kg
+1700000050039|2 kg|1 kg|4 kg
+1700000050041|10 kg (100 N)|25 kg (250 N)|100 kg (1000 N)
+1700000050042|10 kg|50 kg|35 kg
+1700000050043|Adducteurs|Ischio-jambiers|Quadriceps
+1700000050044|~30 cm|~2 cm|~50 cm
+1700000050045|~10 cm|~5 cm|~60 cm
+1700000050046|9 %|36 %|5 %
+1700000050047|18 %|50 %|9 %
+1700000050048|18 % chacun|5 % chacun|36 % ensemble
+1700000050049|Poids total|Poids total − 36 %|Poids total − 9 %
+1700000050050|60 kg|50 kg|300 kg
+1700000050051|60 kg|150 kg|500 kg
+1700000050052|Position assise, sommeil|Marche lente, station debout|Natation, vélo
+1700000050053|Course, port de charges|Talons, sport|Repos complet, plâtre
+1700000050058|Hypertrophie|Contracture permanente|Aucun effet
+1700000050059|Inclinaison côté sain|Antéflexion|Rotation
+1700000050060|Il augmente|Il ne change pas|Il double
+1700000050063|Insuffisance des adducteurs|Raccourcissement du membre|Atteinte du quadriceps
+1700000050064|Imagerie, biologie, chirurgie|Examen, traitement, suivi|Anamnèse, radio, chirurgie
+1700000050065|Calculer les doses|Remplir le dossier administratif|Estimer le risque anesthésique seul
+1700000050066|Douleur à l'effort|Douleur au dérouillage bref|Douleur en fin de journée
+1700000050067|Au repos|La nuit|Au réveil prolongé
+1700000050068|Scoliose|Maladie d'Osgood-Schlatter|Pied plat
+1700000050069|Paracétamol|Bêtabloquant|Statine
+1700000050070|Café, sucre|Lait, sel|Cannabis, chocolat
+1700000050071|Cheville|Rachis cervical|Épaule
+1700000050072|Nerf sciatique|Nerf obturateur|Nerf fibulaire commun
+1700000050074|Palpation|Mobilisation|Testing musculaire
+1700000050076|Couleur, odeur, sensibilité|Pouls, tension, réflexes|Force, tonus, sensibilité
+1700000050077|Goniomètre|Échographie|Dynamomètre
+1700000050078|5 cm au-dessus de la rotule|Au niveau de la rotule|30 cm sous l'aine
+1700000050079|Ischio-jambiers|Triceps sural|Adducteurs
+1700000050080|Mètre ruban|Dynamomètre|Fil à plomb
+1700000050081|Position assise|Position de repos articulaire|Position fœtale
+1700000050082|Pronation|Position neutre|Semi-pronation
+1700000050085|Capsulite rétractile|Arthrose gléno-humérale|Luxation
+1700000050087|Examen vasculaire|Examen cutané|Examen abdominal
+1700000050088|Contre résistance, faible|Contre gravité seulement|Contraction sans mouvement
+1700000050089|Normale contre résistance|Contre gravité seulement|Sans gravité
+1700000050090|Contre résistance faible|Sans gravité|Contraction visible seule
+1700000050093|Contraction sans mouvement|Mouvement sans gravité|Contre gravité
+1700000050094|Échelle ASIA|Échelle de Glasgow|Échelle d'Ashworth
+1700000050096|IRM|Scanner|Échographie
+1700000050098|Calcification|Hémorragie|Gaz
+1700000050099|Face et oblique|Profil et axiale|Face uniquement
+1700000050100|Radiographie en charge|Incidence de Schuss|Cliché de Lequesne
+1700000050103|Rupture méniscale|Tendinite|Entorse de cheville
+1700000050104|Hypersignal|Épanchement|Calcification
+1700000050109|AFMPS|SPF Santé|Ordre des médecins
+1700000050110|Vertiges|Hypothermie|Douleur
+1700000050111|Prothèse de hanche|Plombage dentaire|Grossesse
+1700000050112|Radiographie|Scintigraphie|Scanner
+1700000050113|Tube à rayons X|Bobine magnétique|Photomultiplicateur
+1700000050114|Eau et graisse|Muscles et tendons|Sang
+1700000050116|Plus calcifié|Plus fibreux|Plus pauvre en eau
+1700000050117|Épaississement|Hyperéchogénicité|Calcification
+1700000050119|Spécifique, peu sensible|Sensible et spécifique|Ni sensible ni spécifique
+1700000050120|Os mort uniquement|Densité minérale|Lésions ligamentaires
+1700000050121|Fluor-18 FDG|Gadolinium|Iode radioactif
+1700000050124|Technétium-diphosphonate|Gallium-67|Thallium
+1700000050126|Contraste intraveineux|Contraste oral|Injection péri-articulaire
+1700000050127|Échographie|Scintigraphie|Radiographie standard
+1700000050128|Électromyographie de repos|IRM du poignet|Radiographie du poignet
+1700000050129|Amplitude de la contraction|Activité spontanée|Temps de réflexe
+1700000050130|Électroencéphalographie|Vitesse de conduction|Potentiels évoqués
+1700000050131|Silence électrique|Potentiels géants|Activité normale
+1700000050133|Entorse de cheville|Arthrose de hanche|Tendinite d'épaule
+1700000050134|Muscle|Nerf périphérique|Moelle
+1700000050135|Muscle|Nerf périphérique|Peau du membre
+1700000050136|Canal carpien|Arthrose du genou|Ostéoporose
+1700000050138|Ibuprofène|Tramadol|Morphine
+1700000050139|Foie, cœur|Poumons, peau|Cerveau, rate
+1700000050141|Acide hyaluronique|Anesthésique seul|PRP
+1700000050142|3 jours|1 semaine|Dose unique
+1700000050144|Hyalin, osseux, conjonctif|Articulaire, costal, nasal|Fibreux, spongieux, compact
+1700000050145|Fibreux|Élastique|Fibro-hyalin
+1700000050146|Ostéocytes|Fibroblastes|Synoviocytes
+1700000050149|Vascularisation directe|Vaisseaux sous-chondraux|Innervation
+1700000050152|Force de plaquage / surface|Pression × surface|Vitesse / force
+1700000050153|Rouge|Trouble verdâtre|Blanc laiteux
+1700000050155|Newtonien|Rigide|Élastique pur
+1700000050157|Lymphe|Liquide céphalo-rachidien|Bile
+1700000050158|Collagène|Albumine|Chondroïtine sulfate
+1700000050159|~2 000|~200 000|~200 millions
+1700000050160|Glucose, galactose|Acide sialique, fucose|Acide iduronique, galactosamine
+1700000050161|Chondrocytes|Ostéoblastes|Capsule fibreuse
+1700000050163|Infectieuse, tumorale, congénitale|Génétique, toxique, iatrogène|Inflammatoire, vasculaire, endocrine
+1700000050164|~5 cm²|~50 cm²|~100 cm²
+1700000050166|Ostéophyte|Géode|Sclérose sous-chondrale
+1700000050167|Infection|Calcification|Nécrose vasculaire
+1700000050169|Rupture capsulaire|Fracture|Hémorragie
+1700000050170|Géodes|Tophus|Corps étrangers
+1700000050173|Entorse de cheville|Contusion|Plaie cutanée
+1700000050174|Fracture, luxation, entorse|Dysplasie, varus, valgus|Âge, poids, sexe
+1700000050175|Polyarthrite rhumatoïde|Goutte|Spondylarthrite
+1700000050177|~5 %|~25 %|~90 %
+1700000050178|~1 %|~50 %|~90 %
+1700000050179|≥ 6 jours|≥ 5 ans|Jamais
+1700000050180|Pincement|Ostéophytose|Éburnation
+1700000050181|Calcification cartilagineuse|Hypertrophie chondrocytaire|Fissure osseuse
+1700000050182|Ostéophyte|Géode|Déminéralisation
+1700000050183|Érosions, déminéralisation, pincement, ankylose|Ostéolyse, périostite, géodes, fracture|Calcifications, érosions, ostéophytes, luxation
+1700000050184|Infection|Nécrose|Dépôt de cristaux
+1700000050186|Inflammatoire|Neuropathique|Viscérale
+1700000050188|Bouchard|Tophus|Garrod
+1700000050189|Heberden|Tophus|Dupuytren
+1700000050192|Ficat-Arlet|Outerbridge|Garden
+1700000050193|Chirurgical|Curatif|Préventif
+1700000050194|Du plus fort au plus faible|Tous en même temps|Morphine d'emblée
+1700000050195|Perte de poids|Fièvre|Inflammation
+1700000050197|Âge > 60 ans|Pincement radiologique seul|Demande du patient
+1700000050198|Fesse|Face latérale de la cuisse|Bas du dos
+1700000050200|Nerf sciatique|Nerf obturateur|Nerf fémoro-cutané
+1700000050201|Flexion|Extension|Rotation externe
+1700000050202|Flexion, extension|Rotation externe|Aucun
+1700000050204|Inégalité osseuse|Atrophie|Scoliose
+1700000050205|Bassin basculé latéralement|Pied en rotation externe|Genou en valgus
+1700000050208|Pour éviter la luxation|Coût moindre|Durée de vie plus courte
+1700000050209|Années 30|Années 90|Années 50
+1700000050210|Métal|Céramique|Titane
+1700000050211|Impaction|Vis|Hydroxyapatite
+1700000050213|Stabilisation secondaire|Cimentation|Ostéointégration
+1700000050215|Ostéoblastes|Chondrocytes|Fibroblastes
+1700000050216|Céramique / céramique|Métal / métal|Polyéthylène / polyéthylène
+1700000050217|Fragilité|Grincement|Usure rapide
+1700000050218|Métallose|Allergie|Usure rapide
+1700000050220|Antérieure|Latérale|Antéro-latérale
+1700000050223|Adducteurs|Couturier|Quadriceps
+1700000050224|Moyen fessier, grand fessier|Adducteurs, gracile|Ischio-jambiers
+1700000050225|Penrose|Blake|Lame
+1700000050226|20–30 mL|1–2 L|> 3 L
+1700000050228|Infarctus|AVC|Choc septique
+1700000050229|Bas de Redon|Bas de Kocher|Bas de Thomas
+1700000050230|Aspirine|AVK|Clopidogrel
+1700000050231|3 jours|1 an|1 semaine
+1700000050232|Augmente la ventilation|Évite l'infection|Diminue la douleur
+1700000050233|1 semaine après|J5|1 mois
+1700000050234|Extension + rotation externe|Abduction|Flexion + rotation externe
+1700000050236|Corset, attelle|Béquilles, plâtre|Traction, bandage
+1700000050238|Infection|Descellement|Fracture
+1700000050239|Extension complète|Abduction|Flexion 30° + rotation interne
+1700000050240|IRM seule|Échographie|Scintigraphie
+1700000050241|Fièvre, céphalées|Bradycardie, hypertension|Douleur du mollet seule
+1700000050242|Résistance génétique|Mauvaise absorption|Antibiotique mal choisi
+1700000050243|Gants doubles, rasage|Drain, sonde|Antibiotiques locaux, ciment
+1700000050244|Antibiothérapie à vie seule|Lavage arthroscopique|Amputation
+1700000050245|Ostéophyte|Géode isolée|Pincement
+1700000050246|IRM|Échographie|Densitométrie
+1700000050250|Infection|Luxation|Fracture
+1700000050251|Tous les mois|Tous les 10 ans|Jamais
+1700000050252|Col fémoral|Bassin|Genou
+1700000050253|~10 ans|~70 ans|~50 ans
+1700000050254|Prothèse totale|Arthrodèse|Ostéotomie de raccourcissement
+1700000050255|Fémoro-tibial, tibio-fibulaire, patellaire|Médial, latéral, postérieur|Interne, externe, postérieur
+1700000050256|Genou en X|Genou en hyperextension|Genou fléchi
+1700000050257|Externe (latéral)|Fémoro-patellaire|Aucun
+1700000050258|Genou en parenthèse|Genou recurvatum|Genou flessum
+1700000050259|Fémoro-tibiale externe|Fémoro-patellaire isolée|Tricompartimentale
+1700000050261|La montée|Plat|Aucune différence
+1700000050264|Signe du rabot|Signe de Zohlen|Signe du tiroir
+1700000050265|Décubitus dorsal|Debout|Assis
+1700000050266|Rupture du LCA|Lésion méniscale|Épanchement
+1700000050267|Flexion forcée du genou|Mobilisation latérale de la rotule|Percussion de la rotule
+1700000050269|Schuss|Face en charge|Profil strict
+1700000050271|Scanner|IRM|Scintigraphie
+1700000050273|Amortir les chocs|Corriger la longueur|Diminuer l'inflammation
+1700000050274|Viscosupplémentation|Chondroprotection|Synoviorthèse
+1700000050275|~90 %|~5 %|~60 %
+1700000050276|1 / 100|1 / 1 000|1 / 10
+1700000050278|Diagnostique uniquement|Traite l'arthrose|Prévient l'infection
+1700000050281|Totale|Charnière|Fémoro-patellaire
+1700000050283|Spacer en céramique|Ciment|Rotule métallique
+1700000050284|Ostéotomie de varisation|Arthrodèse|Prothèse totale
+1700000050286|Ostéotomie de valgisation|Opération de Grammont|Opération de Latarjet
+1700000050287|1 mm|5 cm|3 cm
+1700000050290|Deltoïde|Sous-scapulaire|Infra-épineux
+1700000050292|Prothèse anatomique|Hémi-arthroplastie|Resurfaçage
+1700000050294|Neer|Charnley|Maquet
+1700000050295|Métacarpo-phalangienne|Scapho-trapézienne|Radio-carpienne
+1700000050296|Prothèse, arthrodèse|Trapézectomie|Ostéotomie
+1700000050298|Infiltration seule|Arthrodèse|Ostéotomie
+1700000050300|Prothèse|Ostéotomie|Arthroscopie
+1700000050301|Ablation articulaire|Remplacement prothétique|Ostéotomie correctrice
+1700000050302|> 200|> 2 000|> 200 000
+1700000050303|Infection osseuse|Fracture de fatigue|Déminéralisation
+1700000050304|Géode|Ostéophyte|Cal
+1700000050305|Anastomotique|Collatérale riche|Double
+1700000050306|Artère fémorale profonde|Artère obturatrice seule|Artère glutéale
+1700000050307|Fracture de la diaphyse|Fracture du bassin|Entorse de hanche
+1700000050309|Corticothérapie|Drépanocytose|Plongée
+1700000050310|Alcoolisme|Diabète|Hypothyroïdie
+1700000050311|Thrombose artérielle|Infection|Œdème osseux
+1700000050312|Polyarthrite rhumatoïde|Sarcoïdose|Spondylarthrite
+1700000050313|Thalassémie|Hémophilie|Sphérocytose
+1700000050314|Diabétiques|Hypertendus|Cardiaques
+1700000050316|Paget, ostéoporose, goutte|Diabète, HTA, obésité|Lyme, tuberculose, syphilis
+1700000050317|Tête fémorale|Talus|Condyle fémoral
+1700000050318|Hyperoxie|Hypothermie|Compression des vaisseaux
+1700000050319|Chimiothérapie|Hormonothérapie|Immunothérapie
+1700000050320|Talus, semi-lunaire, scaphoïde|Tête fémorale, talus, rotule|Col fémoral, coude, poignet
+1700000050321|Tête humérale|Condyle interne|Talus
+1700000050326|Double contour|Verre dépoli|Os dans l'os
+1700000050327|Halo sign|Fallen fragment|Double line sign
+1700000050329|Genou|Fesse|Bas du dos
+1700000050330|Lombaires|Plantaires|Abdominales
+1700000050331|Extension, adduction|Rotation externe|Aucun
+1700000050332|Extension, adduction|Flexion, rotation externe|Aucun
+1700000050333|> 70 ans, ostéoporose|Enfant, traumatisme|Femme ménopausée
+1700000050336|Kellgren-Lawrence|Garden|Outerbridge
+1700000050338|Effondrement du séquestre|Radio normale|Image en coquille d'œuf
+1700000050339|Hyperfixation|Fixation normale|Fixation diffuse
+1700000050341|Scintigraphie plus spécifique|IRM irradiante|IRM moins sensible
+1700000050342|Scintigraphie|Scanner|Radiographie
+1700000050343|Hypersignal T1 diffus|Calcification|Signal normal
+1700000050344|Âge du patient|Taille de la nécrose seule|Cause de la nécrose
+1700000050345|Prothèse|Ostéotomie|Arthrodèse
+1700000050348|Ablation du séquestre|Fixation|Remplacement
+1700000050350|Forage|Décharge|Ostéotomie
+1700000050351|Totale|Resurfaçage|Cotyle seul
+1700000050353|Luxation|Descellement immédiat|Coût
+1700000050355|Base en haut|Latérale|Centrale
+1700000050357|Enfant|Adolescent|Femme âgée
+1700000050358|Instabilité|Déformation|Fièvre
+1700000050360|Prothèse|Forage|Ostéotomie
+1700000050361|Allogreffe massive|Chondroplastie|Microfracture
+1700000050362|Zone portante|Condyle interne|Plateau tibial
+1700000050363|Plâtre|Ciment|Suture
+1700000050364|Varisation|Raccourcissement|Rotation
+1700000050366|Supéro-externe|Postérieur|Inféro-externe
+1700000050368|Genou|Coude|Cheville
+1700000050369|Radiographie|Échographie|Arthroscanner
+1700000050370|Alcoolique|Corticoïdes|Idiopathique
+1700000050371|Fracture ouverte|Luxation|Contusion
+1700000050373|Coin supéro-latéral|Col|Tête
+1700000050375|Maladie de Preiser|Maladie de Freiberg|Maladie de Köhler
+1700000050376|Hyperlaxité|Lésion du TFCC|Scaphoïde court
+1700000050377|Positive|Neutre|Variable
+1700000050378|Travail de bureau|Port de charges|Station debout
+1700000050381|Allonger le radius|Prothèse du poignet|Résection du semi-lunaire seule
+1700000050382|Maladie de Köhler I|Maladie de Sever|Maladie de Kienböck
+1700000050383|Enfant de 5 ans|Sujet âgé|Nourrisson
+1700000050385|Köhler I|Sever|Osgood

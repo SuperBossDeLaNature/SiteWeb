@@ -1,0 +1,110 @@
+1795017229095|> 30 % / > 40 %|> 10–15 % / > 20 %|> 25 % / > 25 %
+1795017229097|Le poids ne tient pas compte de l'âge|Le poids varie trop au cours de la journée|Le poids ne tient pas compte de la répartition de l'eau
+1795017229099|Poids (kg) / taille (m)|Taille (cm) / poids² (kg)|Poids (kg) × taille² (m²)
+1795017229101|20–26,9 / 27–31,9|18–22,9 / 23–27,9|16–21,9 / 22–29,9
+1795017229103|25–29,9 / 30–34,9 / ≥ 35|30–39,9 / 40–49,9 / ≥ 50|28–32,9 / 33–37,9 / ≥ 38
+1795017229105|BMI ≥ 30 associé à au moins une comorbidité|Tour de taille élevé quel que soit le BMI|Excès de poids par rapport à la taille, sans autre critère
+1795017229107|Essentiellement génétiques|Essentiellement comportementales (excès d'apports)|Essentiellement endocriniennes
+1795017229109|Clinique : BMI ≥ 40 – Pré-clinique : BMI 30–39,9|Clinique : obésité symptomatique – Pré-clinique : surpoids|Clinique : obésité viscérale – Pré-clinique : obésité sous-cutanée
+1795017229111|De critère diagnostique unique chez l'individu|De mesure de la masse grasse individuelle|De critère d'indication de la chirurgie bariatrique seul
+1795017229113|BMI seul répété à 3 mois|Dosage de la leptine|Pesée hydrostatique en consultation
+1795017229115|BMI ≥ 40 sans autre critère|Obésité + antécédents familiaux d'obésité|Adiposité excessive avec fonction des organes préservée
+1795017229117|50 % / 20 % / 2 %|80 % / 50 % / 15 %|45 % / 30 % / 10 %
+1795017229119|↓ BMI moyen ; proportion de poids normal 50 → 55 %|Stable depuis 20 ans|↑ uniquement de l'obésité extrême, poids normal stable
+1795017229121|Linéaire croissante|Exponentielle à partir de BMI 25|Plate (aucune relation)
+1795017229123|Oui, il protège des maladies CV|Oui, c'est le BMI de mortalité minimale|Non, car il est toujours dû à l'anorexie mentale
+1795017229125|~+5 %|~+75 %|~+100 %
+1795017229127|Non : le risque disparaît après ajustement|Non : il ne passe que par l'HTA|Oui, mais uniquement chez la femme
+1795017229129|Dilution isotopique, densité corporelle|Pesée hydrostatique, IRM corps entier|Calorimétrie indirecte, plis cutanés
+1795017229131|Plis cutanés, impédancemétrie|DEXA, tour de taille|BMI, rapport taille/hanche
+1795017229133|Irradiante|Coût élevé|Surestime toujours la masse grasse des obèses
+1795017229135|La masse grasse conduit, la masse maigre quasi pas → estime la graisse totale|Absorption des rayons X à deux énergies|Déplacement d'eau à l'immersion
+1795017229137|Masse maigre = H₂O × 0,73 – Masse grasse = poids – masse maigre|Masse grasse = H₂O / 0,73 – Masse maigre = poids – masse grasse|Masse maigre = poids × 0,73
+1795017229139|Irradiantes|Surestiment systématiquement l'eau|Inutilisables chez les obèses
+1795017229141|Dual Energy X-ray Absorptiometry (os uniquement)|Densitometric Evaluation of X-ray Adiposity|Double Energy Extracellular Assessment
+1795017229143|Faible (r ~0,30)|Nulle|Parfaite (r = 1)
+1795017229145|> 80 / > 88 cm|> 88 / > 94 cm|> 102 / > 110 cm
+1795017229147|> 94 / > 102 cm|> 70 / > 80 cm|> 88 / > 94 cm
+1795017229149|Pomme : hanches – Poire : abdominale|Pomme : sous-cutanée – Poire : viscérale|Pomme : gynoïde – Poire : androïde
+1795017229151|Oui, le tour de taille mesure la graisse viscérale|Oui, à BMI égal|Oui, s'ils ont le même sexe
+1795017229153|Il augmente même sans prise de graisse|Il dépend de l'heure de la mesure|Il surestime toujours le risque chez la femme
+1795017229155|Prévalence CV indépendante de la graisse viscérale|Prévalence CV ↑ avec la graisse sous-cutanée seule|Prévalence CV ↓ avec la graisse viscérale
+1795017229157|Le BMI prédit mieux l'IDM que le rapport taille/hanche|Aucun des deux ne prédit l'IDM|Les deux sont équivalents après ajustement
+1795017229159|Elle augmente quand le BMI ↑|Elle reste constante|Elle n'existe qu'au-delà d'un BMI de 40
+1795017229161|Génétiques – infectieuses – environnementales – psychiatriques|Endocriniennes – rénales – génétiques – tumorales|Comportementales – hépatiques – génétiques – iatrogènes
+1795017229163|Addison – hyperthyroïdie – phéochromocytome|Lésion hypothalamus latéral – Addison – hyperthyroïdie|Acromégalie – hyperaldostéronisme – glucagonome
+1795017229165|Monogéniques fréquentes – polymorphismes rares|Uniquement mutations du gène de la leptine|Uniquement anomalies chromosomiques
+1795017229167|Excès de sommeil – niveau socio-économique élevé|Activité physique – alimentation peu calorique|Altitude – climat chaud
+1795017229169|Médicaments anorexigènes|Hormones thyroïdiennes|Diurétiques
+1795017229171|La souris normale devient obèse|Les deux souris maigrissent|La souris ob reste obèse
+1795017229173|La souris db maigrit|Les deux deviennent obèses|Aucun changement
+1795017229175|ob : récepteur déficient – db : pas de leptine|ob et db : pas de leptine|ob : excès de leptine – db : pas de leptine
+1795017229177|Hypothalamus → tissu adipeux|Estomac → hypothalamus|Pancréas → foie
+1795017229179|↑ prise alimentaire ; ↓ dépenses|↓ prise alimentaire ; ↓ dépenses|↑ prise alimentaire ; ↑ dépenses
+1795017229181|↑ prise alimentaire, ↓ VO₂, ↑ poids|Aucun effet (résistance)|↓ prise alimentaire mais ↑ poids
+1795017229183|Obésité tardive modérée sans hyperphagie|Maigreur sévère avec hypophagie|Obésité précoce avec dépense de repos effondrée
+1795017229185|Oui, c'est la cause habituelle|Oui, indétectable|Non : normale, indépendante de la masse grasse
+1795017229187|24 / 26 / 28|26 / 26 / 26|31 / 35 / 40
+1795017229189|Le BMI des adoptés suit celui des parents adoptifs|Aucune corrélation avec les parents|Corrélation avec les frères et sœurs adoptifs seulement
+1795017229191|BMI proches seulement si élevés ensemble|BMI aussi différents que chez les dizygotes|BMI proches chez les dizygotes, pas les monozygotes
+1795017229193|+10 kg|+0,3 kg|+20 kg
+1795017229195|4|340|1 000
+1795017229197|12|1 460|5
+1795017229199|Dans les exons codants|Sur le chromosome Y|Dans l'ADN mitochondrial
+1795017229201|Dans le tissu adipeux|Dans le foie|Dans le muscle squelettique
+1795017229203|Les dépenses énergétiques de repos|La thermogenèse du BAT|L'absorption intestinale
+1795017229205|~10 kg de graisse/an|~100 g de graisse/an|Aucun effet à long terme
+1795017229207|Aucun lien|Plus de temps devant la TV, plus le BMI ↓|Lien uniquement chez l'adulte âgé
+1795017229209|Transport actif → BMI plus élevé|Aucun lien|Lien uniquement pour la marche
+1795017229211|Les changements d'environnement|L'âge|Le niveau socio-économique
+1795017229213|Les facteurs génétiques|Les mutations de la leptine|Le vieillissement de la population seul
+1795017229215|Entrées > sorties|Entrées < sorties|Le métabolisme basal est nul
+1795017229217|Métabolisme basal 30–40 % – thermogenèse 30 % – activité 30–40 %|Métabolisme basal 10–15 % – thermogenèse 65–75 % – activité 15–25 %|Métabolisme basal 45 % – thermogenèse 5 % – activité 50 %
+1795017229219|Masse grasse, fonction surrénalienne, taille|Masse grasse, glycémie, sexe|Taille, apports alimentaires, saison
+1795017229221|Activité physique, sommeil, stress|Alimentation, chaleur, alcool|Masse maigre, âge, sexe
+1795017229223|Calorimétrie directe en chambre|Eau doublement marquée|Impédancemétrie
+1795017229225|La masse grasse|Le poids total|La taille
+1795017229227|5 % / 10 % / 50 %|40 % / 10 % / 10 %|10 % / 30 % / 40 %
+1795017229229|20 % (pour 20 % du poids)|0 %|12 % (pour 20 % du poids)
+1795017229231|↑ dépense par ↑ thermogenèse|↓ absorption intestinale|↓ masse grasse seule, dépense inchangée
+1795017229233|Le modèle statique prédit le ralentissement observé|Les deux prédisent une perte linéaire|Le modèle dynamique prédit une perte accélérée
+1795017229235|IRM après exposition au chaud|Scintigraphie au MIBG au repos|Échographie après repas
+1795017229237|Sous-cutané abdominal, fessier, cuisses|Mésentérique, épiploïque|Intramusculaire uniquement
+1795017229239|Accélère la synthèse d'ATP|Hydrolyse les triglycérides en chaleur|Stimule la glycolyse anaérobie
+1795017229241|Plus détecté en été|Pas de variation|Plus détecté au printemps
+1795017229243|~1 500 kcal/j|~15 kcal/j|~500 kcal/j chez tous
+1795017229245|–5,3 % de dépense|+25 % de dépense|Aucun effet
+1795017229247|Plus élevée|Identique|Absente chez tous
+1795017229249|BAT : pauvre en mitochondries, réserve – WAT : thermogenèse|BAT et WAT : réserve énergétique|BAT : sécrétion de leptine – WAT : thermogenèse
+1795017229251|Linéaire (apports ↑ avec le BMI)|Exponentielle|Inverse : apports déclarés plus élevés chez les minces seulement
+1795017229253|20 % – 100 ± 50 kcal/j|50 % – 300 ± 150 kcal/j|95 % – 1 500 ± 500 kcal/j
+1795017229255|45 % vs 20 %|5 % vs 10 %|20 % vs 20 %
+1795017229257|Fiable → on s'y fie|Fiable seulement chez l'obèse|Pas fiable → on s'intéresse aux apports en laboratoire
+1795017229259|Hypothyroïdie, anémie, ostéoporose|Insuffisance surrénalienne, hypotension|Hyperthyroïdie, maigreur, ostéoporose
+1795017229261|↓ avec le BMI|Indépendante du BMI|↑ seulement chez la femme
+1795017229263|Oui, tous|Oui, et jamais les minces|Non, aucun ne l'est
+1795017229265|La graisse sous-cutanée (r = –0,69)|La graisse fessière (r = +0,69)|Le BMI (r = –0,20)
+1795017229267|Insulinémie plus basse|Insulinémie identique|Glycémie plus basse
+1795017229269|Oui : l'hyperinsulinisme précède toujours|Oui : l'insulinorésistance précède toujours|Oui : c'est la leptine
+1795017229271|↓ AGL + ↑ adiponectine|↑ leptine seule|↓ TNF-α + ↑ adiponectine
+1795017229273|Cerveau et rein|Uniquement le muscle|Uniquement le foie
+1795017229275|Hypoglycémies, hypotension|DT1, hypocholestérolémie|Insuffisance rénale aiguë, hypokaliémie
+1795017229277|Non, définitivement|Seulement sous insuline|Seulement sous metformine
+1795017229279|Drainage cave → charge faible d'AGL au foie|Drainage lymphatique → AGL au poumon|Drainage portal → charge élevée de glucose au rein
+1795017229281|Lipolyse ↓ (↓ récepteurs β, ↑ α2)|Lipolyse ↑ (↓ récepteurs β, ↑ α2, ↑ action de l'insuline)|Lipogenèse ↑ (↑ action de l'insuline)
+1795017229283|↓ IL-6, résistine – ↑ adiponectine|↑ adiponectine, leptine – ↓ RBP4|↑ adiponectine seule
+1795017229285|La résistine|Le TNF-α|L'IL-6
+1795017229287|Rénine, aldostérone, BNP|Insuline, glucagon, GLP-1|Adrénaline, cortisol, ADH
+1795017229289|Hypoglycémies, ↓ PA, état anti-thrombotique|↑ HDL, ↓ TG, ↓ PA|Hypercholestérolémie familiale isolée
+1795017229291|↓ TG, ↑ HDL, LDL grosses|↑ LDL isolée, HDL normal|↑ HDL, ↑ TG, LDL grosses
+1795017229293|Étroite mais seulement au-delà d'un BMI de 35|Faible|Inverse
+1795017229295|Risque ↓ avec le BMI|Aucun lien|Risque ↑ seulement au-delà de BMI 40
+1795017229297|Au moins 2 sur 5|Au moins 4 sur 5|Les 5
+1795017229299|H ≥ 94 – F ≥ 80 cm|H ≥ 88 – F ≥ 102 cm|H ≥ 110 – F ≥ 100 cm
+1795017229301|≥ 200 mg/dl|≥ 100 mg/dl|≥ 250 mg/dl
+1795017229303|H ≤ 50 – F ≤ 40 mg/dl|H ≤ 35 – F ≤ 35 mg/dl|H ≤ 60 – F ≤ 60 mg/dl
+1795017229305|PA ≥ 140/90 – glycémie ≥ 126 mg/dl|PA ≥ 120/80 – glycémie ≥ 110 mg/dl|PA ≥ 160/95 – glycémie ≥ 140 mg/dl
+1795017229307|Oui, identiques partout|Non, dépendent uniquement de l'âge|Oui, mais pas chez l'enfant
+1795017229309|Majeur : traitement spécifique du syndrome|Il impose l'insuline|Il remplace le calcul du risque CV
+1795017229311|Risque ↓ par 5 kg/m²|Aucun effet|Risque ↑ uniquement pour le cancer du poumon
+1795017229313|Effets mitogènes réduits, effets métaboliques conservés|Il bloque l'IGF-1|Il augmente l'apoptose

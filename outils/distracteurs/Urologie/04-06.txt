@@ -1,0 +1,166 @@
+1731940200297|Mictions fréquentes de petits volumes|Besoin urgent d'uriner|Fuites nocturnes uniquement
+1731940200298|Absence de toute miction|Miction volontaire uniquement le matin|Vessie vide en permanence
+1731940200299|Contraction vésicale + contraction urétrale|Relaxation vésicale + relaxation urétrale|Relaxation vésicale + contraction urétrale
+1731940200300|Aiguë, chronique, nocturne|Primaire, secondaire, tertiaire|Neurologique, infectieuse, tumorale
+1731940200303|≈ 100 000|≈ 5 millions|≈ 10 000
+1731940200304|≈ 15 €|≈ 15 000 €|≈ 150 €
+1731940200305|1 %|50 %|35 %
+1731940200307|1 %|50 %|75 %
+1731940200308|Obstruction urétrale|Feedback positif inefficace|Excès d'ADH
+1731940200309|↓ forces d'expulsion, ↑ résistances urétrales|↑ résistances, ↑ forces|↓ diurèse, ↑ capacité vésicale
+1731940200310|Fuite à la toux|Mictions nocturnes|Rétention après effort
+1731940200311|Contraction volontaire du périnée|Infection urinaire chronique|Atrophie vaginale
+1731940200312|Hyperactivité vésicale|Incontinence d'effort légère|Énurésie
+1731940200314|Fuites à l'effort|Mictions fréquentes|Besoin urgent diurne
+1731940200315|Mictions nocturnes|Mictions difficiles|Grandes mictions rares
+1731940200316|Prostate, sphincter interne, détrusor|Muscles abdominaux, diaphragme thoracique|Ovaires, trompes, ligaments ronds
+1731940200317|Rétention d'urine chronique|Descente de la vessie dans l'abdomen|Hernie inguinale
+1731940200319|Excès d'œstrogènes, hypertrophie muqueuse|↑ vascularisation, ↑ collagène|Prise de poids, diabète
+1731940200320|Asiatiques > noires > blanches|Noires > blanches > asiatiques|Aucune différence
+1731940200323|Natation|Yoga|Marche
+1731940200324|Spironolactone|Acétazolamide|Amiloride
+1731940200325|Effet direct de la nicotine sur le détrusor|Atrophie muqueuse|Neuropathie
+1731940200326|Constipation → rétention vésicale|Laxatifs → incontinence|Constipation → infection
+1731940200327|Fuite à l'effort|Dysurie|Hématurie
+1731940200329|> 4 mictions/24 h|> 15 mictions/24 h|> 12 mictions/24 h
+1731940200331|Basse|Nulle|Négative
+1731940200334|Hernie discale lombaire, diabète|Migraine, épilepsie|Myasthénie, Guillain-Barré
+1731940200335|Anticholinergiques|β3-mimétiques|Œstrogènes vaginaux
+1731940200337|Urétrocystographie rétrograde|Débitmétrie seule|Scanner pelvien
+1731940200338|Le cœur|Le foie|Les poumons
+1731940200339|↓ capacité et délai mictionnel|Rétention volontaire|Diurèse augmentée
+1731940200341|10 %|90 %|25 %
+1731940200342|Neuromodulation sacrée|Toxine botulique|Chirurgie d'agrandissement
+1731940200343|Anticholinergiques|β3-mimétiques|Rééducation
+1731940200345|9|36|60
+1731940200346|Relaxent le sphincter|Augmentent la diurèse|Stimulent le récepteur β3
+1731940200348|5 %|90 %|20 %
+1731940200350|Glaucome à angle ouvert traité|HTA|Diabète
+1731940200351|La fonction rénale|La glycémie|Le PSA
+1731940200352|Insomnie, agitation, hallucinations sévères systématiques|Convulsions|Hypersalivation
+1731940200354|Toujours remboursés|Jamais remboursés|Seulement chez la femme
+1731940200356|Oxybutynine, solifénacine|Tamsulosine, silodosine|Finastéride, dutastéride
+1731940200357|Glaucome à angle fermé|Constipation|Démence
+1731940200358|2 jours|1 an|1 semaine
+1731940200360|Patient hypertendu non contrôlé|Patient avec rétention chronique|Femme enceinte
+1731940200361|Mirabégron|Trospium|Vibégron
+1731940200362|Femme jeune non ménopausée|Homme avec HBP|Femme sous chimiothérapie
+1731940200366|Nerf pudendal|Nerf fémoral|Nerf sciatique
+1731940200367|≥ 10 %|100 %|≥ 90 %
+1731940200368|6 mois|30 ans|1 an
+1731940200369|IUE pure, prolapsus|HBP, cancer de vessie|Lithiase, infection
+1731940200370|Stimule la libération d'acétylcholine|Bloque les récepteurs β3|Détruit les fibres musculaires
+1731940200371|Sous-cutanée|Intraveineuse|Dans le sphincter externe
+1731940200373|L'IUE systématiquement|L'hyperactivité systématiquement|Les deux par chirurgie
+1731940200374|Le robinet|Le tuyau|L'eau
+1731940200376|Oui, toujours|Oui, majeures|Uniquement la nuit
+1731940200377|IUE|Les deux également|Aucune des deux
+1731940200378|IUE légère|Identique|Aucun
+1731940200380|Toux|Rire|Coït
+1731940200381|Passage assis → debout|Repos allongé|Marche lente
+1731940200384|Insuffisance sphinctérienne majeure|Hyperactivité vésicale|Désir de grossesse
+1731940200386|Bandelette contre-indiquée par la loi|Bandelette tératogène|Risque de rétention fœtale
+1731940200387|Taux de complications plus élevé chez la jeune|Anesthésie impossible|Remboursement refusé
+1731940200388|Insuffisance sphinctérienne|Infection|Prolapsus
+1731940200390|Bandelette sous-urétrale|Neuromodulation sacrée|Injection de toxine
+1731940200391|Fuites à l'effort isolées|Nycturie isolée|Pollakiurie
+1731940200393|Stade 1|Stade 0|Stade 2
+1731940200394|10 minutes|2 heures|5 minutes
+1731940200395|Absence de désir sexuel|Éjaculation précoce|Douleur à l'érection
+1731940200397|≈ 60 000|≈ 6 millions|≈ 20 000
+1731940200398|Un dixième|La quasi-totalité|Un quart
+1731940200399|2 à 3 mois|10 à 15 ans|Elle ne le précède jamais
+1731940200400|Vaisseaux de plus gros calibre|Absence d'endothélium|Pression plus basse
+1731940200407|GMPc|IP3|Calcium
+1731940200408|NOS inductible des macrophages|Synthèse hépatique|Plaquettes
+1731940200409|Hyperactivité vésicale|Insuffisance surrénalienne|Dysthyroïdie
+1731940200410|Contraction des artères caverneuses|Contraction du corps spongieux seul|Relaxation de l'albuginée
+1731940200411|En périphérie|Sous la peau|Dans le gland uniquement
+1731940200413|Anéjaculation|Maladie de La Peyronie|Hypospadias
+1731940200414|Phimosis|Priapisme|Maladie de Fournier
+1731940200415|IEC|Inhibiteurs calciques|Sartans
+1731940200416|Antibiotiques, IPP|Paracétamol, AINS|Insuline, metformine
+1731940200417|Après une période normale|Uniquement situationnelle|Liée à l'âge
+1731940200418|A toujours existé|Liée à un médicament uniquement|Congénitale
+1731940200421|Psychogène|Situationnelle|Mixte aiguë
+1731940200422|Hommes âgés diabétiques|Hommes après prostatectomie|Hommes sous dialyse
+1731940200424|Prolactinome|Cirrhose isolée|Hypothyroïdie
+1731940200425|Hyperthyroïdie seule|Addison, Cushing|Diabète insipide
+1731940200427|Dosage du PSA|Spermogramme|Échographie testiculaire
+1731940200429|Inhibent la dégradation de l'AMPc|Stimulent la NOS|Bloquent les récepteurs α
+1731940200430|Bêta-bloquants|Statines|Anticoagulants
+1731940200433|Bradycardie, hypertension|Hypoglycémie, sueurs|Diarrhée, nausées sévères
+1731940200435|Tadalafil (30 min)|Sildénafil (15 min)|Vardénafil (5 min)
+1731940200437|36 h|1 h|24 h
+1731940200438|30 min|6 h|15 min
+1731940200440|Sildénafil, vardénafil|Sildénafil seul|Tous
+1731940200441|Cialis|Viagra|Spedra
+1731940200442|Levitra|Viagra|Spedra
+1731940200444|Analogue de la testostérone|Inhibiteur de PDE5|Agoniste α-adrénergique
+1731940200445|Diabète, HTA|Âge > 60 ans|Prise d'iPDE5 antérieure
+1731940200447|Absence d'injection|Prise orale|Aucun risque de priapisme
+1731940200448|iPDE5|Injection intracaverneuse|Testostérone
+1731940200449|Valve de surpression|Médicament associé|Contraction volontaire
+1731940200450|Priapisme|Hématurie|Phimosis
+1731940200451|Externes, internes|Métalliques, plastiques|Gonflables, chauffantes
+1731940200452|Silicone liquide|Air|Glycérine
+1731940200453|Intra-abdominale|Sous-cutanée abdominale|Dans le gland
+1731940200454|Prolactine|Cortisol|Œstradiol
+1731940200455|Une hyperthyroïdie|Un diabète|Une démence
+1731940200458|15 %|0,1 %|5 %
+1731940200459|30–60 / 100 000|0,3–0,6 / 100 000|100 / 100 000
+1731940200460|36 %|56 %|99,9 %
+1731940200462|Varicocèle|Hydrocèle|Traumatisme scrotal
+1731940200464|Varicocèle, spermatocèle|Hernie inguinale|Hypospadias, épispadias
+1731940200465|Infectieux (oreillons)|Traumatique|Toxique (tabac)
+1731940200466|Masse toujours douloureuse|Toujours bilatérale|Marqueurs toujours négatifs
+1731940200468|60–70 %|5 %|90 %
+1731940200469|30–40 %|95 %|5 %
+1731940200472|Hématogène|Par contiguïté|Péritonéale
+1731940200475|AFP très élevée|βHCG très élevée|LDH spécifique
+1731940200476|Malin agressif|Toujours métastatique|Sécrétant
+1731940200477|80 %|0 %|50 %
+1731940200478|Séminome|Tumeur du sac vitellin|Choriocarcinome
+1731940200479|Sertolinome|Séminome|Gonadoblastome
+1731940200480|50 %|1 %|30 %
+1731940200482|Hydrocèle|Hypervascularisation|Kystes
+1731940200483|Orchidectomie|Biopsie annuelle|Aucun suivi
+1731940200485|Translucide|Identique à l'hydrocèle|Positive
+1731940200486|Constants|Fièvre élevée|Rougeur scrotale
+1731940200487|Fièvre, brûlures mictionnelles|Hématurie|Priapisme
+1731940200488|Cervicales, poplitées|Épitrochléennes|Occipitales
+1731940200489|Hyperéchogène|Anéchogène|Isoéchogène homogène
+1731940200491|CT injecté|Scintigraphie|PET-FDG
+1731940200492|Uniquement après|Uniquement avant|Uniquement si métastases
+1731940200495|Cytotrophoblaste|Cellules de Leydig|Sac vitellin
+1731940200496|AFP|βHCG|PSA
+1731940200498|Moitié toutes les 24 heures|Moitié tous les 3 mois|Elle augmente
+1731940200499|Scrotale|Périnéale|Abdominale médiane
+1731940200501|Le testicule|L'épididyme|Le scrotum
+1731940200502|Diagnostique et esthétique|Uniquement diagnostique|Uniquement préventive
+1731940200503|Tumeur > 5 cm|Marqueurs très élevés|Métastases pulmonaires
+1731940200504|Exclure une torsion|Évaluer la fertilité|Rechercher une varicocèle
+1731940200505|Non, jamais|Oui, par voie scrotale|Non, obligatoirement 1 an après
+1731940200508|10 %|95 %|0 %
+1731940200510|20–30 %|100 %|50 %
+1731940200512|Orchidectomie|Chimiothérapie|Radiothérapie
+1731940200513|Scintigraphie osseuse|Échographie abdominale seule|IRM cérébrale
+1731940200516|Inguinal|Iliaque externe|Axillaire
+1731940200517|Sus-claviculaire droit|Cervical haut|Axillaire
+1731940200518|Âge > 40 ans, séminome, AFP élevée|Tumeur droite, cryptorchidie|Marqueurs négatifs, stade I
+1731940200519|Lithiase urétérale|Lymphome|Fibrose rétropéritonéale
+1731940200520|58 %|78 %|38 %
+1731940200522|Radiothérapie cérébrale systématique|Greffe de testicule|Hormonothérapie
+1731940200523|Négatifs avant l'orchidectomie|Normaux après chimio|Dosés une seule fois
+1731940200524|J1 et J2|M6 et M12|J30 et M6
+1731940200525|J1 post-op|1 an post-op|2 semaines post-op
+1731940200526|Marqueurs + TDM / 2 ans|Marqueurs / semaine|TDM / mois
+1731940200527|Scintigraphie osseuse|IRM pelvienne|Échographie
+1731940200528|Sang dans la vaginale|Dilatation veineuse|Kyste de l'épididyme
+1731940200531|Dilatation du plexus pampiniforme|Liquide clair dans la vaginale|Tumeur de l'épididyme
+1731940200533|Veine rénale droite|Veine iliaque interne|Veine porte
+1731940200534|Douleur brutale nocturne|Fièvre et brûlures|Masse dure indolore
+1731940200535|Risque de cancer|Risque de torsion|Esthétique uniquement
+1731940200536|Sclérothérapie orale|Antibiothérapie|Compression élastique
+1731940200538|Torsion|Tumeur|Hydrocèle
+1731940200539|L'hydrocèle|Le testicule|L'épididyme

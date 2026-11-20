@@ -1,0 +1,137 @@
+1794988259602|À plat strict|Trendelenburg|Surélevée à 60°
+1794988259603|30-50 mmHg|110-130 mmHg|50-60 mmHg
+1794988259613|Engagement sous-falcoriel|Engagement amygdalien|Engagement transtentoriel ascendant
+1794988259614|Ponction lombaire|Dérivation ventriculo-péritonéale|Crâniectomie
+1794988259625|Hausse|Stabilité|Oscillations régulières
+1794988259632|Identique à l'adulte|Très élevée|> 20 mmHg
+1794988259645|Ondes B (Lundberg)|Ondes C (Lundberg)|Ondes P
+1794988259647|Céphalées + vomissements|Œdème papillaire isolé|Diplopie + acouphènes
+1794988259655|10-15 mmHg|0-1 mmHg|15-20 mmHg
+1794988259667|Effacement de la grande citerne|Pneumocéphalie|Calcifications
+1794988259679|≈ 500 ml|≈ 2500 ml|≈ 900 ml
+1794988259702|Capteur sur la fontanelle|Doppler transcrânien|Ponction lombaire
+1794988259705|0-5 mmHg|20-25 mmHg|25-40 mmHg
+1794988259731|Hypernatrémie|Hypokaliémie|Hypercalcémie
+1794988259735|Le soir|Après l'effort|En position debout
+1794988259759|Tumeur, hématome, abcès|Papillome, hydrocéphalie, AVC|Méningite, HTA, diabète
+1794988259788|Hypocapnie|Hyperoxie|Alcalose
+1794988259800|Cytotoxique|Osmotique|Interstitiel
+1794988259822|Faisceau spino-thalamique|Faisceau cortico-nucléaire seul|Cordons postérieurs
+1794988259823|≈ 150 ml|≈ 500 ml|≈ 20 ml
+1794988259834|Nerf VI|Nerf IV|Nerf V
+1794988259845|Vasoconstriction artérielle|Diminution du parenchyme|Augmentation de la résorption
+1794988259849|Triade de Hakim|Triade de Beck|Triade de Charcot
+1794988259857|Traumatisme crânien|AVC ischémique|Hématome sous-dural
+1794988259864|↓ TA|↑ PIC|↓ Fréquence respiratoire
+1794988259868|Épines iliaques antérieures|Pointe des omoplates|Ombilic
+1794988259872|PIC constante|Volume sanguin constant|Sécrétion de LCR constante
+1794988259881|50-100 ml|2000 ml|150 ml
+1794988259884|Homolatérale|Bilatérale|Variable
+1794988259887|Hypersécrétion de LCR|Vasoconstriction|Hémorragie
+1794988259910|Pouls et sommeil|Respiration et posture|Toux et déglutition
+1794988259914|L1-L2|T12-L1|S1-S2
+1794988259915|Communicante|À pression normale|Ex vacuo
+1794988259931|Vasogénique|Interstitiel|Osmotique
+1794988259937|Temporal|Sous-falcoriel|Central diencéphalique
+1794988259952|Myosis|Pupilles normales réactives|Anisocorie fluctuante
+1794988259955|≈ 3 heures|≈ 3 jours|≈ 3 mois
+1794988259959|Craniopharyngiome|Médulloblastome|Méningiome
+1794988259976|Vasoconstriction|Chasse du LCR|Diminution du volume cérébral
+1794988259980|PIC > 10 mmHg|PIC > 40 mmHg|PIC > 15 cmH2O
+1794988259988|Coma, mydriase|Triade de Cushing|Hémiplégie
+1794988259991|Plexus choroïdes|Épendyme|Aqueduc de Sylvius
+1794988259998|Ponction lombaire|Doppler fœtal|Fond d'œil seul
+1794988260002|≈ 30 ml|≈ 500 ml|≈ 300 ml
+1794988260024|≈ 800 ml|≈ 3000 ml|≈ 1100 ml
+1794988260083|Assis penché en avant|Décubitus ventral|Décubitus dorsal
+1794988260095|Osseux, cutané, méningé|Cérébral, osseux, vasculaire|Neuronal, glial, vasculaire
+1794988260098|Hémorragies rétiniennes|Atrophie optique|Cotton wool spots
+1794988260108|Loi de Starling|Loi de Laplace|Loi de Poiseuille
+1794988260113|0-5 cmH2O|30-50 cmH2O|20-30 cmH2O
+1794988260123|Variable|Variable selon la TA|Extensible chez l'adulte
+1794988260139|Lobectomie|Drainage lombaire|Hémisphérectomie
+1794988260157|Infection ou tumeur|Hypertension ou hypotension|↓ d'un compartiment ou atrophie
+1794988260165|PPC = PIC − PAM|PPC = PAS − PIC|PPC = PAM × PIC
+1794988260166|Sang → cerveau|Diurèse de sodium|Diminution de la sécrétion de LCR
+1794988260184|Œdème, hydrocéphalie|Vasodilatation, hypercapnie|Hypersécrétion de LCR
+1794988260206|Céphalées matinales|Œdème papillaire isolé|Vomissements en jet
+1794988260217|Vomissements|Troubles visuels|Coma
+1794988260218|↓ TA|↑ PIC|↓ Fréquence cardiaque
+1794988260219|Granulations de Pacchioni|Épendyme|Arachnoïde
+1794988260257|Cerveau, os, méninges|Substance grise, blanche, LCR|Sang artériel, veineux, LCR
+1794988260261|Guérison spontanée|Hydrocéphalie|Épilepsie
+1794988259595|Âge < 20, PAS > 140, GCS 15|Âge > 70, fièvre, convulsions|Alcool, femme, fracture
+1794988259600|5 %|60-70 %|10 %
+1794988259601|Mannitol, hypertonique|Corticoïdes, diurétiques|Hyperventilation, hyperthermie
+1794988259611|Pneumocéphalie simple|Embarrure|Hydrocéphalie
+1794988259612|Extradural|Sous-arachnoïdien|Intracérébral
+1794988259638|Abstention systématique|Crâniectomie bilatérale|Embolisation
+1794988259639|< 12/15|< 3/15|< 10/15
+1794988259658|< 20 ans|Nourrisson uniquement|30-40 ans
+1794988259663|Hydrocéphalie|Pneumocéphalie|Fracture de la voûte
+1794988259669|10-15 %|80-90 %|25-30 %
+1794988259676|Chutes de hauteur|Agressions|Accidents sportifs
+1794988259682|Carotide interne|Cérébrale moyenne|Temporale superficielle
+1794988259691|Photomoteur, cornéen, oculocéphalique, toux, déglutition|Oculocardiaque, photomoteur, fronto-orbiculaire|Cornéen, nauséeux, oculocéphalique horizontal
+1794988259694|< 12|< 5|< 14
+1794988259699|Rupture artérielle|Inertie identique|Fracture controlatérale
+1794988259704|< 1 h|< 7 jours|< 72 h
+1794988259714|Myosis|Ptôsis isolé|Nystagmus
+1794988259722|Carotide interne|Artère cérébrale moyenne|Sinus longitudinal
+1794988259730|10-15 mmHg|0 mmHg|> 20 mmHg
+1794988259739|HSA, AVC, méningite, épilepsie|Embarrure, fracture, plaie, otorrhée|HED, HSD, hydrocéphalie, abcès
+1794988259745|Très mauvais|Fatal|Réservé
+1794988259746|Fistule durale|Anévrisme carotidien|Thrombose du sinus caverneux
+1794988259756|Sous-dural|Sous-arachnoïdien|Intraparenchymateux
+1794988259758|< 20 mm et déviation < 10 mm|Tout HSD sans symptôme|> 10 mm
+1794988259777|Glasgow|Échelle FOUR|Échelle de Rankin
+1794988259803|≥ 3 jours|≥ 3 mois|≥ 1 an
+1794988259812|Abcès cérébral|Pneumocéphalie|Sinusite
+1794988259820|Hydrocéphalie à pression normale|Hypothyroïdie|Carence en B12
+1794988259829|≈ 1 %|≈ 50 %|≈ 30 %
+1794988259833|Suture directe|Greffe|Antibiotique local
+1794988259836|Rotation identique|Liquide plus dense|Os plus mou
+1794988259850|Rankin|NIHSS|Karnofsky
+1794988259863|≈ 50 %|≈ 70 %|≈ 30 %
+1794988259865|Hémorragie|Infection|Épilepsie
+1794988259869|50-60 %|0 %|30-40 %
+1794988259883|Coagulopathie|Méningite|Hydrocéphalie
+1794988259885|Croissant (concave)|Linéaire|Arrondi multilobé
+1794988259895|Intervalle lucide transitoire|Phase de latence|Période réfractaire
+1794988259900|Artère méningée moyenne|Sinus caverneux|Artères perforantes
+1794988259902|50 %|10 %|99 %
+1794988259908|Oui, toujours|Oui, s'ils sont tous présents|Non, ils excluent l'HTIC
+1794988259917|≈ 5 %|≈ 70 %|≈ 1 %
+1794988259921|Accidents, alcool|Tabac, diabète|Sport, HTA
+1794988259926|Leucémie|Noyade|Méningite
+1794988259930|80 %|5 %|50 %
+1794988259936|Ordre simple|Stimulus sonore|Stimulus lumineux
+1794988259939|1-2 %|50-60 %|30-40 %
+1794988259957|> 30 mmHg|> 10 mmHg|> 40 mmHg
+1794988259964|10-15 ans|5-9 ans|15-18 ans
+1794988259975|Pneumatocèle|Fracture linéaire|Disjonction suturale
+1794988259983|Scanner cérébral|Intubation systématique|Mesurer la PIC
+1794988259997|Abstention|Embolisation|Corticoïdes
+1794988259999|Nourrisson, prématuré|Jeune sportif|Femme enceinte
+1794988260004|Crâniectomie large|Corticoïdes seuls|Radiothérapie
+1794988260020|Thrombose veineuse|Rupture d'anévrisme|Hypertension artérielle
+1794988260037|15/15|10/10|25/25
+1794988260042|Oculocéphalique|Photomoteur|Oculocardiaque
+1794988260057|Extradurale, sous-arachnoïdienne|Ventriculaire, intraparenchymateuse|Cervicale, orbitaire
+1794988260058|Pupilles, réflexes, respiration|Yeux, réflexes, motricité|Verbal, sensitif, moteur
+1794988260064|10 %|80 %|30 %
+1794988260071|Très mauvais|≈ 50 %|≈ 10 %
+1794988260076|Scanner injecté|Radiographie du crâne|EEG
+1794988260111|< 1 %|50-60 %|80 %
+1794988260119|Linéaire, comminutive, embarrure|Ouverte, fermée, mixte|HED, HSD, contusion
+1794988260122|Excellent|Bon|≈ 100 % de guérison
+1794988260143|≈ 10 %|≈ 50 %|≈ 30 %
+1794988260163|10 %|90 %|25 %
+1794988260167|Base antérieure|Voûte frontale|Occipital
+1794988260179|10 %|60 %|50 %
+1794988260188|Corticoïdes|Craniotomie|Ligature carotidienne
+1794988260202|Occipital|Frontal|Pariétal
+1794988260213|20/20|10/15|3/15
+1794988260237|Craniotomie immédiate|Surveillance simple|Ponction lombaire
+1794988260241|5/20|0/20|8/20
+1794988260250|< 13/15|< 3/15|< 15/15

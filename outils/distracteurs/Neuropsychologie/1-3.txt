@@ -1,0 +1,191 @@
+1795015232183|Routinières|Automatiques|Répétitives
+1795015232184|Nouvelles|Complexes|Conflictuelles
+1795015232185|Henry Molaison|Leborgne|Clive Wearing
+1795015232186|Pariétal droit|Temporal gauche|Occipital
+1795015232188|Personnalité, jugement|Planification, inhibition|Comportement social
+1795015232189|Amnésique, aphasique|Aveugle, sourd|Paralysé, ataxique
+1795015232190|Amnésique|Aphasique|Héminégligence
+1795015232191|Cortex pariétal|Hippocampe|Cervelet
+1795015232192|Attention, mémoire, langage|Planification, abstraction, jugement|Alerte, vigilance, attention soutenue
+1795015232193|Isolement fonctionnel|Myélinisation précoce|Faible consommation d'énergie
+1795015232194|Occipitales focales|Cérébelleuses isolées|Médullaires
+1795015232195|Syndrome préfrontal|Démence frontale|Syndrome amnésique
+1795015232196|Occipitale, pontique, cérébelleuse|Sous-arachnoïdienne seule|Extradurale, sous-durale
+1795015232197|Lupus, Behçet, sarcoïdose|Méningite, abcès, toxoplasmose|Polyarthrite, Sjögren
+1795015232198|Corps de Lewy, vasculaire, Creutzfeldt|Alzheimer seule|Huntington, Parkinson, Wilson
+1795015232199|Anxiété, phobie, TCA|Bipolarité, addiction, autisme|Personnalité borderline, TSPT
+1795015232200|Aspontanéité|Échopraxie|Confabulation
+1795015232201|Persévération|Anosodiaphorie|Désinhibition
+1795015232202|Anosognosie|Apathie|Alexithymie
+1795015232203|Dysphorie|Cyclothymie|Euthymie
+1795015232204|Mensonge pathologique|Persévération|Fausse reconnaissance
+1795015232205|Syndrome de désinhibition|Syndrome dysexécutif cognitif|Syndrome dépressif majeur
+1795015232206|Orbito-frontale|Dorsolatérale|Temporale
+1795015232207|Syndrome apathique|Syndrome maniaque|Syndrome de Korsakoff
+1795015232208|Frontale médiane|Dorsolatérale|Pariétale
+1795015232209|Apathie, aboulie|Ralentissement, mutisme|Indifférence, aspontanéité
+1795015232210|MoCA|BREF|NPI
+1795015232211|TMT|Tour de Londres|Fluences
+1795015232212|1re (lecture)|2e (dénomination)|Toutes à égalité
+1795015232213|Dénomination de la couleur|Comptage|Répétition
+1795015232214|Partie 1 − partie 3|Partie 2 / partie 1|Partie 3 + partie 2
+1795015232215|Temps et score z|Erreurs et fluence|Temps et nombre de mots
+1795015232216|Stroop|Fluences|Tour de Londres
+1795015232217|Inhiber une réponse|Générer des idées|Planifier une action
+1795015232218|Alterner 1-A-2-B|Relier A à Z|Barrer les cibles
+1795015232219|Relier 1 à 25|Relier A à Z|Nommer les couleurs
+1795015232220|Lenteur seule|Omission|Confabulation
+1795015232221|Mémoire, langage|Inhibition, planification|Fluence, abstraction
+1795015232222|Stroop|TMT|Tour de Londres
+1795015232223|Changer de consigne|Inhiber une réponse|Maintenir une règle
+1795015232224|Phonémique|Littérale|Alternée
+1795015232225|Sémantique|Catégorielle|Alternée
+1795015232227|Plus de temps|Consigne écrite|Répétition
+1795015232229|Stroop|TMT|WCST
+1795015232230|Diamond|Baddeley|Posner
+1795015232232|Maximum|Libre|Exactement 10
+1795015232234|Incitateur positif|Neutre|Problème ouvert
+1795015232235|Incitateur négatif|Neutre|Problème fermé
+1795015232236|Incitateur positif|Incitateur négatif|Problème complexe
+1795015232237|La garder en main|La poser sur la table|La donner à l'examinateur
+1795015232238|Trop longs|Trop difficiles|Trop sensibles
+1795015232239|Psychométrique|Standardisée|Expérimentale
+1795015232240|Stroop|Tour de Londres|TMT
+1795015232241|Six Elements Test|Zoo Map Test|Hotel Test
+1795015232242|Âge du patient|Score total|Plainte du patient
+1795015232243|Gaucher ou droitier|Introverti ou extraverti|Matinal ou vespéral
+1795015232244|Bilan Rapide d'Évaluation Fonctionnelle|Batterie de Recherche Exécutive Frontale|Bilan de Repérage des Fonctions
+1795015232246|Diagnostic définitif|Rééducation|Localisation lésionnelle
+1795015232247|Sévères|Moteurs|Visuels
+1795015232248|Glioblastome frontal|AVC pariétal|Hématome extradural temporal
+1795015232249|Amnésie|Aphasie|Négligence
+1795015232250|Hippocampique|Toxique|Psychiatrique
+1795015232251|Aggravation|Aucune récupération|Décès
+1795015232116|Cercle rouge|Étoile clignotante|Lettre X
+1795015232118|Lecture silencieuse|Promenade seul|Sommeil
+1795015232119|Attention divisée|Vigilance|Attention soutenue
+1795015232120|Effet Stroop|Cécité au changement|Clignement attentionnel
+1795015232121|Exogène|Réflexe|Tonique
+1795015232122|Endogène|Volontaire|Soutenue
+1795015232123|Sensoriels|Moteurs|Émotionnels
+1795015232124|Posner et Petersen|Van Zomeren et Brouwer|Baddeley et Hitch
+1795015232125|Ventral (VAN)|Mode par défaut|Salience
+1795015232126|Dorsal (DAN)|Mode par défaut|Exécutif central
+1795015232127|DAN|Réseau par défaut|Réseau fronto-pariétal
+1795015232128|Muscles|Hippocampe|Cervelet
+1795015232129|Amplificateur|Inhibiteur permanent|Mémoire tampon
+1795015232130|Gauche|Bilatérale|Absente
+1795015232131|Droite|Gauche|Absent
+1795015232132|Sillon intrapariétal|Précunéus|Gyrus postcentral
+1795015232133|Jonction temporo-pariétale|Gyrus angulaire|Cortex cingulaire
+1795015232134|Cortex frontal ventral|Gyrus frontal inférieur|Cortex orbitofrontal
+1795015232135|Champs oculomoteurs frontaux|Cortex préfrontal dorsolatéral|Aire motrice supplémentaire
+1795015232136|D'invalidité|De Stroop|De primauté
+1795015232137|Indice et cible côtés opposés|Pas d'indice|Indice sans cible
+1795015232139|Périphérique non prédictif|Sonore|Absent
+1795015232140|Paradigme de Stroop|Paradigme de Sternberg|Paradigme de Navon
+1795015232141|À l'indice|Aux distracteurs|Au point de fixation
+1795015232142|Fatigue|Distraction|Hémianopsie
+1795015232143|Test de Corsi|TMT|Test de Rey
+1795015232144|Vitesse motrice|Acuité visuelle|Mémoire
+1795015232145|Anosognosie|Héminégligence motrice pure|Hémianopsie
+1795015232146|Frontale gauche|Occipitale droite|Temporale gauche
+1795015232147|Droit|Les deux|Aucun
+1795015232148|1/10|2/3|1/2
+1795015232150|Négligence motrice|Négligence extracorporelle|Anosognosie
+1795015232151|Négligence corporelle|Négligence spatiale|Hémiparésie
+1795015232153|Test des cloches|Copie de figure|Lecture
+1795015232154|La gauche|Le centre exact|Le bas
+1795015232156|IRM fonctionnelle|EEG|Potentiels évoqués
+1795015232157|Âge, sexe|Côté de la lésion, latéralité|Niveau d'études, profession
+1795015232159|Dessin libre|Musique|Repos
+1795015233082|Spécifique|Modulaire|Isolée
+1795015233083|Oubli|Rejet|Codage moteur
+1795015233084|Attention divisée|Vigilance|Alerte
+1795015233085|Migraine|Asthme|Diabète
+1795015233086|Mémoire, langage|Douleurs, vertiges|Vision, audition
+1795015233088|Somnolence|Apathie|Lenteur
+1795015233089|Posner et Petersen|Corbetta et Shulman|Norman et Shallice
+1795015233090|Endogène, exogène|Volontaire, automatique|Spatiale, temporelle
+1795015233091|3|7|2
+1795015233092|Sélective, divisée, vigilance|Alerte, sélective, soutenue|Divisée, soutenue, vigilance
+1795015233093|Alerte, vigilance|Soutenue, sélective|Vigilance, divisée
+1795015233094|Vigilance|Alerte phasique|Attention soutenue
+1795015233095|Alerte tonique|Vigilance|Attention sélective
+1795015233096|50 à 100 ms|5 à 10 s|2 à 3 s
+1795015233097|Nombre d'erreurs|Score total|Précision spatiale
+1795015233098|Après un signal|À intervalle fixe|Jamais
+1795015233099|Sélective, latéralisée|Uniquement visuelle|Focale
+1795015233100|Attention soutenue|Alerte phasique|Attention divisée
+1795015233101|BREF|MoCA|WAIS
+1795015233102|Compter les stimuli|Appuyer à chaque stimulus|Nommer les couleurs
+1795015233103|Corbetta et Shulman|Van Zomeren et Brouwer|Posner et Petersen
+1795015233104|Rapide vs rare|Identique|Continu vs nul
+1795015233105|Rare et irrégulier|Lent et monotone|Unique
+1795015233106|Ennui|Somnolence|Distraction visuelle
+1795015233107|Stroop|Trail Making Test|Empan de chiffres
+1795015233108|Attention|Auditive|Automatique
+1795015233109|Ralentir le rythme|Ajouter des distracteurs|Réduire les chiffres
+1795015233110|Euphorie|Agitation|Hyperactivité
+1795015233111|Migraine|Parkinson débutant|Épilepsie
+1795015233112|Persévérations|Confabulations|Absences épileptiques
+1795015233113|Amélioration progressive|Stable|Aléatoire
+1795015233114|Attention sélective|Attention soutenue|Vigilance
+1795015232999|Neuropsychiatrie|Psychologie cognitive|Neurophysiologie
+1795015233000|Neurochirurgie + psychiatrie|Psychologie + linguistique|Neurologie + philosophie
+1795015233001|Sciences humaines|Psychiatrie|Neurologie clinique
+1795015233002|Psychiatriques|Enfants sains|Animaux
+1795015233003|Phonologie|Neurolinguistique|Orthophonie
+1795015233004|Sciences cognitives|Psychophysique|Neuropsychologie
+1795015233005|Neurosciences|Psycholinguistique|Neuroanatomie
+1795015233006|Clinique|Appliquée|Comportementale
+1795015233007|Cognitive|Fondamentale|Théorique
+1795015233008|Globaliste|Cognitive|Connexionniste
+1795015233009|Phrénologique|Cognitif|Associationniste
+1795015233010|Physiognomonie|Craniologie|Localisationnisme
+1795015233011|Broca|Wernicke|Jackson
+1795015233012|Région occipitale|Région pariétale|Région temporale
+1795015233013|Région frontale|Région pariétale|Vertex
+1795015233014|Mesure du crâne|Psychanalyse|Plasticité
+1795015233015|Front|Occiput|Tempe
+1795015233017|Phineas Gage|H.M.|Clive Wearing
+1795015233018|Gyrus temporal supérieur gauche|Gyrus frontal inférieur droit|Gyrus angulaire
+1795015233019|« Pa »|« Oui »|« Ta »
+1795015233020|Compréhension|Répétition|Lecture
+1795015233021|Cognitive|Globaliste|Expérimentale
+1795015233022|Gyrus frontal inférieur|Gyrus angulaire|Gyrus supramarginal
+1795015233023|Production|Articulation|Répétition
+1795015233025|Paul Broca|Franz Gall|Carl Wernicke
+1795015233026|La fonction|La conscience|L'âme
+1795015233027|Années 30-40|Années 2000|Années 1900
+1795015233028|Expérimentale|Sociale|Développementale
+1795015233029|Cérébrolésés|Psychiatriques|Animaux
+1795015233030|Sériel / aléatoire|Direct / indirect|Conscient / inconscient
+1795015233031|Modularité|Transparence|Universalité
+1795015233032|Soustractivité|Globalisme|Équipotentialité
+1795015233033|Global, dépendant|Plastique, partagé|Universel, flexible
+1795015233034|Simple dissociation|Association|Corrélation
+1795015233035|Broca / Wernicke|Attention / vigilance|Inhibition / flexibilité
+1795015233036|1950-1960|1970-1980|1900-1910
+1795015233037|Psychométrie|Phrénologie|Électrophysiologie seule
+1795015233038|Génétique et moléculaire|Psychologique et sociale|Anatomique seulement
+1795015233039|Prévenir, opérer, guérir|Mesurer, comparer, publier|Écouter, conseiller, prescrire
+1795015233040|Bilan unique post|Questionnaire de satisfaction|IRM seule
+1795015233041|Développementaux|Génétiques|Congénitaux
+1795015233042|Unidisciplinaire|Hiérarchique|Indépendante
+1795015233043|Test de Stroop|IRM fonctionnelle seule|EEG de surface
+1795015233044|Alzheimer vs Parkinson|Aphasie vs dysarthrie|Épilepsie vs syncope
+1795015233046|Tests, scores, diagnostic, traitement|Plainte, IRM, EEG, synthèse|Anamnèse, IRM, cotation, prescription
+1795015233047|Anosodiaphorie|Agnosie|Aboulie
+1795015233048|Calculer le QI|Choisir la batterie|Évaluer la motivation
+1795015233050|Clinique / paraclinique|Objective / subjective|Directe / indirecte
+1795015233051|Pourcentages bruts|Scores IRM|Quotients mnésiques
+1795015233052|Taille, poids, sexe|Âge, latéralité, profession|Ethnie, langue, religion
+1795015233053|(moyenne − score) × ET|score / moyenne|(score − ET) / moyenne
+1795015233054|100 et 15|0 et 1|10 et 3
+1795015233055|Augmenter la précision|Raccourcir l'examen|Éviter l'apprentissage
+1795015233056|Effet plafond|Effet de test-retest|Biais de sélection
+1795015233057|Stroop|TMT|Test de Rey
+1795015233058|Un seul test très long|Supprimer les tests|Questionnaire seul
+1795015233059|Anosognosie|Démence|Aphasie
+1795015233060|Langage, praxies, gnosies|Perception, motricité, sensibilité|Calcul, lecture, écriture

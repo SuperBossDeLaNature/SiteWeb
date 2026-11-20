@@ -1,0 +1,152 @@
+1760500000999|5 à 6 cm|14 à 16 cm|18 à 20 cm
+1760500001001|5 %|50 %|2 %
+1760500001005|Le glomérule seul|Le lobule rénal|Le tube collecteur
+1760500001008|Efférente → glomérule → afférente → capillaires péritubulaires|Afférente → capillaires péritubulaires → glomérule → efférente|Veine rénale → glomérule → artère rénale
+1760500001012|La pression artérielle|Le contenu en glucose|Le contenu en potassium
+1760500001013|Érythropoïétine|Aldostérone|ADH
+1760500001015|Sa grande taille seule|Charge positive|Sa liaison au calcium
+1760500001018|65 %|5 %|90 %
+1760500001020|Tube contourné proximal|Branche descendante de Henlé|Tube collecteur médullaire
+1760500001021|Tube contourné proximal|Anse de Henlé ascendante|Glomérule
+1760500001022|Rénine|Thrombopoïétine|Calcitriol
+1760500001023|25-hydroxylation|7-déhydrogénation|24-hydroxylation
+1760500001027|Diurèse et apports hydriques|Pression artérielle|Glycémie
+1760500001029|Échographie seule|IRM sans injection|Scintigraphie au DMSA
+1760500001030|CT + contraste|Scintigraphie au DMSA|Urographie intraveineuse
+1760500001031|CT + contraste|Écho-Doppler|Biopsie rénale
+1760500001034|Densité, vascularisation, âge|Échogénicité, sexe, poids|Kystes, calcifications, lithiases
+1760500001035|Néphropathie de reflux|Hypertrophie compensatoire|Maladie polykystique
+1760500001036|Maladie polykystique, amylose|Sténose bilatérale, hydronéphrose|Diabète débutant, infiltration
+1760500001037|Néphropathie de reflux, sténose artérielle|Maladie polykystique|Néphroangiosclérose
+1760500001038|Diabète débutant|Néphroangiosclérose|Amylose
+1760500001039|Fuhrman|Bethesda|BI-RADS
+1760500001040|Kyste simple|Angiomyolipome|Kyste hémorragique bénin
+1760500001043|Obstruction aiguë|Sténose de l'artère rénale|Thrombose de la veine rénale
+1760500001044|Pyélonéphrite focale|Néphropathie de reflux|Vasculite des petits vaisseaux
+1760500001046|Vitamine C, bilirubine|Glucose, cétones|Protéines, leucocytes
+1760500001049|Bandelette seule|Cystoscopie|Protéinurie de Bence Jones par bandelette
+1760500001050|24 heures|3 jours|15 minutes obligatoirement
+1760500001053|Tubulaire|Urologique|Orthostatique
+1760500001054|> 0,1 g/24 h|> 3,5 g/24 h|> 10 g/24 h
+1760500001056|< 180/110 mmHg|< 120/70 mmHg|Indifférente
+1760500001057|Infection et fistule urinaire|Pneumothorax et hémothorax|Perforation colique
+1760500001068|Cavité péritonéale|Médiastin postérieur|Pelvis
+1760500001069|Bassinet → calice → uretère → vessie|Calice → uretère → bassinet → vessie|Uretère → calice → bassinet → vessie
+1760500001070|Musculaire|Lymphatique|Exocrine
+1760500001071|Glomérulonéphrite, pyélonéphrite chronique|Néphroangiosclérose, amylose|Polykystose, IRA
+1760500001072|≈ 10 000|≈ 100 millions|≈ 100 000
+1760500001073|Risque de reflux|Risque de cancer rénal|Risque de diabète
+1760500001074|Tube contourné proximal|Tube collecteur|Glomérule
+1760500001075|Néphrons corticaux à anse courte|Néphrons juxtaglomérulaires sans anse|Néphrons proximaux
+1760500001076|Efférente|Arciforme|Interlobulaire veineuse
+1760500001078|Elle monte|Inchangée|Elle double
+1760500001079|Hypertension|Hyperkaliémie isolée|Prise de poids
+1760500001080|Tube contourné proximal|Glomérule|Tube collecteur
+1760500001081|Les cellules mésangiales|Les cellules juxtaglomérulaires|Les péricytes
+1760500001082|Hydratation excessive|Barrière normale|Origine tubulaire exclusive
+1760500001083|Protéinurie de Bence Jones|Microalbuminurie du diabétique|Protéinurie néphrotique isolée
+1760500001084|25 %|65 %|1 à 3 %
+1760500001085|5 à 10 %|25 %|65 %
+1760500001087|Tube proximal|Anse de Henlé descendante|Glomérule
+1760500001088|300 mOsm/kg|3 000 mOsm/kg|600 mOsm/kg
+1760500001089|Urine moins concentrée que le sang|Urine isotonique au plasma|Urine sans sodium
+1760500001090|Retenir le sodium|Produire de l'EPO|Réabsorber le glucose
+1760500001091|Exocrine|Excrétrice|Tubulaire
+1760500001092|Exocrine|Excrétrice|Glomérulaire
+1760500001093|Kallicréine-kinine seule|Axe hypothalamo-hypophysaire|Système nerveux parasympathique
+1760500001094|Pas de fer absorbé|Hémolyse par la membrane|Carence en vitamine B12 systématique
+1760500001095|La protéinurie|La créatinine seule|L'urée
+1760500001096|Le DFG|L'urée|La kaliémie
+1760500001097|Âge|Activité inflammatoire|Anémie
+1760500001098|≈ 10 % du DFG|≈ 90 % du DFG|≈ 25 % du DFG
+1760500001099|Scintigraphie|IRM sans injection|Néphrogramme isotopique
+1760500001100|CT + contraste|Néphrogramme isotopique|Artériographie
+1760500001101|Échographie|Néphrogramme isotopique|Abdomen à blanc
+1760500001102|Écho-Doppler|IRM|Scintigraphie au MAG3
+1760500001103|Échographie|Néphrogramme isotopique|Urographie
+1760500001104|6 à 8 cm|14 à 18 cm|4 à 6 cm
+1760500001105|Plus échogène|Anéchogène|Identique au rein sinus
+1760500001106|Oui, toujours|Oui, de la polykystose|Oui, du diabète
+1760500001107|Gros (> 14 cm)|Normaux (10-12 cm)|Asymétriques toujours
+1760500001108|Sténose de l'artère rénale|Hypertrophie compensatoire|Hydronéphrose
+1760500001109|Hydronéphrose, hypertrophie compensatoire|Diabète débutant|Néphroangiosclérose
+1760500001110|Maladie polykystique|Sténose bilatérale|GN chronique
+1760500001111|Néphrectomie|Aucun suivi|Biopsie immédiate
+1760500001112|Critères de Bosniak|Critères de Fuhrman|Critères de Rome
+1760500001113|Bosniak et Fuhrman|Child-Pugh et MELD|KDIGO et CKD-EPI
+1760500001114|Sténose de l'artère rénale|Polykystose|Néphroangiosclérose
+1760500001115|99mTc-MAG3|18F-FDG|99mTc-DTPA
+1760500001116|99mTc-DMSA|18F-FDG|Gallium-67
+1760500001117|Taille et position du rein|Protéinurie et hématurie|Densité et échogénicité
+1760500001118|TSH et vitamine B12|Cortisol et vitamine A|Insuline et vitamine C
+1760500001119|Germe uréasique|Alcalose métabolique|Régime végétarien
+1760500001120|Acidose métabolique|Régime riche en protéines animales|Déshydratation
+1760500001121|100 à 120 mg/dL|126 à 140 mg/dL|300 à 350 mg/dL
+1760500001122|Diabète décompensé|Insuline|Metformine
+1760500001123|Une protéinurie|Une hématurie|Une glycosurie
+1760500001124|L'osmolalité plasmatique|La créatinine sanguine|La culture urinaire
+1760500001125|Triamtérène, propofol|Bilirubine, rifampicine|Cristallurie massive
+1760500001126|Hématurie microscopique|Bilirubinurie|Purple urine bag
+1760500001127|Rifampicine, betterave|Bilirubine|Hémoglobine
+1760500001128|Fanconi|Alport|Bartter
+1760500001129|Lyse les cellules, dissout les cristaux|Aucun effet|Augmente les bactéries
+1760500001130|Glomérulaire|Tubulaire|Interstitielle
+1760500001131|Quantitative|Les deux|Ni l'un ni l'autre
+1760500001132|Diabète, HTA|Myélome, amylose|Lupus, vascularite
+1760500001133|Rechercher une lithiase|Mesurer le DFG|Rechercher une protéinurie tubulaire
+1760500001134|HTA essentielle, diabète typique|Lithiase, PNA|Hypothyroïdie, Addison
+1760500001135|> 10 000|> 400 000|Aucun seuil
+1760500001136|Mesurer le DFG|Doser la protéinurie|Éviter l'hématurie
+1760500001137|Risque d'hémorragie plus grand|Allergie à l'anesthésique|Rein trop gros
+1760500001138|30 minutes|72 heures|1 semaine
+1760500000326|Muscle|Plasma|Foie
+1760500000328|5 %|90 %|99 %
+1760500000331|PTH, cortisol, aldostérone|FGF23, insuline, GH|Calcitriol, TSH, ADH
+1760500000334|Elle l'augmente|Aucun effet|Elle l'augmente fortement en cas d'IR
+1760500000336|VDR|FGFR1|Récepteur de la PTH
+1760500000337|Inhibée|Inchangée|Effondrée
+1760500000338|Hypocalciurie|Rétention calcique|Hypophosphaturie
+1760500000339|Rein|Peau|Intestin
+1760500000340|Foie|Peau|Os
+1760500000341|↑ PTH|Excès de calcitonine|↓ absorption osseuse du calcium
+1760500000342|> 2,20 mmol/L|> 3,50 mmol/L|> 2,40 mmol/L
+1760500000343|Âge et sexe|Taux de PTH seul|Taux d'albumine seul
+1760500000344|Diarrhée, hématémèse|Dysphagie, ictère|Ascite, hépatomégalie
+1760500000345|Tétanie, paresthésies|Convulsions focales, hémiplégie|Neuropathie périphérique
+1760500000347|Glomérulonéphrite aiguë|Syndrome néphrotique|SIADH
+1760500000348|Polykystose|Glomérulosclérose|Néphropathie à IgA
+1760500000349|Ostéomalacie|Ostéopétrose|Ostéonécrose aseptique
+1760500000350|Doser la PTHrp|Hydrater par furosémide|Doser le calcitriol
+1760500000352|Syndrome paranéoplasique|Hypervitaminose D|Ostéolyse maligne
+1760500000353|Hyperparathyroïdie primaire|Sarcoïdose|Hypercalcémie familiale bénigne
+1760500000354|Ostéolyse maligne, myélome|Hyperparathyroïdie primaire|Thiazidiques
+1760500000355|Hyperparathyroïdie primaire|Syndrome paranéoplasique à PTHrp|Sarcoïdose
+1760500000356|Hyperparathyroïdie primaire|Sarcoïdose|Ostéolyse maligne
+1760500000357|Diurétiques de l'anse, calcitonine|Corticoïdes, IPP|Bisphosphonates, denosumab
+1760500000358|Syndrome paranéoplasique|Sarcoïdose|Hypervitaminose D
+1760500000361|Thiazidique|Bicarbonates|Restriction hydrique
+1760500000362|Granulomateuse|Médicamenteuse|Familiale bénigne
+1760500000363|Thiazidique|Calcitriol|Restriction calcique seule
+1760500000364|Effet trop lent|Hypercalcémie rebond immédiate|Néphrotoxicité
+1760500000365|Bisphosphonates|Thiazidiques|Calcitriol
+1760500000366|Défaut de PTH, défaut de vitamine D, IR|Hypoalbuminémie, alcalose, hémodilution|Excès de calcitonine, d'aldostérone, d'insuline
+1760500000367|Chlorure, bicarbonate|Albumine, globulines|Sodium, potassium
+1760500000368|Hyperparathyroïdie, sarcoïdose|Myélome, métastases|Hypothyroïdie, Addison
+1760500000369|Post-thyroïdectomie partielle sans parathyroïde|Myélome|Insuffisance rénale aiguë
+1760500000370|Acidose respiratoire aiguë|Acidose métabolique|Alcalose respiratoire chronique compensée
+1760500000371|La calcitonine|Le calcitriol|L'albumine
+1760500000372|Hypoparathyroïdie|Hypomagnésémie profonde|Hypercalcémie familiale
+1760500000373|Carence en vitamine D|Pseudohypoparathyroïdie|Insuffisance rénale chronique
+1760500000376|Polyurie, constipation, confusion|Bradycardie, hypotonie|Céphalées, fièvre
+1760500000377|Néphrocalcinose, lithiase|Ostéite fibreuse|Prurit, calcinose
+1760500000378|QT raccourci|Onde T ample|Onde U
+1760500000380|Inefficace par voie veineuse|Allergie fréquente|Hypercalcémie immédiate
+1760500000381|Le sodium|Le potassium seul|Le phosphate
+1760500000382|Calcium IV au long cours|Thiazidique seul|PTH recombinante en 1re ligne systématique
+1760500000383|< 1,20 mmol/L|< 0,95 mmol/L|< 0,10 mmol/L
+1760500000384|L'hyperparathyroïdie|Les antiacides|Le diabète
+1760500000385|Insuffisance rénale, hypoparathyroïdie|Excès d'apport en phosphate|Rhabdomyolyse
+1760500000386|Tétanie, QT long|Prurit, calcifications|Diarrhée, déshydratation
+1760500000387|ENaC|NKCC2|Pendrine
+1760500000388|Excès de PTH|Excès de calcitonine|Carence en calcitriol isolée
+1760500000390|Hypermagnésémie + hyperphosphatémie|Hypomagnésémie + hyperphosphatémie|Aucun effet

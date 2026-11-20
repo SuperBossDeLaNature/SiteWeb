@@ -1,0 +1,112 @@
+1795017229315|↑ des apports et ↓ des dépenses|↓ de l'absorption intestinale uniquement|↑ de la masse maigre uniquement
+1795017229317|Diététique – psychiatrique – endocrinien|Médicamenteux – chirurgical – endoscopique uniquement|Préventif – curatif – palliatif
+1795017229319|Anorexigènes – insulinosensibilisateurs – diurétiques|Hormones thyroïdiennes – laxatifs – diurétiques|Stimulants de l'appétit – inhibiteurs des lipases – coupe-faim
+1795017229321|Hyperprotéiné sans glucides|Dissocié, sans restriction calorique|Monotone, hypolipidique strict
+1795017229323|1 200 kcal/j|800 kcal/j|100 kcal/j
+1795017229325|Méditerranéen – DASH – hypocalorique équilibré|Épargne protéique – hypocalorique mixte|Mixte – équilibré – fractionné
+1795017229327|↓ des produits allégés ET ↓ du surpoids|↑ du sport ET ↑ du surpoids|↓ des apports caloriques ET ↓ de la mortalité
+1795017229329|La masse grasse devient résistante à la lipolyse|L'absorption intestinale augmente|L'eau corporelle augmente
+1795017229331|Dépense de repos inchangée|Accélération du métabolisme avec la perte massive|Ralentissement qui disparaît dès l'arrêt du régime
+1795017229333|94 → 140 ng/dl (TSH ↓)|94 → 53 ng/dl (TSH ↑, T4 ↓)|Stable (94 ng/dl)
+1795017229335|Oui, le régime pauvre en glucides est supérieur|Oui, le régime hyperprotéiné est supérieur|Oui, le régime pauvre en graisses est supérieur
+1795017229337|La proportion de glucides|L'apport en protéines|L'âge des participants
+1795017229339|Le type de régime (Atkins supérieur)|La teneur en lipides|Le niveau d'activité physique
+1795017229341|5 à 10 kg|Aucune|10 à 15 kg
+1795017229343|↓ graisse sous-cutanée seule|↑ graisse viscérale|Aucun effet sur la répartition
+1795017229345|Exercice : sous-cutanée – Régime : viscérale|Exercice et régime : sélectivement viscérale|Exercice : tout type – Régime : sélectivement viscérale
+1795017229347|10 à 15 kg|0,1 à 0,5 kg|5 à 8 kg
+1795017229349|1 heure avec l'endocrinologue seul|1 semaine d'hospitalisation|2 jours : chirurgien et anesthésiste
+1795017229351|Consultation unique à 6 mois|Ateliers 1×/an, sport libre|Hospitalisation de jour hebdomadaire
+1795017229353|Arrêt du suivi|Ateliers hebdomadaires|Consultation unique à 1 an
+1795017229355|–20 kg, BMI –7 kg/m², tour de taille –15 cm|–2 kg, BMI –0,5 kg/m², tour de taille –1 cm|–8,3 kg, BMI –8 kg/m², tour de taille –20 cm
+1795017229357|1984|2004|1974
+1795017229359|~40 kg, petite taille, anorexie|~86–94 kg, grande taille, pas d'hyperphagie|~60 kg, taille normale, hypophagie
+1795017229361|~–5 %|~–90 %|~+40 %
+1795017229363|Forte augmentation|Forte diminution|Doublement
+1795017229365|42 kg à 3 ans → 62 kg à 7 ans|32 kg à 3 ans → 42 kg à 7 ans|42 kg à 3 ans → 42 kg à 7 ans
+1795017229367|↑ apports – ↑ absorption – ↓ dépenses|↓ apports – ↑ excrétion urinaire – ↓ dépenses|↓ absorption – ↑ diurèse – ↑ sommeil
+1795017229369|↓ appétit – hypothyroïdie|↓ absorption – stéatorrhée|↑ dépense – hypoglycémie
+1795017229371|HTA pulmonaire, valvulopathies|Dépression, suicide|Stéatorrhée
+1795017229373|Valvulopathies (+++ / +)|HTA pulmonaire (+++ / +)|Stéatorrhée (+++ / +)
+1795017229375|Orlistat + metformine → efficace|Leptine + thyroxine → hyperthyroïdie|Sibutramine + diurétiques → HTAP
+1795017229377|Dépression|Valvulopathies|Cataractes
+1795017229379|Dépression + suicide|Cataractes + neuropathies|Stéatorrhée + hépatite
+1795017229381|Dépression et suicide|HTA pulmonaire|Stéatorrhée
+1795017229383|↑ mortalité CV|Valvulopathies|HTA pulmonaire
+1795017229385|Agoniste du récepteur GLP-1|Inhibe l'α-glucosidase intestinale|Inhibe la recapture de la sérotonine
+1795017229387|~2/3 (70 %)|~5 %|~100 %
+1795017229389|Valvulopathies, HTAP|Dépression, idées suicidaires|Hypoglycémies, prise de poids
+1795017229391|15 kg la 1re année ; 10 kg à terme|0,5 kg la 1re année ; 0 kg à terme|10 kg la 1re année ; 8 kg à terme
+1795017229393|Oui (agit sur l'hypothalamus)|Oui (agoniste sérotoninergique)|Oui (agoniste GLP-1)
+1795017229395|Orlistat et sibutramine|Rimonabant et fenfluramine|Sémaglutide et liraglutide
+1795017229397|Rupture de production en Europe|Interdiction par la FDA|Usage pour le diabète de type 1 de l'enfant
+1795017229399|1 % actuellement, 2 % déjà utilisé|40 % actuellement, 60 % déjà utilisé|25 % actuellement, 30 % déjà utilisé
+1795017229401|La Belgique|L'Allemagne|L'Italie
+1795017229403|Maintien durable du poids perdu|Perte de poids qui continue|Reprise de poids au-delà du poids initial en 3 mois
+1795017229405|Plus lente après les incrétinomimétiques|Identique dans les deux cas|Absente après les programmes comportementaux
+1795017229407|Ils sont tous retirés du marché|Ils n'ont aucun effet sur le poids|Ils coûtent trop cher aux assurances
+1795017229409|Gastrectomie totale, duodénopancréatectomie, colectomie|Liposuccion, abdominoplastie, banding|Cholécystectomie, sleeve, fundoplicature
+1795017229411|Bypass Roux-en-Y|Sleeve gastrectomie|Anneau gastrique ajustable
+1795017229413|Résection longitudinale de l'estomac|Court-circuit de l'intestin grêle|Ballon intragastrique gonflé à l'eau
+1795017229415|Anneau réglable autour de l'estomac|Petite poche anastomosée à l'anse de Roux|Ballon intragastrique
+1795017229417|Résection longitudinale de l'estomac sans anastomose|Anastomose jéjuno-iléale avec exclusion du grêle|Poche gastrique avec anneau réglable
+1795017229419|Le bypass Roux-en-Y|L'anneau gastrique|Le ballon intragastrique
+1795017229421|La sleeve|Le bypass Roux-en-Y|La dérivation biliopancréatique
+1795017229423|L'anneau gastrique|La sleeve|La gastroplastie verticale calibrée
+1795017229425|1,24|0,24|0,50
+1795017229427|1,7 vs 0,9 / 1000 personnes-années|0,1 vs 5 / 1000 personnes-années|Identiques
+1795017229429|Pour ajuster le traitement par insuline|Obligation légale uniquement|Pour programmer une 2e intervention systématique
+1795017230515|Éthanol → acétate, au rein|Éthanol → acétaldéhyde, à l'estomac uniquement|Éthanol → méthanol, au foie
+1795017230517|Catalase, MAO – ADH négligeable|ALDH, CYP3A4|Catalase seule
+1795017230519|ADH : microsomal, Km 10 mM – MEOS : cytoplasmique, Km 1–2 mM|ADH : mitochondriale, Km 10 mM – MEOS : cytoplasmique, Km 1–2 mM|ADH et MEOS : cytoplasmiques, Km 1–2 mM
+1795017230521|ADH : aucun – MEOS : 3 ATP|ADH : 36 ATP – MEOS : 3 ATP|ADH et MEOS : 3 ATP
+1795017230523|L'ADH|La catalase|L'acétaldéhyde déshydrogénase
+1795017230525|ADH, cytoplasmique → éthanol|Catalase, peroxysomale → acétate|MEOS, microsomal → acétyl-CoA
+1795017230527|Excrétion urinaire inchangée|Stockage en glycogène|Transformation en glucose (néoglucogenèse)
+1795017230529|Quantité d'ADH hépatique|Absorption gastrique de l'alcool|Oxydation de l'acétate
+1795017230531|Il inhibe l'ADH|Il induit le MEOS|Il accélère la vidange gastrique
+1795017230533|~5 g|~25 g|~40 g
+1795017230535|~20 % (surtout le tissu adipeux)|~100 % du poids|~40 % (secteur extracellulaire)
+1795017230537|Exponentielle, demi-vie ~2 h|Linéaire, ~1,5 g/l/h|Linéaire, ~0,015 g/l/h
+1795017230539|0,8 g/l|0,2 g/l|0 g/l
+1795017230541|> 0,8 g/l|> 1 g/l|> 2,5 g/l
+1795017230543|Distinguer alcoolisation aiguë et chronique|Doser l'alcool dans les urines|Estimer le volume de distribution
+1795017230545|↓ du rapport NADH/NAD hépatique|↑ de l'acétate plasmatique|Induction de l'ADH
+1795017230547|Hyperglycémie – hypocholestérolémie – alcalose|Hypoglycémie postprandiale – hypoTG – acidose lactique|Hyperglycémie – stéatose – alcalose métabolique
+1795017230549|L'alcool stimule la sécrétion de glucagon|L'alcool inhibe la glycogénolyse|L'alcool augmente la captation musculaire du glucose
+1795017230551|Diabétiques bien nourris|Sujets obèses après un repas|Sujets sous corticoïdes
+1795017230553|L'alcool inhibe la néoglucogenèse|L'alcool épuise le glycogène|L'alcool inhibe le glucagon
+1795017230555|Whisky seul à jeun|Vin rouge au cours d'un repas|Bière sans alcool
+1795017230557|Diminue le risque d'hypoglycémie|Provoque une hyperglycémie sévère|N'a aucun effet
+1795017230559|↓ NADH/NAD → ↓ oxydation des AG → ↓ VLDL|↑ activité de la lipoprotéine lipase|↓ synthèse des apolipoprotéines
+1795017230561|↓ synthèse d'apo B + activation de la CETP|↑ activité de la LPL seule|Inhibition de la LCAT
+1795017230563|Normalisation en plusieurs mois|Pas de normalisation|Aggravation transitoire puis normalisation en 1 an
+1795017230565|Inhibition de la lipolyse|↑ de l'insuline|Acétyl-CoA dirigé vers la synthèse de cholestérol
+1795017230567|Arrêt de l'insuline chez un DT1|Repas riche en glucides après jeûne|Prise chronique modérée sans arrêt de l'alimentation
+1795017230569|Coma profond hypoglycémique|Hypertension, bradycardie, hypothermie|Polyurie, soif, glycémie > 600
+1795017230571|Évolution vers la chronicité|Guérison spontanée sans récidive|Évolution vers le diabète de type 1
+1795017230573|Glycémie > 600 – alcoolémie élevée|Glycémie normale – alcoolémie > 3 g/l|Glycémie < 30 – alcoolémie élevée
+1795017230575|TA normal – β-OHB/ACAC ↓ – lactate normal|TA ↓ – β-OHB/ACAC ↓ – lactate ↓|TA ↑ – β-OHB/ACAC ↓ – lactate normal
+1795017230577|L'acétoacétate domine|Les cétones sont absentes|L'acétone est éliminée par voie pulmonaire
+1795017230579|Carence en insuline absolue|Excès d'acétaldéhyde seul|Intoxication au méthanol associée
+1795017230581|Hypoglycémie, hyperthyroïdie, Addison|Coma hyperosmolaire, Cushing, hypokaliémie|Alcalose métabolique, vomissements, SIADH
+1795017230583|Insuline IV + bicarbonates|Restriction hydrique + furosémide|Glucagon + vitamine B12
+1795017230585|Prévenir l'hypoglycémie|Prévenir l'anémie mégaloblastique|Prévenir le delirium tremens
+1795017230587|↓ métabolisme des médicaments – ↓ acétaldéhyde|Hypothermie – ↓ toxicité des médicaments|Production d'ATP – ↓ carcinogénicité
+1795017230589|L'alcool n'est pas absorbé|L'alcool est éliminé intact dans l'urine|L'alcool inhibe la lipogenèse
+1795017230591|Métabolisme ralenti (demi-vie ↑)|Aucun effet|Absorption bloquée
+1795017230593|Paracétamol|Méthanol|Digoxine
+1795017230595|↓ production + ↑ oxydation|↑ ALDH hépatique|Excrétion rénale réduite
+1795017230597|Bradycardie – ↑ synthèse protéique – ↑ vit B6|Hypoglycémie seule|Lésions rénales isolées
+1795017230599|Isoforme très active de l'ADH ; inhibiteurs de la MAO|Isoforme peu active de l'ADH ; metformine|Déficit en catalase ; IPP
+1795017230601|Primaire : malabsorption – Secondaire : ↓ apports|Primaire : ↑ dépenses – Secondaire : ↓ apports|Primaire : vomissements – Secondaire : diarrhée
+1795017230603|Wernicke-Korsakoff|Anémie microcytaire ferriprive|Scorbut
+1795017230605|Anémie mégaloblastique, malabsorption|Rachitisme, ostéomalacie|Pellagre
+1795017230607|~1/10 naissances|~1/100 000 naissances|~1/100 naissances
+1795017230609|Macrosomie – hypertonie – hydramnios|Avance de croissance – polydactylie|Cardiopathie isolée – QI normal
+1795017230611|Linéaire croissante|Courbe en J inversé|Aucune relation
+1795017230613|RR plus élevé avec une consommation modérée|Aucun lien|RR plus bas uniquement avec > 6 verres/j
+1795017230615|24 g / 48 g par jour|6 g / 12 g par jour|36 g / 60 g par jour
+1795017230617|500 ml bière – 250 ml vin – 100 ml spiritueux|250 ml bière – 50 ml vin – 25 ml spiritueux|330 ml bière – 200 ml vin – 60 ml spiritueux
+1795017230619|ADH hépatique plus active + masse grasse plus faible|Absorption intestinale plus lente|Volume de distribution plus grand
+1795017230621|Degrés × 1,2|Degrés / 0,8|Degrés × 10

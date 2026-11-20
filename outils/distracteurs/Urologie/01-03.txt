@@ -1,0 +1,196 @@
+1731940200000|La vessie|L'urètre|Le testicule
+1731940200002|Taux d'hémoglobine|Présence d'une hématurie|Grade au CT
+1731940200007|Uroscanner complet|IRM rénale|Scintigraphie au DMSA
+1731940200009|IV et V|V uniquement|III, IV et V
+1731940200010|Néphrostomie chirurgicale ouverte|Sonde vésicale seule|Urétéroscopie souple
+1731940200011|Néphrectomie totale d'emblée|Surveillance simple|Sonde JJ
+1731940200012|Hypotension orthostatique|Polyurie|Hyperkaliémie
+1731940200014|Polykystose, cancer, IRT|Prostatite, orchite, varicocèle|Néphrocalcinose, ATR, Fanconi
+1731940200015|10 %|25 %|50 %
+1731940200017|Hématocèle|Lymphocèle|Hydrocèle
+1731940200018|< 0,1 %|10–15 %|25–30 %
+1731940200020|Chute de vélo à jeun|Accouchement|Effort sportif à vessie vide
+1731940200024|Fracture de côte|Rupture splénique|Fracture du rachis
+1731940200025|Péritonite purulente immédiate|Hémorragie digestive|Occlusion mécanique
+1731940200027|Laparotomie systématique|Néphrostomie|Simple surveillance sans drainage
+1731940200029|3 jours|3 mois|1 an
+1731940200030|Échographie|Cystoscopie|ASP
+1731940200031|50 %|75 %|90 %
+1731940200033|Lithiase vésicale|Infertilité|Hématurie chronique
+1731940200034|Hématurie + douleur lombaire + fièvre|Anurie + hypotension + œdème scrotal|Dysurie + pollakiurie + brûlures
+1731940200037|Éviter l'infection|Réduire la douleur|Vessie toujours vide
+1731940200038|Échographie|Cystoscopie|CT sans contraste
+1731940200039|Incontinence|Infertilité|Cancer urétral
+1731940200040|Lésion urétrale incomplète|Patient jeune|Fracture du bassin isolée
+1731940200042|Taux de sténose plus élevé|Mortalité accrue|Impossibilité de réparer ensuite
+1731940200045|Coup de pied|Accident de vélo|Masturbation avec anneau
+1731940200047|Fascia de Colles|Fascia de Scarpa|Albuginée
+1731940200049|Rupture de l'urètre seul|Thrombose de la veine dorsale|Fracture de l'os pénien
+1731940200050|Antalgiques et glace|Sonde urinaire seule|Surveillance 48 h
+1731940200051|Suture immédiate|Cystocath|Embolisation
+1731940200052|Priapisme|Incontinence|Phimosis
+1731940200056|Allergie à l'iode systématique|Diabète|Hypothyroïdie
+1731940200057|Échographie seule|ASP|IRM sans injection
+1731940200058|Scintigraphie au MAG3|PET-FDG|Scintigraphie osseuse
+1731940200059|Femme jeune, fièvre, brûlures|Leucocyturie, nitrites +|Fièvre < 38,5 °C isolée
+1731940200060|Cancer de vessie|Hyperplasie prostatique|Diabète insipide
+1731940200061|Antibiotiques seuls 3 jours|Néphrectomie d'emblée|Sonde vésicale
+1731940200062|Massage prostatique|PSA élevé|Cystoscopie
+1731940200067|Anticholinergique|Inhibiteur de la 5α-réductase|Morphinique
+1731940200068|Prépuce non rétractable|Rétraction du gland sous le prépuce|Inflammation du gland
+1731940200069|Infection urinaire|Sténose urétrale|Priapisme
+1731940200071|Circoncision d'urgence|Incision dorsale d'emblée|Injection d'adrénaline
+1731940200072|Douleur scrotale isolée|Petit hématome sous-cutané|Contusion sans hématocèle
+1731940200073|Torsion secondaire|Cancer du testicule|Varicocèle
+1731940200075|Cancer du testicule|Traumatisme scrotal|Orchite ourlienne
+1731940200077|Progressive|Intermittente sur des mois|Après un effort de toux
+1731940200082|Vers l'intérieur|Vers le haut|Indifférent
+1731940200083|Orchidectomie|Orchidopexie unilatérale seule|Aucun geste
+1731940200086|Brutale|Intermittente|Nocturne uniquement
+1731940200087|Chirurgie urgente|Détorsion manuelle|Corticoïdes seuls
+1731940200088|Hernie inguinale méconnue|Varicocèle douloureuse|Cancer révélé par trauma
+1731940200089|Gangrène sèche des orteils|Infection de la vessie|Ulcère vénérien
+1731940200091|Diminuer la douleur|Réduire l'œdème scrotal|Éviter la thrombose
+1731940200092|Amoxicilline seule|Fluoroquinolone seule|Vancomycine seule
+1731940200093|Mictions difficiles|Absence de production d'urine|Fuite d'urine permanente
+1731940200094|RUA : vessie vide ; anurie : vessie pleine|Les deux : vessie pleine|Aucune différence
+1731940200096|Très douloureux|Absent|Pulsatile
+1731940200097|Prostatite aiguë|Trouble de la coagulation|Sonde déjà posée
+1731940200098|Le sondage urétral|L'échographie|L'antalgie
+1731940200099|Sonde à triple courant|Lavage vésical|Sonde urétrale
+1731940200101|Pontage aorto-coronarien|Prothèse de hanche|Stent coronaire
+1731940200102|CH 8|CH 24|CH 30
+1731940200104|Hypertension, oligurie, fièvre|Hyperkaliémie, anurie, bradycardie|Tachycardie, hyponatrémie, convulsions
+1731940200105|Vider entièrement en une fois|Ne pas drainer|Injecter un diurétique
+1731940200106|Cancer de la prostate|Prostatite aiguë|Sténose urétrale
+1731940200107|HBP|Prostatite chronique|Calcul vésical
+1731940200108|Alpha-bloquants, diurétiques|IEC, statines|Bêta-bloquants, anticoagulants
+1731940200109|1 %|50 %|90 %
+1731940200110|Hernie inguinale|Anévrisme aortique|Kyste ovarien
+1731940200111|Rétention urinaire aiguë|Torsion testiculaire|Hématurie
+1731940200112|Immobile|Prostré en chien de fusil sans bouger|Confus
+1731940200113|5 %|90 %|20 %
+1731940200115|Oxalate de calcium|Acide urique|Cystine
+1731940200117|50 %|10 %|99 %
+1731940200119|Échographie|ASP|UIV
+1731940200120|Hématurie|Leucocytose|Hypercalcémie
+1731940200121|Calcul > 4 mm|Hématurie|Douleur calmée par AINS
+1731940200124|Urétéroscopie|Néphrolithotomie percutanée|Chimiolyse
+1731940200125|≈ 50 %|≈ 20 %|≈ 75 %
+1731940200126|Chimiolyse orale|Lithotritie répétée 10 fois|Néphrectomie
+1731940200127|1er trimestre|2e trimestre|Post-partum
+1731940200128|Malformation fœtale|Pré-éclampsie|Diabète gestationnel
+1731940200129|20 %|5 %|50 %
+1731940200130|Fente labiopalatine|Insuffisance rénale fœtale seule|Hémorragie maternelle
+1731940200132|Néphrostomie bilatérale|Urétéroscopie systématique|LEC
+1731940200133|> 30 min|> 24 h|> 1 h
+1731940200135|Thrombose du gland|Absence d'innervation du gland|Gland sans corps spongieux
+1731940200136|Acidose → hypoxie → érection|Nécrose → hypoxie → acidose|Fibrose → hypoxie → nécrose
+1731940200137|Infection|Urétrorragie|Infertilité
+1731940200138|Hémophilie|Thalassémie|Anémie ferriprive
+1731940200139|Fluoxétine|Sertraline|Paroxétine
+1731940200140|Chirurgie d'emblée|Glace et attente|Antalgiques seuls
+1731940200141|Papavérine|Prostaglandine E1|Héparine
+1731940200143|Prothèse pénienne en 1re intention|Embolisation|Circoncision
+1731940200144|< 70 %|< 5 %|< 50 %
+1731940200146|Plus intense|Identique|Absente obligatoirement avec gland dur
+1731940200147|Shunt chirurgical|Ponction-rinçage + adrénaline|Transfusion
+1731940200149|Noir, visqueux|Marron foncé|Clair, jaunâtre
+1731940200151|> 5 000 GR/mL|> 50 GR/mL|> 50 000 GR/mL
+1731940200154|Sang au méat hors mictions|Urines foncées|Pigment hémoglobinique urinaire
+1731940200155|Sang dans les urines lors des mictions|Sang dans le sperme|Saignement vaginal
+1731940200156|Carotte, épinard, brocoli|Banane, pomme|Riz, pâtes
+1731940200157|Isoniazide|Éthambutol|Pyrazinamide
+1731940200158|Hémoglobine|Bilirubine|Porphyrine
+1731940200159|Myoglobine|Bilirubine|Mélanine
+1731940200160|Vésicale|Rénale|Glomérulaire
+1731940200162|Urétrale|Prostatique|Col vésical
+1731940200165|Absence de plaquettes|Hématies lysées|Faible débit
+1731940200167|Isomorphes|Normocytaires intactes|Drépanocytes
+1731940200168|≥ 3 g/24 h|≥ 0,03 g/24 h|≥ 10 g/24 h
+1731940200169|> 0,3 g/24 h|> 0,1 g/24 h|> 10 g/24 h
+1731940200173|Pigment|Contaminant|Colorant alimentaire
+1731940200174|Vraie hématurie|Colorant|Contaminant
+1731940200175|Vraie hématurie|Myoglobinurie|Hémoglobinurie
+1731940200176|Échographie|Cystoscopie|Uroscanner
+1731940200177|Plus poussée pour la micro|Aucune exploration pour la micro|Plus poussée pour la macro
+1731940200179|Créatinine|Plaquettes uniquement|Albumine
+1731940200180|Diagnostic étiologique|Cystoscopie|Arrêt des anticoagulants
+1731940200183|0,5 L/24 h|5 L/24 h|1 L/24 h
+1731940200184|AVK|Aspirine|AOD
+1731940200185|En urgence pendant l'hématurie|Avant l'ECBU|Jamais
+1731940200186|> 70 ans|> 30 ans|Tous âges
+1731940200187|2 à 3 jours|1 mois|3 mois
+1731940200190|Toucher rectal|Percussion lombaire|Auscultation abdominale
+1731940200191|Uroscanner|Cystoscopie|IRM
+1731940200193|Artérielle|Excrétoire|Portale
+1731940200194|Échographie seule|UIV|Scintigraphie
+1731940200198|Nouvelle cystoscopie|Biopsie rénale|PET-FDG
+1731940200201|Hématurie macroscopique isolée|Hématurie avec caillots|Hématurie post-traumatique
+1731940200202|Pneumocoque, méningocoque|Candida, Aspergillus|Chlamydia, gonocoque
+1731940200203|Cytologie urinaire|Diagnostic d'infection|Dépistage du cancer
+1731940200205|Femme, < 35 ans, sport|Homme, < 20 ans, végétarien|Femme, enceinte, diabète
+1731940200206|> 60 ans|> 20 ans|> 75 ans
+1731940200207|Syndrome de Leriche|Syndrome de Wilkie|Syndrome de la JPU
+1731940200208|Nutcracker|Reflux vésico-urétéral|Valves de l'urètre postérieur
+1731940200209|Syndrome de JPU|Nutcracker|Rein en fer à cheval
+1731940200211|Maladie de Fabry|Polykystose|Néphropathie à IgA
+1731940200212|Prise d'AINS|Infection urinaire|Effort intense
+1731940200213|Statines, IEC|Insuline, metformine|Paracétamol, codéine
+1731940200214|Hypertension, obésité|Lithiase, reflux|Infection à E. coli
+1731940200215|Méthotrexate|Cisplatine|5-FU
+1731940200216|Toxoplasmose|Paludisme|Ascaridiose
+1731940200219|Uroscanner immédiat|Cystoscopie immédiate|Arrêt définitif du sport
+1731940200220|De certitude|Toujours tumoral|Urgent
+1731940200221|10–20 % à 3 ans|0 %|50 % à 3 ans
+1731940200222|Tous les mois|Tous les 5 ans|Jamais
+1731940200223|Fièvre, brûlures, pollakiurie|Caillots, douleur lombaire|Hématurie initiale
+1731940200224|Hypotension|Fièvre|Polyurie
+1731940200225|Production d'hormones|Digestion|Thermorégulation
+1731940200226|Reins, vessie, uretères, urètre, col|Uretères, reins, urètre, vessie, col|Reins, urètre, vessie, uretères, col
+1731940200227|Intrapéritonéale|Pelvienne|Médiastinale
+1731940200229|Tube contourné proximal|Anse de Henlé|Tube collecteur
+1731940200231|Tube contourné proximal|Glomérule|Anse descendante
+1731940200233|Bassinet → calices → uretère|Uretère → calices → bassinet|Calices → uretère → bassinet
+1731940200235|≈ 10 mL/min|≈ 0,1 mL/min|≈ 50 mL/min
+1731940200236|Péristaltisme accéléré|Reflux systématique|Rupture
+1731940200237|Trigone|Sphincter strié|Urothélium
+1731940200239|Éviter les infections|Augmenter la capacité|Favoriser la miction
+1731940200243|Détrusor|Adventice|Séreuse
+1731940200244|Col vésical|Dôme|Ouraque
+1731940200246|Capsule fibreuse épaisse|Péritoine sur toute la surface|Muscle strié
+1731940200247|Supérieur, médian, inférieur|Urinaire, génital, digestif uniquement|Profond, superficiel, moyen
+1731940200248|Rectocèle|Hystérocèle|Entérocèle
+1731940200249|Strié, volontaire|Lisse, volontaire|Strié, involontaire
+1731940200250|Lisse, involontaire|Strié, involontaire|Lisse, volontaire
+1731940200253|Au-dessus de la prostate|Au niveau du col vésical|Dans le gland
+1731940200255|Circulaire|Ovale|Triangulaire
+1731940200256|3–5 cm|40–50 cm|10–15 cm
+1731940200258|Vésical, prostatique, pénien|Bulbaire, membraneux, glandulaire|Interne, moyen, externe
+1731940200259|Urètre membraneux|Vessie|Urètre pénien
+1731940200261|Prostate|Sphincter interne seul|Détrusor
+1731940200262|Sphincter de Boyden|Sphincter d'Oddi|Sphincter anal
+1731940200263|Dans le vagin|Sous le vagin|Au-dessus du clitoris
+1731940200265|Contraction vésicale|Lubrification urétrale exclusive|Production de testostérone
+1731940200266|Nerf pelvien|Nerf hypogastrique|Nerf obturateur
+1731940200268|Nerf hypogastrique|Nerf pudendal|Nerf fémoral
+1731940200271|Noradrénaline|Dopamine|Sérotonine
+1731940200272|Acétylcholine|Adrénaline seule|GABA
+1731940200274|M2|M1|M5
+1731940200275|Bradycardie, diarrhée|Hypersalivation|Myosis, larmoiement
+1731940200277|α1a|α1b|β3
+1731940200278|α1a|α1d|β2
+1731940200279|β2|α1a|M3
+1731940200280|Meilleure efficacité urinaire|Moins d'éjaculation rétrograde|Moins de céphalées
+1731940200281|Contraction (M3)|Contraction (α1)|Aucun effet
+1731940200282|Relaxation (β3)|Relaxation (M3)|Aucun effet
+1731940200284|Activés|Seul le sympathique est activé|Seul le somatique est activé
+1731940200285|Chémorécepteurs|Nocicepteurs|Barorécepteurs artériels
+1731940200286|P vessie > P urètre|P urètre = P vessie|P abdominale nulle
+1731940200287|Contraction du sphincter externe|Remplissage maximal|Ouverture de l'uretère
+1731940200289|Reflux urétral|Post-mictionnel|Bulbocaverneux
+1731940200291|Incontinence permanente|Polyurie|Hématurie
+1731940200293|Volontaire|Absente|Contrôlée par le cortex
+1731940200294|Centre sacré|Cortex occipital|Cervelet
+1731940200295|Cervelet|Centre pontique|Moelle sacrée
+1731940200296|Excès d'ADH ; reflux|Infection urinaire chronique|Diabète sucré ; lithiase

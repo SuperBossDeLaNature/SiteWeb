@@ -1,0 +1,225 @@
+1795080821987|0,8 %|30 %|1 %
+1795080821988|Oncologique, préventive|Diagnostique, palliative|Mineure, majeure
+1795080821990|Envahit le muscle pectoral seul|Mesure < 2 cm|Ganglion axillaire unique
+1795080821992|Préventive, curative|Primaire, tertiaire|Interne, externe
+1795080821993|Kyste, fibroadénome|Gynécomastie|Polythélie isolée
+1795080821994|Métastatique|Inflammatoire|Localement avancé
+1795080821995|Risque de rechute locale|Prothèse impossible|Coût
+1795080821997|Mastectomie totale|Biopsie|Curage axillaire
+1795080822000|Poitrine volumineuse|Âge > 70 ans|Patiente fumeuse
+1795080822001|Hypervascularisation|Infection systématique|Allergie au silicone
+1795080822002|Greffe puis prothèse|Lambeau puis expansion|Lipofilling puis prothèse
+1795080822003|Lipofilling|Réduction|Augmentation
+1795080822004|Ptose|Infection aiguë|Lymphome
+1795080822009|Révision immédiate|Reprise urgente|Reconstruction primaire
+1795080822010|Toujours immédiat|Jamais|Pendant la radiothérapie
+1795080822012|Trop de volume|Pédicule fragile|Cicatrice abdominale
+1795080822013|Le muscle bloque les radiations|La prothèse est sous le muscle irradié|Le dos est plus vascularisé
+1795080822014|Verticale|Horizontale|Circulaire
+1795080822015|Obèses, âgées|Fumeuses|Diabétiques
+1795080822016|Éviter la douleur|Éviter l'atrophie|Améliorer la vascularisation
+1795080822018|Oblique externe|Grand dorsal|Transverse
+1795080822020|Épigastrique inférieure profonde|Thoracique latérale|Circonflexe iliaque
+1795080822021|Épigastrique supérieur|Mammaire interne|Thoraco-dorsal
+1795080822023|Sternum et ombilic|Flanc et dos|Côtes et ombilic
+1795080822027|Épigastrique supérieure|Thoraco-dorsale|Glutéale supérieure
+1795080822028|Axillaires|Carotides|Fémorales
+1795080822029|Infection|Lymphœdème|Coque
+1795080822030|1|4|3
+1795080822031|Peau de la cuisse|Cartilage auriculaire|Muqueuse buccale
+1795080822033|Asymétrie, infection, tumeur|Mastite, abcès, kyste|Coque, rupture, déplacement
+1795080822034|Mastectomie radicale|Mastopexie|Lipofilling
+1795080822035|Céphalées|Douleurs abdominales|Lombosciatique
+1795080822037|IRM systématique|Biopsie|Scanner
+1795080822038|Chirurgien seul|Médecin traitant seul|Aucun
+1795080822039|Cicatrice trop courte|Coût|Résultat temporaire
+1795080822042|Verticale (Lassus)|Thorek|Ancre
+1795080822043|Benelli|Thorek|Ancre (Wise)
+1795080822044|1 mois|5 ans|3 mois
+1795080822045|Nécrose de l'aréole|Infection|Perte de sensibilité
+1795080822046|Greffe libre|Vaisseau mammaire externe seul|Pédicule cutané
+1795080822048|Réduction|Prothèse seule|Lipoaspiration
+1795080822049|Lipofilling|Prothèse pré-pectorale|Réduction
+1795080822050|Hématome|Infection|Asymétrie
+1795080822052|Pôle supérieur|Aréole|Aisselle
+1795080822053|Hormonothérapie, massage|Réduction, mastopexie|Injection d'acide hyaluronique, laser
+1795080822054|Sérum physiologique|Hydrogel|Huile
+1795080822055|Carrée, ovale|Plate, bombée|Simple, double
+1795080822057|Plus douloureuse|Déplacement à la contraction|Invisible
+1795080822058|Plus de coques|Plus visible|Moins naturelle
+1795080822060|1|5|2
+1795080822061|Prothèse trop grosse|Coque immédiate|Rupture
+1795080822062|Ablation de la prothèse|Exérèse de la capsule|Incision
+1795080822063|Manipulation|Rien|Injection
+1795080822065|Changement de prothèse immédiat|Ablation définitive|Drainage seul
+1795080822066|Lipoaspiration|Liposuccion inverse|Lipectomie
+1795080822068|Sensibilité du visage|Mastication|Mouvements oculaires
+1795080822069|Foramen ovale|Trou déchiré|Foramen magnum
+1795080822071|3|7|2
+1795080822072|Two Zebras Bit My Cat seulement|ABCDE|SOAP
+1795080822075|Zygomatique et buccale|Cervicale et buccale|Temporale et zygomatique
+1795080822077|Grand dorsal, grand pectoral|Gastrocnémien|Sartorius
+1795080822078|Abaisser la paupière|Collyre|Toxine botulique
+1795080822079|Bas du visage|Tout le visage|Côté opposé
+1795080822081|Laryngectomie|Mandibulectomie|Parotidectomie
+1795080822083|Gastrocnémien|Grand fessier|Gracilis
+1795080822084|Grand dorsal libre|DIEP|Gracilis libre
+1795080822086|Gastrocnémien|Greffe de peau|Lambeau frontal
+1795080822087|Préserver le tissu irradié|Greffe cutanée simple|Suture directe
+1795080822088|Trachéostome|Pharyngocèle|Laryngocèle
+1795080822091|Implant cochléaire|Aucune|Prothèse dentaire
+1795080822092|Entropion|Ptôsis|Lagophtalmie
+1795080822093|Ectropion|Ptôsis|Chalazion
+1795080822094|Ectropion|Entropion|Exophtalmie
+1795080822095|Ressembler à une célébrité|Changer totalement|Plaire au chirurgien
+1795080822096|Dépression légère|Anxiété|Insomnie
+1795080822098|Poche graisseuse externe|Glande lacrymale|Muscle releveur
+1795080822100|≈ 5 min|≈ 3 h|≈ 2 h
+1795080822102|Exérèse maximale|Anesthésie générale|Prothèse
+1795080822103|Plus de graisse retirée|Aucune|Cicatrice plus haute
+1795080822105|Muscle orbiculaire|Tarse|Releveur
+1795080822106|Ptôsis|Diplopie|Cécité
+1795080822108|Chirurgie immédiate|Greffe|Toxine
+1795080822109|Hypertrophie musculaire|Os mandibulaire|Glande parotide
+1795080822111|Âgées|Hommes uniquement|Fumeuses
+1795080822114|Générale systématique|Rachianesthésie|Aucune
+1795080822115|Sous-ciliaire|Rétro-auriculaire|Endobuccale
+1795080822116|Sous-cutané superficiel|Sous-périosté osseux|Musculaire
+1795080822117|Faciaux|Trijumeau moteur|Occipitaux
+1795080822118|Hématome|Infection|Paralysie
+1795080822120|Sous-mentonnière|Frontale|Endobuccale
+1795080822121|3 jours|3 mois|1 an
+1795080822122|Au niveau de la mandibule|Au sternum|Aux pommettes
+1795080822123|2 ans|18 ans|12 ans
+1795080822125|Antérieure|Endaurale|Rétro-mandibulaire
+1795080822126|Exérèse|Greffe|Suture
+1795080822127|Ectropion|Ptôsis|Paralysie faciale
+1795080822129|Ouverte (trans-columellaire)|Externe|Sous-labiale
+1795080822130|Primaire esthétique simple|Enfant|Toujours
+1795080822133|Petite bosse|Pointe trop large|Narines asymétriques
+1795080822134|Recommandée|Obligatoire|Standard
+1795080822135|B|E|F
+1795080822136|Intraveineuse|Orale|Cutanée
+1795080822137|Bloque la recapture d'ACh|Stimule l'ACh|Détruit le nerf
+1795080822139|1 semaine|5 ans|3 semaines
+1795080822140|Élimination de la toxine dans les urines|Anticorps|Atrophie musculaire
+1795080822142|Rides du front|Migraine|Hyperhidrose
+1795080822143|Cataracte|Glaucome|Myopie
+1795080822144|Psoriasis|Acné|Eczéma
+1795080822145|Diplopie|Cécité|Larmoiement définitif
+1795080822148|Intramusculaire|Intraveineuse|Sous-périostée
+1795080822149|Paralysant|Exfoliant|Antibactérien
+1795080822151|Corticoïdes systématiques|Antihistaminique à vie|Aucune
+1795080822153|Allergie|Excès de produit|Dose insuffisante
+1795080822155|Appendicectomie|Cholécystectomie|Hernie inguinale
+1795080822156|Hernie|Éventration|Éviscération
+1795080822158|Lipodystrophie|Cellulite|Chalazion
+1795080822159|2|8|1
+1795080822160|Peau fine avec vergetures|Patient âgé|Obésité morbide
+1795080822161|Excès de muscle|Hydratation|Infection
+1795080822164|Repos strict|Bain chaud|Massage énergique immédiat
+1795080822166|Âgées, grand tablier|Hommes obèses|Post-bariatrique
+1795080822167|Gril costal|Xiphoïde|Pubis
+1795080822168|Locale seule|Aucune|Sédation légère seule
+1795080822169|Esthétique|Chaleur|Réduire la douleur
+1795080822171|Mini-plastie|Lipoaspiration|Plastie circulaire
+1795080822172|Ombilic|Pubis|Sternum
+1795080822173|Ambulatoire|2 semaines|1 mois
+1795080822174|Ombilic → xiphoïde|Flancs|Dos
+1795080822175|Prothèse|Lambeau|Lipoaspiration
+1795080822176|Hernie|Infection|Thrombose
+1795080822178|Lipofilling des seins|Plastie des bras|Lifting facial
+1795080822179|Embolie pulmonaire|Infection|Hernie
+1795080822180|Chirurgie d'emblée|Antibiotiques oraux seuls|Rien
+1795080822181|Antibiotiques seuls|Surveillance|Compression
+1795080822183|Après grossesse|Esthétique pure|Après traumatisme
+1795080822184|Bras et seins|Cou et visage|Cuisses et genoux
+1795080822187|Aucun effet|Réduction des hanches|Augmentation des fesses
+1795080822189|Diabète|HTA|Âge
+1795080822190|« Aile de chauve-souris »|« Bras de Popeye »|« Bras de grenouille »
+1795080822193|Face externe|Face postérieure|Aisselle uniquement
+1795080822194|Infection|Hématome|Chéloïde
+1795080822195|Diminue le volume|Évite la cicatrice|Améliore la peau
+1795080822196|Lipoaspiration seule|Greffe|Lambeau
+1795080822197|Éviter une infection|Éviter un hématome|Réduire la cicatrice
+1795080822199|Antibiotiques|Exposition solaire|Massage sec
+1795080822200|Non, ambulatoire|Uniquement le soir|1 mois
+1795080822202|Face externe|Genou|Fessier
+1795080822203|Externe|Postérieure|Antérieure
+1795080822205|Infection osseuse|Thrombose|Nécrose
+1795080822207|Opérer le plus tard possible|Opérer à la naissance|Âge indifférent
+1795080822209|Semaine 2|Semaine 12|Semaine 20
+1795080822210|Fin semaine 4|Fin semaine 20|Naissance
+1795080822212|1 / 5 000|1 / 50|1 / 50 000
+1795080822214|1 / 500|1 / 5 000|1 / 5 000 000
+1795080822216|Vitamine C|Fer|Vitamine D
+1795080822217|Antibiotiques, paracétamol|Insuline|Antihypertenseurs
+1795080822220|Jeune âge|Sexe masculin|Groupe sanguin
+1795080822221|80 %|1 %|50 %
+1795080822222|≈ 10|≈ 50|≈ 3 000
+1795080822224|1 à 5|A à F|0 à 30
+1795080822225|10 %|90 %|25 %
+1795080822226|Gueule-de-loup|Langue de chat|Lèvre de lion
+1795080822227|Limitée à la lèvre rouge|N'atteint pas la peau|Unilatérale toujours
+1795080822228|Incisives centrales|Molaires|Prémolaires
+1795080822229|Latérales|Antérieures uniquement|Asymétriques
+1795080822231|Après 5 ans|À l'adolescence|À l'âge adulte
+1795080822234|≈ 6 mois|≈ 15 ans|≈ 1 an
+1795080822235|≈ 2 ans|≈ 18 ans|≈ 6 mois
+1795080822237|Esthétique du nez|Fermer le palais|Améliorer la voix
+1795080822239|Corriger la dentition|Améliorer la voix|Prévenir les otites
+1795080822240|2-3 ans|15-18 ans|1 an
+1795080822241|Surdité de perception|Acouphènes|Vertiges
+1795080822243|≈ 2 ans|≈ 18 ans|≈ 5 ans
+1795080822244|Rarement < 5 ans|À vie|1 semaine
+1795080822245|Microtie|Cryptotie|Macrotie
+1795080822248|Treacher-Collins|Down|Turner
+1795080822249|Rhinopoïèse|Otoplastie|Pharyngoplastie
+1795080822251|≈ 45°|≈ 5°|≈ 90°
+1795080822252|3 à 4 cm|9 à 11 cm|2 cm
+1795080822253|4 à 5 cm|0,5 cm|3 cm
+1795080822254|Trop plissé|Trop épais|Absent
+1795080822255|2-3 ans ou 15 ans|Naissance|> 18 ans uniquement
+1795080822257|Microtie|Oreille de Stahl|Anotie
+1795080822258|Oreille de Stahl|Cryptotie|Anotie
+1795080822259|Cryptotie|Constricted ear|Microtie
+1795080822260|Endodermique|Mésodermique|Neurectodermique
+1795080822262|Aucun|Biopsie|Scintigraphie
+1795080822265|Vérifier les parathyroïdes|Mesurer le kyste seul|Rechercher une adénopathie
+1795080822266|Cartilage thyroïde|Glande sous-maxillaire|Muscle sterno-cléido-mastoïdien
+1795080822267|Médiane|Sous-mentale|Thoracique
+1795080822269|Torticolis congénital|Syndrome de Poland|Fente cervicale latérale
+1795080822270|Éviter une infection|Esthétique|Éviter une dysphagie
+1795080822271|Glaucome|Strabisme|Cataracte
+1795080822272|Polymastie|Athélie|Amastie
+1795080822274|Axillaire|Abdominal bas|Dorsal
+1795080822275|Excès d'hormones|Infection|Traumatisme
+1795080822276|Tumeur|Excès de prolactine|Obésité
+1795080822277|Mastectomie|Hormonothérapie seule|Abstention
+1795080822278|Tanner|Grolleau|Foucras
+1795080822279|Petite sans redondance|Sévère|Modérée sans redondance
+1795080822280|Petite|Modérée|Absente
+1795080822282|Oméprazole|Ranitidine|Paracétamol
+1795080822283|Fluconazole|Amoxicilline|Ibuprofène
+1795080822284|Lipoaspiration seule|Mastectomie radicale|Réduction cutanée seule
+1795080822285|Athélie|Polymastie|Micromastie
+1795080822287|Amastie|Polythélie|Ptose
+1795080822288|Grand dorsal|Petit pectoral seul|Deltoïde
+1795080822289|1re à 3e|6e à 8e|10e à 12e
+1795080822290|Polydactylie|Main bote radiale|Camptodactylie
+1795080822291|1 / 2 000|1 / 200|1 / 2 000 000
+1795080822294|Génétique dominante|Infection|Traumatisme in utero
+1795080822295|Simon|Tessier|Clark
+1795080822297|Déficit supérieur seul|Absence totale du sein|Normal
+1795080822298|Ablation|Pigmentation|Agrandissement
+1795080822299|Bénignes, malignes|Congénitales, acquises|Artérielles, veineuses
+1795080822300|Âge vs sexe|Couleur vs taille|Localisation
+1795080822301|Malformation veineuse|Angiosarcome|Granulome pyogénique
+1795080822304|Stabilisation définitive|Malignisation|Calcification
+1795080822306|Corticoïdes oraux|Interféron|Vincristine
+1795080822308|Veineuse|Capillaire|Lymphatique
+1795080822311|Tumeur vasculaire|Prolifération mélanocytaire maligne|Hyperplasie kératinocytaire
+1795080822313|> 10 cm|> 100 cm|> 1,5 cm
+1795080822314|10 %|0,01 %|50 %
+1795080822315|À l'adolescence|Après 60 ans|Après 30 ans
+1795080822318|0 %|90 à 100 %|1 %

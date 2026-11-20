@@ -1,0 +1,172 @@
+1795102856036|Vitamines, minéraux, fibres|Protéines, fibres, eau|Glucides, vitamines, oligo-éléments
+1795102856037|B et C|A, B, C|D, E, B12
+1795102856038|A, D, E, K|A et C|D et K
+1795102856040|1 à 10 g|< 1 mg/kg|5 à 10 kg
+1795102856041|30 à 1300 g|< 1 mg/kg|100 à 500 g
+1795102856042|1 à 10 g au total|30 à 1300 g au total|> 1 g/kg
+1795102856045|Aliment|Ingrédient|Additif
+1795102856046|Glucose + H₂O|ADP + O₂|NADH + lactate
+1795102856047|Calorimétrie indirecte|Impédancemétrie|Eau doublement marquée
+1795102856048|Ingérée|Éliminée dans les selles|Stockée dans le foie
+1795102856049|10-20 %|80-90 %|30-40 %
+1795102856050|50-70 %|≈ 10 %|60-80 %
+1795102856051|≈ 30 %|≈ 1 %|≈ 50 %
+1795102856052|Cerveau (27 %)|Muscles (27 %)|Cœur (27 %)
+1795102856054|50 %|5 %|27 %
+1795102856055|27 %|2 %|35 %
+1795102856056|9 kcal|7 kcal|2 kcal
+1795102856057|4 kcal|7 kcal|12 kcal
+1795102856061|Après chaque repas|Toujours en premier|Lipides épuisés uniquement
+1795102856062|2-4 h|1 semaine|1 mois
+1795102856064|Cirrhose|Fibrose|Hémochromatose
+1795102856065|Glycogène|Protéines|Glucose circulant
+1795102856067|O₂ consommé / CO₂ produit|CO₂ produit / énergie dépensée|O₂ consommé / poids
+1795102856068|0,7|0,8|1,2
+1795102856069|1|0,8|0,5
+1795102856070|1|0,7|0,9
+1795102856071|Calorimétrie directe|Spirométrie simple|Gazométrie artérielle
+1795102856074|Glucides|Protéines|Alcool
+1795102856076|Lipase linguale|Pepsine|Maltase
+1795102856077|Glucose libre|Polysaccharides intacts|Acides aminés
+1795102856078|Amylases|Lipases|Peptidases
+1795102856079|Maladie cœliaque|Galactosémie|Intolérance au fructose
+1795102856080|GLUT2|GLUT5|GLUT4
+1795102856081|SGLT1|GLUT5|SGLT2
+1795102856082|Trypsine|Amylase|Chymotrypsine
+1795102856083|Pepsine, chymosine|Carboxypeptidase, aminopeptidase|Amylase, lipase
+1795102856084|Trypsine, élastase|Pepsine, chymotrypsine|Entérokinase
+1795102856086|Hydrolyse des protéines|Absorption du glucose|Neutralisation de l'acidité gastrique
+1795102856088|1-2 m|15-20 m|3 m
+1795102856089|0,5 L|10 L|1 L
+1795102856090|0,5 L|8 L|1 L
+1795102856091|0,1 L|3 L|5 L
+1795102856093|Sans fibres|Sans protéines|Sans glucides
+1795102856095|C|B9|D
+1795102856097|Fructose|Saccharose|Lactose
+1795102856098|30 minutes|6 heures|24 heures
+1795102856099|100 g|25 g|10 g
+1795102856103|Cellulose, lignine|Amidon, saccharose|Hémicellulose, cellulose
+1795102856104|Pectine, gommes, mucilages|Amidon résistant, inuline|Pectine, cellulose, amidon
+1795102856106|AG à très longue chaîne|Cholestérol|Triglycérides
+1795102856107|> 10 g/j|> 50 g/j|> 15 g/j
+1795102856108|> 20 g/j|> 50 g/j|> 15 g/j
+1795102856110|AG, glycérol, cholestérol|Lipoprotéines, TG, sels biliaires|Céramides, cires, vitamines
+1795102856111|Trans|Les deux pareil|Aucun des deux
+1795102856112|Carboxyle (α)|Milieu de la chaîne|Indifféremment
+1795102856113|Oméga-3|Oméga-6|Saturés
+1795102856114|Oméga-9 et saturés|Trans et saturés|Oméga-7 et oméga-9
+1795102856117|VLDL|HDL|Albumine
+1795102856119|Séquence d'acides aminés|Assemblage de sous-unités|Pont disulfure entre protéines
+1795102856121|Glucides|Lipides|Eau
+1795102856123|Lipides|Glucides|Minéraux
+1795102856124|40 %|0,1 %|10 %
+1795102856125|2 %|5 %|90 %
+1795102856127|7 g|700 g|7 kg
+1795102856128|Glucides, lipides, protéines|Vitamines, fibres, eau|Minéraux, protéines, fibres
+1795102856131|Hydrosolubles (B, C)|B12 uniquement|C uniquement
+1795102856132|Excès de vitamines|Hyperphosphatémie|Hypervitaminose A
+1795102856134|Secondaire|Tertiaire|Quaternaire
+1795102856135|Primaire|Tertiaire|Quaternaire
+1795102856136|Primaire|Secondaire|Quaternaire
+1795102856141|Féculents|Fruits et légumes|Eau
+1795102856142|Féculents|Fruits et légumes|Produits laitiers
+1795102856143|Matières grasses|Viande|Produits laitiers
+1795102856144|3 (2 légumes + 1 fruit)|8 (5 légumes + 3 fruits)|2 (1 légume + 1 fruit)
+1795102856145|10 min de marche lente|2 h de course|1 h de musculation
+1795102856147|Santé publique|Les deux à la fois|Ni l'un ni l'autre
+1795102856148|Individuelle|Clinique|Industrielle
+1795102856149|1 SD|3 SD|10 %
+1795102856150|Apport recommandé|Limite de sécurité|NOAEL
+1795102856151|50 %|> 99,9 %|≈ 84 %
+1795102856153|Dose minimale efficace|Dose létale 50|Dose journalière recommandée
+1795102856155|1,0|1,8|2,2
+1795102856156|Très actif|Sédentaire (bureau)|Modérément actif
+1795102856157|Inactif|Très actif|Sédentaire (bureau)
+1795102856158|Inactif|Sédentaire|Très actif
+1795102856159|Sédentaire|Inactif|Modérément actif
+1795102856161|15 kcal/kg/j|35 kcal/kg/j|40 kcal/kg/j
+1795102856162|20 kcal/kg/j|40 kcal/kg/j|50 kcal/kg/j
+1795102856164|30 %|75 %|15 %
+1795102856165|25 % de l'AET|5 % de l'AET|1 % de l'AET
+1795102856166|100 g|20 g|200 g
+1795102856169|40-50 %|10-15 %|50-60 %
+1795102856170|< 20 % de l'AET|< 2 % de l'AET|< 30 % de l'AET
+1795102856171|1-2 %|30-40 %|5-10 %
+1795102856172|20-30 %|< 1 %|15-20 %
+1795102856173|< 100 mg/j|< 1000 mg/j|< 30 mg/j
+1795102856176|≈ 5 %|≈ 70 %|≈ 50 %
+1795102856177|Beurre, fromage|Poisson, vin rouge|Huile de tournesol, soja
+1795102856178|2 g/kg/j|0,3 g/kg/j|1,5 g/kg/j
+1795102856179|25-30 %|1-2 %|40 %
+1795102856181|Produits laitiers (36,5 %)|Céréales (36,5 %)|Poisson (36,5 %)
+1795102856182|Entrées > sorties|Sorties > entrées|Entrées = 2 L/j quelles que soient les sorties
+1795102856183|Urine uniquement|Peau et urine uniquement|Expiration uniquement
+1795102856184|≈ 4 mmol/L|≈ 100 mmol/L|≈ 160 mmol/L
+1795102856185|Intracellulaire|Équiréparti|Uniquement osseux
+1795102856187|5 g/j|20 g/j|2,5 g/j
+1795102856188|10 g/j|1 g/j|8 g/j
+1795102856189|1 g|0,4 g|5 g
+1795102856190|40 mmol|1 mmol|58 mmol
+1795102856191|10-15 %|30-35 %|95 %
+1795102856194|15 %|50 %|99 %
+1795102856195|0,3 g/j|10 g/j|1 g/j
+1795102856196|Extracellulaire|Osseux|Plasmatique
+1795102856198|Acidose métabolique|Acidose respiratoire|Aucun
+1795102856199|0,3-0,5 g/j|10-12 g/j|1 g/j
+1795102856201|50 %|85 %|70 %
+1795102856202|1,15-1,30 mmol/L|3,0-3,5 mmol/L|0,8-1,2 mmol/L
+1795102856203|≈ 10 %|≈ 90 %|≈ 25 %
+1795102856205|Scorbut|Ostéoporose|Béri-béri
+1795102856206|> 500 mg/j|> 1000 mg/j|> 10 000 mg/j
+1795102856208|99 %|50 %|20 %
+1795102856209|< 0,5|Exactement 0,1|< 1
+1795102856210|Rachitisme vitamino-résistant fréquent|Ostéoporose fréquente|Hypercalcémie
+1795102856214|99 %|10 %|85 %
+1795102856218|0,5 g|15 g|40 g
+1795102856219|30 %|10 %|95 %
+1795102856220|10 mg/j|0,1 mg/j|5 mg/j
+1795102856221|1-5 %|80-90 %|100 %
+1795102856223|Vitamine D|Vitamine B12|Vitamine E
+1795102856224|8 mg/j|50 mg/j|2 mg/j
+1795102856225|Transport de l'oxygène|Coagulation|Contraction musculaire
+1795102856226|Maladie de Kashin-Beck|Maladie de Menkes|Maladie de Wilson
+1795102856228|7 µg/j|700 µg/j|7 mg/j
+1795102856229|À « boucle de fer »|À « pont cuivre »|À « fermeture éclair magnésium »
+1795102856231|Azoospermie par obstruction|Hyperspermie|Tératospermie isolée par excès
+1795102856232|Transferrine|Ferritine|Albumine seule
+1795102856233|Maladie de Menkes|Hémochromatose|Maladie de Keshan
+1795102856235|Excès de viande rouge|Supplémentation en fer seule|Grossesse normale
+1795102856236|Cortisol et aldostérone|PTH et calcitonine|TSH et TRH
+1795102856237|Anémie|Exophtalmie|Ostéoporose
+1795102856238|TSH sanguine|Thyroglobuline|Volume thyroïdien moyen
+1795102856239|50 µg/j|1 mg/j|15 µg/j
+1795102856242|TBG|Transferrine|DBP
+1795102856243|Cataracte|Glaucome|Rétinopathie hémorragique
+1795102856246|Ergostérol|Cholestérol oxydé|Lanostérol
+1795102856247|Rein|Peau|Intestin
+1795102856248|1,25-OH₂-vitamine D|Cholécalciférol|24,25-OH₂-vitamine D
+1795102856249|Calcidiol (25-OH-D)|Cholécalciférol|Ergocalciférol
+1795102856251|≤ 50 ng/mL|≤ 5 ng/mL|≤ 80 ng/mL
+1795102856252|10-20 ng/mL|80-150 ng/mL|5-10 ng/mL
+1795102856253|> 30 ng/mL|> 20 ng/mL|> 500 ng/mL
+1795102856255|Ostéomalacie / rachitisme|Scorbut / béri-béri|Ostéoporose / ostéonécrose
+1795102856258|Hydroxylase de la proline|Transcétolase|Carboxylase de l'acétyl-CoA
+1795102856259|Végétale (légumes verts)|Synthétique uniquement|Animale (foie uniquement)
+1795102856260|Ferritine|Homocystéine|CDT
+1795102856262|Hydroxylation de la lysine uniquement|Carboxylation du glutamate|Glycosylation de l'hydroxylysine
+1795102856263|Pellagre|Béri-béri|Rachitisme
+1795102856265|Riboflavine|Pyridoxine|Niacine
+1795102856266|Pellagre|Scorbut|Maladie de Keshan
+1795102856267|Guillain-Barré, myasthénie|Sclérose combinée de la moelle|Pellagre, démence
+1795102856269|Glutathion réductase érythrocytaire|Homocystéine|Méthylmalonate
+1795102856270|Macrocytaire|Hémolytique|Normocytaire arégénérative
+1795102856271|Méthotrexate|Metformine|Rifampicine
+1795102856272|Pyridoxine libre|Thiamine pyrophosphate|FAD
+1795102856273|Cobalamine|Riboflavine|Biotine
+1795102856274|Fente labiopalatine isolée|Cardiopathie|Microcéphalie
+1795102856275|Microcytaire|Hémolytique|Sidéroblastique
+1795102856276|Insuffisance rénale|Hépatotoxicité|Neuropathie directe
+1795102856279|B9|B1|Fer
+1795102856281|Ferritine, transferrine|Folates sériques, MCV|Bilirubine, LDH
+1795102856283|Vitamine C|Vitamine B12|Vitamine A
+1795102856284|Vitamine A|Vitamine E|Vitamine K

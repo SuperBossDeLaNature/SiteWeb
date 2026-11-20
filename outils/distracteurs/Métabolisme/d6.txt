@@ -1,0 +1,84 @@
+1795017230215|Uniquement microangiopathie et macroangiopathie|Acidocétose – hyperosmolarité – hypoglycémies|Ostéoporose – anémie – hypothyroïdie
+1795017230217|Rétinopathie – cataracte – glaucome|Cardiopathie – néphropathie – artériopathie|Neuropathie – myopathie – encéphalopathie
+1795017230219|Oui, multiplié par 10 pour toutes les infections|Non, il le diminue|Oui, uniquement pour les infections virales
+1795017230221|Les lymphocytes B (production d'Ac)|Les lymphocytes T CD4|Le complément
+1795017230223|Oui, effondrées|Oui, absentes chez le DT1|Non, exagérées
+1795017230225|Survient plus tard|Toujours bilatérale congénitale|Ne survient jamais
+1795017230227|Glucose → fructose (aldose réductase) → sorbitol (sorbitol déshydrogénase)|Glucose → glucosamine → sorbitol|Glucose → sorbitol (hexokinase) → glycogène
+1795017230229|Glycolyse – Krebs – lipolyse – glycation|Polyols – pentoses – glycogénolyse – lipogenèse|Hexosamines – β-oxydation – cétogenèse – AGEs
+1795017230231|Excès d'insuline au niveau endothélial|Activation du récepteur GLP-1|Déficit en NADPH oxydase
+1795017230233|Ils obstruent directement les capillaires|Ils détruisent les péricytes par auto-immunité|Ils activent la coagulation seule
+1795017230235|La neuropathie|La néphropathie|L'infarctus
+1795017230237|5e cause de cécité|Cause rare de cécité|1re cause de cécité chez le sujet > 80 ans uniquement
+1795017230239|Dès 6 mois après le début du diabète|Après 25 ans seulement|Jamais avant 15 ans
+1795017230241|Microanévrysmes – hémorragies en flammèche|Néovaisseaux – hémorragie du vitré|Nodules floconneux – zones d'ischémie
+1795017230243|Perte des péricytes|Prolifération des néovaisseaux|Occlusion capillaire
+1795017230245|Œdème rétinien – exsudats secs|Nodules floconneux|Néovaisseaux prérétiniens
+1795017230247|Perte des cellules endothéliales|Épaississement de la membrane basale|Perte des cellules ganglionnaires
+1795017230249|Microanévrysmes – hémorragies|Œdème – exsudats secs|Drusen – atrophie
+1795017230251|L'OCT|Le fond d'œil simple|L'échographie oculaire
+1795017230253|La fluoangiographie|L'échographie|Le champ visuel
+1795017230255|Cataracte – kératite – uvéite|Œdème papillaire – névrite optique|Glaucome aigu par fermeture de l'angle uniquement
+1795017230257|HTA – aggravée par l'hyperglycémie|Hyperlipidémie – aggravée par le tabac|Âge – aggravé par le sexe
+1795017230259|L'angiotensine II|Le TNF-α|L'IGF-1
+1795017230261|Il ↓ avec la sévérité|Il reste stable|Il s'annule
+1795017230263|–25 %|–99 %|–50 %
+1795017230265|Baisse d'acuité progressive précoce|Douleur oculaire|Photophobie
+1795017230267|Cataracte, sécheresse oculaire|Œdème maculaire débutant|Microanévrysmes
+1795017230269|Photocoagulation préventive chez tous|Aspirine|Arrêt de l'insuline
+1795017230271|Collyres bêta-bloquants|Antibiotiques IVT|Corticoïdes oraux au long cours
+1795017230273|↑ flux et ↑ VEGF|↑ flux et ↓ VEGF|Aucun effet
+1795017230275|Cause rare|3e cause après l'HTA et les glomérulonéphrites|1re cause uniquement en Afrique
+1795017230277|~100 %|~5 %|~60 %
+1795017230279|Néphropathie : jusqu'à ~100 % – Rétinopathie : plateau ~30 %|Toutes deux : plateau ~30 %|Toutes deux : ~100 %
+1795017230281|Hyperglycémie (suffisante) – âge – sexe|Auto-immunité – infections|Obésité seule
+1795017230283|× 1 (aucun effet)|× 10|÷ 3
+1795017230285|–5 %|–95 %|–25 %
+1795017230287|Association aux HLA|Concordance nulle chez les jumeaux|Mutation monogénique identifiée
+1795017230289|Aucun effet|Aggravation|Effet seulement chez le DT2
+1795017230291|5 ans – macroalbuminurie|20–25 ans – IRT|2 ans – albuminurie normale
+1795017230293|5 ans – microalbuminurie|30 ans – albuminurie normale|10–15 ans – albuminurie normale
+1795017230295|↓ dès le stade I|Effondrée|Nulle au stade III
+1795017230297|80–90 %|1–2 %|100 %
+1795017230299|~5 % et ~10 %|~100 % et ~100 %|~10 % et ~50 %
+1795017230301|Micro 300–3 000 – macro > 3 000 mg/24 h|Micro 3–30 – macro > 30 mg/24 h|Micro 20–200 – macro > 200 mg/24 h
+1795017230303|Micro 30–300 – macro > 300 µg/min|Micro 2–20 – macro > 20 µg/min|Micro 200–2 000 – macro > 2 000 µg/min
+1795017230305|Albustix (micro) – Micral (macro)|Clinistix (micro) – Ketostix (macro)|Multistix pour les deux
+1795017230307|Dépistage de la glycosurie|Mesure de l'HbA1c|Dosage des cétones
+1795017230309|Repos, jeûne, hypoglycémie|Hydratation abondante, sommeil|Metformine, statines
+1795017230311|Contrôle glycémique strict seul|Restriction hydrique|Arrêt de l'insuline
+1795017230313|En prévention tertiaire (stade IV)|Au stade d'IRT|Jamais
+1795017230315|Réduction de 90 %|Aggravation significative|Réduction de 50 %
+1795017230317|L'HbA1c (plutôt que la PA)|Le BMI|L'âge
+1795017230319|PA moyenne < 120 mmHg|PA moyenne < 80 mmHg|PA systolique < 160 mmHg
+1795017230321|Non, jamais|Non, seulement si PA > 160|Oui, seulement chez le DT2
+1795017230323|–10 %|–95 %|+65 %
+1795017230325|L'angiotensine II dilate l'artériole efférente|L'angiotensine II contracte surtout l'artériole afférente|Ils augmentent la pression intraglomérulaire
+1795017230327|Les diurétiques thiazidiques|Les bêta-bloquants|Les anticalciques dihydropyridines
+1795017230329|Régime hyperprotéiné – AINS|Produits de contraste systématiques|Restriction hydrique stricte
+1795017230331|DT1 : au diagnostic – DT2 : après 5 ans|Les deux : tous les 5 ans|DT1 : après 15 ans – DT2 : jamais
+1795017230333|~50 %|~1 %|~90 %
+1795017230335|Centrales – périphériques – mixtes|Aiguës – chroniques uniquement|Motrices pures – sensitives pures
+1795017230337|1–2 % – 0,5 % symptomatiques|100 % – 90 % symptomatiques|50 % – 5 % symptomatiques
+1795017230339|Auto-immunité + carence en B12|Génétique dominante|Toxicité de l'insuline
+1795017230341|Inflammation granulomateuse|Dépôts amyloïdes|Vascularite nécrosante
+1795017230343|Asymétrique, motrice, proximale|Ascendante aiguë type Guillain-Barré|Mononeuropathie multiple asymétrique
+1795017230345|Aréflexie – ↓ vibration – EMG anormal|Déficit moteur proximal|↓ tact au monofilament isolé
+1795017230347|↓ thermo-algésie isolée, réflexes conservés, EMG normal|Hyperréflexie – Babinski|Déficit moteur proximal isolé
+1795017230349|Neuropathie : à l'effort, soulagée par le repos|Les deux sont identiques|Neuropathie : diurne, aggravée par la marche
+1795017230351|1 g, oblique, sans le plier, yeux ouverts|10 g, en glissant le long de la plante|100 g, 10 s, yeux ouverts
+1795017230353|Paracétamol, AINS|Corticoïdes, colchicine|Metformine, insuline
+1795017230355|Oui, très efficaces|Oui, en 1re ligne|Oui, plus que la prégabaline
+1795017230357|< 200 kPa vs > 1000 kPa|Identiques|100 kPa vs 50 kPa
+1795017230359|Neuro : froid, douloureux, pouls – – Arté : chaud, indolore, pouls +|Les deux : chauds et indolores|Neuro : distal, pouls – – Arté : plantaire, pouls +
+1795017230361|Nerfs crâniens I, II, VIII|Nerf phrénique et vague|Nerf médian et cubital uniquement
+1795017230363|Début progressif – aggravation définitive|Début brutal – pas de récupération|Début progressif – récupération rapide
+1795017230365|↓ PAS > 5 mmHg après 10 min|↑ PAS > 20 mmHg debout|↓ PAD > 40 mmHg couché
+1795017230367|Hypertension orthostatique – bradycardie – angor typique|Tachycardie à l'effort seule|Bradycardie extrême – syncope à l'effort
+1795017230369|Métoclopramide seul + IPP|Lopéramide|Anticholinergiques
+1795017230371|Diarrhée (plus que constipation)|Incontinence fécale|Rectorragies
+1795017230373|Priapisme – hypersexualité|Gynécomastie – azoospermie|Varicocèle – hydrocèle
+1795017230375|Pollakiurie – urgenturie – fuites|Hématurie – douleurs lombaires|Polyurie isolée
+1795017230377|× 1,2 / × 1,1|× 20 / × 15|× 2 / × 10
+1795017230379|Plaques rouges squameuses – coudes et genoux|Papules jaunes – paupières|Plaques noires veloutées – plis axillaires
+1795017230381|~90 %|~1 %|~50 %

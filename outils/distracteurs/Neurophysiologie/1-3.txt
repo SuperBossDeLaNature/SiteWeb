@@ -1,0 +1,222 @@
+1795010290677|Na+|Cl−|Ca2+
+1795010290678|K+ et protéines|K+ et Mg2+|Ca2+ et HCO3−
+1795010290680|Na+|K+|Mg2+
+1795010290681|GABA|Glycine|Acétylcholine
+1795010290682|Glutamate|Dopamine|Aspartate
+1795010290685|Na+|Ca2+|Cl−
+1795010290686|Perpendiculaire|Aléatoire|Radiale
+1795010290688|Vitesses de conduction, PEV|EMG, PES|EEG, potentiels évoqués
+1795010290689|EEG, EMG|EMG à l'aiguille, EEG|Polysomnographie, EEG
+1795010290691|Continue|Électrotonique pure|Rétrograde
+1795010290693|Douleur, température|Fonctions autonomes|Prurit, chaleur
+1795010290694|Tact, sens de position|Vibration, proprioception|Motricité
+1795010290697|Bloc des canaux K+|Bloc des canaux Ca2+|Ouverture des canaux Cl−
+1795010290698|Latence et durée|Fréquence et rythme|Seuil et chronaxie
+1795010290699|Nombre d'axones, longueur|Température seule, âge|Amplitude, durée
+1795010290700|Diamètre, myéline|Distance, latence|Température, âge
+1795010290702|SNAP|Onde F|Réponse H
+1795010290704|Latence / distance|Distance × latence|Amplitude / durée
+1795010290705|Très ralentie|Accélérée|Absente
+1795010290706|Normale|Augmentée|Très augmentée
+1795010290707|Normale|Accélérée|Peu ralentie
+1795010290708|Effondrée|Augmentée|Nulle
+1795010290710|Dégénérescence wallérienne|Neurapraxie|Chromatolyse
+1795010290712|Traumatiques|Compressives|Inflammatoires
+1795010290713|Sous la myéline|Uniformément|Dans le corps cellulaire
+1795010290714|Nœuds de Ranvier|Corps cellulaire|Bouton terminal
+1795010290715|Disparition des canaux|Hyperpolarisation|Accélération de la conduction
+1795010290716|Dispersion temporelle|Dénervation|Axonotmèse
+1795010290718|Aucune récupération|Récupération en plusieurs années|Aggravation progressive
+1795010290719|Sciatique|Tibial|Fémoral
+1795010290720|Flexion plantaire|Extension du genou|Adduction de la hanche
+1795010290721|Anti-MAG|Anti-GQ1b|Anti-AQP4
+1795010290723|≈ 15 ms|≈ 0,5 ms|≈ 40 ms
+1795010290725|Main de prédicateur|Main en griffe|Main de singe
+1795010290727|↑ amplitude, ↓ durée|Amplitude et durée inchangées|↓ amplitude, ↓ durée
+1795010290728|Perte axonale|Réinnervation|Hyperexcitabilité
+1795010290730|Uniforme|Héréditaire uniforme|Indifférent
+1795010290731|Distaux|Musculaires|Sensitifs distaux
+1795010290732|Motrices α|Sensitives C|Sensitives Aδ
+1795010290733|Interneurone inhibiteur|Cellule de Renshaw|Ganglion spinal
+1795010290734|Rotulien|Bicipital|Cutané plantaire
+1795010290735|Racine L5|Racine L4|Nerf fibulaire
+1795010290739|Vitesse de conduction motrice|Réponse F|Potentiels évoqués
+1795010290740|1 fibre musculaire + 1 axone|Tout un muscle|1 racine + ses muscles
+1795010290741|Fibrillations|PUM polyphasiques|Fasciculations
+1795010290742|Fasciculations, myotonie|PUM géants, polyphasiques|Crampes, myokymies
+1795010290745|Bloc de conduction|Neurapraxie|Myopathie
+1795010290746|Géants|Brefs et petits|Absents
+1795010290748|Polyphasiques instables|Petits et brefs|Fibrillations
+1795010290749|Section complète du nerf|Interruption de l'axone|Atteinte du corps cellulaire
+1795010290751|Aucune récupération|Récupération partielle en années|Mauvais
+1795010290752|Atteinte isolée de la myéline|Section du nerf et des gaines|Bloc fonctionnel
+1795010290753|4 à 5 heures|4 à 5 semaines|4 à 5 mois
+1795010290754|3 à 4 jours|3 à 4 mois|24 h
+1795010290756|3 à 5 heures|3 à 5 semaines|Immédiat
+1795010290757|6 à 10 heures|6 à 10 semaines|1 à 2 jours
+1795010290758|Excellent|Rapide et complet|Identique à la neurapraxie
+1795010290760|Facial (VII)|Infra-orbitaire|Nerf optique
+1795010290762|Masséter|Orbiculaire de la bouche|Frontal
+1795010290764|Au front|Sous le menton|Dans le conduit auditif
+1795010290765|≈ 0,5 %|≈ 25 %|≈ 15 %
+1795010290766|VIH, lèpre|Chimiothérapie, B12|Génétique, auto-immune
+1795010290768|Mononeuropathie|Multinévrite|Radiculopathie
+1795010290769|Polyneuropathie|Mononeuropathie|Plexopathie
+1795010290770|≈ 1 %|≈ 30 %|≈ 50 %
+1795010290772|≈ 10|≈ 20|≈ 50
+1795010290774|Racine|Nerf tronculaire|Corne antérieure
+1795010290776|Territoire tronculaire|Gants et chaussettes|Hémicorps
+1795010290778|Canal lombaire étroit|Tumeur|Spondylolisthésis
+1795010290779|Hernie discale molle|Tumeur|Traumatisme
+1795010290782|Vif|Normal|Polycinétique
+1795010290785|C5|C7|C8
+1795010290786|C6|C5|C8
+1795010290791|ASIA|NIHSS|Ashworth
+1795010290793|Mouvement contre pesanteur|Contraction sans mouvement|Contre résistance faible
+1795010290794|Aucune contraction|Mouvement sans pesanteur|Contre pesanteur
+1795010290796|Allodynie|Hyperalgésie|Hypoesthésie
+1795010290798|Familiale ?, douloureuse ?, ancienne ?|Diabète ?, alcool ?, médicaments ?|Motrice ?, sensitive ?, autonome ?
+1795010290800|Démyélinisante, motrice|Axonale, motrice|Démyélinisante, sensitive
+1795010290802|1 %|50 %|80 %
+1795010290804|Hémicorps|Proximale|En ceinture
+1795010290806|Allodynie, brûlures|Fasciculations, crampes|Hyperréflexie, Babinski
+1795010290808|Douleurs|Hypotension|Paralysie
+1795010290809|Ulcère gastrique|Rétinopathie|Gastroparésie
+1795010290810|≈ 1 %|≈ 60 %|≈ 40 %
+1795010290811|≈ 3 %|≈ 90 %|≈ 70 %
+1795010290813|Hypertension, bradycardie|Arythmie, angor|Syncope vagale, HTA
+1795010290814|Diarrhée sanglante|Ulcère|Pancréatite
+1795010290816|Distale, symétrique, MS|Faciale|Distale, sensitive pure
+1795010290819|Matinale|À l'effort|Post-prandiale
+1795010290821|Insulino-dépendants|Identique|Gestationnels
+1795010290822|AINS, opioïdes|Corticoïdes, antibiotiques|Benzodiazépines, neuroleptiques
+1795010290823|Valproate|Lévétiracétam|Lacosamide
+1795010290824|Sertraline|Fluoxétine|Mirtazapine
+1795010290826|Ulnaire|Radial|Musculo-cutané
+1795010290827|Arcade de Fröhse|Canal de Guyon|Rétinaculum des extenseurs
+1795010290830|Hypothénarienne|Interosseuse|Deltoïdienne
+1795010290831|Douleur à l'effort|Faiblesse du coude|Crampes des mollets
+1795010290832|Phalen|Finkelstein|Froment
+1795010290834|↓ latence distale du médian|↑ vitesse du médian|↑ amplitude du médian
+1795010290835|Radial|Musculo-cutané|Médian du 2e doigt
+1795010290836|≈ 5 %|≈ 90 %|≈ 15 %
+1795010290839|Pied plat|Pied bot varus|Hallux valgus
+1795010290840|Postérieure de jambe|Quadriceps|Fessière
+1795010290841|Nerfs indurés douloureux|Nerfs atrophiés|Nerfs pulsatiles
+1795010290842|20 m/s|60 m/s|50 m/s
+1795010290844|Démyélinisante|Intermédiaire|Musculaire
+1795010290846|CMT2|CMT1B|CMTX
+1795010290848|Axonale|Normale|Musculaire
+1795010290849|Démyélinisante|Normale|Musculaire
+1795010290850|Délétion PMP22|Mutation MPZ|Mutation GJB1
+1795010290852|Neuropathie amyloïde|Neuropathie hypertrophique|Neuropathie à bulbes d'oignon
+1795010290854|Duplication PMP22|Mutation MFN2|Mutation TTR
+1795010290855|Médian|Radial|Facial
+1795010290858|Poignet|Creux axillaire|Genou
+1795010290859|IVIg|Corticoïdes|Chirurgie de décompression systématique
+1795010290860|Autosomique récessive|Liée à l'X|Mitochondriale
+1795010290861|Chaîne légère λ|Apolipoprotéine A1|Gelsoline
+1795010290862|Rein|Rate|Moelle osseuse
+1795010290864|Monomère|Dimère|Hexamère
+1795010290865|Val122Ile|Leu55Pro|Thr60Ala
+1795010290867|Biopsie nerveuse seule, EMG|PET, IRM|Électrophorèse, CRP
+1795010290868|Corticothérapie|Plasmaphérèse|Greffe rénale
+1795010290869|Immunosuppression, plasmaphérèse|Chélation, dialyse|Thymectomie, IVIg
+1795010290870|Pyridostigmine|Rituximab|Éculizumab
+1795010290871|Héréditaire chronique|Infectieuse directe|Toxique
+1795010290872|1 à 4 / 1 000|1 à 4 / 1 000 000|10 à 40 / 100 000
+1795010290873|1 semaine|3 mois|48 h
+1795010290874|EBV|Mycoplasma pneumoniae|Haemophilus influenzae
+1795010290876|AMAN|Miller Fisher|AMSAN
+1795010290877|Ptôsis, diplopie, dysphagie|Ataxie, nystagmus, dysarthrie|Ophtalmoplégie, ptôsis, mydriase
+1795010290879|AIDP, PIDC|Miller Fisher, Bickerstaff|CMT1, CMT2
+1795010290880|Anti-GQ1b|Anti-MAG|Anti-RACh
+1795010290881|Infection directe du nerf|Toxine bactérienne|Complexes immuns circulants
+1795010290883|Fièvre, atteinte sensitive|Douleur, aréflexie|Atteinte des nerfs crâniens, LCR anormal
+1795010290885|Oculomoteur (III)|Trijumeau (V)|Hypoglosse (XII)
+1795010290886|Pléiocytose lymphocytaire|Hypoglycorachie|LCR normal
+1795010290889|≈ 2 %|≈ 75 %|≈ 50 %
+1795010290890|< 1 %|30 à 40 %|50 %
+1795010290891|Corticoïdes, rituximab|Antibiotiques, antiviraux|Pyridostigmine, IVIg
+1795010290894|Jeune âge, anti-GQ1b|Sexe féminin, EBV|Récupération rapide, AIDP
+1795010290895|< 40 ml/kg|< 5 ml/kg|< 60 ml/kg
+1795010290897|< 60 cmH2O|< 100 cmH2O|< 5 cmH2O
+1795010290899|Normale|Raccourcie|Jusqu'à 1,2× la normale
+1795010290900|Normales|Accélérées|Augmentées en amplitude
+1795010290901|Forme héréditaire du GB|Forme axonale aiguë|Variante du Miller Fisher
+1795010290904|> 4 semaines|> 6 mois|> 1 an
+1795010290905|IgM|IgA|IgE
+1795010290907|GM1|GQ1b|PMP22
+1795010290908|2 / 1|20 / 1|1 / 1
+1795010290909|Lambda|Les deux|Aucune
+1795010290910|Fasciculations, crampes|Douleurs, dysautonomie|Ptôsis, diplopie
+1795010290911|Femme jeune|Enfant|Homme de 30 ans
+1795010290913|CD19|CD52|CD3
+1795010290915|Na+ voltage-dépendants|K+ voltage-dépendants|Cl− ligand-dépendants
+1795010290917|MEPP|CMAP|SNAP
+1795010290919|K+|Ca2+|Cl−
+1795010290920|100|10 000|200
+1795010290921|1 000|100 000|500
+1795010290922|10 000|1 000 000|1 000
+1795010290923|SFEMG seule|Vitesse de conduction|Réponse F
+1795010290924|30 Hz|1 Hz|20 Hz
+1795010290925|≈ 20|≈ 2 000|≈ 1 000
+1795010290928|Seuil de dépolarisation du nerf|Potentiel de repos|Amplitude du CMAP
+1795010290930|Postsynaptique|Musculaire|Axonal
+1795010290932|> 2 %|> 50 %|> 5 %
+1795010290933|1er|10e|2e
+1795010290936|Distaux, axiaux, cardiaques|Oculaires, cardiaques, digestifs|Respiratoires, distaux, cutanés
+1795010290937|≈ 10 %|≈ 95 %|≈ 25 %
+1795010290938|≈ 1 %|≈ 70 %|≈ 50 %
+1795010290940|Scandée|Explosive|Chuchotée
+1795010290941|Fermeture des yeux|Regard vers le bas|Exposition au froid
+1795010290942|Test du Tensilon|Test de Romberg|Test de la sueur
+1795010290944|↑ libération d'ACh|↑ nombre de récepteurs|Vasoconstriction
+1795010290945|Canaux Ca2+ présynaptiques|MuSK|Canaux Na+ musculaires
+1795010290946|10-20 %|100 %|40-50 %
+1795010290947|5 %|90 %|70-80 %
+1795010290949|Hommes|Identique|Enfants uniquement
+1795010290950|Anti-VGCC|Anti-titine|Anti-MAG
+1795010290951|IgG1|IgM|IgA
+1795010290955|Lyse présynaptique, blocage Ca2+, apoptose|Activation, désensibilisation, phosphorylation|Complément seul
+1795010290956|Hypokaliémie, tétanos, alcool|Hypercalcémie, plomb, mercure|Hyponatrémie, statines, lithium
+1795010290957|Prednisolone|3,4-DAP|Rituximab
+1795010290958|1 semaine avant|Pas d'arrêt nécessaire|10 minutes avant
+1795010290960|Splénectomie|Thyroïdectomie|Sympathectomie
+1795010290961|C3|C1q|C9
+1795010290962|CD20|C5|FcγRIII
+1795010290963|CD52|CD3|CD19 exclusivement
+1795010290966|Fibrillations abondantes|Myotonie|PUM géants
+1795010290967|Stimulation répétitive 3 Hz|Anticorps anti-RACh|EMG conventionnel
+1795010290970|Anti-RACh|Anti-MuSK|Anti-Hu
+1795010290971|N|L|T
+1795010290972|1 / 1 000|1 / 10 000 000|1 / 10 000
+1795010290973|Thymome|Cancer du sein|Lymphome
+1795010290974|1 semaine|10 ans|Simultané
+1795010290976|Vifs|Normaux|Polycinétiques
+1795010290978|Hypotension orthostatique|Mydriase|Diarrhée
+1795010290980|50 %|30 %|100 %
+1795010290981|50 %|70 %|30 %
+1795010290983|Survie augmentée|Aucun effet|Guérison du cancer
+1795010290984|Aucune|Scintigraphie osseuse|Échographie abdominale
+1795010290986|35 ans|80 ans|45 ans
+1795010290987|25 ans|70 ans|60 ans
+1795010290988|Tabac, cancer|Infection virale|Diabète, HTA
+1795010290991|Macrolides, tétracyclines|Bêta-lactames, glycopeptides|Sulfamides, nitro-imidazolés
+1795010290993|Amlodipine, nifédipine|Bêtabloquants|IEC
+1795010290994|Gadolinium|Baryum|Technétium
+1795010290995|Amplitude normale|Amplitude augmentée|Absent
+1795010290997|> 10 %|> 400 %|> 40 %
+1795010290998|100 × (init − max) / max|max / init|(max − init) × init
+1795010290999|Stimulation à 3 Hz|Repos prolongé|Test au glaçon
+1795010291000|1 min|1 s|30 s
+1795010291002|1 Hz|50 Hz|3 Hz
+1795010291003|< 5 %|< 200 %|< 100 %
+1795010291004|Fibrillations abondantes|Myotonie|Fasciculations
+1795010291005|Pyridostigmine|Prednisolone|IVIg
+1795010291007|Insuffisance rénale|Asthme|Diabète
+1795010291008|Récepteurs de l'ACh|Canaux Ca2+|Cholinestérase
+1795010291009|Ascendante|Proximale|Aléatoire
+1795010291011|10 à 15 jours|1 à 2 mois|10 minutes
+1795010291012|Myotonie|Normal|PUM géants
+1795010291013|≈ 1 semaine|≈ 2 ans|≈ 1 mois

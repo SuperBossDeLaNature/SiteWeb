@@ -1,0 +1,191 @@
+1700000050828|Rhizarthrose, De Quervain, Kienböck|Panaris, phlegmon, tourniole|Canal de Guyon, mallet finger, Bennett
+1700000050829|Radiographie|Examen vasculaire|Bilan biologique
+1700000050830|Test de Tinel|Test de Phalen|Test de Froment
+1700000050832|Extension du poignet|Écartement des doigts|Flexion de l'IPD du 5e
+1700000050833|Face dorsale de la main|Face palmaire des 2 derniers doigts|Tabatière anatomique
+1700000050834|Opposition du pouce|Adduction du pouce|Flexion des doigts
+1700000050836|Opposition du pouce|Extension du poignet|Flexion du pouce
+1700000050837|Face palmaire des 3 premiers doigts|Face dorsale du pouce|Avant-bras latéral
+1700000050840|Extension de l'IP du pouce|Abduction du pouce|Flexion du poignet
+1700000050842|Ulnaire|Radial|Musculo-cutané
+1700000050843|Fibrose puis œdème|Nécrose immédiate|Régénération axonale
+1700000050844|Homme 20–30 ans|Enfant|Homme 70 ans
+1700000050845|Ligament annulaire postérieur|Os du carpe|Aponévrose palmaire
+1700000050846|Nerf ulnaire + artère ulnaire|Nerf radial + extenseurs|Nerf médian seul
+1700000050848|Hyperthyroïdie, Cushing, Addison|Hyperparathyroïdie, phéochromocytome|Diabète insipide, hypopituitarisme
+1700000050850|Fin d'après-midi|Effort sportif|Pendant les repas
+1700000050852|Test de Phalen|Test de Finkelstein|Signe de Froment
+1700000050853|Test de Tinel|Test de Finkelstein|Test d'Allen
+1700000050854|10 secondes|5 minutes|30 secondes
+1700000050856|IRM du poignet|Radiographie|Échographie seule
+1700000050857|1 seule|10|Illimitées
+1700000050858|Attelle d'extension diurne|Plâtre|Syndactylie
+1700000050859|Section du nerf|Section des fléchisseurs|Ostéotomie du carpe
+1700000050860|Générale obligatoire|Rachianesthésie|Aucune
+1700000050863|Gaine des fléchisseurs|Ligament annulaire|Tendons extenseurs
+1700000050864|Femme 30–40 ans|Enfant|Homme 20 ans
+1700000050865|Sport, travail manuel|Vaccins|Corticoïdes
+1700000050866|Pouce et index|2e et 3e|Tous de façon égale
+1700000050870|Dès le diagnostic|Jamais|Avant toute rétraction
+1700000050872|Aponévrectomie totale|Dermofasciectomie|Ténotomie
+1700000050873|Infection|Section nerveuse|Raideur
+1700000050874|1 semaine|2 ans|1 mois
+1700000050875|Tendon extenseur / rétinaculum|Nerf / tendon|Ligament / os
+1700000050876|Poulie A2|Poulie A4|Poulie C1
+1700000050878|Homme jeune|Enfant de 5 ans|Femme < 20 ans
+1700000050880|Blocage permanent|Ressaut sans douleur|Blocage intermittent
+1700000050881|Douleur sans blocage|Doigt bloqué en permanence|Ressaut indolore
+1700000050883|Chirurgie d'emblée|Antibiotiques|Plâtre 6 semaines
+1700000050884|Ténotomie du fléchisseur|Arthrodèse|Résection de la poulie A4
+1700000050885|Canal carpien|Gouttière épitrochléo-olécrânienne|Arcade de Fröhse
+1700000050886|Scaphoïde, trapèze|Semi-lunaire, capitatum|Radius, ulna
+1700000050888|Neurotomie|Transposition antérieure|Ostéotomie du pisiforme
+1700000050889|Épaule|Aisselle|Doigt
+1700000050890|C3 à C7|C5 à C8|C6 à T2
+1700000050893|Intersection syndrome|Doigt à ressort|Rhizarthrose
+1700000050894|Long extenseur, court extenseur du pouce|Extenseurs radiaux du carpe|Fléchisseur du pouce, palmaire long
+1700000050895|Homme 20–30 ans|Enfant|Homme 70 ans
+1700000050896|Phalen|Tinel|Froment
+1700000050897|Section du tendon|Arthrodèse|Infiltration répétée
+1700000050898|Phlegmon|Érysipèle|Furoncle
+1700000050899|Panaris sous-cutané|Panaris profond|Phlegmon
+1700000050900|Brûlante|Mécanique|Absente
+1700000050903|Panaris|Abcès|Cellulite
+1700000050904|Index et majeur|Majeur et annulaire|Tous les doigts
+1700000050905|Signe de Tinel|Signe de Froment|Signe du glaçon
+1700000050906|Simple inflammation|Pus dans la gaine|Rougeur locale
+1700000050984|5 %|60 %|15 %
+1700000050985|1/3 interne|1/3 externe|Extrémité sternale
+1700000050987|Face stricte de l'épaule|Profil de Lamy|Incidence axillaire
+1700000050988|Plaque vissée d'emblée|Plâtre thoracique|Broche
+1700000050991|Toute fracture|Enfant|Fracture non déplacée
+1700000050992|Chute sur la main tendue|Rotation externe forcée|Abduction forcée
+1700000050993|Rupture complète|Rupture coraco-claviculaire|Luxation postérieure
+1700000050994|Distension simple|Rupture coraco-claviculaire seule|Rupture des deux ligaments
+1700000050997|Signe de l'épaulette|Signe du sulcus|Signe de Hill-Sachs
+1700000050998|Chirurgie immédiate|Plâtre 3 mois|Aucune
+1700000051000|Corps de l'omoplate|Épine|Acromion non déplacé
+1700000051001|Postérieure|Inférieure|Supérieure
+1700000051003|Radial|Musculo-cutané|Ulnaire
+1700000051004|Biceps + face antérieure du bras|Triceps + face postérieure|Supra-épineux
+1700000051005|Signe de la touche de piano|Signe du sulcus|Boule au bras
+1700000051006|Carotidien|Fémoral|Pédieux
+1700000051007|Lésion de Bankart|Lésion SLAP|Lésion de Bennett
+1700000051008|Différée à J7|Sans anesthésie à domicile|Chirurgicale ouverte
+1700000051011|1 semaine|3 mois|Aucune
+1700000051012|Supra-épineux|Deltoïde|Nerf circonflexe
+1700000051014|Coiffe des rotateurs|Deltoïde|Acromion
+1700000051015|Test d'appréhension|Test de Jobe|Test de Neer
+1700000051016|Sulcus test|Test de Jobe|Test de Patte
+1700000051018|Bankart|Bristow sans vis|Neer
+1700000051019|Écharpe prolongée|Prothèse|Plâtre thoraco-brachial
+1700000051020|Rotation interne contrariée|Abduction|Choc direct
+1700000051021|Jeune sportif|Enfant|Haute énergie seulement
+1700000051022|Paralysie|Œdème du pied|Fièvre
+1700000051025|Garden|Gustilo|Weber
+1700000051027|Plaque vissée|Prothèse|Clou
+1700000051031|Prothèse systématique|Plaque systématique|Opérer plus tôt
+1700000051033|Radiographie, scintigraphie|EMG, scanner|IRM seule, scintigraphie
+1700000051035|Infiltration|Rééducation seule|Prothèse inversée
+1700000051036|Coude au corps 1 semaine|Abduction 6 mois|Aucune
+1700000051037|Ténodèse|Butée|Coracoïdoplastie
+1700000051038|Coup de hache|Épaule en épaulette|Touche de piano
+1700000051039|Ténotomie|Suture directe|Prothèse
+1700000051040|Ulnaire|Médian|Circonflexe
+1700000051041|Opposition du pouce|Écartement des doigts|Flexion du coude
+1700000051043|Plâtre pendant|Clou|Fixateur externe
+1700000051046|1 semaine|1 an|48 heures
+1700000051047|Antérieure|Postéro-interne|Divergente
+1700000051048|Galeazzi|Essex-Lopresti|Pouteau-Colles
+1700000051049|Coude en extension|Bandage simple|Plâtre en flexion 30°
+1700000051050|~3 mois|~1 jour|~6 semaines
+1700000051052|Pseudarthrose|Rupture tendineuse|Luxation récidivante
+1700000051054|Fracture de l'olécrâne|Fracture du capitellum|Fracture du col du radius
+1700000051055|Choc direct|Chute sur le coude fléchi|Torsion
+1700000051056|Supracondylienne|Épicondylienne|Olécrânienne
+1700000051058|Radiale|Ulnaire|Axillaire
+1700000051060|Plâtre seul|Plaque|Prothèse
+1700000051063|Hyperextension|Torsion|Traction
+1700000051064|Plâtre|Vis isolée|Fixateur externe
+1700000051065|Fracture de Hahn-Steinthal|Fracture de Monteggia|Fracture de Kocher
+1700000051066|Pseudarthrose|Ossification|Infection
+1700000051067|Tête radiale|Olécrâne|Coronoïde
+1700000051068|Plâtre|Broches|Infiltration
+1700000051070|Monteggia|Essex-Lopresti|Barton
+1700000051071|Cubitus + tête radiale|Radius + olécrâne|Radius distal + styloïde
+1700000051073|Manchette|Écharpe|Gouttière digitale
+1700000051075|La laisser en l'état|L'opérer|Immobiliser 1 semaine
+1700000051076|Algodystrophie|Ostéonécrose|Syndrome des loges
+1700000051077|Col du fémur|Clavicule|Scaphoïde
+1700000051078|Goyrand-Smith|Barton|Hutchinson
+1700000051081|Scaphoïde|Semi-lunaire|Tête radiale
+1700000051084|Plâtre|Fixateur externe|Prothèse
+1700000051085|Kirschner|Ender|Rush
+1700000051086|Brachio-antébrachial 3 mois|Attelle 1 semaine|Bandage simple
+1700000051087|Infection, nécrose, luxation|Syndrome des loges, embolie|Pseudarthrose, ostéite
+1700000051088|Semi-lunaire|Trapèze|Pisiforme
+1700000051089|20 %|95 %|40 %
+1700000051091|Styloïde ulnaire|Pisiforme|Face dorsale du poignet
+1700000051094|2 semaines|1 an|4 semaines
+1700000051095|Pôle inférieur|Tubercule|Corps moyen
+1700000051096|1 %|80 %|10 %
+1700000051097|Plâtre prolongé|Résection|Prothèse
+1700000051098|Scaphoïde|Capitatum|Pisiforme
+1700000051099|Canal de Guyon|Nerf radial|Lésion artérielle
+1700000051100|Radius distal|Capitatum|Trapèze
+1700000051101|Base du 1er métacarpien|Col du 2e métacarpien|Scaphoïde
+1700000051104|Adduction|Flexion|Opposition
+1700000051106|> 45°|> 5°|> 90°
+1700000051108|Boutonnière|Jersey finger|Col de cygne
+1700000051110|Plâtre|Broche|Chirurgie
+1700000050909|Lésion du cartilage|Déplacement articulaire|Rupture ligamentaire
+1700000050911|Corticale, spongieuse, moelle|Périoste, endoste, moelle|Tête, col, corps
+1700000050912|Diaphyse|Métaphyse|Indifférent
+1700000050914|Direct|Pathologique|Fatigue
+1700000050915|Transversal|Comminutif|Oblique court
+1700000050916|Spiroïde|Longitudinal|Arrachement
+1700000050918|Infectieuse, tumorale, iatrogène|Directe, indirecte, mixte|Simple, complexe, comminutive
+1700000050920|Col du fémur du sujet âgé|Scaphoïde du skieur|Clavicule de l'enfant
+1700000050922|Radiographie|Échographie|Scanner
+1700000050923|Maladie de Paget|Ostéopétrose|Rachitisme
+1700000050924|Ostéoporose post-ménopausique|Rachitisme|Scorbut
+1700000050925|Clavicule, olécrâne|Diaphyse fémorale|Scaphoïde, talus
+1700000050926|Radiographie standard|Échographie|Densitométrie
+1700000050927|Cal osseux|Remodelage|Cal cartilagineux
+1700000050928|Cal osseux définitif|Fibrose|Nécrose
+1700000050930|Douleur, chaleur|Mobilité anormale|Raccourcissement
+1700000050931|Pseudarthrose|Cal vicieux|Consolidation primaire
+1700000050933|Immobilisation stricte|Excès de vascularisation|Carence en vitamine C
+1700000050934|Immobilisation prolongée|Antibiotiques|Repos seul
+1700000050935|Fonctionnel, chirurgical, palliatif|Plâtre, attelle, écharpe|Clou, plaque, fixateur
+1700000050936|Fracture du fémur|Fracture ouverte|Fracture de Monteggia
+1700000050937|Plâtre, attelle, résine|Broche, cerclage, attelle|Prothèse, ciment, greffe
+1700000050939|Diaphyse fémorale|Tibia|Rachis
+1700000050940|Clou centromédullaire|Plaque vissée|Plâtre
+1700000050941|Pseudarthrose|Cal vicieux|Algodystrophie
+1700000050944|Garden|Neer|Salter-Harris
+1700000050946|< 1 cm|> 10 cm|> 20 cm
+1700000050948|Lésion vasculaire|Couverture impossible|Plaie < 1 cm
+1700000050950|Couverture possible|Plaie punctiforme|Délabrement sans lésion vasculaire
+1700000050952|Clavicule, radius|Phalange, métacarpien|Côte, sternum
+1700000050953|Pneumothorax|Œdème pulmonaire|Pneumonie
+1700000050954|Hypercapnie isolée|Hypertension|Bradycardie
+1700000050955|Hypopression dans une loge|Infection d'une loge|Rupture musculaire
+1700000050956|Infection, allergie|Thrombose, embolie|Rupture tendineuse, luxation
+1700000050957|Cuisse, bras|Épaule, hanche|Thorax, abdomen
+1700000050959|Paralysie|Abolition du pouls|Fièvre
+1700000050960|Flexion des doigts|Pronation|Extension du coude
+1700000050961|~6 h|~5 min|~24 h
+1700000050962|10 minutes|24 heures|1 semaine
+1700000050965|Mou|Crépitant|Fluctuant
+1700000050968|5 à 10 mmHg|60 à 80 mmHg|100 mmHg
+1700000050969|0 à 5 mmHg|80 à 100 mmHg|5 à 10 mmHg
+1700000050970|Systolique − diastolique|Pression de loge − systolique|Moyenne + pression de loge
+1700000050971|> 50 mmHg|< 5 mmHg|> 30–40 mmHg
+1700000050973|Surélévation et glace|Plâtre serré|Anticoagulation
+1700000050975|Main de singe|Main tombante|Main en col de cygne
+1700000050976|Plaque du péroné|Arthroscopie|Plâtre de cheville
+1700000050978|Ostéite chronique|Pseudarthrose|Embolie graisseuse
+1700000050979|Pâleur, froideur, pouls absent|Fièvre, frissons|Atrophie immédiate
+1700000050982|Algodystrophie|Pseudarthrose septique aiguë|Arthrite septique
+1700000050983|Pseudarthrose|Retard de consolidation|Cal hypertrophique

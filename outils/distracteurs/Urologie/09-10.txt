@@ -1,0 +1,103 @@
+1731940200710|1er|15e|3e
+1731940200711|0,4 %|20 %|12 %
+1731940200713|Femmes < 50 ans|Hommes < 40 ans|Femmes > 65 ans
+1731940200716|Amiante, silice, plomb|Benzène, radon, mercure|Pesticides organophosphorés
+1731940200717|Carcinome urothélial papillaire|Carcinome à petites cellules|Sarcome
+1731940200718|Métastatique d'emblée|Musculo-invasif T3|T4 avec envahissement pelvien
+1731940200719|Alcool, sport, régime|Diabète, HTA, poids|Vaccins, allergies, groupe sanguin
+1731940200722|Toujours bénin|Une malformation|Un calcul
+1731940200724|Adénocarcinome, épidermoïde, sarcome|Ta, T1, T2|Bas grade, haut grade, invasif
+1731940200725|50 %|1 %|30 %
+1731940200726|Il saigne trop|Il est toujours au dôme|Il est trop volumineux
+1731940200729|Papillaire de bas grade|Adénome néphrogénique|Papillome inversé
+1731940200730|T1 et T2|T2 et T3|T3 et T4
+1731940200731|Ta|T2|CIS
+1731940200733|Muscle superficiel|Organes de voisinage|Infiltration périvésicale macroscopique
+1731940200734|Paroi pelvienne|Muscle profond|Graisse périvésicale
+1731940200735|Prostate, utérus, vagin|Graisse périvésicale|Muscle superficiel
+1731940200739|60–70 %|1–2 %|40–50 %
+1731940200740|< 2 %|80–100 %|5–10 %
+1731940200741|5 %|90 %|15 %
+1731940200742|Os et cerveau|Peau et rate|Thyroïde et surrénale
+1731940200743|Hématogène → lymphatique → organes voisins|Organes voisins → hématogène → lymphatique|Uniquement hématogène
+1731940200745|80–85 %|1–2 %|50 %
+1731940200746|50 %|80 %|25 %
+1731940200747|Échographie|Cytologie urinaire|Uroscanner
+1731940200748|Prélever les urines|Injecter le BCG|Mesurer le volume vésical
+1731940200749|Lumière blanche à fort grossissement|Cystoscopie souple seule|Échographie endovésicale
+1731940200750|Bas grade|Ta de petite taille|Tumeur bénigne
+1731940200753|Cystectomie|Chimiothérapie|Radiothérapie
+1731940200754|Échographie + ASP|PET-PSMA|IRM cérébrale + écho rénale
+1731940200756|Cisplatine, gemcitabine|BCG, interféron|Paclitaxel, docétaxel
+1731940200757|Mitomycine|Interféron|Pembrolizumab
+1731940200759|Cystectomie|BCG 3 ans|Chimiothérapie systémique
+1731940200760|Ta bas grade, < 1 cm, unique|Primo-tumeur < 3 cm|Ta solitaire non récidivante
+1731940200761|Cystectomie immédiate|Surveillance|Radiothérapie
+1731940200763|1×/jour pendant 6 jours|1×/mois pendant 6 mois|Injection unique
+1731940200764|PSA + TR|Scanner + scintigraphie|Créatinine seule
+1731940200765|5 minutes|12 heures|24 heures
+1731940200767|Cystectomie partielle|Prostatectomie seule|Néphro-urétérectomie
+1731940200768|Cystectomie partielle seule|Hystérectomie seule|Néphrectomie
+1731940200769|BCG seul|Surveillance|Néphrectomie
+1731940200771|À base d'anthracyclines|À base de taxanes|Hormonothérapie
+1731940200772|Cardiaque et hépatique|Pulmonaire et cutanée|Hématologique uniquement
+1731940200773|< 5 %|> 90 %|10 %
+1731940200775|Alcalose hypochlorémique hyperkaliémique|Hypoglycémie|Hypercalcémie
+1731940200776|Toutes les 15 min|Toutes les 6 h|1×/jour
+1731940200777|Sphincter enlevé|Infection constante|Urètre trop court
+1731940200779|50 %|90 %|25 %
+1731940200780|Doxorubicine + cyclophosphamide|Paclitaxel + carboplatine|FOLFOX
+1731940200781|Tumeur peu mutée|Absence de lymphocytes|Tumeur hormonodépendante
+1731940200782|Tumeur non musculo-invasive|1re ligne chez tous|Tumeur de bas grade
+1731940200783|La prostate|Les testicules|Le côlon
+1731940200784|Échographie vésicale|Cytologie seule|Aucun
+1731940200785|Néphrectomie partielle|Urétéroscopie seule|Radiothérapie
+1731940200786|Néphro-urétérectomie|Chimiothérapie systémique|Radiothérapie
+1731940200788|Biopsie rénale|PET-FDG|Uroscanner seul sans suite
+1731940200790|30–40 ans|70–80 ans|< 20 ans
+1731940200791|1er|10e|2e
+1731940200793|Alcool, café|Sédentarité, sucre|Lithiase, infections
+1731940200796|Chromophobe (15 %)|Bellini (15 %)|Oncocytome (15 %)
+1731940200797|Métastases osseuses précoces|Toujours bénins|Transformation sarcomatoïde constante
+1731940200798|Wilms, angiomyolipome|Oncocytome, adénome|Urothélial, épidermoïde
+1731940200799|Tumeur de Wilms, Bellini|Chromophobe, kyste Bosniak 4|Carcinome à cellules claires, oncocytome
+1731940200800|Cellules claires, kystes, nécrose|Os, cartilage|Urothélium, glandes
+1731940200803|30–40 %|0 %|50 %
+1731940200804|Toujours malignes à long terme|Biopsie interdite|Imagerie trop irradiante
+1731940200805|Neuroblastome|Carcinome à cellules claires|Angiomyolipome
+1731940200807|15 %|50 %|100 %
+1731940200808|IRM puis biopsie|Biopsie d'emblée|Scintigraphie
+1731940200809|Fuhrman|TNM|Heng
+1731940200810|Malin → traitement|Chirurgie systématique|Biopsie immédiate
+1731940200812|Bénin, surveillance|Surveillance simple|Bénin, arrêt du suivi
+1731940200814|Néphrectomie totale|Antibiotiques|Ponction simple récidivante à vie
+1731940200815|Néphrectomie|Sonde vésicale|Cystocath
+1731940200819|50 %|80 %|1 %
+1731940200820|Hypoglycémie, polyglobulie, hyperthyroïdie|Hyperkaliémie, acidose|Leucopénie, hypothermie
+1731940200821|Échographie|Biopsie|PET-FDG
+1731940200822|Sténose de l'artère rénale|Anévrisme aortique|Varices œsophagiennes
+1731940200823|Échographie hépatique + ASP|PET-PSMA|Scintigraphie thyroïdienne
+1731940200824|Toute tumeur > 7 cm opérable|Kyste Bosniak 1|Toute tumeur avant néphrectomie
+1731940200825|Doppler scrotal seul|Spermogramme|Embolisation directe
+1731940200826|Hémorragie digestive|Hydronéphrose|AVC hémorragique
+1731940200828|Foie, peau, rate|Surrénale, thyroïde|Péritoine, ovaire
+1731940200829|Non|Seulement si métastases|Seulement chez la femme
+1731940200830|1 à 10|1 à 5|A à D
+1731940200831|Âge + sexe|Taille seule|PSA + Gleason
+1731940200833|50–70 %|90 %|30–40 %
+1731940200834|60 %|5 %|80 %
+1731940200835|< 7 cm|< 10 cm|< 1 mm
+1731940200837|< 4 cm|< 7 cm|≥ 10 cm uniquement
+1731940200840|Embolisation, radiothérapie|Laser, ultrasons focalisés|Chimiothérapie, immunothérapie
+1731940200841|Cryothérapie (plus efficace)|Embolisation|Radiothérapie
+1731940200842|Scintigraphie|IRM|PET-PSMA
+1731940200846|Tumeur peu vascularisée|Tumeur hormonodépendante|Tumeur sensible au platine
+1731940200847|Chimiothérapie seule|Surveillance|Radiothérapie palliative seule
+1731940200848|Chimiothérapie au platine|Hormonothérapie|Chirurgie de toutes les lésions
+1731940200849|Brachythérapie|Curiethérapie|Radiothérapie conventionnelle 35 séances
+1731940200850|Effet bystander local|Effet Warburg|Effet de flare
+1731940200852|Karnofsky < 50 %|ECOG 0|Karnofsky > 90 %
+1731940200853|> 5 ans|< 1 mois|> 1 an
+1731940200854|Hyperkaliémie, hyponatrémie|Hypoglycémie, leucopénie|Polyglobulie, hypocalcémie
+1731940200856|Chimiothérapie|Surveillance|Interféron seul
+1731940200857|Chimiothérapie|ITK seul en monothérapie|Hormonothérapie

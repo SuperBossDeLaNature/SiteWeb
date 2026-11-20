@@ -1,0 +1,151 @@
+1731945200686|Crête neurale|Endoderme pharyngé|Sinus urogénital
+1731945200687|Trompes, utérus, vagin supérieur|Prostate, urètre|Ovaires, testicules
+1731945200688|Épididyme, déférent, vésicules séminales|Vessie, urètre|Ovaires, vulve
+1731945200689|SOX9|DAX1|WT1
+1731945200691|Leydig|Cellules germinales|Cellules péritubulaires
+1731945200694|Granulosa (aromatase)|Cellules du stroma (progestérone)|Ovocytes (inhibine)
+1731945200695|Thèque (androgènes)|Corps jaune (progestérone)|Hile ovarien (testostérone)
+1731945200696|FSH|Œstradiol|Inhibine A
+1731945200697|Pic de FSH seul|Chute de l'œstradiol|Pic de progestérone
+1731945200699|CBG, TBG|Transcortine, DBP|Transthyrétine, albumine
+1731945200700|Sertoli (spermatogenèse)|Cellules germinales|Épididyme
+1731945200701|Leydig (testostérone)|Vésicules séminales|Prostate
+1731945200702|Testostérone|AMH|Œstradiol seul
+1731945200705|Aromatase|17β-HSD|3β-HSD
+1731945200707|Hormone agissant sur la cellule voisine|Hormone transportée par le sang|Hormone sécrétée dans un canal
+1731945200710|Neurones à dopamine|Neurones à ocytocine|Neurones à orexine
+1731945200711|Noyau supraoptique|Noyau suprachiasmatique|Aire préoptique latérale
+1731945200713|Crête neurale céphalique|Troisième ventricule|Hypophyse
+1731945200714|Ghréline|Insuline|Adiponectine
+1731945200715|↓ fréquence et amplitude|Arrêt complet|Pas de changement
+1731945200717|~9 ans|~13 ans|~7 ans
+1731945200718|~11 ans|~15 ans|~10 ans
+1731945200719|Pilosité pubienne (P2)|Mue de la voix|Pilosité axillaire
+1731945200720|~10 ans|~14 ans|~9 ans
+1731945200722|Œstrogènes ovariens|Testostérone testiculaire uniquement|GH
+1731945200725|15–20 cm|0 cm|1–2 cm
+1731945200727|8–10 ans|20–25 ans|30–35 ans
+1731945200730|Hypergonadotrope (LH/FSH élevés)|Atteinte testiculaire primaire|Résistance aux androgènes
+1731945200732|Hirsutisme, acné, polyglobulie|Puberté précoce, grande taille|Hypercalcémie, lithiase
+1731945200733|Gynécomastie, macro-orchidie|Hypospadias isolé, hydrocèle|Ambiguïté génitale complète
+1731945200735|Arrêt des règles > 1 mois|Absence de règles à 16 ans|Arrêt des règles > 12 mois
+1731945200736|Dosage de la prolactine|IRM hypophysaire|Échographie pelvienne
+1731945200737|Prolactinome, Turner|SOPK, hyperthécose|Hypothyroïdie, Addison
+1731945200738|47,XXY|46,XY|47,XXX
+1731945200739|1/250 filles|1/25 000 filles|1/600 garçons
+1731945200740|80 %|2 %|50 %
+1731945200742|SRY|FGFR3|GH1
+1731945200743|Grande taille, macro-orchidie|Obésité, hirsutisme|Ambiguïté génitale, hypertension
+1731945200745|~20 cm|~0,5 cm|~15 cm
+1731945200747|Risque de virilisation|Pour adapter la dose de GH|Risque de leucémie
+1731945200749|Tétralogie de Fallot|CIA isolée|Prolapsus mitral
+1731945200750|×1,2|×100|×2
+1731945200752|160/100 mmHg|120/70 mmHg|150/90 mmHg
+1731945200753|Polykystose rénale|Agénésie rénale bilatérale|Rein ectopique pelvien
+1731945200754|Dyslexie|Retard mental sévère|Autisme
+1731945200755|~50 %|~0 %|~25 %
+1731945200756|FIV avec ses propres ovocytes|Stimulation ovarienne par clomifène|Aucune option
+1731945200757|45,X|47,XYY|46,XX
+1731945200758|~1/60 000 garçons|~1/60 garçons|~1/6 000 garçons
+1731945200760|Hypogonadisme hypogonadotrope|Hypergonadisme|Hyperprolactinémie
+1731945200762|Microdélétion du chromosome Y|Mucoviscidose|Kallmann
+1731945200765|Hypo-hypo + surdité|Hypogonadisme hypergonadotrope + anosmie|Hypo-hypo + obésité
+1731945200767|Adénome hypophysaire|Selle turcique vide|Hypersignal hypothalamique
+1731945200768|1/50 000 vs 1/10 000|1/1 000 vs 1/1 000|1/100 vs 1/500
+1731945200769|Biopsie testiculaire|Test au Synacthen|Arrêt de toute exploration
+1731945200770|Stéroïdes bas, LH et FSH élevés|Stéroïdes élevés, LH et FSH bas|Inhibine B élevée, LH N
+1731945200771|↑ rapport androgènes/œstrogènes|Excès de prolactine seul|Excès de GH
+1731945200772|Glande mammaire hypertrophiée|Kyste mammaire|Tumeur mammaire masculine
+1731945200773|Tumeur testiculaire, cancer du sein|Klinefelter, Kallmann|Hyperthyroïdie, Cushing
+1731945200774|Ancienne, stable, chez un obèse|Bilatérale chez le nouveau-né|Pubertaire régressive
+1731945200775|Tumeur hypophysaire|Lymphome|Tumeur pancréatique
+1731945200776|Glycémie, HbA1c, lipides|Calcémie, PTH|Cortisol de 8 h seul
+1731945200777|Tumeur surrénalienne|Prolactinome|Hypothyroïdie
+1731945200778|Germinome médiastinal|Tumeur bronchique à hCG|Prolactinome
+1731945200780|Spironolactone|Testostérone|Cyprotérone
+1731945200781|Excès de pilosité en zones normalement poilues|Chute de cheveux androgénique|Pilosité duveteuse diffuse
+1731945200782|Pilosité terminale en zones masculines|Absence de pilosité|Pilosité en zones de cicatrices
+1731945200784|Bloc en 21-hydroxylase (~85 %)|Tumeur ovarienne (~85 %)|Cushing (~50 %)
+1731945200785|DHEAS|Androstènedione|DHT
+1731945200786|Pilule seule|Ignorer|Spironolactone seule
+1731945200788|Acné, séborrhée|Hirsutisme modéré|Alopécie diffuse
+1731945200789|Un SOPK|Une origine idiopathique|Une hypertrichose
+1731945200790|Surrénalienne|Hypophysaire|Tumorale testiculaire
+1731945200791|3 sur 3 obligatoires|1 sur 3 suffit|Hyperandrogénie + obésité
+1731945200794|↓ pulsatilité GnRH → ↑ FSH|Excès de prolactine|Déficit en 21-hydroxylase
+1731945200795|1–2 %|80–100 %|5 %
+1731945200797|SOPK tardif|Tumeur surrénalienne|Bloc en 21-hydroxylase
+1731945200798|Spironolactone|Pilule œstroprogestative|Surrénalectomie
+1731945200799|Origine ovarienne|SOPK|Hyperthécose
+1731945200800|Hypoplasie endométriale|Polype cervical|Atrophie vaginale
+1731945200802|1 semaine|1 mois|> 5 ans
+1731945200803|Finastéride, dutastéride|Bicalutamide, enzalutamide|Tamoxifène, létrozole
+1731945200805|1re et 2e poches pharyngées|Crêtes neurales|Bourgeon thyroïdien
+1731945200806|2|6|8
+1731945200807|Calcémie ↓, phosphatémie ↑|Calcémie ↑, phosphatémie ↑|Calcémie ↓, phosphatémie ↓
+1731945200808|↑ excrétion Ca, ↑ réabsorption P|↓ réabsorption Ca et P|↑ réabsorption Ca et P
+1731945200809|↑ formation osseuse uniquement|Inhibe la résorption|Aucun effet direct
+1731945200810|Inhibe la 1α-hydroxylase|Active la 24-hydroxylase|Active la 25-hydroxylase
+1731945200811|Récepteur de la vitamine D|Récepteur de la PTH|FGF23
+1731945200812|Linéaire positive|Exponentielle|Sigmoïde positive
+1731945200813|PTHrp|FGF23|Calcitriol
+1731945200814|Ergocalciférol|Calcidiol|Calcitriol
+1731945200815|UVA|Infrarouges|UVC
+1731945200816|Albumine seule|CBG|TBG
+1731945200817|Calcidiol (25-OH-D)|Cholécalciférol|24,25-OH-D
+1731945200819|Rein|Peau|Intestin
+1731945200821|PTH (−), phosphore (+), calcitriol (+)|Calcitonine (+), calcium (+)|FGF23 (+), PTH (−)
+1731945200823|Insuffisance rénale, hypoparathyroïdie|Peau foncée, faible ensoleillement|Malabsorption, maladie cœliaque
+1731945200824|Cirrhose, anti-épileptiques|Peau foncée, âge|Obésité, grossesse
+1731945200825|Insuffisance rénale, cirrhose|Prise d'IPP, alcool|Diabète, HTA
+1731945200826|Ostéomalacie / rachitisme|Ostéoporose / ostéomalacie|Ostéogenèse imparfaite / ostéoporose
+1731945200828|≥ 100 ng/ml|≥ 10 ng/ml|≥ 5 ng/ml
+1731945200831|1,15–1,30 mmol/L|2,50–2,80 mmol/L|1,90–2,10 mmol/L
+1731945200833|Créatinine|Phosphore|Hémoglobine
+1731945200834|> 2,6 mmol/L (10,5 mg/dl)|> 3 mmol/L (12 mg/dl)|> 5 mmol/L (20 mg/dl)
+1731945200835|Tétanie, crampes, paresthésies|Bradycardie, QT long, convulsions|Hypersalivation, diarrhée
+1731945200837|Vitamine D et sarcoïdose|Thiazidiques et lithium|Immobilisation et hyperthyroïdie
+1731945200838|200 ng/L|2 ng/L|60 ng/L
+1731945200839|Calcitonine, PTH intacte|Calcium ionisé, magnésium|FGF23, phosphore
+1731945200840|Production de PTHrp|Résorption osseuse par métastases|Excès d'apport en calcium
+1731945200842|Inhibe la synthèse de PTH|Augmente la 1α-hydroxylation|Diminue l'absorption intestinale du calcium
+1731945200843|Syndrome de Bartter|Syndrome de Gitelman|Syndrome de Fanconi
+1731945200845|HPT primaire|Hypercalcémie hypocalciurique familiale|Thiazidiques
+1731945200848|Restriction hydrique, alitement|Thiazidiques|Suppléments de calcium
+1731945200849|Furosémide, potassium, insuline|Corticoïdes, vitamine D, calcium|Thiazidiques, lithium, bisphosphonates
+1731945200850|Plusieurs semaines, ~6 mois|Immédiat, ~2 h|2–4 jours, ~1 mois
+1731945200852|Alendronate oral|Calcitonine seule|Dénosumab en 1re ligne
+1731945200853|2,6 mmol/L (10,5 mg/dl)|3 mmol/L (12 mg/dl)|5 mmol/L (20 mg/dl)
+1731945200855|80–85 %|< 1 %|40–50 %
+1731945200856|10–15 %|~5 %|~30 %
+1731945200858|Lithiase rénale (80 %)|Fracture (50 %)|Crise aiguë (40 %)
+1731945200859|Ostéonécrose, infarctus rénal|Ostéomalacie, glomérulonéphrite|Ostéopétrose, polykystose
+1731945200860|> 2,6 mmol/L|> 3 mmol/L|> 2,8 mmol/L
+1731945200861|Excès de sodium|Exercice physique|Hypothermie
+1731945200862|TSH, FT4, calcitonine|Cortisol, ACTH|Prolactine, IGF-1
+1731945200863|Col fémoral seul|Rachis lombaire seul|Crâne
+1731945200865|Calcémie ionisée|Scintigraphie au MIBI|Dosage de la PTHrp
+1731945200866|Mutation activatrice du CaSR|Adénome parathyroïdien|Mutation de MEN1
+1731945200869|100 % deviennent hypercalcémiques|Guérison spontanée constante|Évolution vers l'hypoparathyroïdie
+1731945200870|Cinacalcet|Bisphosphonates|Surveillance seule
+1731945200872|> limite sup. + 1 mmol/L|Toute hypercalcémie|> 3,5 mmol/L
+1731945200873|> 70 ans|< 30 ans|Tout âge
+1731945200874|HTA, diabète, obésité|Fatigue isolée|Hyperphosphatémie
+1731945200876|MIBG|Octréotide|FDG
+1731945200877|Éviter toute chirurgie|Contre-indication à la chirurgie|Thyroïdectomie associée
+1731945200878|Exérèse d'une seule glande|Parathyroïdectomie totale sans réimplantation|Surveillance
+1731945200880|Calcitriol|Thiazidiques|Suppléments de calcium
+1731945200881|Dénosumab|Tériparatide|Étélcalcétide oral
+1731945200882|Tout HPT asymptomatique|En 1re intention chez tous|Hypercalcémie hypocalciurique familiale
+1731945200884|Restriction sévère (< 400 mg/j)|Supplément élevé (3 g/j)|Supplément IV
+1731945200885|Bisphosphonates, cinacalcet|Calcitonine|Furosémide
+1731945200886|Hypersécrétion autonome d'un adénome|Hyperparathyroïdie familiale|Cancer parathyroïdien
+1731945200887|Lithium, thiazidiques|Adénome, hyperplasie|Sarcoïdose, lymphome
+1731945200889|HPT due à un 3e adénome|HPT liée à la NEM1|HPT sur carence en vit D aiguë
+1731945200891|Trousseau|Babinski|Lasègue
+1731945200892|Chvostek|Kernig|Tinel
+1731945200894|HPT primaire, cancer|Sarcoïdose, lymphome|Thiazidiques, lithium
+1731945200896|Toute hypocalcémie < 2,15 mmol/L|Calcium oral impossible|Hypocalcémie avec hyperphosphatémie seule
+1731945200897|Cholécalciférol|Ergocalciférol|Calcidiol
+1731945200899|Normale-haute|Supérieure à la normale|Normalisation stricte
+1731945200901|↑ calcium et vitamine D|Ajout de furosémide|Arrêt de tout traitement

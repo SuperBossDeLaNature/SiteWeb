@@ -1,0 +1,119 @@
+1731945200514|40–50 g|0,4–0,5 g|15–20 g
+1731945200515|Cortisol|DHEA|Adrénaline
+1731945200516|Aldostérone|DHEA|Noradrénaline
+1731945200517|Aldostérone et corticostérone|Cortisol et cortisone|Catécholamines
+1731945200518|Cortisol|Aldostérone|Androgènes
+1731945200521|↑ excrétion Na, ↑ réabsorption K|↑ réabsorption d'eau libre seule|↓ excrétion de H⁺ et de K
+1731945200522|Élevée|Normale|Indosable par excès d'angiotensine
+1731945200523|Basse|Indosable|Normale
+1731945200524|Adénome de Conn, hyperplasie bilatérale|Cushing, phéochromocytome|Hyperthyroïdie, acromégalie
+1731945200525|Adénome de Conn (60–65 %)|Carcinome surrénalien (30 %)|Hyperaldostéronisme familial (60 %)
+1731945200527|Phéochromocytome|Syndrome de Cushing|Hyperthyroïdie
+1731945200531|Non contrôlée sous 1 anti-HTA|PA > 120/80 sous traitement|HTA nocturne isolée
+1731945200532|> 65 ans|< 18 ans uniquement|Toute HTA après 50 ans
+1731945200534|Aldostérone plasmatique seule|Kaliémie seule|Scanner surrénalien
+1731945200535|Régime sans sel strict|Régime hypersodé (> 10 g/j)|Jeûne de 24 h
+1731945200536|> 0,5|> 100|> 1
+1731945200537|< 10|< 0,1|< 4,9
+1731945200540|2 jours|6 mois|Aucun arrêt nécessaire
+1731945200541|2 jours|3 mois|Aucun arrêt nécessaire
+1731945200542|Diurétiques, β-bloquants|IEC, sartans|Spironolactone, éplérénone
+1731945200545|> 10 pg/ml|> 1 000 pg/ml|< 50 pg/ml
+1731945200546|Scintigraphie au MIBG|Échographie abdominale|Doppler des artères rénales
+1731945200547|Scanner avec washout|IRM surrénalienne|PET-FDG
+1731945200549|Spironolactone à vie|Surrénalectomie bilatérale|Radiothérapie
+1731945200550|Surrénalectomie bilatérale|Surrénalectomie unilatérale|Hydrocortisone
+1731945200551|Hypokaliémie, hirsutisme|Toux sèche, angioedème|Hypoglycémie, prise de poids
+1731945200552|Amiloride|Furosémide|Hydrochlorothiazide
+1731945200556|5–10 %|50 %|> 99 %
+1731945200559|Glycogénolyse inhibée, lipogenèse, anabolisme protéique|Hypoglycémie, lipogenèse|Synthèse protéique, glycogenèse musculaire
+1731945200560|Immunostimulation, anabolisme osseux|Effet antidiurétique pur|Effet natriurétique
+1731945200561|Adénome hypophysaire|Adénome surrénalien|Sécrétion ectopique d'ACTH
+1731945200563|20 %|50 %|99 %
+1731945200564|~50 %|~1 %|~30 %
+1731945200565|200–1 000/10⁶ habitants|0,1/10⁶ habitants|1/1 000 habitants
+1731945200566|Faiblesse distale des mains|Amyotrophie du quadriceps unilatérale|Myotonie
+1731945200568|Gynoïde (hanches, cuisses)|Généralisée homogène|Membres uniquement
+1731945200570|Toute obésité|Tout patient diabétique|Toute HTA
+1731945200572|Cortisol à 8 h, ACTH, CRH|Cortisol à 8 h, DXM 8 mg, synacthen|ACTH, IRM, scanner
+1731945200573|< 50 ng/ml (138 nmol/L)|< 180 ng/ml|< 5 ng/ml
+1731945200574|< 17 nmol/24 h|< 1 700 nmol/24 h|< 50 nmol/24 h
+1731945200575|< 25 nmol/L|< 0,1 nmol/L|< 10 nmol/L
+1731945200576|Corriger le cortisol pour le poids|Diagnostiquer une IR|Exclure un diabète
+1731945200577|Hypothyroïdie, anorexie, sport|Grossesse, contraception, ménopause|Prise de β-bloquants
+1731945200579|IRM hypophysaire|Scanner surrénalien|Cathétérisme des sinus pétreux
+1731945200581|Scanner surrénalien|Scintigraphie au MIBG|Échographie thyroïdienne
+1731945200583|Absence de réponse|Diminution de l'ACTH/cortisol|Hypoglycémie
+1731945200585|IRM hypophysaire répétée|Scanner surrénalien seul|Échographie cervicale
+1731945200586|Surrénalectomie bilatérale en 1re intention|Agonistes dopaminergiques|Radiothérapie en 1re intention
+1731945200587|< 1 %|80–90 %|100 %
+1731945200588|Cabergoline, octréotide, pegvisomant|Spironolactone, éplérénone|Hydrocortisone, fludrocortisone
+1731945200590|1–2/10³/an|1–2/10⁹/an|50/10⁶/an
+1731945200591|10 %|100 %|30 %
+1731945200592|Aldostérone|Catécholamines|Œstrogènes
+1731945200593|11β-hydroxylase (85–90 %)|17α-hydroxylase (85–90 %)|3β-HSD (85–90 %)
+1731945200594|DHEA|Testostérone|Cortisol libre urinaire
+1731945200596|1/150 naissances|1/1 000 000 naissances|1/1 500 naissances
+1731945200597|Hypertension et hypokaliémie|Hyperglycémie|Déshydratation hypernatrémique (~1er jour)
+1731945200598|Hypoplasie génitale|Organes génitaux normaux|Puberté précoce néonatale
+1731945200599|Ferriman-Gallwey|Tanner|Bethesda
+1731945200600|Ambiguïté génitale|Micropénis|Gynécomastie
+1731945200601|20 h, phase lutéale|N'importe quand|Minuit, à l'ovulation
+1731945200603|Freinage à la dexaméthasone|Hypoglycémie insulinique|HGPO
+1731945200604|> 1 ng/ml|> 100 ng/ml|< 2 ng/ml
+1731945200606|1/6|1/600|1/6 000
+1731945200607|Contre-indiquer la grossesse|Dexaméthasone dès la conception sans bilan|Rien de particulier
+1731945200608|Glucocorticoïdes seuls|Minéralocorticoïdes seuls|Antiandrogènes seuls
+1731945200609|~50 %|~0,05 %|~25 %
+1731945200610|Neuroblastomes|Carcinoïdes|Chromaffinomes
+1731945200611|Paragangliome extrasurrénalien|Tumeur de la corticosurrénale|Neuroblastome de l'adulte
+1731945200612|Taille > 6 cm|Mutation SDHB|Invasion capsulaire histologique
+1731945200613|10–20 ans|> 75 ans|< 5 ans
+1731945200615|MEN1|BRAF|APC
+1731945200617|Fièvre, sueurs, amaigrissement|Céphalées, vomissements, flou visuel|Flush, diarrhée, bronchospasme
+1731945200619|Hypotension à l'induction|Hypoglycémie au réveil|Bradycardie extrême
+1731945200620|Catécholamines plasmatiques aléatoires|VMA urinaires|Chromogranine A seule
+1731945200621|1 (urines non acidifiées)|5|3 (urines alcalinisées)
+1731945200622|> 1,1× la normale|> 10× la normale obligatoirement|Tout taux détectable
+1731945200623|Paracétamol, AINS|Statines, IPP|Insuline, metformine
+1731945200625|Hyposignal|Isosignal|Chute de signal en opposition de phase
+1731945200627|α-bloquants à vie|Iode 131|Chirurgie en urgence
+1731945200629|1 jour|6 mois|Aucune préparation
+1731945200630|Éviter l'hypertension post-exérèse|Prévenir l'hypokaliémie|Compenser le régime sans sel
+1731945200632|Riches en potassium|Riches en calcium|Riches en gluten
+1731945200633|Toujours adrénaline|Toujours noradrénaline massive|Cortisol
+1731945200634|SDHD|RET|VHL
+1731945200635|Masse > 5 cm symptomatique|Masse sécrétante découverte par dosage|Toute masse surrénalienne bilatérale
+1731945200637|~0,7 %|~30 %|~70 %
+1731945200638|≥ 30 UH|≤ 50 UH|≥ 100 UH
+1731945200639|≥ 75 %|≤ 5 %|Augmentation du signal
+1731945200643|Adénomes riches en lipides|Kystes surrénaliens|Myélolipomes
+1731945200644|Aldostérone/rénine + DHEA|ACTH + cortisol de 8 h|Calcitonine + PTH
+1731945200645|Systématique chez tous|Jamais|Si masse > 4 cm uniquement
+1731945200646|Freinage normal|Insuffisance surrénalienne|Pseudo-Cushing
+1731945200649|> 5 % (≥ 1 mm)|> 100 % (≥ 2 cm)|Toute croissance
+1731945200651|Tuberculose (80 %)|Métastases (80 %)|Hémorragie (80 %)
+1731945200653|Streptocoque, staphylocoque|Paludisme, toxoplasmose|Hépatite B, grippe
+1731945200654|Atteinte hypothalamique tumorale|Atteinte hypophysaire|Atteinte auto-immune de la surrénale
+1731945200656|Basse|Indosable|Normale
+1731945200658|Vitiligo|Hirsutisme|Vergetures pourpres
+1731945200659|↑ cortisol → ↑ mélanine|↓ ACTH → ↑ MSH|Dépôt de fer cutané
+1731945200660|Hypernatrémie, hypokaliémie|Hyponatrémie, hypokaliémie|Natrémie et kaliémie normales
+1731945200663|ACTH à minuit|Cortisol libre urinaire|Rénine
+1731945200664|< 180 ng/ml (500 nmol/L)|< 5 ng/ml|< 100 ng/ml
+1731945200665|> 50 ng/ml|> 500 ng/ml|> 100 ng/ml
+1731945200666|Freinage DXM 1 mg|Hypoglycémie insulinique systématique|Test à la CRH
+1731945200667|Synacthen 250 µg|Freinage DXM 8 mg|Test à la métopirone seul
+1731945200668|Dexaméthasone (1 prise le soir)|Prednisolone (1 prise le soir)|Hydrocortisone (1 prise le soir)
+1731945200669|Spironolactone|Dexaméthasone|Éplérénone
+1731945200671|Cortisol libre urinaire|ACTH plasmatique|Cortisol à 8 h
+1731945200672|Froid intense|Régime hypersodé|Grossesse au 1er trimestre
+1731945200673|Hommes âgés|Enfants prépubères|Tous les patients
+1731945200674|Hyper-Na, hypo-K, hyperglycémie|Hypercalcémie, alcalose|Hypo-Na, hypo-K, hyperglycémie
+1731945200675|Neutropénie|Polyglobulie|Thrombopénie
+1731945200676|Crise d'asthme, migraine|Hyperthyroïdie, Cushing|AVC hémorragique, épilepsie
+1731945200677|1 crise sur 10|1 crise sur 20 000|Jamais mortelle
+1731945200679|Dexaméthasone PO + restriction hydrique|Fludrocortisone seule|Insuline + potassium
+1731945200680|D'emblée en même temps que l'HC IV|Quand l'HC > 200 mg/24 h|Jamais
+1731945200682|Arrêter l'hydrocortisone|Ne rien changer|Multiplier par 10 la fludrocortisone
+1731945200685|Glucomètre + carnet|Bracelet de glycémie|Aucun outil spécifique

@@ -1,0 +1,83 @@
+1795017229587|Excès d'ADH|Déficit en aldostérone|Atteinte tubulaire par les auto-anticorps
+1795017229589|Cause (potomanie primaire)|Sans rapport avec la polyurie|Cause, par stimulation de l'ADH
+1795017229591|Uniquement le tissu adipeux|Uniquement l'eau|Uniquement le muscle cardiaque
+1795017229593|> 126 mg/dl|> 100 mg/dl|> 250 mg/dl
+1795017229595|~25 g/j soit ~100 kcal|~1 000 g/j soit ~4 000 kcal|~50 g/j soit ~200 kcal
+1795017229597|Toujours plus sévères que dans le DT1|Toujours une acidocétose révélatrice|Uniquement des hypoglycémies
+1795017229599|Acidocétose inaugurale dans la majorité des cas|Uniquement par polyurie-polydipsie|Uniquement par amaigrissement
+1795017229601|~5 %|~80 %|~15 %
+1795017229603|~20 %|~95 %|~40 %
+1795017229605|~1 an|~25 ans|~3 ans
+1795017229607|Oui, chez tous les adultes chaque année|Oui, par HbA1c dès 18 ans|Non, jamais
+1795017229609|Toute la population dès 18 ans|Uniquement les sujets de plus de 70 ans|Uniquement les femmes enceintes
+1795017229611|≥ 110 mg/dl (6,1 mmol/l)|≥ 140 mg/dl (7,8 mmol/l)|≥ 100 mg/dl (5,6 mmol/l)
+1795017229613|≥ 140 mg/dl|≥ 180 mg/dl|≥ 126 mg/dl
+1795017229615|≥ 126 mg/dl|≥ 140 mg/dl|≥ 250 mg/dl
+1795017229617|Non, une seule mesure suffit toujours|Oui, par une HGPO systématique|Oui, par un dosage d'insuline
+1795017229619|50 g dans 100 ml d'eau|100 g dans 500 ml d'eau|75 g dans 1 l d'eau
+1795017229621|2 à 4 h, l'après-midi|24 h|Pas de jeûne nécessaire
+1795017229623|Régime pauvre en HC (< 50 g/j) les 3 jours précédents|Jeûne les 3 jours précédents|Aucune consigne particulière
+1795017229625|Sujet jeune, à jeun, au repos|Prise d'eau pendant le test|Test réalisé le matin
+1795017229627|< 110 / 110–125 mg/dl|< 90 / 90–125 mg/dl|< 100 / 100–139 mg/dl
+1795017229629|< 126 / 126–199 mg/dl|< 140 / 140–179 mg/dl|< 180 / 180–199 mg/dl
+1795017229631|< 6 / 6–6,9 / ≥ 7 %|< 5 / 5–5,6 / ≥ 5,7 %|< 6,5 / 6,5–7,4 / ≥ 7,5 %
+1795017229633|Distribution unimodale chez les Pima|Absence de diabète chez les Pima|Glycémies plus basses chez les Pima
+1795017229635|L'apparition de la néphropathie|Le risque coronarien|L'apparition des symptômes
+1795017229637|CV : seuil – Rétinopathie : risque continu|Les deux : risque continu|Les deux : effet seuil
+1795017229639|100 % diabète|10 % diabète – 90 % normalisée|25 % diabète – 75 % persistante
+1795017229641|Uniquement de l'âge|Du sexe uniquement|Des auto-anticorps
+1795017229643|Uniquement le risque microvasculaire|Aucun risque|Uniquement l'évolution vers le DT1
+1795017229645|Insuline + glucagon|Chaîne A + chaîne B seulement|Insuline + amyline
+1795017229647|Peptide de 51 aa sécrété en excès par rapport à l'insuline|Fragment de glucagon|Peptide de 31 aa éliminé par le foie
+1795017229649|Demi-vie plus courte (3 vs 10 min)|Il est dosé dans les urines uniquement|Il n'est pas sécrété en cas d'insulinome
+1795017229651|Dépistage de la rétinopathie|Suivi de l'HbA1c|Diagnostic de l'acidocétose
+1795017229653|1 mg IM ; glycémie à 0 et 120 min|0,1 mg IV ; insuline à 0 et 30 min|75 g de glucose PO ; peptide C à 2 h
+1795017229655|La sensibilité hépatique au glucagon|La réserve en glycogène hépatique|La sécrétion de glucagon endogène
+1795017229657|Toujours suffisant pour diagnostiquer le type de diabète|Interprétable seul s'il est à jeun|Inutile en pratique
+1795017229659|Liaison réversible, enzymatique d'un ose à un groupe carboxyle|Phosphorylation d'une protéine par le glucose|Liaison d'un ose aux lipides membranaires
+1795017229661|Produit d'Amadori (heures, réversible) → base de Schiff (jours, irréversible)|Base de Schiff (jours, irréversible) → AGE (heures)|Une seule étape irréversible en quelques minutes
+1795017229663|HbA1c : albumine glyquée – Fructosamine : Hb glyquée|Les deux sont de l'Hb glyquée|HbA1c : fructose fixé – Fructosamine : glucose fixé
+1795017229665|Lysine des chaînes α|Valine N-terminale des chaînes α|Hème
+1795017229667|Le fructose|Le galactose|Le glucose-6-phosphate
+1795017229669|2–3 semaines|6–12 mois|2–3 jours
+1795017229671|6,5 ± 0,3 %|4 ± 0,5 %|7 ± 0,5 %
+1795017229673|46,7 × HbA1c – 28,7 (mg/dl)|28,7 × HbA1c + 46,7 (mg/dl)|18 × HbA1c (mg/dl)
+1795017229675|70 mmol/mol – 126 mg/dl|48 mmol/mol – 180 mg/dl|64 mmol/mol – 140 mg/dl
+1795017229677|53 mmol/mol|42 mmol/mol|58 mmol/mol
+1795017229679|~5,7 %|~7,5 %|~6 %
+1795017229681|% d'Hb totale (DCCT)|mg/dl|mmol/l de glucose
+1795017229683|Imprécise et non standardisée|Interdite en Europe|Ne mesure pas l'HbA1c
+1795017229685|Bien contrôlé – insuffisamment contrôlé|Excellent contrôle – bon contrôle|Diabète débutant – diabète installé
+1795017229687|Acétoacétate, lactate, pyruvate|β-hydroxybutyrate, acétyl-CoA, acétate|Acétone, éthanol, lactate
+1795017229689|Le β-hydroxybutyrate (nitroprussiate)|L'acétone exclusivement|Les trois corps cétoniques à égalité
+1795017229691|< 3 mmol/l / > 10 mmol/l|< 0,1 mmol/l / > 1 mmol/l|< 1,5 mmol/l / > 1,5 mmol/l
+1795017229693|Jeûne : cétonurie absente|Jeûne : glycémie élevée – Diabète : glycémie basse|Par le dosage du lactate
+1795017229695|Metformine d'emblée|Insuline basale|Aucune mesure
+1795017229697|HbA1c tous les 3 mois|Glycémie tous les 5 ans|Aucune surveillance
+1795017229699|↓ avec la fréquence|Aucun effet|↑ uniquement chez le DT1
+1795017229701|Mode de vie –31 % – metformine –58 %|Mode de vie –10 % – metformine –5 %|Identiques (–45 %)
+1795017229703|2,1 kg vs 5,6 kg|15 kg vs 5 kg|1 kg vs 1 kg
+1795017229705|–20 % / –10 %|–90 % / –80 %|–43 % / –58 %
+1795017229707|0,83|1,17|0,50
+1795017229709|Régime – insuline – greffe de pancréas – chirurgie|Exercice – corticoïdes – insuline – diurétiques|Régime – metformine – statine – aspirine
+1795017229711|Prise de poids – pics postprandiaux élevés – suppression des glucides|Normoglycémie stricte quel que soit le risque d'hypo|Perte de poids maximale en 1 mois
+1795017229713|HC 20 % – lipides 60 % – protéines 20 %|HC 70 % – lipides 15 % – protéines 15 %|HC 30 % – lipides 30 % – protéines 40 %
+1795017229715|Oui : 6 petits repas indispensables|Oui : 3 repas obligatoires|Oui : le petit-déjeuner doit être supprimé
+1795017229717|MUFA : ↑ glycémie et ↑ TG|HC : ↓ glycémie de 24 h et ↓ TG|Aucune différence
+1795017229719|AGS < 15 % – cholestérol < 500 mg/j|AGS < 2 % – cholestérol interdit|AGS < 10 % – cholestérol < 300 mg/j – trans < 5 %
+1795017229721|45–55 % (1921) → 20 % (1994)|Stables à 50 % depuis 1921|60 % (1921) → 30 % (1994)
+1795017229723|Pic glycémique de l'aliment / pic du glucose × 100|Contenu en HC × IG / 100|Surface du glucose / surface de l'aliment × 100
+1795017229725|IG : par 100 g d'aliment – CG : par 100 g d'HC|Les deux sont identiques|IG : par portion – CG : par 100 g d'HC
+1795017229727|Carottes 20 – chocolat 2|Carottes 40 – chocolat 40|Carottes 10 – chocolat 10
+1795017229729|5 et 50|50 et 5|20 et 2
+1795017229731|Uniquement la quantité d'HC|La couleur de l'aliment|La température de consommation seule
+1795017229733|La forme physique de l'aliment|La vitesse de digestion|La nature de l'HC
+1795017229735|~–2 %|~–0,05 %|~+0,4 %
+1795017229737|Pomme : pic plus marqué (fructose)|Identiques|Jus : pas de pic du tout
+1795017229739|Ils accélèrent la vidange gastrique|Ils stimulent fortement l'insuline|Ils inhibent l'amylase
+1795017229741|Glucides totalement digérés dans le grêle|Protéines végétales non absorbées|Graisses végétales résistantes
+1795017229743|Solubles : cellulose, lignine – Insolubles : pectine, gommes|Solubles : amidon, saccharose – Insolubles : cellulose|Solubles : hémicellulose – Insolubles : mucilages
+1795017229745|Solubles : accélèrent le transit – Insolubles : ↓ cholestérol|Les deux ↓ la glycémie postprandiale|Aucune n'a d'effet
+1795017229747|5 g / 1000 kcal|30 g / 1000 kcal|50 g / jour quel que soit l'apport
+1795017229749|10 g/j (vs 24 g) → ↓ glycémie|50 g/j → aucun effet|100 g/j → ↑ glycémie
+1795017229751|100 g de pain – 40 g de riz cuit|20 g de pain – 20 g de riz cuit|80 g de pain – 200 g de riz cuit

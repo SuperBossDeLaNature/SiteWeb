@@ -1,0 +1,131 @@
+1760500000397|7,32 à 7,38|7,45 à 7,55|7,20 à 7,30
+1760500000398|14 à 18 mmol/L|30 à 34 mmol/L|10 à 14 mmol/L
+1760500000399|20 à 30 mmHg|50 à 60 mmHg|80 à 100 mmHg
+1760500000401|Alcalose métabolique|Acidose respiratoire|Alcalose respiratoire
+1760500000403|↑ PCO₂ (hypoventilation)|↑ HCO₃⁻ rénale immédiate|↓ HCO₃⁻ supplémentaire
+1760500000404|↓ PCO₂ (hyperventilation)|↑ HCO₃⁻|Aucune compensation
+1760500000407|4 ± 2 mmol/L|30 ± 4 mmol/L|8 ± 1 mmol/L
+1760500000408|Il monte|Inchangé|Il double
+1760500000409|+4 mmol/L par −10 g/L|−1 mmol/L par −10 g/L|−10 mmol/L par −4 g/L
+1760500000411|Diarrhées, ATR 2, acétazolamide|ATR 1, ATR 4|Vomissements, diurétiques
+1760500000412|Lactique, acidocétose|Méthanol, éthylène glycol|Vomissements, diurétiques
+1760500000414|Cl⁻u − (Na⁺u + K⁺u)|Na⁺u − (Cl⁻u + HCO₃⁻u)|(Na⁺u + Cl⁻u) − K⁺u
+1760500000420|Type 1|Type 2|Type 3
+1760500000421|Fanconi, ostéomalacie|Hyperkaliémie|Hypoaldostéronisme
+1760500000422|Sjögren, lupus|IEC, spironolactone|Diabète, amylose
+1760500000423|Alcalose métabolique|Acidose respiratoire|Hypokaliémie
+1760500000427|Hypoventilation + hypokaliémie|Perte de HCO₃⁻ + hyperchlorémie|Excès d'eau + perte de sel
+1760500000428|L'hypercalcémie|L'hyperkaliémie|L'hypermagnésémie
+1760500000429|Rénine ↑, aldostérone ↑|Rénine ↑, aldostérone ↓|Les deux basses
+1760500000431|Chlorurie|Cortisol libre urinaire|Catécholamines
+1760500000432|Diurétiques actuels|Bartter|Gitelman
+1760500000433|Vomissements, aspiration NG|Diarrhée chlorée|Correction d'hypercapnie
+1760500000435|Hypokaliémie sévère|Acidose métabolique associée|Alcalose avec hypovolémie
+1760500000436|Hyperventilation alvéolaire|Perte digestive de bicarbonate|Excès d'acide lactique
+1760500000437|Se normalise (> 7,42)|Toujours > 7,45|Toujours < 7,10
+1760500000438|Aiguë, chronique, mixte|Rénale, hépatique, digestive|Veineuse, artérielle, capillaire
+1760500000442|Toute acidose à TA normal|pH < 7,35 isolé|Acidose respiratoire
+1760500000443|(HCO₃ souhaité − actuel) × 0,2 × poids|(HCO₃ souhaité − actuel) × poids|(HCO₃ actuel − souhaité) × 0,6 × taille
+1760500000444|Acétazolamide|Chlorure d'ammonium|NaCl 0,9 %
+1760500000445|À TA élevé (lactique)|Respiratoire|Métabolique alcalose
+1760500000447|Le bicarbonate est toxique pour le foie|Le bicarbonate élève la glycémie|L'insuline détruit le bicarbonate
+1760500000448|HyperK⁺, hypercalcémie, hypotension|Hypoglycémie, hyperNa⁺|Acidose rebond, déshydratation
+1760500000466|7,42 à 7,48|7,20 à 7,30|7,38 à 7,42
+1760500000467|pH > 7,35|pH > 7,50|pH > 7,38
+1760500000468|Acidose métabolique|Alcalose respiratoire|Acidose respiratoire
+1760500000469|Alcalose respiratoire|Acidose métabolique|Alcalose métabolique
+1760500000470|Acidose respiratoire|Alcalose métabolique|Acidose métabolique
+1760500000471|↓ HCO₃⁻ (perte rénale)|↓ PCO₂|↑ PCO₂
+1760500000472|↑ HCO₃⁻|↑ PCO₂|Aucune compensation
+1760500000473|Resp. : jours ; rénale : minutes|Les deux en minutes|Les deux en semaines
+1760500000475|HCO₃⁻ × 2|pH × 10|Les 2 premiers chiffres du pH
+1760500000476|Alcalose respiratoire surajoutée|Compensation adaptée|Alcalose métabolique surajoutée
+1760500000477|Perte de bicarbonate digestive|Excès de chlore|Hypoalbuminémie
+1760500000478|Acétazolamide, chlorure d'ammonium|Diurétiques, laxatifs|Lithium, bromures
+1760500000479|Acidocétose, lactique|Méthanol, salicylés|Diarrhées
+1760500000480|Acidose à TA élevé|Alcalose métabolique|Acidose respiratoire
+1760500000481|Type 1|Type 2|Type 3
+1760500000482|Élevée|Normale|Très élevée
+1760500000483|Élevée|Normale|Très élevée
+1760500000484|Basse|Normale|Très basse
+1760500000485|Type 2|Type 4|Type 3
+1760500000486|> 7|> 5,5|> 6,5
+1760500000487|Légère / modérée / sévère|Toutes sévères|Modérée / sévère / légère
+1760500000488|Néphrocalcinose, lithiases|Hyperkaliémie|Hypoaldostéronisme
+1760500000489|Myélome, cystinose|IRC diabétique, IEC|Ténofovir, acétazolamide
+1760500000490|Sjögren, lupus|Myélome, cystinose|Drépanocytose
+1760500000491|Tétanie, hyperréflexie|Bradypnée, hypertension|Polyurie, soif
+1760500000492|Hypercalcémie, goitre|Hyperkaliémie aiguë|Polyglobulie
+1760500000493|Erreur de mesure systématique|Elle inclut le CO₂ inspiré|Elle exclut le bicarbonate
+1760500000494|Plus d'O₂ relargué aux tissus|Hémolyse|Hypercapnie
+1760500000495|Excès d'acide ou perte d'alcalins|Excès d'eau|Hypoventilation
+1760500000496|↑ DFG, hypervolémie|Hyperkaliémie, hyperchlorémie|Acidose, hypercapnie
+1760500000497|Diarrhée / ATR|Lactique / cétose|Centrale / pulmonaire
+1760500000498|Diarrhées, laxatifs|Fistule pancréatique|Ileostomie
+1760500000499|Spironolactone|Acétazolamide|IEC
+1760500000500|Thiazidique|Spironolactone|Amiloride
+1760500000501|Diurétique de l'anse|Acétazolamide|Spironolactone
+1760500000502|Rénine ↓, aldostérone ↑|Les deux élevées|Rénine ↑, aldostérone ↓
+1760500000503|Les deux basses|Rénine ↓, aldostérone ↑|Rénine ↑, aldostérone ↓
+1760500000504|PA élevée + rénine basse|PA basse + chlorurie < 15|Ingestion d'alcalins
+1760500000505|La chlorurie est toujours basse|La natriurie n'est pas dosable|La chlorurie mesure le potassium
+1760500000506|Vomissements|Diurétiques|Bartter
+1760500000507|Le Na⁺|Le Ca²⁺|Le glucose
+1760500000508|0,6 × poids × (140 − Na⁺)|0,27 × poids × (Cl⁻ − 100)|0,5 × poids × (24 − HCO₃⁻)
+1760500000509|Majeure (> 10 mmol/L)|Inversée|Nulle et définitive
+1760500000510|Tétanie, paresthésies|Polyurie, soif|Hypotension isolée
+1760500000511|Agitation, convulsions|Tétanie|Euphorie
+1760500000512|Asthme, embolie pulmonaire|Guillain-Barré, myasthénie|Salicylés, stress
+1760500000513|Anxiété, salicylés|Myasthénie|Obésité
+1760500000514|BPCO, emphysème|Morphine, sédatifs|Embolie pulmonaire
+1760500000515|Grossesse, altitude|Anxiété, fièvre|Anémie
+1760500000516|Morphine, sédatifs|BPCO|Myasthénie
+1760500000517|BPCO hypercapnique|Guillain-Barré|Obésité
+1760500000518|Henderson-Hasselbalch inversée|Friedewald|Cockcroft-Gault
+1760500000519|Acidose respiratoire surajoutée|Compensation normale|Acidose métabolique surajoutée
+1760500000520|Alcalose respiratoire surajoutée|Compensation normale|Alcalose métabolique surajoutée
+1760500000521|↑ contractilité, hypertension|Polyglobulie|Hypoglycémie
+1760500000522|0,9 %, 3 % et 5 %|10 %, 20 % et 40 %|2 %, 5 % et 10 %
+1760500000523|Toujours indiquée|Contre-indiquée absolue|Uniquement par voie orale
+1760500000525|≈ 60 mL/min/1,73 m²|≈ 180 mL/min/1,73 m²|≈ 40 mL/min/1,73 m²
+1760500000526|Corriger pour l'âge|Corriger pour le sexe|Corriger pour la masse musculaire
+1760500000527|−5 à −10 mL/min/an|Aucune perte|+1 mL/min/an
+1760500000528|− 50 %|Pas de variation|+ 10 %
+1760500000530|1 à 2 mg/dL|Aucune hausse|2 à 3 mg/dL
+1760500000531|Créatininémie seule|Urée sanguine|Échographie rénale
+1760500000532|Créatinine, urée|Cystatine C, β2-microglobuline|Albumine, glucose
+1760500000534|Urée|Acide urique|β2-microglobuline seule
+1760500000535|(Px × V) / Ux|(Ux × Px) / V|Ux / (Px × V)
+1760500000536|Hydratation, diurèse|PA, glycémie|Albuminurie, hématurie
+1760500000539|Créatinine, poids, taille|Urée, âge, poids|Cystatine C, poids
+1760500000542|Un DFG indexé|Une clairance d'inuline|Une albuminurie
+1760500000544|Cockcroft-Gault|CKD-EPI|MDRD
+1760500000545|Poids et âge|Âge et sexe|Poids et cystatine
+1760500000546|< 90 µmol/L|< 10 µmol/L|< 120 µmol/L
+1760500000547|< 90 µmol/L|< 20 µmol/L|< 120 µmol/L
+1760500000548|< 50 µmol/L|< 150 µmol/L|< 35 µmol/L
+1760500000551|Diabète, HTA|Sujet sain de 40 ans|Hypothyroïdie
+1760500000552|7 jours à 3 mois|> 3 mois|0 à 48 h
+1760500000553|0 à 7 jours|> 3 mois|3 à 6 mois
+1760500000558|Glycosurie, cétonurie, nitrites, pH|Hyperkaliémie, acidose, anémie, hypocalcémie|Urée, créatinine, cystatine, acide urique
+1760500000560|Féminine (× 2,5)|Aucune|Féminine (× 10)
+1760500000561|Glomérulonéphrite|Polykystose|Néphropathie de reflux
+1760500000563|45 à 59|15 à 29|60 à 89
+1760500000564|30 à 44|45 à 59|≥ 90
+1760500000565|30 à 44|< 15|45 à 59
+1760500000567|< 30 mg/g|> 300 mg/g|300 à 3 000 mg/g
+1760500000571|Néphroangiosclérose, GN chronique|Néphropathie de reflux|Sténose artérielle bilatérale
+1760500000572|Néphropathie diabétique|Néphroangiosclérose|GN chronique
+1760500000573|Diabète, HTA|Polykystose, lupus|Néphroangiosclérose, myélome
+1760500000574|Hypertension systolique isolée|Médiacalcose sans risque|Aucune
+1760500000575|Athérosclérose, tabac|Hypercholestérolémie|Vascularite
+1760500000578|< 140/90 mmHg|< 120/70 mmHg|< 150/95 mmHg
+1760500000581|< 10 g NaCl/j|< 1 g NaCl/j|Sans restriction
+1760500000582|≈ 1,5 g/kg/j|≈ 0,3 g/kg/j|≈ 2 g/kg/j
+1760500000584|≈ 5,5 %|≈ 9 %|≈ 6 %
+1760500000585|Allergie anaphylactique|Néphropathie au produit iodé|Hyperkaliémie
+1760500000587|Phosphate de sodium|Picosulfate de magnésium|Lavement au phosphate
+1760500000589|Bêta-bloquants, statines|Insuline, aspirine|Calcium, vitamine D
+1760500000590|BCG, fièvre jaune|ROR uniquement|Aucun vaccin
+1760500000591|G1|G5|G4
+1760500000593|PCR > 0,15 g/g ou ACR > 30 mg/g|PCR > 3,5 g/g|Toute protéinurie détectable

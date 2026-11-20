@@ -1,0 +1,117 @@
+1731940200540|40–50 g|5–8 g|80–100 g
+1731940200543|Centrifuge|Latérale exclusive|Postérieure vers le rectum
+1731940200544|↑ de la taille des cellules|Transformation maligne|↓ du nombre de cellules
+1731940200545|↑ du nombre de cellules|Atrophie des cellules|Métaplasie
+1731940200548|Zone périphérique (90 %)|Zone centrale (90 %)|Stroma fibromusculaire antérieur
+1731940200549|Tonus des muscles lisses|Contraction du détrusor|Sphincter externe
+1731940200551|Remplissage|Stockage|Éjaculation
+1731940200553|Pollakiurie, nycturie, urgence|Hématurie, douleur, fièvre|Incontinence, énurésie
+1731940200554|Jet faible, retard, gouttes|Hématurie, caillots|Dysurie, poussée abdominale
+1731940200555|↓ réponse α|↑ réponse β3|Aucune réponse adrénergique
+1731940200556|Augmentés|Inchangés|Remplacés par des β3
+1731940200557|Atrophie puis hypertrophie|Hyperplasie de l'urothélium|Calcification
+1731940200558|Incontinence d'effort|Hypertrophie réversible|Hématurie isolée
+1731940200559|Cellules|Calculs|Polypes
+1731940200560|Lithiase rénale|Pyélonéphrite chronique isolée|Cancer du rein
+1731940200562|< 5 %|100 %|20 %
+1731940200563|Sonde à demeure 1 mois|Pas de drainage|Néphrostomie bilatérale
+1731940200564|Surveillance simple|Sonde à vie|α-bloquant seul indéfiniment
+1731940200565|PI-RADS|ICIQ|IIEF
+1731940200567|3 / 4|5 / 2|7 / 0
+1731940200569|PSA, volume urinaire|Sensibilité, douleur|Pouls et mobilité
+1731940200570|Cystomanométrie|Profilométrie urétrale|Électromyographie
+1731940200572|20 mL|500 mL|50 mL
+1731940200573|Volume uriné|Temps de miction|Débit moyen
+1731940200574|Urodébimétrie|Échographie|Score IPSS
+1731940200575|Volume prostatique précis|Biopsie|Dépistage du cancer
+1731940200576|Résidu post-mictionnel|Fonction rénale|Débit urinaire
+1731940200577|IRM prostatique, PSA, biopsie|Urodynamique, cystoscopie|Scanner, scintigraphie
+1731940200579|Dépistage du cancer|Calcul du score IPSS|Diagnostic d'infection
+1731940200582|Statique|Neurologique|Inflammatoire
+1731940200584|Finastéride|Tamsulosine|Alfuzosine
+1731940200585|1 semaine|1 mois|2 ans
+1731940200587|Hypotension orthostatique, vertiges|Bouche sèche, constipation|Céphalées, flush
+1731940200588|≈ 6 mois|≈ 1 jour|≈ 1 mois
+1731940200589|5–10 %|80–90 %|15–20 %
+1731940200590|1–5 %|60–70 %|50 %
+1731940200592|Priapisme|Gynécomastie|Baisse de la libido
+1731940200594|Pour réduire les effets secondaires|Pour diminuer le PSA|Pour éviter l'éjaculation rétrograde
+1731940200595|5-ARI|α-bloquant seul|Chirurgie
+1731940200596|Grosse prostate > 80 g|Rétention chronique|Patient sous dérivés nitrés
+1731940200597|1 semaine|6 mois|1 an
+1731940200601|1–2 semaines|Ambulatoire sans nuit|10 jours
+1731940200602|IPSS > 20 isolé|PSA élevé|Prostate > 30 g
+1731940200604|Section des nerfs érecteurs|Lésion du sphincter externe|Cicatrice urétrale
+1731940200606|Prostate < 20 g|Âge < 60 ans|Prise d'α-bloquant
+1731940200607|20–40 %|0 %|10–15 %
+1731940200608|50–60 %|0 %|30 %
+1731940200609|1 %|5 %|0,0001 %
+1731940200610|Impose une TURP immédiate|Impose une sonde rigide|Sans importance
+1731940200611|> 20 mL|> 200 mL|> 40 mL
+1731940200612|< 20 mL|< 200 mL|> 100 mL
+1731940200614|TURP bipolaire|Urolift|Rezum
+1731940200615|Prostatectomie radicale|Sonde JJ|Embolisation
+1731940200616|Urolift|Laser vert|Thermothérapie par micro-ondes
+1731940200617|Obstructifs, irritatifs, infectieux|Aigus, chroniques, récidivants|Diurnes, nocturnes, mixtes
+1731940200621|IRM, biopsie, urodynamique|Cystoscopie, PSA, scanner|Spermogramme, testostérone
+1731940200622|Toujours|Jamais|Si nitrites négatifs uniquement
+1731940200623|IEC, statines|Anticoagulants|Antibiotiques
+1731940200624|Premier épisode de TUBA léger|IPSS à 5|Prostate de 25 g
+1731940200625|> 30 ans et sans information|À tous sans condition|> 80 ans uniquement
+1731940200626|Doubler l'α-bloquant|Ajouter un anticholinergique sans bilan|Rassurer et revoir dans 1 an
+1731940200629|1,5 %|50 %|5 %
+1731940200630|Diminution de moitié|Stabilité|Triplement
+1731940200631|5 %|100 %|90 %
+1731940200633|Tabac, alcool, sédentarité|Infections, vasectomie, sport|Diabète, HTA, obésité
+1731940200634|Côlon, poumon, estomac|Vessie, rein, testicule|Thyroïde, pancréas
+1731940200637|< 25 ans|< 2 ans|> 20 ans
+1731940200638|À l'initiative du patient|Uniquement en cas de symptômes|Uniquement si ATCD familial
+1731940200639|Systématique sur invitation|Obligatoire par la loi|Uniquement après 80 ans
+1731940200641|Faux négatifs et coût|Irradiation|Aucun inconvénient
+1731940200642|Prostatectomie radicale|Hormonothérapie|Chimiothérapie
+1731940200643|Surveillance simple|Abstention|Phytothérapie
+1731940200645|> 55 ans|> 30 ans|> 65 ans
+1731940200647|60 ans|35 ans|55 ans
+1731940200648|Scanner abdomino-pelvien|Scintigraphie osseuse|PET-PSMA
+1731940200650|× 0,5|× 10|Aucun
+1731940200651|BI-RADS|EU-TIRADS|LI-RADS
+1731940200655|1–2 %|90 %|60–70 %
+1731940200657|> 0,05|> 1|> 0,5
+1731940200658|Élevée|Très élevée|Non calculable
+1731940200660|IRM multiparamétrique|PSA|TR
+1731940200662|Amoxicilline → allergies|Aucune antibioprophylaxie nécessaire|Vancomycine → néphrotoxicité
+1731940200663|5–10 %|80–90 %|50–60 %
+1731940200664|PSA faux|Prostate trop dure|Aiguilles trop courtes
+1731940200665|0 à 5|1 à 5|5 à 15
+1731940200667|Traitement radical immédiat|Hormonothérapie|Chimiothérapie
+1731940200668|Surveillance active|Abstention|Phytothérapie
+1731940200669|IRM, scanner, PET|PSA libre, testostérone, scintigraphie|Cystoscopie, uroscanner, urodynamique
+1731940200670|≈ 30 %|≈ 50 %|≈ 15 %
+1731940200672|Métastatique (M1)|Localement avancé (T4)|Résistant à la castration
+1731940200674|≤ T1c, PSA < 4, Gleason ≤ 5|≤ T3, PSA < 20, Gleason ≤ 7|≤ T2, PSA < 10, Gleason ≤ 8
+1731940200675|6|8|9–10
+1731940200676|> 10 ng/mL|> 4 ng/mL|> 100 ng/mL
+1731940200678|≤ 7|≤ 8|≤ 5
+1731940200679|Tous les 12 mois|Tous les mois|Tous les 6 mois
+1731940200680|3 mois|5 ans|6 mois
+1731940200681|0–5 %|60–80 %|50 %
+1731940200684|Prostate + vessie|Prostate seule, sans vésicules|Prostate + testicules
+1731940200685|Éjaculation préservée|Éjaculation rétrograde|Éjaculation précoce
+1731940200686|À distance vs immédiatement|Jamais dans les deux cas|Identiques
+1731940200687|Absence d'incontinence|Absence d'anesthésie|Préservation de l'éjaculation
+1731940200688|Hépatite radique|Pancréatite|Gastrite
+1731940200689|Prostatectomie impossible|Radiothérapie obligatoire|Curage étendu systématique
+1731940200690|1 semaine|5 ans|1 mois
+1731940200691|Irradiation externe|Chaleur par ultrasons|Cryothérapie
+1731940200692|Transrectale|Transurétrale|Abdominale
+1731940200694|Éviter le soleil 6 mois|Aucune précaution|Isolement à l'hôpital 1 mois
+1731940200696|PSA > 4 ng/mL|PSA > 0,01 ng/mL|PSA > 10 ng/mL
+1731940200697|Scintigraphie osseuse|PET-FDG|Échographie
+1731940200699|Supprimer les œstrogènes|Augmenter la testostérone|Diminuer le PSA directement
+1731940200701|Hypertension, tachycardie, sueurs|Hyperlibido, priapisme|Polyurie, soif
+1731940200702|Hypoglycémie, ostéopétrose|Hypercalcémie|Polyglobulie
+1731940200703|Repos strict|Testostérone en appoint|Régime hypocalcique
+1731940200704|Monothérapie stricte|Arrêt de l'hormonothérapie|Hormonothérapie intermittente obligatoire
+1731940200706|Plus de radiation, moins de prostatectomies|Abandon des deux|Autant de chaque
+1731940200707|≈ 2× plus cher|Moins cher|Identique
+1731940200708|Testostérone, α-bloquants|5-ARI|Anticholinergiques

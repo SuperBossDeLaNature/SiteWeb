@@ -1,0 +1,139 @@
+1700000051216|Calcification dans un tendon|Os tissé intra-articulaire|Cartilage hors de l'articulation
+1700000051218|Ostéoclastes|Chondrocytes matures|Fibroblastes cutanés
+1700000051219|Membraneuse|Dystrophique|Métastatique
+1700000051220|Insuline, glucagon, TSH|Calcitonine, PTH, vitamine D|Œstrogènes, progestérone, testostérone
+1700000051221|Infectieuse, tumorale, métabolique, iatrogène|Primitive, secondaire, tertiaire, idiopathique|Calcique, phosphatique, oxalique, urique
+1700000051222|Myosite ossifiante|Fibrodysplasie ossifiante|Maladie de Forestier
+1700000051223|1 à 2 %|90 à 100 %|30 à 40 %
+1700000051225|Épaule|Genou|Coude
+1700000051227|BMP2|TGF-β1|RANKL
+1700000051228|PGI2|PGF2α|Thromboxane A2
+1700000051229|Coma < 24 h|Fracture de clavicule|Âge < 20 ans
+1700000051231|1 à 3 jours|1 à 2 ans|6 mois
+1700000051232|Ankylose complète|Fracture|Paralysie
+1700000051234|Radiographie|Scanner|Biopsie
+1700000051236|1 à 2 semaines|5 ans|1 mois
+1700000051238|Échographie|Scintigraphie|Radiographie simple
+1700000051239|Résection immédiate|Immobilisation stricte|Antibiotiques
+1700000051241|Corticoïdes|Immobilisation|Antibiotiques
+1700000051242|Genou|Épaule|Rachis
+1700000051243|0 %|95 à 100 %|50 à 60 %
+1700000051244|30 à 50 %|0,1 %|60 %
+1700000051245|Femme < 50 ans|Enfant|Jeune sportif
+1700000051246|Paget|Scheuermann|Kienböck
+1700000051249|Garden|Gustilo|Ficat
+1700000051250|Ankylose|Écart < 1 cm|Écart > 1 cm
+1700000051251|Écart < 1 cm|Îlot osseux|Ankylose
+1700000051252|Écart > 1 cm|Îlot osseux|Ankylose
+1700000051253|Îlot osseux|Écart < 1 cm|Écart > 1 cm
+1700000051255|Corticoïdes|Antibiotiques|Bisphosphonates
+1700000051256|Corticoïdes|Immobilisation|Chirurgie préventive
+1700000051257|Fibrodysplasie ossifiante|Para-ostéo-arthropathie|Calcinose
+1700000051260|Ostéomyélite|Hématome simple|Abcès
+1700000051261|Feu d'herbe|Bulbe d'oignon|Triangle de Codman
+1700000051263|Métaphyse|Épiphyse|Articulation
+1700000051265|Ostéopétrose|Maladie de Forestier|Myosite ossifiante
+1700000051267|Récepteur de la PTH|Collagène de type I|RANK
+1700000051268|COL1A1|FGFR3|GNAS
+1700000051269|Doigts surnuméraires|Crâne plat|Absence de clavicule
+1700000051271|Fractures multiples|Insuffisance rénale|Infection osseuse
+1700000051272|Personne âgée|Adulte de 40 ans|Nourrisson
+1700000051273|Ostéome ostéoïde|Chondrome|Lipome
+1700000051274|Ostéochondrome|Enchondrome|Kyste essentiel
+1700000051277|Ostéome ostéoïde|Tumeur glomique|Enchondrome
+1700000051278|Bandelette ilio-tibiale|Tendon rotulien|Tendon d'Achille
+1700000051281|Douleur nocturne|Tuméfaction|Fièvre
+1700000051282|Rachis, bassin|Mains, pieds|Côtes, crâne
+1700000051283|Kyste essentiel|Ostéosarcome|Chondrosarcome
+1700000051285|Ostéome ostéoïde, tumeur glomique|Ostéochondrome, lipome|Ostéosarcome, Ewing
+1700000051286|Ostéochondrome, ostéome|Fibrome non ossifiant, kyste essentiel|Granulome, dysplasie fibreuse
+1700000051287|Contours nets, liseré scléreux|Calcifications régulières|Corticale intacte
+1700000051288|Sclérose périphérique|Lésion stable|Corticale amincie régulière
+1700000051290|Scintigraphie|Radiographie|PET-scan
+1700000051291|IRM locale|Radiographie|Échographie
+1700000051293|Surveillance simple|Curetage seul|Radiothérapie seule
+1700000051294|Curetage ou cimentation|Plâtre ou attelle|Arthrodèse ou ostéotomie
+1700000051295|Sarcome d'Ewing|Chondrosarcome|Myélome
+1700000051296|Diaphyse fémorale|Épiphyse|Rachis
+1700000051297|Ostéosarcome|Chondrosarcome|Fibrosarcome
+1700000051298|Bulbe d'oignon|Feu d'herbe|Spicules
+1700000051299|Ostéosarcome|Sarcome d'Ewing|Enchondrome
+1700000051301|Ostéome ostéoïde|Kyste essentiel|Enchondrome
+1700000051303|Bulbe d'oignon|Coquille d'œuf|Verre dépoli
+1700000051304|Ostéochondrome|Chondroblastome|Ostéosarcome
+1700000051307|Rein, thyroïde|Poumon, côlon|Mélanome, vessie
+1700000051308|Leucémie aiguë|Lymphome de Hodgkin|Sarcome d'Ewing
+1700000051311|Talon|Genou|Paume
+1700000051312|Kyste essentiel|Fibrome non ossifiant|Ostéome ostéoïde
+1700000051111|Cheville|Tibia|Rotule
+1700000051112|Infarctus, AVC|Hémorragie, choc|Infection de la plaie
+1700000051113|50 %|99 %|70 %
+1700000051116|Allongé, abduction, rotation interne|Raccourci, abduction, rotation interne|Normal, sans rotation
+1700000051117|Extension, abduction, rotation externe|Flexion, abduction, rotation externe|Raccourci, rotation externe
+1700000051118|Ouvertes et fermées|Stables et instables|Diaphysaires et épiphysaires
+1700000051119|Fémorales profondes|Obturatrices|Glutéales supérieures
+1700000051120|Neer|Gustilo|Weber
+1700000051122|Fracture complète déplacée|Tête en varus|Fracture non déplacée
+1700000051123|Impactée en valgus|Déplacée en varus|Totalement déplacée
+1700000051124|Non déplacée|Impactée en valgus|Totalement déplacée sans contact
+1700000051127|Prothèse totale|Traction seule|Prothèse céphalique
+1700000051128|Vissage|Traction prolongée|Plâtre pelvi-pédieux
+1700000051133|Plâtre|Attelle de Thomas|Aucune
+1700000051134|1/2 du poids du corps|1/3 du poids du corps|10 kg minimum
+1700000051135|Prothèse céphalique|Plaque simple|Broches
+1700000051136|Infection|Pseudarthrose|Fatigue du clou
+1700000051138|Antérieure|Centrale|Inférieure
+1700000051139|Chute sur le côté|Écart forcé|Torsion au ski
+1700000051141|Fémoral|Obturateur|Fibulaire
+1700000051142|Col fémoral|Branche ischio-pubienne|Grand trochanter
+1700000051143|Clavicule|Calcanéum|Malléole
+1700000051145|Radiographie à 1 semaine|Échographie|Scanner à J1
+1700000051146|Cuisse en S|Signe du glaçon|Pied en équin
+1700000051147|~100 mL|~5 L|~500 mL
+1700000051149|Ostéosynthèse précoce|Traction|Âge jeune
+1700000051150|Traction collée|Traction cervicale|Traction calcanéenne
+1700000051151|Plâtre pelvi-pédieux|Traction prolongée|Fixateur externe définitif
+1700000051152|5 à 10 %|100 %|20 à 30 %
+1700000051155|Externe|Les deux|Aucun
+1700000051156|Corne antérieure du ménisque externe|Corps du ménisque externe|Corne antérieure du ménisque interne
+1700000051158|Lachman|Thompson|Tiroir antérieur
+1700000051159|Lasègue|Finkelstein|Thomas
+1700000051160|Radiographie|Échographie|Arthroscanner
+1700000051161|Garden|Outerbridge|Kellgren
+1700000051163|Stade I|Lésion asymptomatique|Stade II
+1700000051165|Ligament croisé antérieur|Ligament latéral externe|Ligament croisé postérieur
+1700000051166|Hémarthrose|Laxité importante|Craquement
+1700000051168|Triade de Hakim|Pentade|Lésion de Segond
+1700000051169|Hydarthrose claire|Pyarthrose|Lipohémarthrose
+1700000051170|Appley|McMurray|Thompson
+1700000051171|90°|45°|0°
+1700000051172|Radiographie|Échographie|Scintigraphie
+1700000051175|Tendon d'Achille, plantaire grêle|Fascia lata, biceps|Long fibulaire, couturier
+1700000051177|Fracture sans déplacement|Âge > 60 ans|Douleur seule
+1700000051178|50 %|1 %|30 %
+1700000051180|Vaisseau d'abord puis rien|Amputation|Plâtre puis vaisseau
+1700000051181|Fémur|Radius|Clavicule
+1700000051182|Os très fragile|Os très vascularisé|Os entouré de muscles
+1700000051183|Plaque systématique|Plâtre seul|Broches
+1700000051185|Rotule|Charnière simple|Sphère
+1700000051186|Valgus (abduction)|Hyperextension|Flexion dorsale
+1700000051187|2|4|5
+1700000051188|Signe du glaçon|Cuisse en gigot|Signe de la tabatière
+1700000051189|Col du fémur|Calcanéum|Base de M1
+1700000051191|Fracture du col du talus|Fracture du cuboïde|Fracture de la rotule
+1700000051192|Plâtre 6 semaines|Chirurgie|Repos au lit
+1700000051193|~1 semaine|~6 mois|~3 mois
+1700000051194|Rupture des trois faisceaux|Rupture du deltoïde|Distension simple
+1700000051195|Faisceau antérieur seul|Trois faisceaux|Ligament deltoïde
+1700000051197|Quadriceps + étirements|Ischio-jambiers|Triceps sural seul
+1700000051198|Tendon d'Achille|Tibial antérieur|Long extenseur
+1700000051200|Clou|Fixateur externe|Plâtre seul
+1700000051202|Femme ~70 ans, ostéoporose|Enfant, torsion|Sportif, entorse
+1700000051204|Ecchymose dorsale|Œuf de pigeon|Phlyctènes au genou
+1700000051206|Flexion plantaire forcée|Varus forcé|Choc direct
+1700000051208|Déminéralisation|Ostéolyse|Ostéophyte
+1700000051209|1 à 2 mois|5 ans|2 semaines
+1700000051211|Fracture de cotyle|Fracture du sacrum isolée|Fracture d'une branche pubienne
+1700000051213|Sonde de Foley|Néphrostomie|Sonde de Kehr
+1700000051214|Ostéosynthèse immédiate|Traction|Laparotomie
+1700000051215|Plaque vissée|Plâtre pelvien|Traction

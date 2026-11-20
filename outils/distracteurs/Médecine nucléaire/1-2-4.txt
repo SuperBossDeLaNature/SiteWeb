@@ -1,0 +1,177 @@
+1040358109138|Teff = Tp + Tb|1/Teff = 1/Tp − 1/Tb|Teff = Tp × Tb
+1052653487451|511 keV ; 110 min|364 keV ; 8 jours|140 keV ; 66 h
+1067826929532|Personnes de plus de 60 ans|Femmes ménopausées uniquement|Travailleurs du nucléaire uniquement
+1080263230011|68Ga|11C|15O
+1080692926213|Cyclotron à protons|Générateur au 68Ge|Capture de neutrons sur 98Tc
+1083857968260|Technétium-99m|Fluor-18|Thallium-201
+1094443351447|Radiothérapie externe|Curiethérapie|Hadronthérapie
+1097906805988|Équilibre séculaire|Absence d'équilibre|Équilibre stable permanent
+1123652441690|Protons|Électrons|Nucléons totaux identiques
+1149240274269|18F|131I|201Tl
+1179267328859|Réacteur nucléaire (fission)|Générateur|Capture de neutrons
+1179584863377|20 mSv|3 mSv|3 000 mSv
+1188564971924|131I|18F|201Tl
+1191760719674|Perfusion myocardique|Scintigraphie thyroïdienne|PET oncologique
+1203077413861|Eau ordinaire (16O)|Azote liquide|Uranium-235
+1215265136470|6,65 jours|8 jours|110 min
+1219467422881|2,92 MeV|1,72 MeV|0,16 MeV
+1226401372284|~0,02 mSv|~1 mSv|~100 mSv
+1227772285510|Isotopes, chélateurs, collimateurs|Rayons X, ultrasons|Gadolinium, iode
+1237506081717|Rutherford|Becquerel|Bohr
+1241123978336|SPECT-PET, CT-MR, US-PET|PET-US, CT-US, SPECT-MR|Gamma-caméra, scintillateur, PM
+1253058782851|Becquerel|Curie|Rutherford
+1261862291497|Électrons|Noyaux d'hélium|Positrons
+1284998832535|~2 mSv|~0,0002 mSv|~7 mSv
+1293424823095|Collimateur|Cristal scintillant|Vecteur
+1296475713082|Période physique|Période effective|Constante de désintégration
+1317743930983|Période physique|Période biologique|Période radioactive
+1354664873934|Millimolaire|Molaire|Micro- à millimolaire
+1361284713193|α seuls|β+ seuls|γ seuls
+1365349224328|6 heures|110 min|60 jours
+1368628396774|T½ = k / ln2|T½ = ln2 × k|T½ = 1 / k²
+1371954203778|Évacuation immédiate|Prise de KI après exposition|Douche de décontamination
+1374207446237|Proton → neutron|Électron → photon|Neutron → électron + positron
+1384496131897|Collimateur|Chélateur seul|Produit de contraste
+1384653749138|Indirect|En 2 étapes|Nul
+1392850480613|Bombardement de protons ; générateur|Fusion ; capture de protons|Désintégration α ; β+
+1428592011509|99mTc|11C|68Ga
+1445798688665|1 étape|3 étapes|Aucun dépôt
+1450170965182|Vecteur|Chélateur|Traceur froid
+1454376671925|99Tc|98Mo|68Ge
+1456110899872|Radiothérapie externe|Radiologie interventionnelle|Curiethérapie
+1456895178917|Rupture directe de l'ADN|Chaleur|Champ magnétique
+1457317298584|Irradiation insuffisante|Dose trop faible au patient|Contraste trop élevé
+1470460685997|14C|131I|3H
+1473084478470|Justification, optimisation, limitation|Dilution, ventilation, élimination|Vitesse, quantité, énergie
+1501868865080|2,67 jours|8 jours|73 h
+1527724821721|140 keV|511 keV|159 keV
+1534554702133|Neutrons|Nucléons (A)|Électrons libres
+1623962493060|110 min|10 min|2 min
+1655456058364|Bêta moins (β-)|Bêta plus (β+)|Gamma (γ)
+1672252351922|α et β-|α seuls|β- seuls
+1693795310761|~0,7 mSv|~70 mSv|~20 mSv
+1710577069040|Marqueur|Chélateur|Radiotraceur
+1716694881045|Henri Becquerel|Ernest Rutherford|Wilhelm Röntgen
+1722187205559|Années 1940|Années 1990|Années 2010
+1726788831967|99Mo, 131I, 177Lu|99mTc, 68Ga|40K, 14C, 3H
+1736559023428|Accélérer l'élimination urinaire|Bloquer la synthèse de T4 définitivement|Protéger la moelle osseuse
+1767953204302|Biliaire|Pulmonaire|Cutanée
+1773246163377|Réacteur nucléaire|Générateur Mo/Tc|Gamma-caméra
+1795045883833|Période biologique|Période effective|Constante de désintégration
+1795045883838|Leucocytes marqués|Perfusion myocardique|Thérapie des métastases
+1795045883841|Source scellée|Source de rayons X|Source collimatée
+1795045883870|A = A0·e^(+kt)|A = A0 − kt|A = A0 / kt
+1795045883875|Becquerel|Röntgen|Marie Curie
+1795045883896|β+ et γ|γ seuls|β+ seuls
+1795045883901|24 h après l'exposition|1 semaine avant|Uniquement après la contamination
+1795045883907|11C, 13N, 15O|99mTc, 68Ga|18F, 11C, 68Ga
+1795045883914|6 h|8 jours|110 min
+1795045883926|20 min|6 h|10 min
+1795045883935|110 min|20 min|2 min
+1795045883938|18F, 11C|131I, 177Lu|201Tl, 111In
+1795045883952|Neutron → proton|Électron → neutron|Photon → électron
+1795045883955|~0,4 mSv|~40 mSv|~12 mSv
+1795045883960|1 mSv|100 mSv|50 mSv
+1795045883965|1 à 10 keV|1 à 10 MeV|511 à 1 000 keV
+1795045883970|Dose de rayons X externe|Poids du patient seul|Voie d'administration uniquement
+1031356332021|Collimation, filtration|Injection, élimination|Calibration, décontamination
+1052793079751|Anneau complet unique|Tête unique fixe|Quadruple tête rotative
+1068015546176|Dynamique|Tomographique|Synchronisé (gated)
+1104896616748|Coïncidence fortuite|Coïncidence diffusée|Événement unique
+1173787817344|Effet Compton|Temps mort|Coïncidence fortuite
+1182988541813|Collimation des photons|Conversion γ en lumière|Amplification de la lumière
+1210496953981|Gamma-caméra d'Anger|Scanner rectilinéaire|Détecteur CZT
+1211646940021|Fenêtre spectrométrique|Correction d'atténuation|Reconstruction itérative
+1223605299365|Forte densité|Grand diamètre|Faible numéro atomique
+1248505408462|BGO|LSO|CZT
+1265680054323|Coïncidence vraie|Coïncidence fortuite|Événement unique
+1306256512876|Projection|Matrice de reconstruction|Histogramme d'énergie
+1311746005429|~5 mm|~0,1 mm|~10 mm
+1319751203331|Augmenter la sensibilité|Réduire le temps mort|Corriger le mouvement
+1368903327814|Une coupe|Un pixel|Un détecteur
+1406915861868|Convertir les photons en lumière|Amplifier le signal|Calculer l'énergie
+1420026886485|Aluminium, cuivre|Iodure de sodium|Plastique, verre
+1432608374575|Tête plane rotative|Double tête à 90°|Bras en C
+1470909520118|~20 cm|~2 m|~40 cm
+1511097300927|Caméra de Geiger|Scanner de Cassen|Caméra de Compton
+1511284055887|Coïncidence vraie|Coïncidence fortuite|Effet d'empilement
+1530994353887|Émission γ directe du noyau|Désintégration α|Conversion interne
+1536264342893|À tubes cathodiques|Au BGO|À film radiographique
+1575667348946|Parallèles (0°)|Perpendiculaires (90°)|Aléatoires
+1592700432476|Coïncidence diffusée|Coïncidence fortuite|Événement unique
+1700384575065|Sélectionner la direction des photons|Amplifier le signal électrique|Calculer la position
+1725195644284|Corps entier, poumons|Cœur, cerveau|Os longs, abdomen
+1729831740459|Immédiatement à son émission|Dans le noyau|Après avoir traversé le patient
+1784014056118|Collimateur|Photocathode|Septa
+1795045883824|Convergent|Divergent|Sténopé
+1795045883843|Peu énergétiques|Diffusés|Dans le pinhole uniquement
+1795045883845|Cristal|Photomultiplicateur|Guide de lumière
+1795045883859|Dynode|Anode|Grille
+1795045883867|PM → cristal → guide → électronique|Guide → cristal → PM → électronique|Cristal → PM → guide → électronique
+1795045883872|Statique|Dynamique|Corps entier planaire
+1795045883879|Lumière → photons γ|Sélection de l'énergie|Collimation
+1795045883911|Parallèle|Divergent|Fan-beam
+1795045883966|Dose nulle|Rapidité d'examen|Coût réduit
+1103624557642|TNM|Bethesda|EU-TIRADS
+1110105167495|≤ 0,1 mUI/L|≥ 4 mUI/L|≥ 300 mUI/L
+1126056673990|89Sr|177Lu|90Y
+1142264488401|Arthrose, goutte, ostéoporose|Fracture, entorse|Infection articulaire
+1143243666963|177Lu-PSMA|68Ga-PSMA|223Ra
+1150643057207|NETTER-2|VISION|ALSYMPCA
+1161481748771|Dosimétrie|Théranostique|Segmentation manuelle
+1171063495973|Gélatine ou alginate|Albumine ou lipides|Plomb ou tungstène
+1189322096095|50 %|0 %|35 %
+1212726102231|177Lu-PSMA|131I-MIBG seul|223Ra
+1226477818123|TACE, RFA|SBRT, PRRT|PSMA, FAPI
+1277308902716|223Ra, 225Ac|99mTc, 18F|131I, 177Lu
+1282301714919|Scintigraphie osseuse|PET-FDG|Scintigraphie pulmonaire de ventilation
+1304129355840|131I à forte dose obligatoire|Thyroïdectomie itérative|Radiothérapie externe
+1305517890628|PSMA|FDG|DOTATATE
+1336897598994|Distance, temps, blindage|Dilution, rinçage, filtration|Information, consentement, suivi
+1337055965262|177Lu-DOTATATE|223Ra seul en 1re ligne|90Y-microsphères
+1349458718837|131I à dose maximale répétée|Chirurgie seule|Surveillance
+1359685464277|Arthrose|Fractures|Tumeurs osseuses
+1379339581099|Deux cibles différentes|Imagerie seule|Thérapie seule
+1389748224398|Phosphore|Fer|Iode
+1416155509917|< 10 %|~50 %|~25 %
+1461252897531|0,5 %/min/m²|10 %/min/m²|26,9 %/min/m²
+1466654715576|177Lu|131I|223Ra
+1478432651089|First, do no harm|Treat first, see later|The dose makes the poison
+1486482740968|0,1 mm|25 mm|12 mm
+1507768912426|177Lu-DOTATATE|131I-MIBG|223Ra
+1522850592701|Diagnostic, freinage, imagerie|Rendre la TSH basse|Remplacer la chirurgie
+1531519595323|L-T4, ATS|Corticoïdes, iode stable|Lithium, cabergoline
+1532901547484|Scintigraphie osseuse|IRM seule|Scintigraphie pulmonaire
+1551547466197|0,2 keV/µm|1 000-5 000 keV/µm|1-10 keV/µm
+1554782341201|99mTc (β), 18F (α)|68Ga (α), 131I (γ)|123I (α), 201Tl (β)
+1567569214185|50 à 100 µm|1 à 10 cm|1 mm exactement
+1570333984254|11,3 vs 14,9 mois|24 vs 18 mois|Pas de différence
+1583587003676|20 Gy|1 000 Gy|50 Gy
+1584100479148|MeV déposés par cm|Nombre d'impacts par cellule|Dose par kg
+1586772034705|TLE faible (γ)|Rayons X|β-
+1629658446249|Absence d'indication|Inefficacité|Coût trop faible
+1638377297677|6,5 %|50 %|100 %
+1644215197929|RET|RAS|TERT
+1662619834037|1 cycle unique|6 cycles hebdomadaires|2 cycles par an
+1666207647086|Fonction rénale|Fraction d'éjection|Volume pulmonaire
+1730070705620|VISION|NETTER-1|ADOPT
+1730560462033|9,8 vs 15,6 mois|Pas de différence|30 vs 10 mois
+1742772119094|1896|1964|1986
+1750517450575|> 1000 vs 1-4|100 vs 10|1 vs 1
+1763068956916|Diabète, HTA|Insuffisance rénale légère|Âge > 70 ans
+1763822761322|99mTc-MDP / 223Ra|18F-FDG / 131I|68Ga-DOTATATE / 90Y
+1780773359436|Métastases hépatiques|Cancer thyroïdien|Lymphome
+1795045883820|PET 18F-FDG seul|Scintigraphie osseuse|PET 68Ga-PSMA
+1795045883836|Récepteurs HER2|PSMA|SSTR
+1795045883850|J1|J10|J30
+1795045883858|6,52 h|652 h|8 jours
+1795045883863|NETTER-1|ALSYMPCA|PSMAfore
+1795045883868|Cassure simple brin|Oxydation des lipides|Dénaturation des protéines
+1795045883880|Diminuer la TSH|Éviter l'hypothyroïdie|Réduire la dose d'131I
+1795045883892|Production des isotopes|Injection des traceurs|Blindage
+1795045883894|Hyperthyroïdie|Hypoglycémie|Néphrotoxicité
+1795045883905|20 %|50 %|0,02 %
+1795045883931|225Ac-PSMA|177Lu-DOTATATE|223Ra
+1795045883940|177Lu, 225Ac|131I, 90Y|223Ra, 89Sr
+1795045883951|0-2 %|> 80 %|2-5 %
+1795045883956|50 %|75 %|30 %

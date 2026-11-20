@@ -18,6 +18,8 @@ Ouvre `index.html` dans un navigateur, choisis un pseudo, puis **Entraînement c
 
 Les réglages (matière, chapitres, nombre) sont choisis par l'hôte et envoyés à l'invité au lancement.
 
+**Trouver un adversaire (matchmaking)** : le joueur choisit sa matière, puis arrive sur une liste des joueurs qui cherchent en ce moment (canal Realtime public `mediduel:lobby`, Presence). Il peut défier quelqu'un de la liste ; l'autre a 20 s pour accepter. S'il accepte, il crée un salon avec ses réglages, le défieur le rejoint et le duel démarre tout seul. L'accueil affiche le nombre de joueurs en recherche.
+
 ## Publier sur GitHub Pages
 1. Mets tous les fichiers à la racine d'un dépôt GitHub.
 2. Settings > Pages > Source : branche `main`, dossier `/ (root)`.

@@ -1,0 +1,146 @@
+1760500000817|20ᵉ semaine|4ᵉ semaine|30ᵉ semaine
+1760500000819|Dilatation > 5 mm|Dilatation > 40 mm|Dilatation > 2 mm
+1760500000821|Cystographie rétrograde|Scintigraphie au DMSA seule|IRM fœtale
+1760500000822|≈ 50 %|≈ 1 %|≈ 80 %
+1760500000826|Radiologique annuel systématique|Chirurgical d'emblée|Biologique (créatinine mensuelle)
+1760500000828|Valves de l'urètre postérieur|Sténose de la JPU|Agénésie rénale
+1760500000829|Échographie rénale|Rénogramme MAG3|Scintigraphie au DMSA
+1760500000832|Vessie vide, reins normaux, hydramnios|Reins hyperéchogènes kystiques isolés|Hydronéphrose unilatérale avec vessie normale
+1760500000833|Reflux bénin|Néphrocalcinose|Hypertension isolée
+1760500000834|90-100 %|0 %|50-70 %
+1760500000836|Hydramnios|Hypoxie maternelle|Infection fœtale
+1760500000839|Gros reins, vessie pleine, hydramnios|Vessie distendue, mégauretère|Reins kystiques, hydramnios
+1760500000842|Taille < +2 DS|Taille < -0,5 DS|Asymétrie > 1 cm
+1760500000844|50-60 %|1-2 %|80-90 %
+1760500000845|50-60 %|80-90 %|< 1 %
+1760500000847|TA tous les 5 ans dès 10 ans|TA à la naissance seulement|TA uniquement si symptômes
+1760500000848|Naissance et 18 ans|Chaque année|Jamais
+1760500000852|Taux de cholestérol|Périmètre crânien seul|Pression intraoculaire
+1760500000853|Testostérone|Corticoïdes|Lévothyroxine
+1760500000854|Future prise de sang mensuelle|Éviter les hématomes|Future greffe
+1760500000856|Contre-indication de tous les vaccins|Report après la greffe|Vaccins vivants uniquement
+1760500000858|Après la greffe|Pendant la greffe|Inutile
+1760500000859|Risque de rejet aigu|Choix de l'immunosuppresseur|Calcul du DFG
+1760500000860|Statut VIH uniquement|Risque de tuberculose|Risque d'hépatite A
+1760500000864|Rechute après arrêt des corticoïdes|Apparition d'une HTA|Effets secondaires des corticoïdes
+1760500000865|Endocardite à staphylocoque|Méningite à méningocoque|Pyélonéphrite à E. coli
+1760500000866|Avant 1 an|Avant 3 ans|Avant 1 mois uniquement
+1760500000867|Échographie rénale|Ionogramme sanguin|Cystographie
+1760500000882|Créatinine > 5 mg/dL seule|HTA isolée|Anémie, hyperphosphatémie
+1760500000883|60 mL/min|5 mL/min|45 mL/min
+1760500000884|Les veines des jambes|Le péritoine|La veine jugulaire
+1760500000886|Encéphalopathie hépatique|Érythème|Épilepsie
+1760500000887|Infection|Insuffisance cardiaque|Ischémie
+1760500000888|Oligurie|Obésité|Œdème cérébral
+1760500000889|Urée isolée > 20 mmol/L|Ulcère|Uricémie
+1760500000890|< 7,35|< 6,8|< 7,4
+1760500000891|> 10 mmol/L|> 100 mmol/L|> 15 mmol/L
+1760500000892|Hyperkaliémie à 5,5|Créatinine × 1,2|Acidose pH 7,35
+1760500000896|Dans le même sens|En alternance|Sans circulation
+1760500000897|Imperméable|Totalement perméable aux protéines|Perméable aux cellules
+1760500000899|Membre inférieur|Membre supérieur dominant|Cou
+1760500000900|Cathéter fémoral définitif|Dialyse péritonéale obligatoire|FAV au pied
+1760500000901|Hémorragique|Thrombose artérielle|Allergique
+1760500000902|Fémorale|Sous-clavière gauche|Céphalique
+1760500000905|AVK|Aspirine|Fondaparinux
+1760500000906|2 L + diurèse résiduelle|Pas de restriction|100 mL/j
+1760500000907|Hypersodé|Libre|Sans potassium mais salé
+1760500000908|0,6 g/kg/j|2,5 g/kg/j|0,3 g/kg/j
+1760500000909|Hypertension|Hyperkaliémie|Hypoglycémie
+1760500000910|Ostéoporose cortisonique|Ostéonécrose de la tête fémorale|Goutte
+1760500000911|Hémorragie digestive|Embolie gazeuse|Hypokaliémie
+1760500000913|Espace sous-phrénique|Plèvre|Rétropéritoine
+1760500000914|≈ 50 %|≈ 80 %|≈ 30 %
+1760500000915|De pression hydrostatique|Osmotique|Électrique
+1760500000916|Gradient de pression hydrostatique|Gradient de concentration en urée|Pompe à ultrafiltration
+1760500000917|Faible|Nulle|Prise de poids
+1760500000920|Cycleur automatique la nuit|Une séance de 4 h, 3×/semaine à l'hôpital|1 échange par semaine
+1760500000921|Manuelle, 3 à 5 échanges/jour|Hémodialyse à domicile|Hémofiltration continue
+1760500000922|Épuration supérieure, pas de restriction hydrique|Absence de risque infectieux|Meilleure survie que la greffe
+1760500000923|Thrombose de la FAV|Allergie au glucose|Hyperkaliémie
+1760500000927|Fistule vésicale, hématurie|Pneumothorax|Thrombose veineuse
+1760500000928|> 10/mm³|> 1 000/mm³|> 5 000/mm³
+1760500000929|Hémodialyse intermittente de 4 h|Dialyse péritonéale|Plasmaphérèse
+1760500000930|Ultrafiltration isolée|Échange plasmatique|Dialyse courte à haut débit
+1760500000931|Diffusion pure|Échange plasmatique|Dialyse péritonéale
+1760500000932|Les globules rouges|L'urée uniquement|Les plaquettes
+1760500000933|Pas d'anticoagulation nécessaire|Meilleure épuration de l'urée|Pas de remplacement de volume
+1760500000936|Sclérose en plaques, Alzheimer|Épilepsie, migraine|Parkinson, SLA
+1760500000937|Anémie ferriprive|Thrombocytose essentielle|Hémophilie
+1760500000939|Héparine excessive systématique|Thrombopénie auto-immune|Rupture de la FAV
+1760500000941|Greffe après 1 an de dialyse|Greffe de 2 reins|Greffe avec donneur décédé
+1760500000942|94,4 %|44,4 %|57,5 %
+1760500000943|74,4 %|37,5 %|88,6 %
+1760500000944|98,6 %|58,6 %|74,4 %
+1760500000946|Âge > 50 ans, diabète|HTA, obésité modérée|Hépatite B traitée
+1760500000949|CI absolue|Greffe uniquement du foie|Greffe sans traitement
+1760500000950|Mineur avec accord parental|Sous tutelle|Sans condition
+1760500000951|> 6 mois|> 10 ans|Aucune durée
+1760500000952|Le néphrologue seul|Le notaire|Le médecin traitant
+1760500000953|Âge, sexe, poids, groupe sanguin|Revenus, profession, assurance|Rein, foie, cœur, poumon
+1760500000954|Coma, état végétatif|Arrêt respiratoire, sédation|Coma profond, AVC
+1760500000955|Singe|Mouton|Chien
+1760500000957|Donneur décédé uniquement|Tout donneur|Aucun, c'est impossible
+1760500000958|Ciclosporine, corticoïdes|Hémodialyse, transfusion|Thymoglobuline, IVIg seules
+1760500000961|Tous les 2 ans|Une seule fois|Chaque semaine
+1760500000962|Tabac, alcool, obésité|Diabète, HTA, âge|Vaccination, infection, chirurgie
+1760500000965|Lymphocytes B|Polynucléaires|Complément
+1760500000966|Glomérules (glomérulite)|Artères (endartérite C4d)|Uretère
+1760500000967|Lymphocytes T|Macrophages|Cellules NK seules
+1760500000968|Tubulite, interstitium|Fibrose en bandes|Dépôts d'IgA
+1760500000971|Donneur vivant, ischémie courte|Compatibilité HLA parfaite|Âge jeune du receveur
+1760500000972|1 à 2 %|40 à 50 %|25 à 30 %
+1760500000977|Basiliximab seul|Aucune induction|Rituximab
+1760500000979|mTOR|IMPDH|CD28
+1760500000980|Calcineurine|mTOR|IL-2R (CD25)
+1760500000981|Tacrolimus, ciclosporine|Mycophénolate, azathioprine|Bélatacept, basiliximab
+1760500000983|Pamplemousse, macrolides|Antirétroviraux, azolés|Diltiazem, vérapamil
+1760500000985|Millepertuis, rifampicine|Carbamazépine, phénytoïne|Phénobarbital
+1760500000987|Hypoglycémie, hypocholestérolémie|Perte de poids, hypothyroïdie|Hyperkaliémie seule
+1760500000988|Cancer du pancréas|Cancer de la thyroïde|Cancer du sein
+1760500000989|Hyperhydratation, excès d'IEC|Thrombose de la FAV|Hypothyroïdie
+1760500000990|Pic de tacrolimus à 2 h|Albuminémie|Ciclosporine urinaire
+1760500000991|Femme enceinte saine|Enfant immunocompétent|Sportif
+1760500000995|≈ 5 %|≈ 90 %|≈ 25 %
+1760500000996|Infection > cancer > CV|Cancer > CV > infection|Rejet > CV > cancer
+1760500000997|Rejet humoral, rejet cellulaire|Anti-HLA, DSA|Lymphocytes T, B
+1760500000998|Toxicité des anticalcineurines|Infection à BK virus|Récidive de la maladie initiale
+1760500001002|APOE|HLA-DR3|PKD1
+1760500001003|NPHS1, NPHS2, WT1, PAX2, HNF1B, MUC1|VHL, TSC1, TSC2, FH, MET, BAP1|GLA, CTNS, SLC12A3, CLCNKB, AQP2, AVPR2
+1760500001007|≈ 50 %|≈ 0,1 %|≈ 25 %
+1760500001010|Polycystine 1|Fibrocystine|Néphrocystine
+1760500001016|Plus de 1|Plus de 10|Plus de 20
+1760500001028|Sclérose tubéreuse de Bourneville|Neurofibromatose de type 1|Syndrome d'Alport
+1760500001032|5-10 ans|50-60 ans|> 70 ans
+1760500001033|COL4A3|COL4A4|COL1A1
+1760500001042|1re cause|5ᵉ cause|Cause exceptionnelle
+1760500001045|Autosomique dominant|Autosomique récessif|Mitochondrial
+1760500001047|PKD1, PKD2|COL4A3, COL4A4, COL4A5|NPHS1, NPHS2
+1760500001048|10-20 ans|> 80 ans|Avant 5 ans
+1760500002000|< 5 %|> 90 %|10-15 %
+1760500002003|Remplace le suivi clinique|Évite toute surveillance|Calcul du DFG
+1760500002008|Polycystine 2|Fibrocystine|Uromoduline
+1760500002011|≈ 5 %|≈ 95 %|≈ 15 %
+1760500002012|Mutation faux-sens|Mutation PKD2|Mutation silencieuse
+1760500002014|Plus de 10|Plus de 1|Plus de 20
+1760500002019|Petits reins, polyurie|Syndrome néphrotique|IRA anurique
+1760500002020|< 5 %|> 95 %|10-20 %
+1760500002021|Surdité, lenticône|Angiokératomes, cornée verticillée|Hémangioblastomes
+1760500002023|Tous les patients dès le diagnostic|Patients dialysés|Enfants uniquement
+1760500002025|Diurétiques thiazidiques|Corticoïdes|Restriction hydrique
+1760500002026|ADPKD|Alport|Cystinose
+1760500002028|Autosomique dominant|Lié à l'X|Mitochondrial
+1760500002033|Toujours asymptomatique|Toujours IRT à 25 ans|Toujours plus sévère que l'homme
+1760500002034|COL4A5|PKD1 ou PKD2|UMOD ou MUC1
+1760500002035|Plus sévère|Toujours mortelle|Identique
+1760500002037|Macroscopique isolée intermittente|Absente|Uniquement après l'effort
+1760500002038|Cataracte, glaucome|Cornée verticillée|Uvéite, kératite
+1760500002043|Tolvaptan|Cystéamine|Corticoïdes
+1760500002045|Surdité, lenticône, hématurie|Polyurie, hypokaliémie|Hémangioblastomes, phéochromocytome
+1760500002048|Anse de Henlé|Tube contourné distal|Tube collecteur
+1760500002049|Maladie de Fabry|Néphronophtise|Gitelman
+1760500002052|Tube contourné proximal|Anse de Henlé|Tube collecteur
+1760500002053|SLC12A3 ou CLCNKB|CTNS ou GLA|PKD1 ou PKD2
+1760500002054|Mutation inactivatrice du V2R|Mutation d'AQP2|Excès d'ADH tumoral
+1760500002058|≈ 80 %|≈ 1 %|≈ 50 %
+1760500002059|≈ 5 %|≈ 90 %|≈ 15 %

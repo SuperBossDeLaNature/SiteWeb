@@ -1,0 +1,139 @@
+1795098084833|Meilleure analyse de la substance blanche|Absence d'irradiation|Spectroscopie
+1795098084834|Fracture du crâne|Hématome extradural|Hydrocéphalie
+1795098084835|Mesure de la perfusion|Recherche d'hémorragie|Diagnostic d'AVC aigu
+1795098084836|Haut grade → CBV diminué|Aucun lien|Bas grade → CBV augmenté
+1795098084837|Anesthésie générale|Injection de gadolinium|Patient endormi
+1795098084838|Ponction jugulaire ; ambulatoire|Ponction carotidienne directe ; 1 semaine|Ponction lombaire ; ambulatoire
+1795098084839|Artérielle : thrombose ; veineuse : anévrysme|Les deux : anévrysme|Artérielle : stagnation
+1795098084842|Agrandissement des sutures|Hydrocéphalie|Microcéphalie sans fusion
+1795098084843|Hernie du cervelet au-dessus de la tente|Atrophie du vermis|Kyste de la fosse postérieure
+1795098084844|Agénésie du corps calleux|Hydrocéphalie|Kyste arachnoïdien
+1795098084845|Absence de cervelet|Fusion des sutures|Absence de circonvolutions
+1795098084846|Excès de circonvolutions|Cerveau hémisphère unique|Atrophie
+1795098084847|Tumeur maligne|Hémorragie|Malformation vasculaire
+1795098084848|Descente des amygdales|Signe de la molaire|Fusion des hémisphères
+1795098084849|Signe du delta vide|Signe de la cible|Signe du hot cross bun
+1795098084850|NF1 : schwannomes ; NF2 : neurofibromes|Identiques|NF1 : méningiomes ; NF2 : gliomes
+1795098084851|Angiome facial, calcifications gyriformes|Hémangioblastomes|Schwannomes vestibulaires
+1795098084852|Méningiomes|Gliomes optiques|Tubers corticaux
+1795098084853|Pour voir l'angiome cutané|Pour la perfusion|Le CT est inutile
+1795098084855|IRM|RX du crâne|Échographie transcrânienne
+1795098084856|Toujours avec gadolinium|Uniquement IRM|Toujours triple phase
+1795098084859|RX cervicale|Échographie|Scintigraphie
+1795098084862|Extradural : dure-mère–arachnoïde ; sous-dural : os–dure-mère|Les deux entre os et dure-mère|Extradural : dans le parenchyme
+1795098084863|Entre os et dure-mère|Entre dure-mère et arachnoïde|Dans le ventricule
+1795098084864|Fracture du crâne, plaie|Contusion initiale|Hématome extradural immédiat
+1795098084865|Dilatation des ventricules et des sillons|Hyperdensité diffuse|Atrophie
+1795098084866|Transtentoriel ascendant|Engagement central inférieur|Aucun
+1795098084867|Hémorragie sous-arachnoïdienne|Calcification de la carotide|Atrophie du nerf optique
+1795098084868|Oui, toujours|Oui, en urgence|Oui, si paraplégie
+1795098084869|Infection|Risque hémorragique|Douleur insupportable
+1795098084872|Hyperdensité corticale diffuse|Dilatation ventriculaire|Calcifications
+1795098084874|Calcification normale|Hémorragie|Artefact
+1795098084877|Non, jamais|Oui, et thrombectomie aussi|Uniquement en IRM
+1795098084879|Tissu nécrosé définitif|Zone hémorragique|Tissu sain sans risque
+1795098084880|Taille du patient|Taux de cholestérol|Fonction rénale
+1795098084881|IRM d'emblée puis CT|Angiographie d'emblée|Échographie puis CT
+1795098084882|T1, T2, FLAIR, DWI|ADC, FA, MD|UH, SUV, IR
+1795098084883|CBV ≈ 50 ml/100 g ; CBF ≈ 5|CBV ≈ 0,5 ; CBF ≈ 5|CBV ≈ 100 ; CBF ≈ 500
+1795098084885|MTT et TTP|TTP seul|CBV seul
+1795098084888|> 5 %|> 90 %|> 10 %
+1795098084889|Uniquement le polygone de Willis|De la crosse aux pieds|Uniquement les carotides cervicales
+1795098084891|Hyposignal DWI / hypersignal ADC|Hypersignal les deux|Hyposignal les deux
+1795098084892|IRM trop irradiante|IRM trop peu sensible|Gadolinium obligatoire
+1795098084894|Augmentent l'infarctus|Aucun rôle|Empêchent la thrombectomie
+1795098084897|Tumeur (44 %), traumatisme (20 %)|HTA (80 %)|Angiopathie amyloïde (90 %)
+1795098084898|Sinus hypodense|Sinus non visible|Sinus calcifié
+1795098084899|Signe de la corde|Signe de l'ACM hyperdense|Signe de la cible
+1795098084902|Anévrysmale : corticale focale ; traumatique : citernes|Identiques|Anévrysmale : intraventriculaire seule
+1795098084904|Hunt et Hess|WFNS|Glasgow
+1795098084905|1 : hémorragie massive ; 4 : aucune|1 : intraventriculaire ; 4 : sous-durale|1 : épaisse ; 4 : fine
+1795098084906|Rassurer|IRM de diffusion|Ponction lombaire répétée
+1795098084907|Anticoagulation|Thrombolyse|Radiothérapie
+1795098084909|Carotide externe, ophtalmique|Artère cérébrale postérieure distale|Artère méningée moyenne
+1795098084910|Toujours anévrysmale|Mauvais pronostic|Liée à une MAV
+1795098084911|Toujours HSA de la base|Hématome extradural|Infarctus
+1795098084912|Angiographie cérébrale répétée|CT abdominal|Rien
+1795098084913|IRM de diffusion|CT sans contraste|Échographie
+1795098084915|Variante maligne à opérer|Fistule durale|Cavernome
+1795098084916|Âge > 70 ans|Fièvre|Diabète
+1795098084918|Intra : méninges ; extra : parenchyme|Identiques|Intra : os ; extra : peau
+1795098084919|Choline ↓, NAA ↑|Lactate ↓|Tout normal
+1795098084920|Diffusion restreinte homogène sans nécrose|Calcifications|Lésion non rehaussée
+1795098084922|Lymphome : néovaisseaux ; glioblastome : diffusion restreinte|Identiques|Lymphome : nécrotique
+1795098084923|Même traitement|Lymphome : exérèse ; glioblastome : chimio|Glioblastome : biopsie seule
+1795098084924|Abcès : centre en hyposignal ; tumeur : hypersignal|Identiques|Pas de différence en diffusion
+1795098084926|Radiographie annuelle|Scintigraphie osseuse|Échographie
+1795098084927|Astrocytome, épendymome|Hémangioblastome|Gliome
+1795098084928|Méningiome, schwannome|Métastase épidurale|Neurofibrome
+1795098084930|CT sans contraste|Angiographie|PET-FDG
+1795098084931|Prise de contraste méningée de la base|Atteinte occipitale|Calcifications
+1795098084932|Lésions en anneau temporales|Hypersignal temporal FLAIR|Atrophie cérébelleuse
+1795098084933|Tuberculomes de la base|Calcifications gyriformes|Œdème diffus
+1795098084934|Chirurgie systématique|Radiothérapie|Abstention totale
+1795098084935|Spondylodiscite à staphylocoque|Tassement ostéoporotique|Métastase
+1795098084938|Atrophie frontale isolée|Hydrocéphalie|Atrophie cérébelleuse
+1795098084940|Écrire uniquement « bilan »|Ne pas mentionner les CI|Demander tous les examens
+1795098084941|Pneumothorax|Calcification valvulaire mitrale isolée|Épanchement pleural
+1795098084943|Irradiant|Nécessite de l'iode|Très coûteux
+1795098084944|Coronaires, artères cérébrales intracrâniennes|Aorte thoracique|Artère pulmonaire
+1795098084945|Veines coronaires|Sinus veineux cérébraux|Veines pulmonaires
+1795098084946|Non irradiant, sans contraste|Voit le flux en temps réel|Dynamique comme l'écho
+1795098084948|≈ 1 ml/s|≈ 10 ml/s|≈ 0,5 ml/s
+1795098084951|Plus de dose|Artefacts métalliques|Images trop bruitées pour les vaisseaux
+1795098084953|Rapide, accessible, voit les calcifications|Plus précise que le CT pour les stents|Irradiation faible
+1795098084955|Embolie pulmonaire|Dissection aortique|Anévrysme
+1795098084958|≈ 45 mm|≈ 15 mm|≈ 35 mm
+1795098084959|Infection seule|Traumatisme seul|HTA seule
+1795098084960|Femme, < 40 ans|Diabète|Obésité
+1795098084961|5 %|95 %|30 %
+1795098084962|5 %|90 %|60 %
+1795098084963|60 %|1 %|30 %
+1795098084966|> 1 mm/an|> 10 mm/an|> 2 mm/an
+1795098084968|Appendicite|Pancréatite|Cholécystite
+1795098084970|Sous-estimation par l'obésité|Impossibilité de voir l'aorte|Artefact métallique
+1795098084971|Échographie seule|ASP|Doppler seul
+1795098084972|Calcifications pariétales|Thrombus mural|Aorte de diamètre normal
+1795098084973|Chirurgie : suivi annuel ; endoprothèse : aucun|Aucun suivi|Les deux : suivi mensuel
+1795098084976|Phase portale seule|Phase artérielle seule|Échographie seule
+1795098084977|Réduire la dose|Mesurer l'aorte|Voir l'endoprothèse seule
+1795098084978|Anévrysme, coarctation, thrombose|Dissection, embolie, infarctus|Rupture, fistule, sténose
+1795098084979|Dilatation fusiforme de toutes les tuniques|Thrombose de l'aorte|Calcification
+1795098084980|Hypotension, diabète|Tabac, hypercholestérolémie|Âge jeune, sexe féminin
+1795098084983|Voit parfaitement les branches|Irradiant|Remplace le CT
+1795098084984|Toujours en 1re intention en urgence|Jamais|Si patient instable
+1795098084985|Vraie toujours plus grande|Fausse lumière jamais thrombosée|Identiques
+1795098084987|Confusion avec un anévrysme|Artefact de mouvement|Aucun piège
+1795098084988|Dissection classique|Calcification|Thrombose
+1795098084991|Flux triphasique normal|Flux lent continu|Absence de signal
+1795098084992|Flux triphasique conservé|Accélération|Aliasing
+1795098084993|Irradiant|Nécessite de l'iode|Impossible chez le diabétique
+1795098084994|Durcissement par le calcium|Artefact métallique|Bruit quantique
+1795098084997|Échographie|Artériographie seule|ASP
+1795098084998|Pain, pressure, pulse, palpitation, polyuria|Pallor, pyrexia, pus, pain, puffiness|Pulse, perfusion, plaque, pressure, PO2
+1795098084999|HTA, diabète|Varices|Tabac seul
+1795098085000|Angio-CT au repos uniquement|Échographie seule|Radiographie
+1795098085001|Injecter des deux côtés|Injecter du côté atteint|Pas d'injection
+1795098085004|Thrombus court|Thrombus à distance de la jonction|Toujours
+1795098085005|Écho-Doppler|Phlébographie|Pléthysmographie
+1795098085006|Aucun piège|Artefact métallique|Calcification
+1795098085007|Œdème des membres inférieurs|Ascite|Ictère
+1795098085009|Calcifications|Thrombose|Dilatation simple
+1795098085010|Dépistage de tous les patients|Patient à haut risque avec SCA|Douleur thoracique aiguë STEMI
+1795098085012|Âge > 50 ans|Obésité|Diabète
+1795098085014|Atropine|Adrénaline|Aucun
+1795098085015|CT avec contraste|IRM|Coronarographie
+1795098085016|Mesure de la sténose|Remplace la coronarographie|Aucune valeur
+1795098085018|La VPN augmente|Aucune relation|La sensibilité diminue
+1795098085019|Rétroaortique|Prépulmonaire|Septal
+1795098085020|Interartériel|Intramyocardique profond|Interartériel avec ostium en fente
+1795098085021|Sténose athéromateuse|Fistule|Anévrysme
+1795098085022|Coronaire intramyocardique|Calcification|Dissection coronaire
+1795098085023|Score calcique|Coronarographie|Recherche d'embolie
+1795098085026|Bon pronostic|Aucune signification|Revascularisation très bénéfique
+1795098085027|Coronarographie|Score calcique|Embolie pulmonaire
+1795098085028|Recherche de sténose coronaire|Score calcique|Évaluation pulmonaire
+1795098085029|Échographie seule|Coronarographie seule|IRM seule
+1795098085030|Fraction d'éjection|Score calcique|Valves mitrales
+1795098085031|Anneau trop grand|Valve calcifiée|Accès ilio-fémoral large
+1795098085032|Haute énergie, beaucoup de contraste|Sans contraste|Avec gadolinium

@@ -1,0 +1,118 @@
+1731945200227|~0,5 %|~25 %|~50 %
+1731945200228|5–10 %|70–80 %|1–2 %
+1731945200229|30–40 %|< 1 %|50 %
+1731945200232|~10 %|~0,01 %|~5 %
+1731945200234|Plus de carence iodée en Flandre|Plus d'irradiation en Wallonie|Facteur génétique wallon
+1731945200237|> 5 % du volume|> 100 % du volume|> 50 % du diamètre
+1731945200238|> 1 cm|> 8 cm|> 0,5 cm
+1731945200239|20–40 ans|40–60 ans|Femme ménopausée
+1731945200241|Goitre multinodulaire, Hashimoto|Basedow, Hashimoto|Carence iodée familiale
+1731945200242|Nodule mou, mobile, indolore|Nodule chaud, hyperthyroïdie|Goitre diffus homogène
+1731945200243|Calcitonine|Thyroglobuline|Anti-TPO
+1731945200244|Cytoponction immédiate|Calcitonine|IRM cervicale
+1731945200246|~50 %|~0,5 %|~25 %
+1731945200248|Tous les nodules, systématiquement|Nodule chaud|Goitre multinodulaire euthyroïdien
+1731945200250|Thyroglobuline (+ anti-Tg)|TSH (+ T4)|Chromogranine (+ 5-HIAA)
+1731945200251|Endoderme pharyngé|Mésoderme|Ectoderme de surface
+1731945200253|Scintigraphie|Scanner cervical|IRM cervicale
+1731945200254|Irradiante|Coût élevé|Ne voit pas les nodules < 2 cm
+1731945200255|ACR-TIRADS|Bethesda|BI-RADS
+1731945200256|Nodule bénin|Nodule à faible risque|Nodule à haut risque
+1731945200257|Ovale, régulier, isoéchogène, macrocalcifications|Kystique pur, anéchogène|Spongiforme, hyperéchogène
+1731945200259|> 0,2 mm/an|> 10 mm/an|> 2 cm/an
+1731945200260|> 20 mm|> 15 mm|> 5 mm
+1731945200261|> 10 mm|> 20 mm|> 30 mm
+1731945200262|> 10 mm|> 15 mm|> 40 mm
+1731945200264|Écho annuelle à vie|Cytoponction systématique|Écho tous les 6 mois
+1731945200265|À 6 mois|Chaque année|Arrêt de la surveillance
+1731945200266|Écho à 5 ans|Cytoponction d'emblée|Arrêt de la surveillance
+1731945200267|Écho à 3–5 ans|Chirurgie d'emblée|Arrêt de la surveillance
+1731945200268|Toujours, systématiquement|Jamais|Seulement si TSH basse
+1731945200270|EU-TIRADS|TNM|Gleason
+1731945200271|I et II|III et IV|II et III
+1731945200272|I et II|V et VI|II et V
+1731945200273|1–2 %|50–60 %|5 %
+1731945200274|< 1 %|60–75 %|97–99 %
+1731945200275|Scintigraphie au MIBI systématique|Calcitonine|Répéter la ponction 10 fois
+1731945200279|Iode 131|Thyroïdectomie totale|Injection de corticoïdes
+1731945200280|Thermoablation|Lobectomie systématique|ATS au long cours
+1731945200282|Lobectomie seule|Iode 131 seul|Surveillance échographique
+1731945200283|Thyroïdectomie totale + curage bilatéral|Iode 131|Surveillance
+1731945200284|Scanner thoraco-abdominal|PET-FDG|Scintigraphie au Tc99m
+1731945200285|Folliculaire (80 %)|Médullaire (50 %)|Anaplasique (20 %)
+1731945200287|~20 %|~50 %|~80 %
+1731945200288|~20 %|~50 %|~80 %
+1731945200289|< 30 ans, Basedow|Enfant irradié|Femme enceinte
+1731945200290|Hématogène (os, poumon)|Péritonéale|Par contiguïté uniquement
+1731945200291|Lymphatique (ganglions)|Péritonéale|Méningée
+1731945200293|< 10 %|40–50 %|~20 %
+1731945200294|60–80 ans|< 10 ans|> 80 ans
+1731945200295|60–80 ans|10–20 ans|20–30 ans
+1731945200296|RAS (40–60 %)|RET (40–60 %)|TERT (40–60 %)
+1731945200297|BRAF V600E|RET/PTC|PAX8-PPARγ
+1731945200300|Calcitonine|ACE|TSH
+1731945200301|Thyrocytes folliculaires|Cellules de Hürthle|Lymphocytes
+1731945200303|> 95 %|< 5 %|~15 %
+1731945200304|~1 %|~80 %|100 %
+1731945200305|BRAF|MEN1|TP53
+1731945200306|Aucune, mutation sporadique|Iode 131|Surveillance de la calcitonine seule
+1731945200308|Iode 131|L-T4 freinatrice seule|Radiothérapie exclusive
+1731945200310|Papillaire|Folliculaire|Médullaire
+1731945200312|Transformation d'un lymphome|Cellules C|Métastase d'un cancer pulmonaire
+1731945200313|20–40 ans|< 10 ans|40–50 ans
+1731945200315|Curative systématique|Lobectomie seule|Aucune place
+1731945200317|≤ 2 cm|> 4 cm|> 1 cm et ≤ 2 cm
+1731945200318|> 4 cm limité à la thyroïde|≤ 1 cm|Extension aux muscles sous-hyoïdiens seulement
+1731945200320|Iode 131 seul|Radiothérapie externe|Chimiothérapie
+1731945200321|Âge du patient seul|Taux de TSH préopératoire|Taille du goitre
+1731945200322|TSH, T4, anti-TPO|Sexe et poids|Calcitonine et ACE
+1731945200323|Freiner la TSH, traiter l'hyperthyroïdie, diagnostic|Remplacer la chirurgie|Traiter le médullaire
+1731945200324|Éviter l'hyperthyroïdie|Diminuer la TSH|Réduire le risque de goitre
+1731945200325|Iode alimentaire ou ATS|Corticoïdes ou lithium|Dopamine ou somatostatine
+1731945200328|Échographie cervicale|PET-FDG|IRM corps entier
+1731945200330|0,5–2 mU/L|> 4 mU/L|< 2,5 mU/L
+1731945200333|Tg plus fiable|Arrêt du suivi|Iode 131 systématique
+1731945200334|Guérison|Maladie de Hashimoto|Erreur de laboratoire systématique
+1731945200335|Scintigraphie à l'iode 131|Scintigraphie osseuse|Échographie abdominale
+1731945200337|Iode 131 à forte dose|Chimiothérapie par cisplatine|Corticoïdes
+1731945200338|Dédifférenciation accrue|Destruction directe de la tumeur|Hyperthyroïdie
+1731945200339|Scintigraphie corps entier annuelle|PET-FDG annuel|Aucun suivi
+1731945200341|Hile visible, forme ovale|Ganglion < 5 mm hyperéchogène|Ganglion fusiforme avec hile central
+1731945200343|Chirurgie immédiate|Iode 131|Ignorer l'échographie
+1731945200344|Diminuer la L-T4|Ne rien changer|Arrêter la L-T4
+1731945200903|RET|VHL|CDKN1B
+1731945200905|Proto-oncogène|Gène de réparation|Gène de l'apoptose activateur
+1731945200907|Phéochromocytome, paragangliome, poumon|Thyroïde, phéochromocytome, parathyroïdes|Pancréas, peau, poumon
+1731945200908|Prolactinome (~90 %)|Gastrinome (~90 %)|Insulinome (~60 %)
+1731945200909|Hyperparathyroïdie|Adénome hypophysaire|Carcinome médullaire
+1731945200910|Glucagonome, VIPome|Phéochromocytome|Carcinoïde bronchique
+1731945200913|Tardives, uniques, unifocales|Toujours malignes|Identiques aux sporadiques
+1731945200916|MEN1|RET|PRKAR1A
+1731945200917|MEN1|VHL|NF1
+1731945200918|Germinale inactivatrice|Somatique inactivatrice|Délétion homozygote
+1731945200919|11|17|3
+1731945200921|MCT|CMT|MTT
+1731945200922|CMT, névromes muqueux, morphotype marfanoïde|Parathyroïdes, pancréas, hypophyse|Phéochromocytome, rein, hémangioblastomes
+1731945200923|CMT, phéochromocytome, hyperparathyroïdie|Parathyroïdes, pancréas, hypophyse|Phéochromocytome, neurofibromes, taches café au lait
+1731945200927|Après 20 ans|Vers 10 ans|À l'apparition d'un nodule
+1731945200928|Parathyroïdes, hypophyse, pancréas|CMT, phéo, névromes|Myxomes, lentigines
+1731945200929|Lentigines, myxomes|Névromes muqueux|Vitiligo, candidose
+1731945200930|GNAS|MEN1|NF1
+1731945200931|Taches café au lait, dysplasie osseuse|Phéochromocytome, hémangioblastomes|Candidose, hypoparathyroïdie
+1731945200932|PRKAR1A|RET|AIRE
+1731945200933|Lentigines, myxomes, Cushing|Candidose, hypoparathyroïdie, Addison|Phéochromocytome, CMT, hyperparathyroïdie
+1731945200936|Tumeur de plusieurs glandes endocrines|Atteinte génétique d'une seule glande|Infection de plusieurs glandes
+1731945200937|MEN1|FOXP3|HLA-DR3
+1731945200938|Addison, thyroïdite, DT1|Vitiligo, Biermer, cœliaque|Hypoparathyroïdie, DT1, hypogonadisme
+1731945200939|Autosomique dominante|Liée à l'X|Polygénique
+1731945200940|Adulte, après 40 ans|Personne âgée|Uniquement pendant la grossesse
+1731945200941|Candidose + hypoparathyroïdie + Addison|Thyroïdite AI seule|Diabète + vitiligo sans Addison
+1731945200942|Addison + DT1|Thyroïdite AI + DT1|Candidose + Addison
+1731945200943|Addison + thyroïdite AI|Candidose + hypoparathyroïdie|Thyroïdite AI + vitiligo
+1731945200944|Enfant, plutôt garçon|Nouveau-né|Adulte, uniquement homme
+1731945200945|Addison + DT1, sans thyroïdite|Candidose + Addison|Thyroïdite AI isolée
+1731945200946|Psoriasis, spondylarthrite|Polyarthrite, lupus|Sarcoïdose, Crohn
+1731945200949|Polyglobulie|Hyperleucocytose à neutrophiles|Thrombocytose
+1731945200950|Exophtalmie|Myxœdème prétibial|Vitiligo
+1731945200952|Coma hyperosmolaire|Insulinome|Phéochromocytome
+1731945200953|APS1|NEM1|McCune-Albright

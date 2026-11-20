@@ -1,0 +1,177 @@
+1795098085320|Frontaux et sphénoïdaux|Uniquement frontaux|Aucun sinus avant 10 ans
+1795098085321|Aiguë < 1 semaine ; chronique > 4 semaines|Aiguë < 12 sem ; chronique > 1 an|Aiguë < 3 jours ; chronique > 1 mois
+1795098085324|Toute sinusite aiguë dès le diagnostic|Jamais|Uniquement chez l'enfant
+1795098085327|Systématiquement en 1re intention|Pour voir l'os|Jamais
+1795098085328|Hyperpneumatisation, ostéolyse diffuse|Calcifications méningées|Épaississement cutané
+1795098085329|Taille des cornets inférieurs seule|Pneumatisation mastoïdienne|Déviation septale minime
+1795098085330|Anosmie transitoire|Épistaxis bénigne|Sinusite maxillaire
+1795098085331|Maxillaire > sphénoïdal > ethmoïdal > frontal|Sphénoïdal > maxillaire|Ethmoïdal > frontal > maxillaire
+1795098085332|Frontal|Maxillaire|Sphénoïdal
+1795098085333|Allergie, asthme|Âge jeune|Bon état général
+1795098085334|Voie lymphatique, voie digestive|Hématogène systémique|Voie aérienne
+1795098085336|Échographie|Radiographie standard|CBCT
+1795098085338|Glaucome, cataracte|Décollement de rétine|Kératite
+1795098085339|Otite, mastoïdite|AVC ischémique|Tumeur hypophysaire
+1795098085340|Sinus caverneux rétréci, veine ophtalmique fine|Calcification sellaire|Hémorragie sous-arachnoïdienne
+1795098085341|Isodense sans prise de contraste|Calcifié|Graisseux
+1795098085342|Adénocarcinome|Lymphome|Mélanome
+1795098085344|CT / IRM / rien / échographie|IRM pour tous|CT C+ pour tous
+1795098085345|Arthrose|Luxation postérieure du condyle|Ankylose
+1795098085347|Ne voit pas les os|Coûte trop cher|Voit trop bien le disque
+1795098085348|Disque en avant du condyle|Disque absent|Disque en arrière du condyle
+1795098085351|Trop irradiant|Trop long|Indisponible
+1795098085352|Énophtalmie seule|Lésion du nerf optique|Épistaxis
+1795098085353|Fracture du plancher orbitaire|Fracture du toit|Fracture zygomatique
+1795098085356|IRM cérébrale|Échographie|Radiographie du crâne
+1795098085357|« Cornet de glace » : étrier + marteau|« Molaire »|« Trèfle »
+1795098085358|IRM obligatoire|CT obligatoire|Biopsie
+1795098085359|Tumeur maligne osseuse|Infection virale|Polype inflammatoire
+1795098085362|≈ 1 cm|≈ 0,1 mm|≈ 5 cm
+1795098085363|Abstention|IRM de diffusion répétée|Scintigraphie
+1795098085365|Systématiquement|Jamais|Chez l'adulte seulement
+1795098085366|Mastoïdite simple sans abcès|Otite externe|Mastoïdite chronique
+1795098085367|Abcès rétro-auriculaire|Abcès cérébral|Abcès dentaire
+1795098085368|Bezold|Zygomatique|Intracrânien
+1795098085370|Surdité, acouphènes|Paralysie faciale isolée|Vertiges
+1795098085371|Épistaxis, anosmie|Diplopie|Hémiplégie
+1795098085372|IRM en urgence|Échographie|Radiographie
+1795098085373|Signe d'infection|Signe de tumeur|Normal
+1795098085374|Nasale, oculaire|Pulmonaire|Cutanée
+1795098085376|Abcès|Cellulite|Thrombose
+1795098085378|De la base du crâne au larynx|De l'os hyoïde à la clavicule|Du nasopharynx à l'oropharynx
+1795098085379|Abcès cérébral post-sinusite|Angine de Vincent|Mononucléose
+1795098085380|Elle est toujours profonde|Le CT est trop irradiant|L'IRM est contre-indiquée
+1795098085381|Pour la facturation|Par habitude|Toujours métastatique
+1795098085384|Petite lésion superficielle|Patient claustrophobe|Fracture
+1795098085385|Ganglion ovale avec hile graisseux|Taille < 5 mm|Calcification centrale
+1795098085386|Échographie|IRM|CT
+1795098085387|1/100 ; 50 % malins|5 % ; 50 % malins|90 % ; 50 % malins
+1795098085390|Bethesda|BI-RADS|LI-RADS
+1795098085391|Diagnostic de cancer|Dépistage chez tous|Mesure du volume
+1795098085392|Nodule unique < 1 cm|Thyroïdite|Dépistage du cancer
+1795098085393|Cervicale postérieure et occipitale|Axillaire et médiastinale|Sous-mentale et parotidienne
+1795098085394|Enfant moins sensible|Pas de risque|Plus de graisse
+1795098085396|Enfant plus calme|Écho plus irradiante|L'os gêne moins
+1795098085397|Répéter les acquisitions|Grand champ|Protocoles adultes
+1795098085398|Identiques à l'adulte|Expression facile|Pathologies dégénératives
+1795098085399|Face et profil systématiques|Profil seul|Oblique
+1795098085400|Absence de clavicules visibles|Cœur élargi|Diaphragme plat
+1795098085401|Fémorale|Jugulaire|Radiale
+1795098085404|≈ 1 an|≈ 18 ans|≈ 30 ans
+1795098085405|Échographie seule|IRM|Scintigraphie
+1795098085406|Neuroblastome, neurofibrome|Kyste bronchogénique|Hernie hiatale
+1795098085407|Neuroblastome|Thymus|Méningocèle
+1795098085410|IRM d'emblée|Abstention|Bronchoscopie
+1795098085412|Condensation lobaire franche|Épanchement massif|Pneumothorax
+1795098085414|Dépistage de la maladie|Mesure de la sueur|Aucun rôle
+1795098085415|Adolescents sportifs|Nourrissons à terme|Enfants asthmatiques
+1795098085416|Diagnostic étiologique|Mesure de la pression|Aucun rôle
+1795098085419|Garçon, céphalique, premier-né|Prématurité seule|Césarienne
+1795098085420|Fièvre, rougeur|Boiterie à la marche chez le nourrisson|Douleur à la palpation
+1795098085421|À la naissance|À 2 ans|Jamais
+1795098085422|Systématique|Dépistage de masse|Jamais
+1795098085425|Fractures comminutives, spiroïdes adultes|Fractures de fatigue|Fractures pathologiques
+1795098085427|Pour réduire la dose|Le profil suffit|Habitude sans raison
+1795098085428|Tendons plus fragiles|Absence de cartilage|Os trop dense
+1795098085429|IRM d'emblée|CT|Scintigraphie
+1795098085430|IRM|Échographie|Scintigraphie
+1795098085432|Conclure à une boiterie psychogène|IRM cérébrale|Rien
+1795098085433|Synovite transitoire → repos|Legg-Calvé-Perthes|Épiphysiolyse
+1795098085435|IRM cérébrale ; tumeur|Échographie répétée ; synovite|Scintigraphie ; fracture
+1795098085436|CT corps entier|Arrêt des explorations|Radiographies répétées
+1795098085437|Nourrisson ; échographie|Adolescente maigre ; IRM|Enfant de 3 ans ; scintigraphie
+1795098085438|CT + IRM|Scintigraphie|IRM seule
+1795098085439|Trop coûteux|Peu disponibles|Moins précis
+1795098085441|Calcifications hépatiques|Lithiase biliaire|Hydronéphrose
+1795098085442|Niveaux hydroaériques seuls|Calcifications|Anses normales
+1795098085443|Augmente la dose|Masque un calcul|Aucun piège
+1795098085444|Fille à terme|Garçon à terme > 2 ans|Adolescent
+1795098085446|Mucoviscidose|Syndrome de Turner|Trisomie 18
+1795098085448|Chirurgie systématique|Sonde naso-gastrique seule|Antibiotiques
+1795098085450|Ganglions > 3 mm|Ganglions calcifiés|Ganglions > 30 mm
+1795098085451|Reins normaux|Calculs rénaux|Kystes rénaux
+1795098085452|Abdomen seul couché|Thorax seul|Crâne
+1795098085453|Systématiquement|Jamais|Avant l'échographie
+1795098085454|Très fréquente|Toujours compliquée|Impossible
+1795098085456|CT|IRM cérébrale|Scintigraphie osseuse
+1795098085457|Toute infection urinaire|Lithiase simple|Énurésie
+1795098085458|Hypothyroïdie|Mucoviscidose|Diabète
+1795098085459|Ovaire petit atrophique|Kyste simple|Calcification
+1795098085462|IRM sous anesthésie d'emblée|CT|Radiographie
+1795098085463|Fièvre isolée|Coliques|Reflux
+1795098085466|Radiographie seule|Échographie|Scintigraphie
+1795098085468|Supratentorielles|Hypophysaires|Pinéales
+1795098085469|CT|EEG seul|Échographie transfontanellaire
+1795098085470|Unité centrée par la bronche segmentaire|Alvéole unique|Lobule pulmonaire
+1795098085471|Acinus (6–10 mm)|Segment pulmonaire|Lobe pulmonaire
+1795098085472|Artères et bronchioles|Nerfs|Alvéoles
+1795098085474|Pneumonie lobaire|Emphysème|Pneumothorax
+1795098085475|OAP|Pneumocystose|Sarcoïdose
+1795098085478|Bord gauche du cœur|Coupole droite|Bord droit du cœur
+1795098085482|Lobaire, segmentaire, acinaire|Pleural, médiastinal, bronchique|Supérieur, moyen, inférieur
+1795098085485|Hyperclarté, aplatissement diaphragmatique|Nodules multiples|Pneumothorax
+1795098085487|Expiration, coupes 10 mm|Apnée en expiration, fenêtre osseuse|Respiration libre
+1795098085488|Réduire la dose|Voir le cœur|Voir les côtes
+1795098085491|Calcifications|Emphysème|Kystes
+1795098085492|Lisses : fibrose ; irréguliers : œdème|Toutes identiques|Nodulaires : œdème
+1795098085493|Rayon de miel|Nodules calcifiés|Bulles
+1795098085494|Verre dépoli pur réversible|Nodules centrolobulaires|Condensation lobaire
+1795098085496|Lobaire, segmentaire, diffuse|Apicale, basale, centrale|Calcifiée, excavée, solide
+1795098085498|Tuberculose miliaire|Bronchiolite|Métastases hématogènes
+1795098085500|Traitement|Dépistage du diabète|Mesure de la fonction respiratoire
+1795098085502|Nodule bénin|Granulome|Hamartome
+1795098085504|Espace à paroi épaisse > 4 mm|Kyste rempli de liquide|Cavité infectée
+1795098085505|Emphysème centrolobulaire|Kystes isolés réversibles|Bulles apicales
+1795098085507|Bulle définitive|Kyste congénital|Cavité tuberculeuse
+1795098085508|Sarcoïdose, silicose|Emphysème|Asthme
+1795098085509|Sein, côlon|Prostate|Thyroïde
+1795098085511|Nodule calcifié unique|Verre dépoli bilatéral|Épanchement isolé
+1795098085512|Verre dépoli seul|Rayon de miel|Nodules calcifiés
+1795098085513|Mesure absolue fiable en mm|Par la densité|Impossible au CT
+1795098085514|Fibrose interstitielle|Bronchectasies|Atélectasie
+1795098085516|Trachée large (ratio > 1,5)|Trachée calcifiée|Trachée normale
+1795098085518|Bronches qui s'affinent normalement|Bronchiolite|Emphysème
+1795098085519|Emphysème|Bronchectasie active|Asthme
+1795098085520|Pneumothorax|Embolie|Cancer
+1795098085522|Bronche normale|Bronche aérée dilatée|Kyste aérique
+1795098085523|Corps étranger hypodense ; mucus hyperdense|Identiques|Aucun n'est visible
+1795098085524|Antérieur gauche ; tumeur|Carène ; fistule|Bronche souche gauche ; tumeur
+1795098085525|Bronche accessoire gauche|Agénésie bronchique|Bronche cardiaque
+1795098085526|Tumeur|Infection aiguë|Corps étranger
+1795098085527|Nodules calcifiés|Hyperclarté|Épanchement
+1795098085530|Hyperclarté localisée|Nodule|Calcification
+1795098085531|Médiastin refoulé du côté opposé|Coupole abaissée|Hile normal
+1795098085533|Collapsus lobaire inférieur droit|Pneumothorax|Emphysème
+1795098085534|La tumeur se rehausse plus|Identiques|Tumeur invisible au CT
+1795098085535|Toujours tumorales|Toujours infectieuses|Indication de bronchoscopie
+1795098085536|Normale|Toujours un artefact|Toujours le cœur
+1795098085537|Épanchement massif|Pneumonie|Pneumothorax
+1795098085538|Pression intrapleurale très négative|Pression bronchique basse|Absence de plèvre
+1795098085541|Médiastin attiré du même côté|Coupole ascensionnée|Pneumothorax minime
+1795098085543|≈ 5 %|≈ 80 %|Toujours
+1795098085544|Aucun piège|Air postérieur toujours visible|Épanchement associé
+1795098085545|Échographie|RX expiratoire|IRM
+1795098085546|Asthme|Pneumonie|Tuberculose ancienne
+1795098085548|Hématome ancien|Calcification|Artefact
+1795098085551|Opacité apicale|Ligne convexe vers le haut|Hyperclarté
+1795098085552|Médiastin attiré du même côté|Coupole normale|Hémithorax clair
+1795098085553|Niveau hydroaérique|Ligne de Damoiseau nette|Hyperclarté
+1795098085555|Diffus : métastases ; nodulaire : empyème|Identiques|Aucun rehaussement
+1795098085556|CT|Échographie|IRM
+1795098085557|Atélectasie lamellaire|Tumeur|Pneumonie ronde
+1795098085558|Pneumonie simple|OAP|Embolie
+1795098085560|Silicose et sarcoïdose|BPCO et asthme|Pneumothorax et embolie
+1795098085561|Bord : 2 interfaces ; ligne : 1|Identiques|Ligne : opacité
+1795098085562|Normal|Thymome|Hernie
+1795098085564|Biopsie d'emblée|Traitement d'emblée|IRM seule
+1795098085566|Neuroblastome, schwannome|Kyste bronchogénique|Hernie hiatale
+1795098085567|Thymome|Neurofibrome|Goitre
+1795098085569|≥ 10 %|100 %|≥ 90 %
+1795098085570|100 % à tout âge|0 % après 20 ans|50 % chez tous
+1795098085571|Contours concaves|Graisse|Petite taille
+1795098085572|Myasthénie → lymphome ; adénopathies → thymome|Aucune|αFP → thymome
+1795098085574|Abcès pulmonaire|Pneumothorax|Kyste bronchogénique
+1795098085576|≈ 70 % pour 1–2 cm ; 30 % au-delà|≈ 5 %|100 %
+1795098085577|Axillaire seule|Sous-clavière|Médiastinale postérieure
+1795098085578|Pneumonie, asthme|Infarctus|Péricardite
+1795098085579|Dès le 1er jour|Après 3 mois|Jamais

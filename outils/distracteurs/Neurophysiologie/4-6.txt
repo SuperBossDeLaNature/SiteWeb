@@ -1,0 +1,168 @@
+1795010291014|Maladie de Kennedy|Maladie de Steinert|Maladie de Pick
+1795010291015|Maladie de Kugelberg|Maladie de Werdnig|Maladie de Huntington
+1795010291016|Auto-immune du nerf|Inflammatoire du muscle|Infectieuse de la moelle
+1795010291017|Tau|α-synucléine|Huntingtine
+1795010291019|1 %|90 %|60 %
+1795010291020|5 %|100 %|15 %
+1795010291022|MPTP|Domoïne|Tétrodotoxine
+1795010291023|Démyélinisation|Inhibition GABA|Blocage synaptique
+1795010291024|≈ 4 / 1 000|≈ 40 / 100 000|≈ 4 / 10 000 000
+1795010291025|30 ans|80 ans|45 ans
+1795010291026|1 H / 3 F|5 H / 1 F|1 H / 1 F strict
+1795010291027|≈ 6 mois|≈ 15 ans|≈ 8 ans
+1795010291028|Tabac, alcool|Diabète, obésité|Vaccins, infections
+1795010291033|5 %|75 %|50 %
+1795010291034|Proximal, symétrique, MI|Diffus d'emblée|Oculaire
+1795010291035|En saut aléatoire|Ascendante symétrique|Par poussées-rémissions
+1795010291037|PMP22, MPZ|SMN1, NAIP|HTT, FXN
+1795010291038|≤ 74 ans|≤ 20 ans|≤ 30 ans
+1795010291040|Sclérose latérale primitive|Paraplégie spastique|SLA bulbaire
+1795010291041|Fasciculations, amyotrophie|Aréflexie, hypotonie|Crampes, fibrillations
+1795010291043|Contraction soutenue|Mouvement rythmique|Tremblement
+1795010291045|50 %|1 %|30 %
+1795010291047|Diffuse, symétrique, proximale|Bulbaire pure|Axiale
+1795010291048|1 / 80 naissances|1 / 800 000 naissances|1 / 800 naissances
+1795010291051|Werdnig-Hoffmann|Dubowitz|Kennedy
+1795010291052|SMN2|NAIP|SOD1
+1795010291053|Protéine SMN complète uniquement|Aucune protéine|Dystrophine
+1795010291054|Forme plus sévère|Aucun effet|Forme plus précoce
+1795010291056|SMN1|SOD1|TARDBP
+1795010291057|Hypertonie|Opisthotonos|Normal
+1795010291059|Cardiaque|Infectieuse urinaire|Hépatique
+1795010291060|Démarche dandinante|Pseudo-hypertrophie|Myotonie de percussion
+1795010291061|Distale|Bulbaire|Oculaire
+1795010291062|Destruction du gène SMN2|Inhibition de l'apoptose|Greffe de cellules souches
+1795010291063|Lentivirus|Adénovirus 5|Rétrovirus
+1795010291064|Anticorps monoclonal|Petite molécule orale|Enzyme recombinante
+1795010291065|Exclusion de l'exon 7 de SMN2|Correction de SMN1|Inhibition de SMN2
+1795010291066|Intraveineuse|Orale|Sous-cutanée
+1795010291068|Guérison complète|Récupération de la force|Absence de scoliose
+1795010291069|Autosomique dominante|Autosomique récessive|Mitochondriale
+1795010291070|Récepteur aux œstrogènes|SMN1|Dystrophine
+1795010291072|10 à 20|> 200|20 à 30
+1795010291074|Femme jeune|Nourrisson|Enfant de 5 ans
+1795010291076|Ptôsis, diplopie|Surdité, acouphènes|Vertiges
+1795010291077|Des membres inférieurs|Des muscles axiaux|Intercostales
+1795010291078|Cryptorchidie|Puberté précoce|Hypertrophie testiculaire
+1795010291079|1 %|80 %|50 %
+1795010291080|Proportionnelle|Aucune|Exponentielle
+1795010291082|Atteinte des MI|Âge de début|Gynécomastie
+1795010291084|1|5|2
+1795010291085|Myotonie, crampes|PUM petits, brefs|Décrément, incrément
+1795010291086|Polyneuropathie axonale|Myasthénie|Canal carpien
+1795010291087|Potentiels évoqués visuels|EEG|Réponse H
+1795010291091|Fonction respiratoire < 30 %|Âge < 50 ans|Forme bulbaire uniquement
+1795010291092|Pyridostigmine, prostigmine|Corticoïdes|Diurétiques
+1795010291093|Régime hypocalorique|Nutrition parentérale seule|Jeûne
+1795010291096|Mitochondries|Noyau|Lame basale
+1795010291097|2-5 s|1 min|0,1 ms
+1795010291099|Excès d'ATP|Hypercalcémie|Déshydratation
+1795010291100|Myosine|Titine|Desmine
+1795010291101|Actine|Tropomyosine|Troponine
+1795010291102|Nébuline|Desmine|Dystrophine
+1795010291104|Collagène, élastine|Actine, myosine|Troponine, tropomyosine
+1795010291105|Myosites, toxiques|Métaboliques, endocriniennes|Inflammatoires, infectieuses
+1795010291106|Steinert, Duchenne|McArdle, Pompe|Myotonie, paralysie périodique
+1795010291107|Anomalie des canaux|Déficit enzymatique|Inflammation
+1795010291108|Défaut de dystrophine|Déficit enzymatique|Atteinte mitochondriale
+1795010291110|Fauchante|Talonnante|Steppante
+1795010291111|Écrire, attraper|Avaler, parler|Voir, entendre
+1795010291116|Silence électrique|Fibrillations|Décharges myotoniques
+1795010291118|Anomalie des canaux Cl−|Atteinte de la plaque motrice|Hyperkaliémie
+1795010291119|Faiblesse progressive|Contraction douloureuse|Fatigabilité
+1795010291122|Biceps|Quadriceps|Mollet
+1795010291125|Fibrillations|PUM géants|Silence électrique
+1795010291126|Le plus court|10e plus long|Le plus long
+1795010291127|C-terminale|Centrale|Aucune
+1795010291129|≈ 4 ans|≈ 30 ans|≈ 20 ans
+1795010291130|Membres supérieurs|Muscles faciaux|Muscles oculaires
+1795010291131|50 %|> 80 %|20 %
+1795010291132|Autosomique récessive|Liée à l'X|Mitochondriale
+1795010291135|Dystrophie myotonique type 2|Myotonie de Thomsen|Myotonie de Becker
+1795010291136|3q21|7q35|Xp21
+1795010291137|CNBP|CLCN1|SCN4A
+1795010291138|CCTG|CAG|GAA
+1795010291139|> 10|> 400|> 20
+1795010291140|Mosaïcisme, pénétrance|Empreinte, disomie|Délétion, duplication
+1795010291142|Proximale des MI|Scapulaire|Paravertébrale
+1795010291145|Bêtabloquant|Anticoagulation|Statine
+1795010291146|Hypoglycémie|Hypercalcémie|Hyperthyroïdie
+1795010291147|Gynécomastie, pilosité|Cryptorchidie|Puberté précoce
+1795010291150|Autosomique dominante|Liée à l'X|Mitochondriale
+1795010291151|19|17|11
+1795010291153|Atrophie|Pseudo-hypertrophie|Normal
+1795010291154|Acétazolamide|Pyridostigmine|Corticoïdes
+1795010291156|Autosomique récessive|Liée à l'X|Sporadique uniquement
+1795010291157|Jeûne, froid|Effort intense, chaleur|Stress, alcool
+1795010291158|Le soir|L'après-midi|À l'effort
+1795010291160|Ondes T pointues|Sus-ST|QRS larges
+1795010291161|Secondes|Semaines|Minutes
+1795010291162|Kayexalate|Thiazidiques|Mexilétine
+1795010291163|Cl−|Ca2+|K+
+1795010291165|Pain blanc|Viande rouge|Lait
+1795010291167|Potassium oral|Mexilétine|Pyridostigmine
+1795010291168|Canaux, dystrophines, myosites|Carences, toxiques, endocrines|Protéines, acides nucléiques, minéraux
+1795010291169|Glomérulonéphrite|Colique néphrétique|Syndrome néphrotique
+1795010291171|19q13|Xp21|17p12
+1795010291172|Autosomique dominante|Liée à l'X|Mitochondriale
+1795010291175|Décharges myotoniques|Décharges de haute fréquence|Fibrillations
+1795010291176|Type 1|Les deux|Aucune
+1795010291177|Myophosphorylase|Carnitine palmitoyltransférase|Phosphofructokinase
+1795010291179|Myotonie, cataracte|Crampes à l'effort|Ophtalmoplégie
+1795010291181|1 / 400|1 / 4 000 000|1 / 4 000
+1795010291182|Glycolyse|Chaîne respiratoire|Cycle de l'urée
+1795010291184|Marathon, triathlon|Natation longue|Vélo de fond
+1795010291185|1-2 min|2-3 h|10 s
+1795010291187|Diplopie, nystagmus, myosis|Cataracte, glaucome|Exophtalmie, uvéite
+1795010291188|Fibres en cible|Corps de Lewy|Vacuoles bordées
+1795010291189|Crises d'épilepsie myocloniques|Ophtalmoplégie|Neuropathie optique
+1795010291190|Papules de Gottron uniquement aux genoux|Livedo|Purpura vasculaire
+1795010291192|Neurogène pur|Myotonique|Normal
+1795010291193|Pauvre à haute amplitude|Simple|Silence
+1795010291194|Oculaires|Distaux des mains|Faciaux
+1795010291197|Fibres en cible|Ragged red fibers|Atrophie de type 2
+1795010291198|Activité spontanée|Activité de repos|Signal EMG
+1795010291199|Quelques mV|Quelques V|Quelques nV
+1795010291200|Amplification simple|Filtrage passe-haut|Stimulation à haute fréquence
+1795010291202|EEG, EMG, VC, réponse F|PES, PEV, EMG, ECG|BAEP, ERG, EOG, EEG
+1795010291204|Synapse unique|Fibre rectiligne|Dipôle fixe
+1795010291205|Amyéliniques fines|Fibres C|Fibres autonomes
+1795010291206|< 5 ms|< 500 ms|< 200 ms
+1795010291207|Musculo-cutané, axillaire|Suprascapulaire, thoracique long|Phrénique, accessoire
+1795010291208|Fémoral, obturateur|Fibulaire profond, saphène|Sciatique, pudendal
+1795010291209|Coude, épaule, front|Pouce, aisselle, tempe|Poignet, coude, oreille
+1795010291210|≈ 20 ms|≈ 2 ms|≈ 13 ms
+1795010291213|Clavicule|Vertex|Front
+1795010291214|Champ proche|Réponse musculaire|Réponse sensorielle directe
+1795010291215|Cortex pariétal|Faisceau spinothalamique|Nerf périphérique
+1795010291218|Hyperpolarisation|Latence longue|Artéfact
+1795010291219|Amplitude de l'onde d'Erb|Latence périphérique|Durée du stimulus
+1795010291220|≤ 1 ms|≤ 20 ms|≤ 10 ms
+1795010291221|Lésion distale|Myopathie|Lésion corticale isolée
+1795010291223|Proprioceptives|Vibratoires|Tactiles fines
+1795010291224|Cortico-spinal|Spinocérébelleux|Lemnisque médian
+1795010291225|Toujours normal|Amplitude augmentée|Latence raccourcie
+1795010291226|Lemniscal global|Hémicorps|Gants et chaussettes
+1795010291229|Bon pronostic|Récupération probable|Non interprétable
+1795010291230|Son continu|Lumière|Choc électrique
+1795010291231|Colliculus inférieur|Lemnisque latéral|Corps genouillé médial
+1795010291232|Cochlée|Lemnisque latéral|Colliculus
+1795010291233|Noyau cochléaire|Mésencéphale|Cortex auditif
+1795010291234|Bulbe|Thalamus|Cochlée
+1795010291238|Onde VII|Onde VI|Onde I seule
+1795010291239|I et II|II seule|I et III
+1795010291240|Maladie d'Alzheimer|Maladie de Parkinson|Myasthénie
+1795010291242|Courant continu|Ultrasons|Lumière laser
+1795010291244|Nuque|Clavicule|Front
+1795010291245|Vertex|Poignet|Muscle cible
+1795010291246|Latence périphérique − centrale|Latence centrale + périphérique|Latence centrale × 2
+1795010291248|Myasthénie, myopathie|Canal carpien, polyneuropathie|Épilepsie, migraine
+1795010291249|N20|Onde V|N13
+1795010291250|Cortex frontal|Vertex|Rétine
+1795010291251|Flash lumineux|Lumière continue|Clic
+1795010291253|Épilepsie|Migraine|Myasthénie
+1795010291254|2 degrés|20 minutes d'angle|1 seconde d'angle
+1795010291255|1 minute d'angle|10 degrés|2 minutes d'angle
+1795010291256|1/100 de degré|1/10 de degré|1/360 de degré
+1795010291258|Centre éclairé|Lumière diffuse|Obscurité totale uniquement
+1795010291261|Perte axonale|Atteinte rétinienne|Lésion corticale

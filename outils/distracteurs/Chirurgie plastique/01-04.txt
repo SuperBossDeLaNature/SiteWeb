@@ -1,0 +1,182 @@
+1795080821415|1918|1985|1945
+1795080821416|2e Guerre mondiale|Guerre de Crimée|Guerre du Vietnam
+1795080821418|Antibiothérapie|Microscope opératoire|Asepsie
+1795080821419|0,5 à 1 m²|3 à 4 m²|5 m²
+1795080821420|≈ 0,5 kg|≈ 10 kg|≈ 20 kg
+1795080821422|Thermorégulatrice|Immunitaire|Métabolique (vitamine D)
+1795080821423|Épiderme|Hypoderme|Fascia superficiel
+1795080821424|Derme réticulaire|Épiderme|Derme papillaire
+1795080821426|Barrière hémato-encéphalique|Barrière digestive|Barrière immunitaire
+1795080821427|Profondeur et surface|Couleur et odeur|Douleur et fièvre
+1795080821428|Infection|Hypothermie|Insuffisance hépatique
+1795080821429|Oncologique|Traumatique|Infectieuse
+1795080821430|Vasculaire|Traumatique|Neurologique
+1795080821431|Plaie contuse|Plaie punctiforme|Plaie par arrachement
+1795080821432|Plaie franche|Plaie par morsure|Plaie chirurgicale
+1795080821433|Calibre de la balle|Distance de tir|Point d'entrée seul
+1795080821434|Superficielle|Contuse|Punctiforme
+1795080821435|1 à 2 jours|3 à 6 mois|6 à 12 mois
+1795080821436|2 semaines|6 mois|1 an
+1795080821440|Élevé|Normal|Nul
+1795080821441|Bas|Nul|Normal
+1795080821444|Antibiotiques, IPP|Statines, IEC|Paracétamol, AINS
+1795080821447|2|5|7
+1795080821448|Imagerie|Biologie|Culture bactériologique
+1795080821449|Antibiothérapie et vaccination|Radiographie et échographie|Rasage et désinfection seuls
+1795080821450|Lésion osseuse|Infection|Allergie
+1795080821451|DIME|STOP|ABCDE
+1795080821452|Mobility|Margin|Microbes
+1795080821453|Exudate|Erythema|Epithelium
+1795080821454|2|6|10
+1795080821455|+ 5 %|+ 100 %|+ 400 %
+1795080821457|Nécrose|Fibrine|Granulation
+1795080821461|Durée d'action plus courte|Moins de douleur à l'injection|Moins d'allergies
+1795080821462|Bistouri n° 11|Curette|Ciseaux de Metzenbaum
+1795080821463|Secondaire|Tertiaire|Dirigée
+1795080821465|Agrafes|Colle cyanoacrylate|Fil résorbable
+1795080821469|Esthétiques, sans retrait|Résorbables|Hémostatiques
+1795080821470|Éthylon|Prolène|Soie
+1795080821471|Vicryl|Monocryl|Catgut
+1795080821472|Tressé résorbable|Catgut|Soie
+1795080821474|0, 1, 2|8-0, 9-0, 10-0|1-0, 2-0
+1795080821476|3-0 à 4-0|0 à 1|5-0 à 6-0
+1795080821478|Droite, pointe ronde|Courbe, pointe mousse|Droite, pointe triangulaire
+1795080821479|1-2 j à 3 j|3 à 4 semaines|Jamais
+1795080821480|Tous les fils en avance|Aucun fil|Le fil central seulement
+1795080821481|Point simple|Surjet|Point de Blair-Donati
+1795080821482|Visage et cou|Dos et thorax|Cuir chevelu et pied
+1795080821484|Perpendiculaire aux plis|Verticale quelle que soit la région|En zigzag systématique
+1795080821486|Le milieu|Le côté le plus large|Le centre puis les bords
+1795080821488|« Oreilles de lapin »|Cicatrices en cuvette|Chéloïdes
+1795080821489|Vitamine E, aloe vera|Antibiotique local, iode|Crème hydratante simple
+1795080821490|2|6|3
+1795080821492|Activation de la coagulation|Formation du caillot de fibrine|Inflammation
+1795080821493|Kératinocytes|Mélanocytes|Lymphocytes
+1795080821494|Fibroblastes et collagène|Kératinocytes|Plaquettes uniquement
+1795080821495|Kératinocytes|Plaquettes seules|Fibroblastes
+1795080821497|Phagocytose|Diapédèse|Opsonisation
+1795080821498|Lymphocyte T|Fibroblaste|Kératinocyte
+1795080821501|Tissu fibreux|Tissu de nécrose|Fibrine
+1795080821503|Atrophie|Chéloïde|Macération
+1795080821504|Contraction|Remodelage|Granulation
+1795080821505|Centrifuge|Linéaire|Aléatoire
+1795080821508|Macrophage|Kératinocyte|Fibroblaste quiescent
+1795080821509|Type I → type III|Type II → type I|Type IV → type III
+1795080821510|≈ 100 %|≈ 20 %|≈ 50 %
+1795080821511|Blanche et indolore|Brune et souple|Noire et sèche
+1795080821512|1 à 2 mois|5 ans|3 à 6 mois
+1795080821513|2 à 5 mois|10 ans|À vie
+1795080821514|1 à 3 mois|5 ans|1 semaine
+1795080821516|Couleur rouge|Prurit|Épaisseur
+1795080821517|Douleur nocturne|Hyperesthésie|Saignement
+1795080821521|Exposition solaire|Massage sec|Antibiotiques
+1795080821522|Destruction excessive de collagène|Infection chronique|Défaut de vascularisation
+1795080821524|Brûlure, morsure|Fracture, entorse|Contusion, hématome
+1795080821525|Peaux claires, nordiques|Personnes âgées|Hommes uniquement
+1795080821526|5 %|100 %|20 %
+1795080821527|20 %|100 %|50 %
+1795080821528|Iode 131|Césium 137|Cobalt 60
+1795080821530|Vasodilatateur|Aucun effet|Hypervascularisant
+1795080821532|Orale|Intraveineuse|Inhalée
+1795080821533|Thermothérapie|Laser CO2|Électrocoagulation
+1795080821535|Ulcère veineux|Plaie contuse|Brûlure
+1795080821537|Pression capillaire > pression externe|Infection bactérienne|Déficit veineux
+1795080821538|Lividité cadavérique|Nécrose|Infection
+1795080821539|Hyperémie de revascularisation|Ecchymose|Érythème
+1795080821540|Zones graisseuses|Plis de flexion|Muqueuses
+1795080821543|Hyperprotéinémie|Hyperglycémie|Hypercalcémie
+1795080821544|Rétention urinaire|Constipation|Dysurie
+1795080821545|Douleur trop intense|Perte de poids|Fièvre
+1795080821546|Médicament|Alimentation|Âge
+1795080821548|Talons|Occiput|Omoplates
+1795080821549|Coudes|Oreilles|Genoux
+1795080821550|Sacrée, occipitale|Talons, coudes|Genoux, crêtes iliaques
+1795080821551|Sacrum, talons|Ischion, trochanter|Occiput, omoplates
+1795080821554|2|6|3
+1795080821555|Ulcère superficiel|Cratère nécrotique|Phlyctène
+1795080821556|Tissu sous-cutané|Fascia|Muscle
+1795080821558|Paraplégique de longue date|Patient très dénutri|Grabataire en soins palliatifs
+1795080821559|Hydrocolloïdes épais avec mèche|Alginates|Charbon actif
+1795080821560|Érythème|Cratère nécrotique|Atteinte osseuse
+1795080821562|Lambeau musculo-cutané|Amputation|Greffe d'os
+1795080821563|Patient paraplégique alité|Patient dénutri|Classe IV
+1795080821564|Épiderme seul|Os|Muscle
+1795080821566|Érythème|Phlyctène|Ulcère superficiel
+1795080821567|Fascia seul|Derme seul|Épiderme
+1795080821568|Guérison spontanée|Fracture pathologique immédiate|Calcification
+1795080821569|Lambeau cutané local|Greffe de peau mince|Lambeau libre radial
+1795080821570|Prothèse|Arthrodèse|Ostéosynthèse
+1795080821574|Chirurgie|Antibiotiques|VAC
+1795080821575|Une compresse|De l'eau|Un antiseptique
+1795080821577|Fluorescéine|Éosine|Bétadine
+1795080821578|Excision complète|Infection|Aucune signification
+1795080821580|Vascular Access Catheter|Venous Air Compression|Vacuum Assisted Cicatrization
+1795080821581|Gel, compresse, bande|Drain, sonde, poche|Ballon, valve, filtre
+1795080821582|Infectée, nécrotique, hémorragique|Superficielle, sèche, petite|Sur os exposé uniquement
+1795080821586|Escarre classe I|Brûlure du 1er degré|Plaie superficielle de la face
+1795080821587|Uniquement intermittente manuelle|Positive|Nulle
+1795080821588|Chirurgien seul|Infirmier seul|Patient seul
+1795080821589|Éviter les phlébites uniquement|Pour le confort|Pour la rééducation sportive
+1795080821590|Fibrine|Infection|Granulation
+1795080821591|Nécrose|Épidermisation|Granulation
+1795080821593|Fibrine|Nécrose|Infection
+1795080821594|Cultures bactériologiques|Échographie|Prise de sang
+1795080821596|3 / 100 hab.|3 / 100 000 hab.|30 / 1000 hab.
+1795080821597|Personnes âgées|Adolescents|Adultes de 30 à 50 ans
+1795080821598|× 10|× 1|÷ 3
+1795080821600|5 %|90 %|20 %
+1795080821604|Mains|Pieds|Dos
+1795080821605|Flammes|Électricité|Produits chimiques
+1795080821606|100 °C|50 °C|500 °C
+1795080821608|200 °C|5 000 °C|500 °C
+1795080821609|200 à 300 °C|10 000 °C|800 °C
+1795080821610|100 à 200 °C|1 000 °C|500 à 800 °C
+1795080821613|Peau|Os|Graisse
+1795080821614|Âge, sexe|Couleur de peau|Point d'entrée seul
+1795080821615|Bradycardie sinusale|Bloc de branche|Extrasystoles auriculaires
+1795080821617|3e degré|4e degré|2e degré profond
+1795080821619|Absente|Légère|Calmée par le froid
+1795080821621|Eau de Javel|Bicarbonate|Vinaigre
+1795080821622|2|10|1
+1795080821624|5 minutes|24 heures|30 secondes
+1795080821625|Glace directement 1 h|Beurre|Eau chaude
+1795080821626|Activation (↑ histamine)|Aucun effet|Destruction
+1795080821628|Septique|Cardiogénique|Anaphylactique
+1795080821629|↓ perméabilité vasculaire|Excès de sodium|Insuffisance cardiaque
+1795080821631|Hypométabolisme|Hypothermie|Hypoglycémie
+1795080821632|Excès d'immunoglobulines|Hyperleucocytose|Corticoïdes systématiques
+1795080821633|Règle de Parkland|Règle de Lund|Règle de Baux
+1795080821634|≈ 5 %|≈ 9 %|≈ 0,1 %
+1795080821635|> 5 %|> 50 %|> 10 %
+1795080821636|18 %|4,5 %|1 %
+1795080821637|9 %|36 %|4,5 %
+1795080821638|18 %|4,5 %|1 %
+1795080821640|18 %|9 %|27 %
+1795080821643|Wallace|Parkland|Baux
+1795080821644|Derme entier|Hypoderme|Épiderme et derme
+1795080821645|Hypoderme|Muscle|Épiderme seul
+1795080821646|Muscles|Os|Épiderme seul
+1795080821647|Intact|Partiellement atteint|Hypertrophique
+1795080821648|Derme seul|Épiderme|Hypoderme seul
+1795080821650|Plusieurs mois, cicatrice|Jamais|Greffe nécessaire
+1795080821653|2 à 3 jours|2 à 3 mois|1 an
+1795080821654|La percer immédiatement|L'enlever totalement|Y appliquer de la glace
+1795080821656|Rouge vif suintant|Noir carbonisé|Rose humide
+1795080821657|Froid, repos|Compression, élévation|Hydratation, pommade
+1795080821659|Aucun|Chéloïde systématique|Atrophie
+1795080821661|Rouge vif|Rose humide|Blanc nacré humide
+1795080821663|Tardive (après 1 mois)|Jamais|À 6 mois
+1795080821664|Infection|Hypothermie|Hémorragie
+1795080821665|Amputation|Greffe d'emblée|Fasciotomie du membre controlatéral
+1795080821666|> 5 % SCB|> 50 % SCB|> 30 % SCB
+1795080821668|Pression artérielle élevée|Absence de soif|Hématocrite élevé
+1795080821669|2 mL × kg × % SCB / 48 h|4 mL × kg / 24 h|10 mL × % SCB
+1795080821670|Alcool|Eau oxygénée|Éosine
+1795080821671|Vaseline seule|Corticoïde|Antibiotique oral
+1795080821677|Brûlure du dos|Brûlure du 1er degré|Coup de soleil
+1795080821678|Bas de contention classiques|Bandes élastiques simples|Plâtre
+1795080821679|60 °C|20 °C|10 °C
+1795080821681|Vasoconstricteurs|Anticoagulants|Corticoïdes
+1795080821682|Syndrome de Münchhausen par procuration|Trichotillomanie|Syndrome de Diogène
+1795080821683|Cataracte|Glaucome|Décollement de rétine
+1795080821684|Dos, abdomen|Fesses, cuisses|Avant-bras, mollet

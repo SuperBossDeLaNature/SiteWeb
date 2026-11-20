@@ -1,0 +1,195 @@
+1794988259591|Maladie de Parkinson|Myasthénie|Maladie d'Alzheimer
+1794988259592|Hydrocéphalie|Épilepsie|Hyperthyroïdie
+1794988259616|Côté aplati|Sur le ventre la nuit|Assis
+1794988259618|Diplopie, ptôsis, mydriase|Fièvre, raideur, éruption|Vertiges, acouphènes, surdité
+1794988259626|Décompression, rhizotomie, DREZ, stimulation|Botox, carbamazépine, baclofène, gabapentine|Laser, cryothérapie, ultrasons, alcool
+1794988259627|Radiothérapie|Chimiothérapie|Embolisation
+1794988259643|Tumeur testiculaire|Obésité|Hypothyroïdie
+1794988259650|Toxoplasmose|Cytomégalovirus|Méningocoque
+1794988259660|Plagiocéphalie antérieure|Trigonocéphalie|Brachycéphalie
+1794988259665|Iridium|Césium|Iode
+1794988259684|CT cérébral|IRM sous anesthésie|Radiographie du crâne
+1794988259690|Céphalées, diplopie|Crises focales, hémiparésie|Troubles visuels, aphasie
+1794988259693|Grade 1|Grade 2|Grade 4
+1794988259695|1/100 à 1/500|1/100 000|1/50 000
+1794988259697|Down, Turner, Klinefelter, Edwards|Marfan, Ehlers-Danlos, Stickler|Treacher Collins, Pierre Robin, Goldenhar
+1794988259709|20-30 ans|80-90 ans|10-20 ans
+1794988259711|BRCA, TP53, RB1|COL1A1, FBN1|NF1, TSC1, VHL
+1794988259713|Visuel|Épileptique|Infectieux
+1794988259747|Radiothérapie conventionnelle 3D|Curiethérapie|Irradiation panencéphalique
+1794988259748|2|7|3
+1794988259752|Les os|Le LCR|Les sutures
+1794988259763|Épilepsie, ataxie, déficit moteur|Vomissements, fièvre, raideur|Diplopie, ptôsis, surdité
+1794988259782|Hypothyroïdie, diabète, obésité|Mucoviscidose, drépanocytose|Toxoplasmose, rubéole, CMV
+1794988259783|20 %|95 %|50 %
+1794988259787|Hémisphérotomie|Lobectomie temporale|Amygdalo-hippocampectomie
+1794988259793|EEG|IRM répétées|Bilan sanguin
+1794988259795|Fermeture tardive des sutures|Fracture des sutures|Absence de sutures
+1794988259797|V1|V1-V2|V3 seul
+1794988259813|Infection|Lésion cérébrale|Fuite de LCR
+1794988259815|Spina bifida occulta|Méningocèle|Sinus dermoïde
+1794988259816|Pieds plats|Pieds en valgus|Pieds normaux
+1794988259824|Wallenberg|Weber|Foville
+1794988259831|Cutanées de scalp|Intramusculaires|Épidurales lombaires
+1794988259832|Vespérales|Bilatérales frontales|Améliorées par le sommeil
+1794988259841|Hypoexcitabilité du réflexe myotatique|Atteinte de la plaque motrice|Lésion musculaire
+1794988259851|Rubéole|Varicelle|Herpès
+1794988259873|Nerf phrénique|Nerf facial|Nerf hypoglosse
+1794988259874|≈ 13|≈ 1 380|≈ 500
+1794988259877|Valproate|Paracétamol|Triptan
+1794988259890|Neurologue|Médecin généraliste|Ophtalmologue
+1794988259894|Exophtalmie|Nystagmus|Ptôsis
+1794988259897|Fontanelle déprimée|Microcéphalie|Périmètre crânien stable
+1794988259901|Chirurgie ouverte|Endoscopie|Casque obligatoire
+1794988259909|Tumeur|Sclérose en plaques|Infection herpétique
+1794988259920|Ventriculocisternostomie|Ponctions lombaires répétées|Acétazolamide
+1794988259922|Chirurgie ouverte à 2 ans|Casque seul|Abstention
+1794988259924|Vomissements|Troubles visuels|Crises d'épilepsie
+1794988259932|Biopsie seule|Résection minimale|Pas de chirurgie
+1794988259941|Parkinson, épilepsie, migraine|Schizophrénie, autisme|Démence, insomnie
+1794988259943|T1 injecté|Angio-CT|Diffusion
+1794988259945|Carbamazépine, baclofène|Neurotomie du V|Radiothérapie
+1794988259972|Vitamine D|Vitamine B12|Vitamine K
+1794988259981|≈ 2 % du poids|≈ 30 % du poids|≈ 7 % du poids
+1794988259986|Irradiation de tout le cerveau|Chaleur locale|Particules injectées
+1794988259987|1 saignement en 5 ans|Découverte fortuite|Céphalées
+1794988260000|Couchage sur le ventre|Prématurité|Césariennes
+1794988260007|Crouzon|Muenke|Saethre-Chotzen
+1794988260023|Sagittale|Métopique|Lambdoïde
+1794988260025|Glioblastome, méningiome, métastase|Craniopharyngiome, germinome, DNET|Neurinome, adénome, épendymome
+1794988260032|Fontanelles ouvertes|Tronc plus résistant|Cerveau plus petit
+1794988260039|Craniopharyngiome|Médulloblastome|Gliome de haut grade
+1794988260048|≈ 1 an|≈ 1 mois|≈ 2 ans
+1794988260049|Plus c'est haut, moins de déficit|Indépendant du niveau|Toujours tétraplégie
+1794988260053|Sous-durale|Extradurale|Sous-arachnoïdienne
+1794988260059|Glioblastome, métastase|Médulloblastome, épendymome|Craniopharyngiome, germinome
+1794988260069|Suture ouverte|Fontanelle|Fracture
+1794988260074|Callosotomie|Lobectomie|Hémisphérectomie partielle
+1794988260075|Transorale|Frontale|Transsphénoïdale
+1794988260085|Corriger les pieds|Prévenir l'épilepsie|Esthétique
+1794988260093|TN1 constante ; TN2 épisodique|TN1 bilatérale ; TN2 unilatérale|TN1 > 50 ans ; TN2 < 50 ans
+1794988260103|≈ 25 %|≈ 98 %|≈ 50 %
+1794988260118|Cordotomie, thalamotomie, rhizotomie|Botox, kiné, attelles|Arthrodèse, ténotomie, ostéotomie
+1794988260128|< 10 cm|< 5 mm|< 6 cm
+1794988260134|Grade 1|Grade 3|Grade 4
+1794988260135|1/10|2/3|1/2
+1794988260140|Antibiotiques au long cours|Surveillance|Radiothérapie
+1794988260145|Myéloméningocèle|Anencéphalie partielle|Méningocèle
+1794988260146|1 an|10 ans|18 ans
+1794988260149|1er|5e|3e
+1794988260156|IRM|EMG|Ponction lombaire
+1794988260174|Kyste pilonidal|Lipome lombosacré|Méningocèle
+1794988260185|Tumeurs cérébrales|Lymphomes|Néphroblastomes
+1794988260189|Thalamotomie|Pallidotomie bilatérale|Callosotomie
+1794988260194|Nerf fémoral|Nerf obturateur|Nerf fibulaire
+1794988260197|Dérivation ventriculo-péritonéale|Ponctions lombaires|Dérivation lombo-péritonéale
+1794988260198|1-2 mois, 4 kg|2-3 ans, 15 kg|3-4 ans, 20 kg
+1794988260201|Sagittale|Coronale|Lambdoïde
+1794988260209|Angiomatose|Moyamoya|Neurofibromatose
+1794988260212|Hémorragie importante|Durée de 6 h|Cicatrice large
+1794988260216|≈ 4 h|≈ 10 min|≈ 2 h
+1794988260222|Hippocampe, amygdale, NST|Cervelet, pont, bulbe|Pallidum, putamen, striatum
+1794988260226|EEG seul|Ponction lombaire|Radiographie du crâne
+1794988260228|Hydrocéphalie|Épilepsie|Méningite
+1794988260238|III|IV|VII
+1794988260242|Hémorragie|Hydrocéphalie|Tumeur
+1794988260248|Antagoniste GABA|Agoniste dopaminergique|Bloqueur sodique
+1794988260251|1 semaine|1 an|3 jours
+1794988260256|Radiofréquence|Glycérolyse|Compression par ballonnet
+1794988260258|Pédiatrie générale|Médecin traitant|Kinésithérapeute
+1794988260260|Radiographie cervicale|Échographie|EMG
+1794988260266|Médulloblastome|Épendymome|Gliome du tronc
+1794988259604|Rupture d'anévrysme|Dissection artérielle|Rupture de MAV
+1794988259607|Ballon|Coil|Héparine seule
+1794988259621|2-3 h|24-48 h|4,5 h
+1794988259624|Anévrysme à collet étroit|Patient âgé|Anévrysme de la basilaire
+1794988259634|8,8 % vs 17,8 %|5 % vs 5 %|30 % vs 10 %
+1794988259635|IRM cérébrale|Ponction lombaire|Angiographie
+1794988259637|Nécrose|Cœur de l'infarctus|Territoire jonctionnel
+1794988259646|Radiologie diagnostique|Neurochirurgie stéréotaxique|Neurologie vasculaire
+1794988259651|15 %|50 %|99 %
+1794988259653|IRM|Ponction lombaire|Doppler transcrânien
+1794988259656|Pulsatile progressive|En casque matinale|Unilatérale avec aura
+1794988259659|13-14|3-6|15
+1794988259662|Time is money|Brain first|Stroke saves
+1794988259664|Hypotension, hypovolémie, hémoconcentration|Hypertension, hypovolémie, hyperglycémie|Hyperthermie, hypervolémie, hypocapnie
+1794988259674|Angiographie annuelle|CT sans injection|Doppler
+1794988259677|Sang en nappe épaisse|Sang diffus fin|Hématome
+1794988259681|HSA anévrysmale|HSA traumatique|Hémorragie intraventriculaire
+1794988259687|Diplopie, ptôsis|Vertiges, acouphènes|Hémianopsie
+1794988259696|Clipping|Surveillance|Flow diverter systématique
+1794988259707|Années 90|Années 30|Années 2000
+1794988259710|Épilepsie, méningite|Hypertension, infarctus|Hyponatrémie, fièvre
+1794988259718|10-15 %|< 0,1 %|20 %
+1794988259719|GCS 15|GCS 7-12|GCS 13-14 sans déficit
+1794988259721|WFNS|Hunt et Hess|Spetzler-Martin
+1794988259727|EEG, EMG|IRM de diffusion seule|Ponction lombaire
+1794988259737|Obstruction de l'aqueduc|Hypersécrétion de LCR|Œdème cérébral
+1794988259743|Embolie pulmonaire|Appendicite|Fracture du col
+1794988259749|Malformation artério-veineuse|Rétrécissement artériel|Dissection
+1794988259767|60-70 ans|< 5 ans|45-50 ans
+1794988259770|< 10 %|≈ 50 %|≈ 25 %
+1794988259771|Pas de sang|Sang en nappe épaisse|Sang diffus fin
+1794988259774|24 h|1 h|9 h
+1794988259779|J1-J2|J30|J3
+1794988259789|30 % / 10 %|1 % / 0 %|50 % / 20 %
+1794988259799|MAV = shunt direct ; FAV = nidus|Identiques|MAV = veineuse ; FAV = artérielle
+1794988259840|Basilaire|Communicante antérieure|Vertébrale
+1794988259847|↑ 50 %|Aucun effet|↓ 10 %
+1794988259854|Effet de masse|AIT|Crise d'épilepsie
+1794988259867|5 %|60 %|50 %
+1794988259896|Très mauvais|Réservé|Mortalité 50 %
+1794988259898|Pas de sang|Sang diffus fin|Hématome intraventriculaire
+1794988259907|Anévrysmes|MAV|Tumeurs
+1794988259913|Angiographie à 1 mois|CT à 1 semaine|IRM à 5 ans
+1794988259923|Titane|Acier|Nitinol
+1794988259934|≤ 4,5 h|≤ 6 h|≤ 3 h
+1794988259940|CT sans injection|Ponction lombaire|Doppler
+1794988259954|Radiothérapie seule|Surveillance|Corticoïdes
+1794988259958|Radiale exclusivement|Carotidienne directe|Brachiale
+1794988259961|10-20 %/an|0 %/an|50 %/an
+1794988259966|Hydrocéphalie immédiate|Infection|Épilepsie
+1794988259969|31 % vs 24 %|10 % vs 10 %|50 % vs 30 %
+1794988259973|IRM de diffusion|EEG|Doppler transcrânien
+1794988259974|1er|10e|5e
+1794988259992|Anévrysmes|MAV|Vasospasme
+1794988259993|1 %|70 %|50 %
+1794988259994|Clipping|Stenting carotidien|Embolisation par coils
+1794988260001|Pas de sang|Sang en nappe épaisse|Hématome
+1794988260008|Basilaire|Carotide interne|Cérébrale postérieure
+1794988260014|Coil|Flow diverter|Ballon
+1794988260019|Les plus âgés|Les hommes|Les hypertendus
+1794988260027|1 F / 2 H|1 F / 1 H|5 F / 1 H
+1794988260028|Céphalée thunderclap|Hémiplégie|Coma
+1794988260035|< 24 h|< 72 h|Aucun délai
+1794988260041|Migraine, AVC, épilepsie|Méningite, encéphalite, abcès|Tumeur, hydrocéphalie, HSD
+1794988260045|Clipping obligatoire|Flow diverter|Surveillance
+1794988260060|WEB|Pipeline|Onyx
+1794988260072|Thrombectomie|Clipping|Fibrinolyse IV
+1794988260073|< 1 %|20-30 %|≈ 50 %
+1794988260078|Stent carotidien|WEB|Coil
+1794988260081|Type I (classique)|Type III (hypermobile)|Type VI
+1794988260082|Diabète, obésité, alcool|Sédentarité, stress, café|Hypercholestérolémie, sexe masculin
+1794988260084|ISUIA|MR CLEAN|DAWN
+1794988260104|10 %|95 %|30 %
+1794988260106|Syndrome d'Alport|Néphropathie à IgA|Maladie de Berger
+1794988260116|13-14|7-12|3-6
+1794988260132|Âgé, hypertendu, WFNS V|Femme, tabac, WFNS IV|Enfant, fièvre, coma
+1794988260136|Mannitol|Ponctions lombaires|Corticoïdes
+1794988260137|5 %|95 %|20 %
+1794988260147|Glasgow|WFNS|Rankin
+1794988260160|Le plus petit, régulier|Le plus proximal|Le plus ancien
+1794988260169|Fisher|Spetzler-Martin|NIHSS
+1794988260175|DAWN|ISAT|ESCAPE
+1794988260176|7-12|13-14|15
+1794988260177|Sturge-Weber|Von Hippel-Lindau|Ehlers-Danlos
+1794988260178|1/1 000 hab/an|1/1 000 000 hab/an|1/100 hab/an
+1794988260190|Gadolinium|Baryum|Technétium
+1794988260192|Hydrocéphalie|Resaignement|Épilepsie
+1794988260204|ISAT|MR CLEAN|DEFUSE 3
+1794988260223|Le neurochirurgien seul|Le patient seul|Le médecin traitant
+1794988260224|Céphalées, vomissements|Hydrocéphalie, HTIC|Démence, troubles de la marche
+1794988260225|CT sans injection seul|Doppler seul|Aucun examen
+1794988260229|GCS 15|GCS 13-14 avec déficit|GCS 7-12
+1794988260246|Fièvre, éruption, toux|Hémiplégie isolée|Hypotension, hypoglycémie
+1794988260262|Clipping seul, surveillance|Coils seuls, fibrinolyse|Thrombectomie, stent carotidien

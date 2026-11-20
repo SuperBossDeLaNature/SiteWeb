@@ -1,0 +1,145 @@
+1760500000249|≈ 128 mmol/L|≈ 140 mmol/L|≈ 122 mmol/L
+1760500000250|Aiguë, subaiguë, chronique|Hypo-, iso-, hypertonique|Légère, modérée, sévère
+1760500000251|Eau pure|Excès d'eau sans perte de Na⁺|Na⁺ et eau (eau plus forte)
+1760500000252|Na⁺ seul|Eau seule, sans Na⁺|Na⁺ et eau (Na⁺ plus fort)
+1760500000253|Perte rénale de sel|Excès d'apport en sel|Déshydratation extracellulaire
+1760500000254|Non, elle est inhibée|Non, seulement en hypervolémie|Uniquement si la natrémie est haute
+1760500000255|Œdèmes, prise de poids, PVC haute|Aucun signe volémique|Hypertension, crépitants
+1760500000256|100 mmol/L|5 mmol/L|60 mmol/L
+1760500000257|Rénale|SIADH|Potomanie
+1760500000258|Extra-rénale|Digestive|Cutanée
+1760500000259|Chronic sodium wasting|Central salt water|Cortical salt waste
+1760500000260|Restriction hydrique|Diurétique de l'anse|Vaptans
+1760500000261|Sous-correction|Hyperkaliémie|Œdème pulmonaire systématique
+1760500000262|> 40 mmol/L|> 100 mmol/L|Indosable par excès
+1760500000263|SIADH|Insuffisance cardiaque|Cirrhose
+1760500000264|Excès d'apport en sel|Perte digestive de Na⁺|SIADH paranéoplasique
+1760500000265|Perte digestive|Excès d'ADH tumoral|Déficit en aldostérone
+1760500000266|NaCl 0,9 % IV|Sérum salé hypertonique|Apports hydriques libres
+1760500000267|Non, il se diagnostique par l'ADH seule|Non, par la natriurèse seule|Non, il est toujours évident
+1760500000268|Hypovolémie|Hypervolémie avec œdèmes|Déshydratation globale
+1760500000269|> 295 mOsm/kg|> 320 mOsm/kg|Normale (285-295)
+1760500000270|< 100 mOsm/kg|< 50 mOsm/kg|Égale au plasma
+1760500000271|< 10 mmol/L|< 30 mmol/L|Nulle
+1760500000272|Œdèmes, hypotension|Hyperkaliémie, acidose|Hypoglycémie, hypocalcémie
+1760500000273|Diurétiques de l'anse, IEC|Lithium, amphotéricine B|Statines, IPP
+1760500000274|Migraine, épilepsie bénigne|Sclérose en plaques stable|Hernie discale
+1760500000275|Asthme, BPCO stable|Pneumothorax|Embolie pulmonaire
+1760500000277|Cardiaques|Digestifs|Cutanés
+1760500000278|Âge et sexe uniquement|Natriurèse|Osmolalité urinaire
+1760500000279|Sportifs jeunes, sujets sous IEC|Diabétiques uniquement|Femmes enceintes uniquement
+1760500000280|Na⁺ < 135 mmol/L|Na⁺ < 130 mmol/L|Na⁺ < 100 mmol/L
+1760500000281|Le chiffre|L'osmolalité urinaire|La natriurèse
+1760500000282|20 mmol/L par 24 h|2 mmol/L par 24 h|1 mmol/L par heure, sans limite
+1760500000283|30 mmol/L|8 mmol/L|10 mmol/L
+1760500000284|Jeune âge, sexe masculin|Hypertension, diabète|Hyperkaliémie, hypercalcémie
+1760500000285|50 %|80 %|2 %
+1760500000286|H⁺-K⁺-ATPase|Canal ROMK|Cotransporteur NKCC2
+1760500000287|Glucagon, acidose|Aldostérone seule|Bêta-bloquants
+1760500000288|Elle monte|Inchangée|Elle double
+1760500000289|≈ 0,05 mmol/L (même sens)|≈ 2 mmol/L (même sens)|≈ 0,5 mmol/L (même sens)
+1760500000290|Organique (lactique)|Les deux pareil|Organique (cétose)
+1760500000291|TCD et tube collecteur|Glomérule|Uretère
+1760500000292|ENaC|NKCC2|SGLT2
+1760500000293|Apport excessif, transfert, ↓ excrétion|Hémolyse, rhabdomyolyse, acidose|Hyperaldostéronisme, IEC, AINS
+1760500000294|Acidose, bêta-bloquants, lyse cellulaire|Hypoaldostéronisme|IEC, AINS
+1760500000295|< 20 mmol/L|< 5 mmol/L|> 200 mmol/L
+1760500000296|Diurétiques, hyperaldostéronisme|Bartter, Gitelman|Acidose tubulaire
+1760500000297|Le calcium|Le phosphate|L'aldostérone seule
+1760500000298|ENaC|NKCC2|Na⁺-K⁺-ATPase
+1760500000299|Fasciculations, hypertonie|Myotonie, spasmes|Hypertrophie musculaire
+1760500000300|Diarrhée motrice|Hypersalivation|Hyperactivité vésicale
+1760500000301|Oligurie, acidose, glomérulonéphrite|Syndrome néphrotique|Hématurie, lithiase calcique
+1760500000302|T ample et pointue, QRS large|QT court, ST sus-décalé|PR court, onde delta
+1760500000303|Onde T|Onde P|Onde Q
+1760500000304|KCl IV|Résines échangeuses|Restriction potassique
+1760500000305|1 g/L|10 g/L|20 g/L
+1760500000306|Voie périphérique|Voie intramusculaire|Voie sous-cutanée
+1760500000307|Glycémie|Natrémie seule|Diurèse seule
+1760500000308|Insuline, alcalose|Prise de diurétiques|Bêta-agonistes
+1760500000309|Dosage urinaire|ECG seul|Hémoculture
+1760500000310|Pertes digestives, rénales, transfert|Diarrhées, vomissements, résines|Alcalose, insuline, bêta-agonistes
+1760500000311|Diurétiques de l'anse, thiazidiques|Insuline, salbutamol|Amphotéricine B
+1760500000312|Alcalose, insuline, bêta-agonistes|Diarrhée, vomissements|Hyperaldostéronisme
+1760500000313|Hyperaldostéronisme, ATR 1|Insulinome|Diurétiques de l'anse
+1760500000314|Oui, toujours|Oui, dès 5 mmol/L|Oui, par crampes
+1760500000315|Crampes et tétanie|Rhabdomyolyse|Myotonie
+1760500000316|Hypertension|Polyurie|Fièvre
+1760500000317|QRS fin → P ample → QT court|PR court → onde U → QT long|Onde Q → ST sus-décalé
+1760500000318|Pointes torsadées|Prolongation du PR|Elévation du segment ST
+1760500000319|Il la baisse|Il la monte|Il la normalise en 10 min
+1760500000320|Acidose lactique|Toute hyperkaliémie|Alcalose métabolique
+1760500000321|Protéger le cœur|Faire entrer le K⁺ dans les cellules|Arrêter l'insuline
+1760500000322|< 4 (idéal < 3,5)|< 7|< 8
+1760500000323|Oui, toujours|Oui, définitivement|Oui, et le remplacer par un AINS
+1760500000324|Diurétiques de l'anse, thiazidiques|Insuline, metformine|Résines, bicarbonate
+1760500000325|Riche en potassium|Sans sel|Hyperprotéiné
+1760500001140|L'eau entre dans les cellules|Le Na⁺ entre dans les cellules|Lyse des globules rouges
+1760500001141|Osmorécepteur|Les deux pareil|Chémorécepteur
+1760500001146|Lithium, hypercalcémie|ADPKD, MRC|Hypokaliémie
+1760500001147|Thiazides|Restriction hydrique seule|Vaptans
+1760500001148|DDAVP|Furosémide|Vaptans
+1760500001149|DI néphrogénique|Polydipsie primaire|SIADH
+1760500001150|DI central|Polydipsie primaire|SIADH
+1760500001152|≈ 1 L|≈ 15 L|≈ 3 L
+1760500001153|IV sans soluté (eau stérile pure)|Intramusculaire|Sous-cutanée
+1760500001155|10 mmol/L/h|0,1 mmol/L/h|5 mmol/L/h
+1760500001156|Myélinolyse centropontine|Hémorragie cérébrale|Hypoglycémie
+1760500001158|Mesurer la natriurèse|Restreindre l'eau|Doser l'ADH
+1760500001159|> 295 mOsm/kg|Normale (285-295)|> 320 mOsm/kg
+1760500001160|Na⁺ − 1,6 × (glycémie g/L − 1)|Na⁺ + 2,4 × glycémie|Na⁺ + glycémie/18
+1760500001162|SIADH paranéoplasique|Pertes digestives|Excès d'apport en sel
+1760500001164|Diabète, HTA, obésité|Hyperthyroïdie, Cushing|Hyperaldostéronisme
+1760500001165|Diabète, HTA, cirrhose, IC|Diarrhée, vomissements, brûlures|Diurétiques, Addison, IRC
+1760500001166|Adénocarcinome prostatique|Cancer du sein|Cancer du côlon
+1760500001167|Diurétique de l'anse|Bêta-bloquant|Statine
+1760500001169|Normalisation complète|+ 15 mmol/L|+ 1 mmol/L
+1760500001170|Sérum salé hypertonique|NaCl 0,9 % IV|Aucune mesure
+1760500001171|Thiazidique, DDAVP|Lithium|Apports hydriques augmentés
+1760500001175|Elle baisse|Inchangée|Elle baisse fortement
+1760500001177|Diarrhées, vomissements|Hypoaldostéronisme, ATR 4|IEC, AINS
+1760500001178|Bloc AV complet|Asystolie|Fibrillation auriculaire
+1760500001181|≈ 10 g/h|≈ 0,1 g/h|≈ 4 g/h
+1760500001183|Calcium IV systématique|Hémodialyse|Doser l'aldostérone
+1760500001184|Onde T plate|Onde U|QT long
+1760500001188|Kaliémie à 5,5 bien tolérée|Hyperkaliémie médicamenteuse légère|Toute hyperkaliémie
+1760500001190|Kayexalate au long cours seul|Bicarbonate PO|Calcium PO
+1760500001209|Antéhypophyse|Surrénale|Rein
+1760500001210|Barorécepteur|Volorécepteur|Chémorécepteur
+1760500001211|Hypertension, hypervolémie|Hypo-osmolalité|Froid
+1760500001212|V1a|V1b|AT1
+1760500001213|Aquaporines de type 1|Canaux ENaC|Cotransporteurs NKCC2
+1760500001214|L'aldostérone|L'ANP|La rénine
+1760500001215|Mesurer la natriurèse|Doser l'ADH|Mesurer la diurèse
+1760500001216|Aiguë, chronique, mixte|Légère, modérée, sévère|Hypo-, iso-, hypertonique
+1760500001217|Sel seul|Eau pure|Eau + sel (sel > eau)
+1760500001218|Eau + sel|Sel seul|Apport de sel
+1760500001219|Perte d'eau pure|Excès d'ADH|Perte digestive
+1760500001220|Basse (< 150 mOsm/kg)|Égale au plasma|Nulle
+1760500001221|> 40 mEq/L|> 100 mEq/L|Égal au plasma
+1760500001222|Diabète insipide|Apport de sel|Hyperaldostéronisme
+1760500001223|Œdèmes, crépitants|Turgescence jugulaire|Hypertension
+1760500001224|Diarrhée|Brûlures|Sueurs
+1760500001225|Oligurie|Œdèmes|Hypertension
+1760500001226|> 800 mOsm/kg|> 1 200 mOsm/kg|300 à 600 mOsm/kg
+1760500001227|0,5 à 1 L/24 h|1 à 2 L/24 h|30 à 50 L/24 h
+1760500001228|Apports en sel excessifs|Prise de DDAVP|Polydipsie
+1760500001229|Néphrogénique|Gestationnel|Dipsogénique
+1760500001230|Néphrogénique|Gestationnel|Dipsogénique
+1760500001231|Autosomique dominante (85 %)|Autosomique récessive (85 %)|Mitochondriale
+1760500001232|Thiazidiques, amiloride|DDAVP, carbamazépine|ISRS, chlorpropamide
+1760500001233|Hyperkaliémie, hypocalcémie|Hyponatrémie, hypermagnésémie|Hypophosphatémie, acidose
+1760500001234|Néphropathie à IgA|Syndrome néphrotique|Néphroangiosclérose
+1760500001235|SIADH, potomanie, diabète sucré|DI central, SIADH, hypercalcémie|Diabète sucré, DI central, Bartter
+1760500001236|Charge en eau|Hypoglycémie insulinique|Test au Synacthen
+1760500001237|1 à 2 heures|48 à 72 heures|6 jours
+1760500001238|280 mOsm/kg|300 mOsm/kg|350 mOsm/kg
+1760500001239|Diabète insipide, fièvre|Diarrhées, vomissements|Brûlures, sueurs
+1760500001240|Eau extracellulaire (60 % du poids)|Masse maigre|Fraction de filtration
+1760500001241|NaCl 3 %, bicarbonate 8,4 %|Albumine 20 %|Mannitol
+1760500001242|Barrière hémato-encéphalique rompue|Excès de sodium cérébral|Effet toxique direct du glucose
+1760500001243|Paresthésies, tétanie|Fièvre, éruption|Polyurie isolée
+1760500001244|Hyperglycémie, mannitol|SIADH|Potomanie
+1760500001245|Basse (< 275)|Élevée (> 300)|Indosable
+1760500001246|Excès de lipides ou de protéines|SIADH, potomanie|Insuffisance cardiaque
+1760500001247|Basse (< 275 mOsm/kg)|Normale|Indosable

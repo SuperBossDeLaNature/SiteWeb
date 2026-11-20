@@ -1,0 +1,172 @@
+1794911041590|Chorée|Myoclonies|Dystonie
+1794911041591|Syndrome de Sydenham|Syndrome de Rett|Maladie de Wilson
+1794911041592|Schizophrénie, autisme|Dépression, anorexie|Bipolarité, addiction
+1794911041593|Dystonie|Athétose|Ballisme
+1794911041594|Maladie de Wilson|Chorée de Sydenham|Neuroacanthocytose
+1794911041595|Expansion de triplets GAA|Délétion du gène SMN1|Mutation ponctuelle de l'ATP7B
+1794911041598|Chorée|Tics|Myoclonies
+1794911041599|Hémispasme facial|Ptôsis|Myokymies palpébrales
+1794911041602|Maladie de Huntington|Maladie de Parkinson|Tremblement essentiel
+1794911041603|Anneau de Fleischer (fer)|Arc sénile|Bandelette calcique
+1794911041605|Ataxie-télangiectasie|SCA 3|Paraplégie spastique héréditaire
+1794911041608|Fessiers|Quadriceps|Triceps sural
+1794911041609|Neuropathie périphérique|Ataxie cérébelleuse|Syndrome pyramidal
+1794911041610|Hypoglycémie|Hyperthyroïdie|Hypocalcémie
+1794911041611|Syndrome de Lennox|Syndrome de Dravet|Syndrome de West
+1794911041612|Festination|Rétropulsion|Steppage
+1794911041613|Hypokinétique pur|Hyperkinétique pur|Aucun
+1794911041615|Neuroleptiques d'emblée|Stimulation cérébrale profonde|Toxine botulique
+1794911041617|Alcool|Cannabis|Héroïne
+1794911041619|> 20|> 100|> 30
+1794911041622|Hétéro-agressivité|Hallucinations|Anorexie
+1794911041624|Clozapine|Halopéridol|Rispéridone
+1794911041626|Perte de fonction pure|Gain de fonction pur|Haploinsuffisance
+1794911041628|Chorée de Sydenham|Chorée sénile|Chorée lupique
+1794911041629|Hypoglycémie|Hyponatrémie|Hypercalcémie
+1794911041630|Sclérose en plaques, sarcoïdose|Polyarthrite, Sjögren|Myasthénie, Basedow
+1794911041631|Ataxie pure|Tics|Tremblement essentiel
+1794911041632|Phénomène de Todd|Réflexe d'agrippement|Geste stéréotypé
+1794911041634|Médicamenteuse|Traumatique|Infectieuse
+1794911041636|Syndrome de Gilles de la Tourette|Syndrome de Wallenberg|Syndrome de Sjögren
+1794911041637|Tremblement primaire de l'écriture|Micrographie|Dysgraphie
+1794911041638|Lésion des noyaux gris|Atteinte musculaire|Neuropathie périphérique
+1794911041639|Corps cellulaire du motoneurone|Fibre musculaire|Récepteur post-synaptique
+1794911041641|HTT|FXN|SMN1
+1794911041642|Hépatite virale|Stéatose isolée|Cholangite
+1794911041644|Atrophie hippocampique|Hypersignal de la substance blanche|Calcifications
+1794911041645|IRM seule|EEG + EMG|Ferritine + transferrine
+1794911041647|Roue dentée|Lame de canif|Signe de Romberg négatif
+1794911041648|Valvulopathie|Coronaropathie|Péricardite
+1794911041649|CAG|CGG|CTG
+1794911041650|AT|FXTAS|AVED
+1794911041651|Vitamine B12|Vitamine B1|Vitamine A
+1794911041652|SCA 1|Ataxie de Friedreich|Ataxie-télangiectasie
+1794911041654|≤ ~5 cm|≤ ~40 cm|≤ ~30 cm
+1794911041656|L3|S1|L2
+1794911041657|Marche parkinsonienne|Marche ataxique|Marche spastique
+1794911041658|Ataxies de Friedreich|Myopathies|Dystrophies musculaires
+1794911041659|Pas de rattrapage normal|Chute en avant|Rétropulsion compensée
+1794911041662|Syncopes convulsivantes|Absences atypiques|Crises gelastiques
+1794911041663|≈ 5 %|≈ 95 %|≈ 20 %
+1794911041665|Trouble factice|Hypocondrie|Trouble anxieux
+1794911041667|Hyper-Na, hyper-K, hyper-Ca|Hypo-K, hypo-P, hyper-Mg|Hyper-Cl, hypo-K, hyper-Na
+1794911041668|Opioïdes, cannabis|Café, tabac|Antidépresseurs, bêtabloquants
+1794911041669|Déficit cognitif léger|Trouble cognitif subjectif|Encéphalopathie chronique
+1794911041670|Score MMSE|Âge|Type de trouble mnésique
+1794911041672|DFT, corps de Lewy|Creutzfeldt-Jakob, VIH|Hydrocéphalie, HSD
+1794911041674|Les causes génétiques|Les causes vasculaires|La dépression seule
+1794911041675|Fer, ferritine, CRP|Glycémie, HbA1c, lipides|Créatinine, urée, ionogramme seul
+1794911041676|Attentionnel|Exécutif|Langagier
+1794911041677|Lobe frontal|Cervelet|Lobe occipital
+1794911041678|Hypométabolisme frontal|Hypermétabolisme temporal|Hypométabolisme occipital
+1794911041679|Augmenté|Normal|Absent
+1794911041680|Diminuée|Normale|Absente
+1794911041683|Mémantine|Neuroleptiques|Antidépresseurs
+1794911041684|PRES|LEMP|CAA-ri
+1794911041685|Maladie d'Alzheimer|Démence à corps de Lewy|Démence vasculaire
+1794911041686|Neuroleptiques typiques|Lévodopa à forte dose|Benzodiazépines
+1794911041687|Encéphalite herpétique|Maladie d'Alzheimer rapide|Encéphalopathie de Wernicke
+1794911041689|Maladie d'Alzheimer|Démence fronto-temporale|Creutzfeldt-Jakob
+1794911041694|Circuit de Broca|Boucle cortico-striato-thalamique|Circuit cérébelleux
+1794911041695|Cingulum|Corps calleux|Faisceau arqué
+1794911041696|Faisceau unciné|Fornix|Faisceau arqué
+1794911041697|Anosognosie|Simultagnosie|Agnosie des couleurs
+1794911041699|Focale, globale, spatiale|Visuelle, auditive, tactile|Rapide, lente, différée
+1794911041700|Obstructive|Ex vacuo|Communicante post-méningitique
+1794911041701|Hématome extradural|Hydrocéphalie obstructive|Abcès
+1794911041702|Glioblastome|Lymphome|Métastase
+1794911041703|Tuberculose, Lyme|Toxoplasmose, CMV|Hépatite B, C
+1794911041704|Moyamoya|Fabry|MELAS
+1794911041705|CT injecté|PET-FDG|EEG
+1794911041710|Peptide Aβ42|α-synucléine|TDP-43
+1794911041711|Frontale|Occipitale|Pariétale
+1794911041712|TNC mineur|TNC majeur léger|Démence débutante
+1794911041713|MMSE > 26|MMSE < 5|MMSE 24–26
+1794911041715|Inhibition de la sécrétase|Chélation|Blocage de tau
+1794911041716|Microhémorragies|Atrophie|Calcifications
+1794911041717|Œdème|Démyélinisation|Infarctus
+1794911041721|Neuroleptique|Benzodiazépine|Contention
+1794911041722|Agitation légère|Troubles du sommeil|Systématique
+1794911041723|Hypothyroïdie|Anémie|Diabète
+1794911041725|Mnésique|Phasique|Praxique
+1794911041726|Démence sémantique|APP logopénique|Aphasie de Wernicke
+1794911041727|APP non fluente|Variante comportementale|Variante logopénique
+1794911041729|MAPT|GRN|PSEN1
+1794911041730|Aβ|α-synucléine|Prion
+1794911041731|Corps de Lewy|Corps de Hirano|Corps de Negri
+1794911041733|~10 %|~80 %|~25 %
+1794911041734|Rappel différé|Orientation|Dénomination
+1794911041736|Anticholinestérasiques vs mémantine|Antidépresseurs vs anxiolytiques|Lévodopa vs agonistes
+1794911041738|Réplication virale|Mutation somatique|Transmission synaptique
+1794911041739|Plaques amyloïdes|Démyélinisation|Gliose isolée
+1794911041740|PCR|ELISA|Western blot simple
+1794911041742|Blocage du récepteur|Activation du complément seul|Internalisation du récepteur
+1794911041743|Infection virale|Vaccination|Grossesse
+1794911041746|Cancer du côlon, mélanome|Cancer du sein, prostate|Lymphome, leucémie
+1794911041747|Hypométabolisme frontal|Hypométabolisme diffus|Normal
+1794911041749|Âge du patient|Antécédents familiaux|Score MMSE
+1794911041750|Attention|Mémoire|Langage
+1794911041751|Cortex préfrontal|Hippocampe|Cervelet
+1794911041752|Formation réticulée seule|Moelle|Cervelet
+1794911041753|Démence|Coma|Psychose aiguë
+1794911041754|Réveil possible|Localisation adaptée|Ouverture des yeux
+1794911041756|Coma végétatif|Locked-in syndrome|État de conscience minimale
+1794911041758|Pupilles, réflexes, respiration|Yeux, réflexes, motricité|Conscience, attention, mémoire
+1794911041760|Bulbe|Protubérance basse|Moelle cervicale
+1794911041761|Hémisphères|Bulbe|Moelle
+1794911041762|Sous-falcoriel|Amygdalien|Central
+1794911041764|Benzodiazépines|Atropine|Cocaïne
+1794911041765|Bulbaire|Protubérantielle|Mésencéphalique
+1794911041766|Hyperventilation|Cheyne-Stokes|Respiration apneustique
+1794911041769|Tronc cérébral|Infratentorielle focale|Unilatérale avec engagement
+1794911041770|Glycémie|EEG|CT cérébral
+1794911041771|Hématome sous-dural|AVC|Encéphalopathie de Wernicke
+1794911041773|Éveil, mémoire, langage|Motricité, sensibilité, vision|Orientation, calcul, langage
+1794911041774|Dopamine, sérotonine|GABA, glycine|Glutamate, histamine
+1794911041775|Occipital, temporal|Cervelet, tronc|Insula, cingulaire
+1794911041776|Cunéus|Gyrus angulaire|Lobule paracentral
+1794911041778|Aiguë, chronique, récidivante|Légère, modérée, sévère|Organique, psychogène, toxique
+1794911041779|Penfield et Jasper|Hubel et Wiesel|Sherrington
+1794911041780|Cortical, sous-cortical, médullaire|Métabolique, toxique, traumatique|Léger, modéré, profond
+1794911041782|Autoanamnèse|Anamnèse dirigée|Anamnèse familiale
+1794911041783|Échelle FOUR|Échelle de Rankin|Échelle de Ramsay
+1794911041784|Glasgow-Liège|NIHSS|Échelle de Ramsay
+1794911041785|E1|E3|E4
+1794911041786|V3|V5|V2
+1794911041787|M5|M4|M3
+1794911041788|M5|M3|M6
+1794911041789|M4|M6|M3
+1794911041790|M2|M4|M1
+1794911041791|M1|M3|M4
+1794911041793|Lumière vive immédiate|Patient debout|Après collyre mydriatique
+1794911041796|Noyau rouge, substance noire|Corps genouillé latéral, cortex occipital|Colliculus inférieur, noyau du VI
+1794911041797|Larges, aréactives|Ponctiformes|Asymétriques
+1794911041798|Petites, réactives|Ponctiformes|Larges, réactives
+1794911041801|Protubérance|Bulbe|Cervelet
+1794911041802|Bulbe seul|Hémisphères seuls|Cervelet + bulbe
+1794911041804|Cervelet, bulbe|Lobe frontal, insula|Protubérance, bulbe
+1794911041807|Tronc intact|Coma toxique bénin|Atteinte hémisphérique isolée
+1794911041809|Doigt directement sur l'œil|Lumière vive|Air chaud
+1794911041810|Mésencéphale|Diencéphale|Protubérance
+1794911041811|Mésencéphale|Protubérance|Diencéphale
+1794911041812|Atteinte bulbaire|Mort cérébrale|Atteinte mésencéphalique
+1794911041813|Bulbe|Hémisphères|Diencéphale
+1794911041814|Mésencéphale|Bulbe|Hémisphères
+1794911041815|Mésencéphale|Protubérance haute|Diencéphale
+1794911041817|Amphétamines|Cocaïne|Salicylés
+1794911041818|E4 V5 M6|E2 V2 M4|E1 V1 M1
+1794911041819|Bilirubine|Lipase|CRP
+1794911041820|T1 injecté|FLAIR seul|Angio-IRM
+1794911041821|Tremblement|Chorée|Dystonie
+1794911041823|Fièvre, raideur, céphalées|Amnésie, fabulation, fausses reconnaissances|Tremblement, rigidité, akinésie
+1794911041824|Syndrome de Wernicke|Syndrome de Marchiafava-Bignami|Myélinolyse centropontine
+1794911041825|Amygdale cérébelleuse|Gyrus cingulaire|Vermis
+1794911041826|Uncus|Amygdale cérébelleuse|Hippocampe
+1794911041828|Mydriase unilatérale|Hémiparésie|Paralysie du VI
+1794911041829|Asymétrique, latéral|Brutal, bulbaire d'emblée|Caudo-rostral
+1794911041830|Ponctiformes|Mydriase unilatérale|Myosis réactif
+1794911041832|Syndrome alterne|Phénomène de Todd|Signe de Babinski croisé
+1794911041833|> 38 °C|> 37,5 °C|> 39 °C
+1794911041835|Protéines|Sodium|Chlorure
+1794911041836|Diabète|HTA|Leucémie
+1794911041838|Méningite à pneumocoque|Encéphalite herpétique|Paludisme

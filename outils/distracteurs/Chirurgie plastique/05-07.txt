@@ -1,0 +1,208 @@
+1795080821685|Lipome, kyste, verrue|Nævus, angiome, chéloïde|Lymphome, sarcome, Merkel
+1795080821686|Mélanome|Carcinome spinocellulaire|Carcinome de Merkel
+1795080821687|Kératinocytes de la couche cornée|Mélanocytes|Cellules de Langerhans
+1795080821688|Fulgurante|Métastatique précoce|Régressive spontanée
+1795080821689|Tabac, alcool|Virus HPV, VIH|Brûlures, cicatrices
+1795080821691|Membres inférieurs|Tronc|Muqueuses
+1795080821692|1|10|2
+1795080821693|Pigmentation noire irrégulière|Corne cutanée|Ulcération centrale rapide
+1795080821695|Chimiothérapie, immunothérapie|Antibiotiques, AINS|Laser, peeling
+1795080821697|Radiothérapie|Cryothérapie|Surveillance
+1795080821699|Ulcère de Marjolin|Mélanose de Dubreuil|Kératoacanthome
+1795080821701|Basocellulaire|Adénocarcinome|Mélanocytaire
+1795080821702|Femme jeune exposée au soleil|Sujet immunodéprimé|Enfant
+1795080821703|Vulve, anus|Conjonctive|Œsophage
+1795080821705|Ulcus rodens|Kératoacanthome|Mélanose de Dubreuil
+1795080821708|Mesurer l'épaisseur|Exclure une infection|Faire un ganglion sentinelle systématique
+1795080821710|Moins fréquent, plus âgé|Stable|En régression
+1795080821712|Attribué à une mycose|Attribué au tabac|Attribué au vieillissement
+1795080821713|Nævus bleu|Kératose actinique|Maladie de Bowen
+1795080821714|Mélanome nodulaire|Acrolentigineux|Mélanome de Dubreuil
+1795080821716|Étendue|Épaisseur|Érythème
+1795080821718|Épaisseur en mm|Nombre de mitoses|Taille en surface
+1795080821720|Derme papillaire|Hypoderme|Derme réticulaire
+1795080821721|Zone jonctionnelle|Hypoderme|Derme réticulaire entier
+1795080821722|Derme papillaire|Hypoderme|Zone jonctionnelle
+1795080821725|< 0,1 mm|< 4 mm|< 2 mm
+1795080821726|< 1 mm|> 4 mm|0,1 à 0,5 mm
+1795080821727|> 1 mm|> 0,5 mm|> 2 mm
+1795080821728|Biopsie au punch partielle|Exérèse large d'emblée|Surveillance
+1795080821730|Exérèse + curage systématique|Radiothérapie|Surveillance
+1795080821731|Scanner seul|Curage systématique|Radiothérapie
+1795080821735|Traiter les métastases|Remplacer l'exérèse|Diminuer la marge
+1795080821736|Hématome|Infection|Thrombose
+1795080821737|Basocellulaire|Mélanome|Lipome
+1795080821739|0,5 cm|10 cm|1 cm
+1795080821740|1 cm|20 cm|3 cm
+1795080821741|Suture directe|Lambeau libre obligatoire|Cicatrisation dirigée
+1795080821742|Dur, adhérent|Pulsatile, rouge|Douloureux, ulcéré
+1795080821743|Un antibiotique|Une marge de 2 cm|Un drain
+1795080821744|Maladie de Dupuytren|Folliculite|Kyste pilonidal
+1795080821745|Visage, cuir chevelu|Mains, pieds|Dos
+1795080821746|Léiomyome du biceps|Lipome du deltoïde|Rhabdomyosarcome du biceps
+1795080821747|Abcès dentaire|Furoncle|Érysipèle
+1795080821748|I (auriculaire) à V|A à E|1 (index) à 5
+1795080821749|TM, MP, IP|MP, IP|CMC, MP, IPD
+1795080821750|MP, IPP, IPD|MP, IP seulement|CMC, IPP, IPD
+1795080821751|90°|180°|−10°
+1795080821752|En positif|En degrés de flexion|Pas noté
+1795080821753|Kapandji|Tubiana|Verdan
+1795080821754|0/45°|0/150°|0/30°
+1795080821756|0/45°|0/150°|0/70°
+1795080821757|Active|Fonctionnelle|Globale
+1795080821758|Camptodactylie|Syndactylie|Brachydactylie
+1795080821759|Clinodactylie|Polydactylie|Ectrodactylie
+1795080821761|1|3|4
+1795080821762|Base de P3|P1|Métacarpe
+1795080821763|P2|P1|Métacarpe
+1795080821765|Insertion des tendons|Vascularisation de l'os|Protection contre les fractures
+1795080821766|Index et majeur|Majeur et annulaire|Aucun
+1795080821768|Court fléchisseur du pouce|Fléchisseur profond|Long abducteur
+1795080821769|Poulie A5|Poulie cruciforme C4|Poulie A3
+1795080821771|Interosseux seuls|Lombricaux seuls|Fléchisseurs
+1795080821773|Base de P3|Base de P1|Tête de métacarpe
+1795080821774|Base de P2|Base de P1|Métacarpe
+1795080821775|FPL et APL|EIP et EDC|EDM et ECU
+1795080821776|Adduction|Flexion des IP|Opposition
+1795080821779|Extension|Abduction seule|Aucune action
+1795080821780|3 à 5 %|80 à 90 %|10 %
+1795080821784|Taille de la plaie|Âge du patient|Antibiothérapie
+1795080821785|7 jours|1 mois|1 heure
+1795080821786|Urgence absolue|Programmée à 1 mois|Aucune urgence
+1795080821787|Semi-urgence (1 semaine)|Programmée|Aucune urgence
+1795080821788|Semi-urgence|Programmée|Urgence relative (48 h)
+1795080821790|Éviter l'infection|Accélérer la cicatrisation cutanée|Éviter la douleur
+1795080821791|Suture cutanée|Réparation nerveuse|Réparation tendineuse
+1795080821793|Esthétique|Éviter la douleur|Raccourcir l'hospitalisation
+1795080821794|Éviter l'infection|Accélérer la consolidation osseuse|Réduire la douleur
+1795080821796|Fléchir le poignet|Bloquer l'IPD|Mettre le doigt en hyperextension
+1795080821797|Première semaine|Premier mois|Six premières heures obligatoirement
+1795080821798|Paume|Poignet|Avant-bras
+1795080821799|Ténodèse|Ténotomie|Arthrolyse
+1795080821802|Douleur nocturne|Engourdissement|Œdème
+1795080821803|Chirurgie d'emblée|Infiltration|Rien
+1795080821804|Anesthésie générale|Bloc axillaire|Anesthésie au garrot sans adrénaline
+1795080821805|Boutonnière|Doigt à ressaut|Col de cygne
+1795080821807|Chirurgie immédiate|Infiltration|Attelle en flexion
+1795080821808|> 5°|> 90°|> 20°
+1795080821810|Arthrose|Diabète|Goutte
+1795080821811|Ostéosynthèse|Colle biologique seule|Laser
+1795080821813|Suture sous tension|Abandon|Ligature
+1795080821814|1 cm/j|1 mm/mois|1 µm/j
+1795080821816|Neurinome bénin|Ganglion|Schwannome
+1795080821818|Au niveau de la MP|À la base du doigt|En zone II
+1795080821819|Os plus solide|Pas de nerf|Pas de vaisseau
+1795080821821|Âge jeune|Sexe masculin|Profession manuelle
+1795080821823|50 %|80 %|10 %
+1795080821824|Lipome|Tumeur glomique|Enchondrome
+1795080821825|Lipome|Chondrome|Hémangiome
+1795080821826|20 %|50 %|10 %
+1795080821827|2,2 / 1000 / an|22 / 10⁶ / an|0,2 / 10⁹ / an
+1795080821831|Toujours, systématiquement|Jamais|Risque de malignité
+1795080821834|Lipome|Kyste synovial|Tumeur glomique
+1795080821837|Risque de malignité|Toujours|Jamais
+1795080821838|Inflammation articulaire|Infection|Fracture
+1795080821839|Dégénérescence du cartilage|Fracture|Infection osseuse
+1795080821840|Index et auriculaire|Majeur et index|Auriculaire et pouce
+1795080821841|Rupture du tendon|Arthrose|Kyste synovial
+1795080821842|Chirurgie d'emblée|Attelle permanente|Antibiotiques
+1795080821844|Nerf ulnaire|Nerf radial|Nerf musculo-cutané
+1795080821846|Fracture du scaphoïde|Kyste synovial dorsal|Arthrose TM
+1795080821849|Auriculaire, annulaire|Dos de la main|Pouce seul
+1795080821851|Tinel|Froment|Finkelstein
+1795080821852|Phalen|Durkan|Finkelstein
+1795080821853|Radiographie|IRM|Échographie seule
+1795080821854|Test de Phalen|EMG systématique|IRM
+1795080821855|Neurolyse du nerf ulnaire|Section du nerf|Ténolyse
+1795080821858|Métacarpo-phalangienne|Scapho-trapézo-trapézoïdienne|Interphalangienne
+1795080821859|Radio-carpien|Médio-carpien|Pisi-triquétral
+1795080821860|Signe de Tinel|Signe de Froment|Signe de Finkelstein
+1795080821861|Luxation complète|Fracture|Ankylose
+1795080821863|Trapézectomie d'emblée|Prothèse d'emblée|Arthrodèse
+1795080821865|Perte de mobilité|Infection|Récidive
+1795080821867|Coude|Épaule|Doigts longs
+1795080821869|Trapézectomie|Infiltration à vie|Amputation
+1795080821870|Douleur|Instabilité|Infection
+1795080821871|Fléchisseurs|Gaines synoviales|Ligament annulaire du carpe
+1795080821873|IRM|Échographie|Radiographie
+1795080821874|Tabac|Cannabis|Café
+1795080821877|Fasciectomie totale|Amputation|Radiothérapie
+1795080821878|Collagénase|Aponévrotomie à l'aiguille|Attelle
+1795080821880|Retirer toute l'aponévrose|Greffer la peau|Allonger les tendons
+1795080821881|Brutal vs progressif|Identiques|Douloureux vs indolore
+1795080821882|Moins chère|Sans injection|Définitive
+1795080821883|10 à 20 %|0,1 %|5 %
+1795080821884|50 %|1 %|90 %
+1795080821886|10e jour|56e jour|90e jour
+1795080821887|26e jour|100e jour|30e jour
+1795080821888|12e à 16e semaine|1re à 2e semaine|20e à 24e semaine
+1795080821889|À la naissance|≈ 10 ans|≈ 5 ans
+1795080821890|Polydactylie|Main bote radiale|Brachydactylie
+1795080821891|1 / 20|1 / 200 000|1 / 200
+1795080821893|0 %|90 à 100 %|1 à 2 %
+1795080821895|Excès de peau|Absence de tendons|Absence d'os
+1795080821896|Clinodactylie|Syndactylie|Camptodactylie
+1795080821897|Main bote cubitale|Ectrodactylie|Syndactylie
+1795080821898|Exceptionnelle|Jamais|Constante
+1795080821899|12e semaine|2e semaine|20e semaine
+1795080821900|Épaisseur seule|Couleur|Taille
+1795080821902|Du donneur|De la colle|Du pansement
+1795080821903|Allogreffe|Xénogreffe|Isogreffe
+1795080821907|Petites plaies|Visage|Doigts
+1795080821908|Épiderme + derme complet|Épiderme seul|Derme seul
+1795080821909|Épiderme + tout le derme|Épiderme seul|Épiderme + hypoderme
+1795080821910|Épiderme + derme papillaire|Épiderme seul|Derme + muscle
+1795080821913|Pendant la cicatrisation|Après 1 an|Jamais
+1795080821914|Au prélèvement|À la pose|Jamais
+1795080821915|Peu de rétraction, bel aspect|Pas de prélèvement|Bonne résistance
+1795080821916|Plusieurs mois|Suture obligatoire|Jamais
+1795080821918|Cicatrisation spontanée|Greffe secondaire|Pansement simple
+1795080821919|Greffe fine|Greffe en filet expansée|Allogreffe
+1795080821922|Bien vascularisés|Granulation saine|Plan musculaire
+1795080821923|Infection, hématome, mobilisation|Plaie sèche, chaleur|Pansement sec, mouvement
+1795080821925|Bourdonnet|Dermabrasion|Expansion
+1795080821926|Réduire la douleur|Meilleure esthétique|Éviter la rétraction
+1795080821927|Op-Site|Meshage|Tulle gras seul
+1795080821928|Bourdonnet|Sulfadiazine|Tulle gras + compresses humides
+1795080821929|Op-Site|Alginate sec|Rien
+1795080821930|1 semaine|1 mois|2 heures
+1795080821934|Rose, adhérente|Rouge, chaude|Brune, souple
+1795080821935|Alcool|Séchage à l'air|Antibiotique oral
+1795080821937|Plus rapide|Plus simple|Moins de cicatrices
+1795080821938|Libre|Random|Greffé
+1795080821939|Pédiculé|Random|Expansé
+1795080821940|Axial|Libre|Perforant
+1795080821941|Random|Expansé|Greffé
+1795080821943|Lambeau bilobé|Plastie en Z|V-Y
+1795080821945|Avancement|Transposition|Libre
+1795080821946|Rotation|Transposition|Libre
+1795080821948|Lèvre|Cuir chevelu|Doigt
+1795080821949|Nez|Paupière|Cuir chevelu
+1795080821951|Muscle|Os|Derme
+1795080821953|DIEP|Grand dorsal|Gastrocnémien
+1795080821954|Volume esthétique|Force|Protection osseuse
+1795080821958|Escarre sacrée|Ostéomyélite tibiale|Reconstruction du sein
+1795080821959|Circonflexe scapulaire|Thoracique interne|Axillaire
+1795080821960|Thoraco-dorsal|Fémoral profond|Obturateur
+1795080821961|Escarre sacrée|Reconstruction mammaire|Face
+1795080821962|Escarre sacrée|Reconstruction du sein|Main
+1795080821963|Radius → doigt|Côte → crâne|Crête iliaque → nez
+1795080821965|Sacrifier le muscle|Utiliser un greffon|Prélever l'os
+1795080821966|Grande morbidité|Peu fiable|Muscle sacrifié
+1795080821967|TRAM pédiculé|Grand dorsal|Grand pectoral
+1795080821968|Lambeau libre|Lambeau random|Lambeau perforant
+1795080821969|Escarre sacrée|Plaie du pied|Brûlure de la main
+1795080821970|Taylor et Palmer|Breslow et Clark|Mathes et Taylor
+1795080821971|1 seul pédicule|2 pédicules dominants|Pédicules segmentaires seuls
+1795080821972|Gastrocnémien|Grand dorsal|Tenseur du fascia lata
+1795080821973|Grand pectoral + grand dorsal|Grand fessier + gracile|Gastrocnémien + soléaire
+1795080821974|Grand dorsal|DIEP|Péroné
+1795080821975|Elle est double|Elle repousse|Elle n'irrigue pas la main
+1795080821977|≈ 50 %|≈ 75 %|≈ 100 %
+1795080821979|Infection|Thrombose artérielle|Hématome
+1795080821981|Doppler seul|Radiographie|Prise de température rectale
+1795080821982|Thrombose veineuse|Thrombose artérielle|Infection
+1795080821983|Thrombose veineuse|Lambeau sain|Infection
+1795080821984|Thrombose artérielle|Lambeau sain|Infection
+1795080821985|Taille du lambeau|Antibiotiques|Âge du patient
+1795080821986|Greffe|Suture directe|Cicatrisation dirigée

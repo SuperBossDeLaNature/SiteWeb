@@ -1,0 +1,211 @@
+1794911041284|Tumorale|Inflammatoire|Psychogène
+1794911041285|Face supérieure|Face entière|Front uniquement
+1794911041287|Spino-thalamique|Lemniscale|Cérébelleuse
+1794911041288|Rigidité|Dystonie|Paratonie
+1794911041289|Cortex moteur|Moelle cervicale|Cervelet
+1794911041291|Aphasie de Wernicke|Aphasie de conduction|Aphasie transcorticale sensorielle
+1794911041292|Pariétale gauche|Frontale droite|Occipitale gauche
+1794911041293|Chiasma optique|Nerf optique homolatéral|Rétine
+1794911041294|Hémianopsie latérale homonyme|Cécité monoculaire|Quadranopsie supérieure
+1794911041296|1–2 h|1 semaine|15 min
+1794911041298|Cœur ischémique|Zone d'oligémie bénigne|Territoire jonctionnel
+1794911041299|Antiagrégation double|Anticoagulation curative|Corticothérapie
+1794911041301|Crosse aortique|Artère vertébrale|Carotide interne intracrânienne
+1794911041302|VI homolatéral + hémiparésie controlatérale|III controlatéral + hémiparésie homolatérale|VII homolatéral + hémianesthésie
+1794911041303|Pont médian|Mésencéphale|Bulbe médian
+1794911041306|Hématome hypertensif|Cavernome|Rupture d'anévrisme
+1794911041307|Rupture de MAV|Traumatisme|Angiopathie amyloïde
+1794911041308|Communicante antérieure|Cérébrale moyenne|Basilaire
+1794911041309|3e|10e|5e
+1794911041310|Quoi ?|Pourquoi ?|Quand ?
+1794911041311|Signe de Brudzinski|Signe de Lasègue|Signe de Lhermitte
+1794911041312|Signe de Kernig|Signe de Babinski|Signe de Hoffmann
+1794911041313|Élévation du bras|Supination + extension|Tremblement
+1794911041314|Lasègue|Romberg|Fukuda
+1794911041315|ASIA|NIHSS|Ashworth
+1794911041318|Cérébrale antérieure|Cérébrale postérieure|Basilaire
+1794911041320|Hypertrophie vraie|Œdème|Myosite
+1794911041321|Périphérique|Musculaire|Jonction neuromusculaire
+1794911041323|Réflexe de grasping|Réflexe de succion|Réflexe naso-palpébral
+1794911041324|Occipitale|Cérébelleuse|Médullaire
+1794911041325|Synaptogenèse|Apoptose|Neurogenèse
+1794911041327|Antérieur|Genou|Rétro-lenticulaire
+1794911041328|Mésencéphale|Moelle cervicale|Pont
+1794911041329|Aphasie, apraxie|Hémianopsie, négligence|Diplopie, dysphagie
+1794911041330|≥ 3 mots|≥ 30 mots|≥ 20 mots
+1794911041331|Aphasie|Dysphonie|Apraxie
+1794911041333|44 et 45|17 et 18|4 et 6
+1794911041334|Corps calleux|Faisceau unciné|Capsule interne
+1794911041337|Broca|Globale|Transcorticale motrice
+1794911041338|Wernicke|Broca|Conduction
+1794911041340|Anosognosie|Prosopagnosie|Agraphesthésie
+1794911041341|Hémiasomatognosie|Apraxie|Aphasie
+1794911041344|Atteinte maculaire|Cécité monoculaire|Quadranopsie associée
+1794911041345|HLH gauche|Hémianopsie bitemporale|Cécité gauche
+1794911041346|Frontal + pariétal|Temporal supérieur + insula|Noyaux gris centraux
+1794911041347|Face latérale de l'hémisphère|Lobe occipital|Thalamus
+1794911041349|Valvulopathie mitrale|Endocardite|Foramen ovale perméable
+1794911041350|Lacunaire|Athérothrombotique|Cardio-embolique
+1794911041352|Coronarographie|ETO seule|Épreuve d'effort
+1794911041353|NIHSS|Glasgow|Barthel
+1794911041354|1 h|24 h|9 h
+1794911041356|Bénéfice maximal|Thrombectomie obligatoire|Aucune conséquence
+1794911041357|Vasospasme|Hyperthermie|Œdème vasogénique
+1794911041358|Unité de soins palliatifs|Soins intensifs généraux|Unité de rééducation
+1794911041359|Escarre|Thrombose veineuse|Infection urinaire
+1794911041360|Bêtabloquant seul|Inhibiteur calcique seul|Diurétique de l'anse
+1794911041361|Fibrate|Ézétimibe seul|Oméga-3
+1794911041362|Clopidogrel → AAS → AVK|AVK → AAS → clopidogrel|AAS + clopidogrel → AAS → clopidogrel
+1794911041365|Vasculite|Moyamoya|CADASIL
+1794911041369|Droit externe + oblique sup|Oblique sup + droit sup|Tous les oculomoteurs
+1794911041370|III|IV|VII
+1794911041371|Mésencéphale|Bulbe|Thalamus
+1794911041372|V, VII, IX, XI|I, II, V, VIII|IV, VII, IX, X
+1794911041373|Spinothalamique, spinocérébelleux, sympathique|Rubro-spinal, tecto-spinal, vestibulo-spinal|Cortico-spinal, spinothalamique, lemnisque médian
+1794911041374|Cortico-spinal, lemnisque médian, FLM|Rubro-spinal, réticulo-spinal|Cordons postérieurs
+1794911041375|III, IV, V, VI|V, VI, VII, VIII|I, II, III, IV
+1794911041377|Face et corps homolatéraux|Face controlatérale, corps homolatéral|Hémicorps controlatéral seul
+1794911041378|Faisceau cortico-spinal|Noyau du III|Faisceau spinocérébelleux
+1794911041379|VII et VIII|XI et XII|V et VII
+1794911041382|Head turn, nystagmus, saccades|Hearing, imaging, nausea, tone|Hallpike, Index, Nystagmus, Swing
+1794911041384|Horizontal, épuisable, unidirectionnel|Rotatoire pur, inhibé par la fixation|Battant vers le côté sain
+1794911041387|Dysharmonieux|Central|Mixte
+1794911041388|Proprioceptive|Cérébelleuse|Psychogène
+1794911041389|Vestibulaire|Cérébelleuse|Pyramidale
+1794911041391|Test de Romberg|Test de Babinski-Weil|Manœuvre de Dix-Hallpike
+1794911041392|Névrite vestibulaire|VPPB|Maladie de Ménière
+1794911041393|Artères corticales|Artère basilaire|Artères vertébrales
+1794911041394|Cérébelleux|Parkinsonien|Neuropathique
+1794911041395|Antérieure|Profonde|Infratentorielle
+1794911041396|Anticoagulants|Chirurgie|Antiagrégants
+1794911041398|Vasospasme|Dissection|MAV
+1794911041399|Craniotomie|Corticoïdes|Antiagrégants
+1794911041400|EEG|PL|Doppler transcrânien
+1794911041401|Astéréognosie|Apraxie|Agnosie visuelle
+1794911041402|Agraphesthésie|Prosopagnosie|Anosognosie
+1794911041403|Écholalie|Persévération|Grasping
+1794911041404|Test de Stroop|Trail Making Test|Test de l'horloge
+1794911041405|Glaucome aigu|Névrite optique|Cellulite orbitaire simple
+1794911041406|II, III, IV|V, VI, VII|III, IV, VII
+1794911041408|HSA|Migraine avec aura|AVC ischémique
+1794911041409|Hypothyroïdie, Cushing|Diabète, ménopause|Hyperprolactinémie, acromégalie
+1794911041410|Méningocoque|Listeria|Haemophilus
+1794911041411|IRM|Angiographie|EEG
+1794911041413|Faire baisser la TA|Traiter l'hydrocéphalie|Prévenir l'épilepsie
+1794911041415|Frontale|Temporale|Infratentorielle
+1794911041416|Céphalées, fièvre, raideur|Hémiplégie, aphasie, ataxie|Diplopie, vertiges, surdité
+1794911041417|Méthotrexate, azathioprine|Rituximab, natalizumab|Mycophénolate, corticoïdes
+1794911041418|Placenta prævia|Diabète gestationnel|Hyperemesis gravidarum
+1794911041419|Pulsatile progressive|En casque|Orthostatique
+1794911041424|Vasculaire, traumatique, épileptique|Migraineux, psychogène, toxique|Métabolique, iatrogène, génétique
+1794911041425|Douleur, température|Motricité volontaire|Tact grossier
+1794911041427|Homolatéral|Bilatéral|Absent
+1794911041428|Thermo-algique|Motrice|Sphinctérienne
+1794911041429|Vitamine B1|Vitamine D|Vitamine B6
+1794911041431|CT|Myélographie|EMG
+1794911041432|Poser|Barkhof|Kurtzke
+1794911041433|Dissémination dans le temps|Diagnostic intrathécal spécifique|Démyélinisation isolée
+1794911041434|Protéinorachie|Pléiocytose|Glycorachie
+1794911041436|5 %|95 %|10 %
+1794911041437|NMO|LEMP|Encéphalite herpétique
+1794911041440|Immunoglobulines IV d'emblée|Natalizumab|Antibiotiques
+1794911041442|Toxoplasmose|Cryptococcose|Encéphalite herpétique
+1794911041443|Neuropathie optique ischémique|Glaucome aigu|Décollement de rétine
+1794911041444|Noyau du III|Noyau du VI|Nerf IV
+1794911041445|AVC|Myasthénie|Tumeur
+1794911041446|Anti-MOG|Anti-NMDA|Anti-Hu
+1794911041448|Quelques secondes|Quelques mois|Quelques années
+1794911041449|Nerfs périphériques|Muscles|Jonction neuromusculaire
+1794911041450|Monofilament|Marteau réflexe|Épingle
+1794911041451|Spinothalamique|Rubro-spinal|Cordon postérieur
+1794911041452|Cortico-spinal latéral|Réticulo-spinal|Tecto-spinal
+1794911041454|Postérieur|Antérieur|Central
+1794911041456|Homolatéral sous-lésionnel|Absent|Controlatéral sus-lésionnel
+1794911041457|Monoxyde de carbone|Méthanol|Éthylène glycol
+1794911041458|Méningiome|Hernie discale|Myélite
+1794911041460|Paraplégie|Hémiplégie|Monoplégie
+1794911041461|Visuels, auditifs, olfactifs|Cognitifs, comportementaux|Cérébelleux, oculomoteurs
+1794911041462|Traumatique, vasculaire|Héréditaire, dégénérative|Médicamenteuse, toxique
+1794911041464|Trois ou plus|Toute la moelle|Deux
+1794911041465|Toujours progressive d'emblée|Monophasique|Fatale en 1 an
+1794911041468|< 50/µL|< 500/µL|0 strict
+1794911041470|EEG, PEV, IRM|Clinique, EMG, PL|IRM seule
+1794911041471|IRM, BOC|Clinique, PEV|LCR seul
+1794911041473|SEP|NMO|Myélite infectieuse directe
+1794911041476|Grise|Corticale|Périphérique
+1794911041477|Intrathécale|Intramusculaire|Topique
+1794911041478|Uniquement humorale|Uniquement cellulaire|Ni l'une ni l'autre
+1794911041481|Glaucome|Cataracte|Uvéite
+1794911041482|Anti-CD20|Modulateur S1P|Anti-CD52
+1794911041483|Sérologie JC négative|Âge > 50 ans|Grossesse
+1794911041484|Infection|Leucopénie|Hépatotoxicité
+1794911041487|Fingolimod, cladribine|Natalizumab, ocrélizumab|Interféron, glatiramère
+1794911041488|Allogreffe de moelle|Greffe de foie|Thymectomie
+1794911041489|PIRA|SPMS|NEDA
+1794911041490|RAW|CIS|RIS
+1794911041493|Amplitude N20 réduite|Latence P100 raccourcie|Onde V absente
+1794911041494|Œdème papillaire|Hémorragies rétiniennes|Excavation glaucomateuse
+1794911041497|Noyau du III|Noyau du IV|Cervelet
+1794911041498|Aquaporine 4|Récepteur NMDA|Myéline périphérique
+1794911041499|Unilatérale, antérieure, bénigne|Absente|Unilatérale, récidivante
+1794911041500|Bilatérale, chiasmatique|Toujours absente|Bilatérale postérieure
+1794911041502|L'enfant|La personne âgée|La femme enceinte
+1794911041504|Dentelé|Fastigial|Vestibulaire
+1794911041505|Ataxie cinétique unilatérale|Tremblement de repos|Ataxie statique isolée
+1794911041506|Dysarthrie|Nystagmus|Ataxie cinétique
+1794911041507|Ataxie statique|Nystagmus vertical|Tremblement de repos
+1794911041508|Dysmétrie|Asynergie|Adiadococinésie
+1794911041509|Hypophone, monotone|Nasonnée, spastique|Explosive, chuchotée
+1794911041511|Maladie de Crohn|Rectocolite hémorragique|Pancréatite chronique
+1794911041512|Anti-Hu|Anti-Ri|Anti-NMDA
+1794911041514|Action|Posture|Intention
+1794911041515|Repos uniquement|Intention uniquement|Sommeil
+1794911041517|Tremblement, ataxie, dysarthrie|Rigidité, spasticité, hyperréflexie|Akinésie, dystonie, chorée
+1794911041518|Lame de canif|Paratonie|Hypotonie
+1794911041520|Macrographie|Dysgraphie|Agraphie
+1794911041521|Noyau caudé|Pallidum|Noyau sous-thalamique
+1794911041522|Plaques amyloïdes|Corps de Pick|Dégénérescences neurofibrillaires
+1794911041524|Agoniste dopaminergique|Anticholinergique|IMAO-B
+1794911041525|Lévodopa|Anticholinergique|Amantadine
+1794911041527|Dystonies OFF|Myoclonies|Tremblement
+1794911041528|Hallucinations|Prise de poids|Hypersomnie
+1794911041529|Tremblement de repos|Micrographie|Hyposmie
+1794911041531|Lévodopa, agonistes|Clonazépam, baclofène|Amantadine, anticholinergiques
+1794911041533|Tremblement essentiel|Tremblement parkinsonien|Tremblement cérébelleux
+1794911041534|AMS|Démence à corps de Lewy|Parkinson idiopathique
+1794911041535|PSP|Dégénérescence cortico-basale|Maladie de Huntington
+1794911041536|PSP|AMS|Démence à corps de Lewy
+1794911041537|Arythmique|Brusque|Continu
+1794911041538|Essentiel|Physiologique|Psychogène
+1794911041540|Amplitude croissante|Fréquence variable|Survient au repos
+1794911041541|Hypothyroïdie, bradycardie|Sommeil, repos|Froid, jeûne court
+1794911041542|MI, tronc, menton|Visage, tronc|Pieds, mâchoire
+1794911041543|Tête, voix|Tronc|Langue
+1794911041546|Freezing|Rétropulsion|Marche talonnante
+1794911041547|Manœuvre de Jendrassik|Manœuvre de Barré|Manœuvre de Romberg
+1794911041548|Akinésie|Dysarthrie|Hypophonie
+1794911041549|Akinésie|Hypokinésie|Dyskinésie
+1794911041550|Romberg|Test de Fukuda|Test d'Unterberger
+1794911041551|PET-FDG|Scintigraphie myocardique|SPECT de perfusion
+1794911041552|Agoniste dopaminergique|IMAO-A|Anticholinergique
+1794911041554|IMAO-B|Inhibiteurs de la COMT|Anticholinergiques
+1794911041556|ON|Freezing|Dyskinésie
+1794911041557|Arrêter la lévodopa|Ajouter un neuroleptique|Augmenter la dose unique
+1794911041559|Patch transdermique|Injection IM hebdomadaire|Comprimés LP
+1794911041560|Hypertension|Bradycardie|Allongement du QT
+1794911041561|Dépression|Anxiété|Mutisme
+1794911041565|Thalamotomie bilatérale|Toxine botulique|Lévodopa
+1794911041568|Dystonie aiguë|Syndrome malin|Akathisie
+1794911041570|Dyskinésie tardive|Akathisie|Syndrome malin
+1794911041571|Flécaïnide|Digoxine|Sotalol
+1794911041572|Corticoïdes inhalés|Anticholinergiques|Antileucotriènes
+1794911041573|Corticoïdes|Antimétabolites|Anti-CD20
+1794911041574|Valproate|Lamotrigine|Carbamazépine
+1794911041576|Tics|Chorée|Tremblement
+1794911041578|Saccades horizontales|Convergence|Poursuite horizontale
+1794911041580|Visuel, auditif, olfactif, gustatif|Cortical, sous-cortical, médullaire, périphérique|Pyramidal, sensitif, cognitif, visuel
+1794911041581|Maladie d'Alzheimer|PSP|Parkinson idiopathique
+1794911041584|Hypotension du LCR|Méningite chronique|Hydrocéphalie obstructive
+1794911041585|Plomb, mercure|Arsenic, thallium|Alcool, cannabis
+1794911041586|Atrophie corticale|Infarctus unique|Leucopathie isolée
+1794911041587|Antihistaminiques|Sétrons|Corticoïdes

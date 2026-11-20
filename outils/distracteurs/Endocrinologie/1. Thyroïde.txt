@@ -1,0 +1,158 @@
+1731945200001|4 à 10 ml|20 à 30 ml|25 à 40 ml
+1731945200002|H × L × E × 0,72|H × L × E × 0,33|(H + L + E) × 0,52
+1731945200004|2e poche pharyngée|4e poche pharyngée|Plancher du 3e arc branchial
+1731945200005|6e–7e semaine|10e–12e semaine|1re–2e semaine
+1731945200006|Canal de Wirsung|Canal de Sténon|Canal de Wharton
+1731945200007|Kyste branchial|Thyroïde linguale fonctionnelle|Agénésie thyroïdienne
+1731945200009|6–8 semaines|20–22 semaines|28–30 semaines
+1731945200012|Inhibition de la croissance, apoptose|Différenciation seule, sans prolifération|Stockage de la colloïde uniquement
+1731945200013|Tryptophane|Phénylalanine|Méthionine
+1731945200014|50–70 µg/j|300–400 µg/j|1 mg/j
+1731945200015|Pendrine|TPO (thyroperoxydase)|DUOX2
+1731945200016|~4×|~400×|~2×
+1731945200018|DUOX2 (oxydase double)|DIO1 (désiodinase 1)|NIS (symporteur Na/I)
+1731945200019|T4|rT3|DIT
+1731945200020|T3|rT3|MIT
+1731945200021|Transport plasmatique + stockage|Précurseur + récepteur de la TSH|Enzyme d'iodation + stockage
+1731945200024|T4|rT3|TSH
+1731945200025|0,2 %|2 %|0,002 %
+1731945200026|0,02 %|2 %|20 %
+1731945200027|Albumine|Transthyrétine|Thyroglobuline
+1731945200028|DIO2 et DIO3|DIO3 seule|DIO1 et DIO3
+1731945200029|DIO1|DIO2|TPO
+1731945200031|NIS, pendrine, DUOX|GLUT1, GLUT4, MCT1|OATP1B3, NTCP, MDR1
+1731945200032|Récepteur membranaire couplé aux protéines G|Récepteur tyrosine kinase|Canal ionique
+1731945200033|Foie, hypophyse, rétine|Cerveau, rein, foie|Thyroïde, os, peau
+1731945200034|Cœur, intestin, muscle|Os, muscle, tissu adipeux|Rein, cœur, peau
+1731945200035|Excrétion urinaire inchangée|Oxydation mitochondriale|Hydroxylation rénale
+1731945200037|1/30 000 naissances|1/300 naissances|1/100 000 naissances
+1731945200038|Dyshormonogenèse|Carence iodée maternelle|Passage d'anticorps maternels
+1731945200039|Médiastinale|Ovarienne|Intra-trachéale
+1731945200040|Autosomique dominant|Lié à l'X|Mitochondrial
+1731945200042|Dosage de la thyroglobuline au cordon|Échographie cervicale néonatale|Test de Guthrie (anti-TPO)
+1731945200044|> 5 mUI/L|> 100 mUI/L|> 10 mUI/L
+1731945200045|> 20 mUI/L|> 10 mUI/L|> 100 mUI/L
+1731945200046|Avant J3|Avant J60|Avant 6 mois
+1731945200047|Hypothyroïdie congénitale non dépistée|Carence en fer|Infection à CMV
+1731945200048|Excès d'iode prénatal|Hypothyroïdie auto-immune maternelle|Dysgénésie thyroïdienne
+1731945200049|> 1 % de la population|> 20 % de la population|> 10 % de la population
+1731945200051|Hyperthyroïdie induite par excès d'iode|Échappement à l'inhibition par l'iode|Inhibition de la conversion T4 → T3
+1731945200053|Hypothyroïdie après surcharge iodée|Inhibition de la synthèse d'HT par excès d'iode|Hyperthyroïdie après carence iodée
+1731945200057|FT4 seule|TSH + FT4 + FT3|Anti-TPO
+1731945200059|1 %|25 %|50 %
+1731945200061|Même sens (tests concordants)|Inverse (tests discordants)|Même sens (tests discordants)
+1731945200062|Origine primaire (tests concordants)|Origine centrale (tests concordants)|Résistance périphérique (tests concordants)
+1731945200063|TSH ↑, FT4 ↓|TSH N, FT4 ↓|TSH ↓, FT4 ↓
+1731945200064|TSH ↓, FT4 ↑|TSH N, FT4 ↑|TSH ↑, FT4 N
+1731945200066|↓ TBG|Aucun effet sur la TBG|↑ albumine seule
+1731945200068|↑ TBG|Aucun effet sur la TBG|↑ transthyrétine
+1731945200069|TSH ↑, T4 ↓|T4 ↑, T3 N|TSH ↓, T3 ↑
+1731945200070|Hashitoxicose|Syndrome de Refetoff|Syndrome de Pendred
+1731945200072|Corticoïdes, dopamine|Lithium, amiodarone|Métformine, statines
+1731945200073|Métoclopramide, dompéridone|Lithium, amiodarone|Œstrogènes, tamoxifène
+1731945200074|Agrégats actifs → vraie hyperthyroïdie|Agrégats inactifs → fausse TSH basse|TSH mutée hyperactive
+1731945200075|Résistance aux hormones thyroïdiennes|Adénome thyréotrope|Interférence par anticorps hétérophiles
+1731945200077|Prolactine|Œstradiol|hPL (hormone lactogène placentaire)
+1731945200079|0,4–4 mUI/L|0,5–5 mUI/L|1–5 mUI/L
+1731945200080|0,4–4 et 0,5–5 mUI/L|0,1–2,5 et 0,1–2,5 mUI/L|1–4 et 1–5 mUI/L
+1731945200082|Débuter la L-T4|Doser les TRAb|Faire une échographie fœtale de la thyroïde
+1731945200083|Débuter un ATS|Scintigraphie thyroïdienne|Débuter un β-bloquant
+1731945200084|Macrosomie, hydramnios, post-maturité|Goitre fœtal, tachycardie fœtale|Aucun risque fœtal démontré
+1731945200085|< 4 mUI/L|< 1 mUI/L|< 0,5 mUI/L
+1731945200087|Une fois par trimestre|Toutes les 2 sem jusqu'à l'accouchement|Uniquement au 1er trimestre
+1731945200088|> 10 mUI/L|> 2,5 mUI/L|> 6 mUI/L
+1731945200090|Scintigraphie|Scanner cervical|IRM cervicale
+1731945200091|Morphologie d'un goitre|Bilan d'un nodule chez l'euthyroïdien|Dépistage du cancer
+1731945200093|FDG ou iode 131|Gallium 68 ou Tc99m|Thallium 201 ou iode 125
+1731945200094|Allergie à l'iode|Insuffisance rénale|Ménopause
+1731945200096|Goitre hypothyroïdien|Goitre nodulaire toxique|Goitre plongeant
+1731945200097|Fonction, douleur, vascularisation|Volume, échogénicité, calcifications|Âge, sexe, carence iodée
+1731945200098|Dysphonie / dyspnée|Wheezing / reflux|Toux / hoquet
+1731945200101|5–8 %|0,05–0,1 %|10–15 %
+1731945200102|Hyperphagie + prise de poids|Anorexie + prise de poids|Polydipsie + amaigrissement
+1731945200103|Ongles de Terry|Ongles de Lindsay|Ongles de Beau
+1731945200104|Bloc auriculo-ventriculaire|Tachycardie ventriculaire|Flutter auriculaire
+1731945200107|Ac bloquant le R-TSH|Ac anti-TPO cytotoxiques|Mutation activatrice du R-TSH
+1731945200109|10–20 ans|60–80 ans|50–70 ans
+1731945200110|Carence iodée|Alcool|Obésité
+1731945200112|Goitre, tachycardie|Amaigrissement, tremblements|Thermophobie, diarrhée
+1731945200113|60–80 %|1–5 %|> 90 %
+1731945200116|> 5 ans après le diagnostic|Avant toute hyperthyroïdie dans 90 % des cas|Après la thyroïdectomie
+1731945200117|ATS, β-bloquants, sélénium|Grossesse, contraception orale|Iode alimentaire, thyroïdectomie
+1731945200118|TPO des fibroblastes orbitaires|Thyroglobuline des muscles oculomoteurs|TBG des adipocytes orbitaires
+1731945200119|Glaucome aigu|Décollement de rétine|Uvéite antérieure
+1731945200120|Zinc|Vitamine D|Iode
+1731945200121|Rituximab|Tocilizumab|Dénosumab
+1731945200122|Hypocaptation diffuse|Nodule chaud extinctif|Captation hétérogène en damier
+1731945200123|Hyperéchogène, avasculaire|Nodules multiples calcifiés|Isoéchogène, hypovascularisé
+1731945200124|< 5 %|20–30 %|100 %
+1731945200125|Anticalcique (vérapamil)|Digoxine|Benzodiazépine
+1731945200126|Blocage du NIS|Inhibition de la libération des HT|Blocage du récepteur de la TSH
+1731945200128|PTU (propylthiouracile)|Carbimazole (Néo-Mercazole)|Perchlorate de potassium
+1731945200129|Agranulocytose plus fréquente|Inefficacité|Tératogénicité au 1er trimestre
+1731945200130|↓ captation de l'iode|↓ libération de la thyroglobuline|↑ clairance hépatique de la T4
+1731945200132|TSH seule|TRAb|Anti-TPO
+1731945200134|Dose fixe / arrêt immédiat|Monothérapie / bithérapie|Iode / perchlorate
+1731945200135|~10 %|~90 %|~25 %
+1731945200137|1 an après|1 semaine après|6 mois après
+1731945200138|Âge > 65 ans|Goitre volumineux|Fibrillation auriculaire
+1731945200140|Cancer thyroïdien (5 %)|Hyperthyroïdie persistante (50 %)|Leucémie (1 %)
+1731945200142|Négativation des TRAb|Arrêt du tabac|Scintigraphie de contrôle
+1731945200143|Fistule œsophagienne, pneumothorax|Hypothyroïdie centrale, diabète insipide|Hypercalcémie, syndrome de Horner
+1731945200144|Méthimazole|Carbimazole|Iode 131
+1731945200146|Milieu de la normale|Limite inférieure de la normale|Valeur indétectable
+1731945200147|Hyperthyroïdie fœtale|Hépatite fœtale|Malformation cutanée (aplasia cutis)
+1731945200150|Hashimoto évoluant vers une hypothyroïdie (anti-TPO+)|Basedow évoluant vers une hypothyroïdie|Thyroïdite indolore post-partum
+1731945200151|Mutation germinale inactivatrice du TSHR|Ac stimulants le R-TSH (TRAb)|Mutation somatique de BRAF V600E
+1731945200152|Nodule chaud unique|Captation nulle|Captation en damier
+1731945200154|Carence iodée prolongée|Grossesse|Arrêt du tabac
+1731945200156|~35 ans|~20 ans|~85 ans
+1731945200158|Chirurgie|ATS à vie|Radiofréquence
+1731945200159|Iode 131|ATS au long cours|Surveillance
+1731945200160|THRA (récepteur α)|TSHR|TPO
+1731945200161|FT4/FT3 ↓, TSH ↑|FT4/FT3 ↑, TSH ↓|FT4/FT3 N, TSH ↓
+1731945200162|Haploinsuffisance|Effet gain de fonction constitutive|Perte d'hétérozygotie
+1731945200164|Bradycardie, frilosité, constipation|Goitre, petite taille|Ophtalmopathie, myxœdème prétibial
+1731945200165|Aiguë suppurée|Chronique indolore|Subaiguë indolore
+1731945200166|Post-partum|Prise d'amiodarone|Irradiation cervicale
+1731945200169|Antibiotiques IV|ATS + β-bloquants|Iode 131
+1731945200171|TRAb (> 50 %)|Anti-Tg isolés|ANCA
+1731945200172|~0,5 % (dans les 10 mois)|~25 % (dans les 10 mois)|~5 % (dans les 3 ans)
+1731945200173|Hypo → hyper → euthyroïdie|Hyper → euthyroïdie définitive|Euthyroïdie → hypo → hyper
+1731945200174|Anti-TPO|TRAb|Calcitonine
+1731945200175|Très élevé|Normal|Élevé avec TSH élevée
+1731945200177|TSH maternelle élevée|TRAb maternels|Œstrogènes élevés
+1731945200178|Diarrhée chronique|Pancréatite|Ictère cholestatique
+1731945200180|Tératome testiculaire à tissu thyroïdien|Métastase ovarienne d'un cancer thyroïdien|Thyroïde ectopique sublinguale
+1731945200181|6–12 heures|5–7 jours|1–2 ans
+1731945200182|~2 %|~50 %|~80 %
+1731945200183|Thyroïdite destructrice|Wolff-Chaikoff|Auto-immune (TRAb)
+1731945200184|Jod-Basedow (synthèse ↑)|Wolff-Chaikoff|Mutation activatrice du TSHR
+1731945200185|Corticoïdes (± ATS)|L-T4|Iode 131 en urgence
+1731945200188|Inhibiteur de la TPO|Inhibiteur de la DIO1|Agoniste du récepteur de la TSH
+1731945200189|< 1 %|50–70 %|1–2 %
+1731945200190|Carence iodée, froid|Grossesse, allaitement|Prise de L-T4 au coucher
+1731945200191|Méthimazole|Carbimazole|Lithium
+1731945200194|~10 %|~90 %|~25 %
+1731945200195|Surveiller|Scintigraphie seule, sans traitement|Lévothyroxine
+1731945200196|Traiter par ATS|Iode 131|Thyroïdectomie
+1731945200197|~5 %|~60 %|~90 %
+1731945200198|1/1|3/1|1/10
+1731945200201|Carence iodée|Thyroïdite de De Quervain|Thyroïdectomie
+1731945200202|TRAb, anti-TPO|Anti-Tg, ANCA|TSI, anti-NIS
+1731945200203|Méthimazole, β-bloquants|Corticoïdes, dopamine|Œstrogènes, androgènes
+1731945200204|Thyroïdite de De Quervain|Thyroïdite de Hashimoto|Thyroïdite du post-partum
+1731945200205|Triglycérides|Collagène de type I|Amyloïde
+1731945200206|Hypocholestérolémie, ↓ CPK, hypernatrémie|Hypercalcémie, ↓ CPK, hyperkaliémie|Hypoglycémie, polyglobulie, hypernatrémie
+1731945200208|TSH|FT3|rT3
+1731945200209|1 %|30 %|50 %
+1731945200212|La décennie du patient (6 si 80–89 ans)|4,5 mUI/L quel que soit l'âge|2,5 mUI/L comme chez le jeune
+1731945200213|> 4,5 mUI/L|> 2,5 mUI/L|> 20 mUI/L
+1731945200215|< 0,1 mUI/L|< 6 mUI/L|< 10 mUI/L
+1731945200217|Âge, perte de poids, ménopause|Ménopause, arrêt de la pilule|Grossesse, perte de poids
+1731945200218|Prise de poids, pilule, grossesse|Grossesse, malabsorption|Âge, prise d'IPP
+1731945200219|Coma agité, hypertonique, hyperthermique|Coma calme, hypertonique, hyperthermique|Coma agité, hypotonique, hypothermique
+1731945200220|Chaleur (été)|Grossesse|Arrêt du tabac
+1731945200221|~5 %|~90 %|~15 %
+1731945200222|> 150 mmol/L (diabète insipide)|135–145 mmol/L|< 120 mmol/L (diurétiques)
+1731945200223|Prévenir l'hypoglycémie|Remplacer la L-T4|Traiter une infection associée

@@ -1,0 +1,165 @@
+1700000050639|Hernie discale|Lombalgie commune|Canal lombaire étroit
+1700000050640|5 %|0,05 %|10 %
+1700000050642|Rein, thyroïde, côlon|Estomac, pancréas, foie|Mélanome, vessie, ovaire
+1700000050644|IRM d'emblée|Scintigraphie|Biopsie
+1700000050646|Vertèbre ivoire|Vertèbre en galette|Vertèbre bambou
+1700000050648|Puberté|Grossesse|Allaitement
+1700000050649|Métastase|Traumatisme à haute énergie|Infection
+1700000050652|T-score ≤ −1|Z-score ≤ −2|T-score ≤ −4
+1700000050653|Spondylolyse|Glissement|Éclatement
+1700000050654|Ultrasons|Laser|Magnétothérapie
+1700000050656|1 semaine|6 mois|1 an
+1700000050657|Arthrodèse|Laminectomie|Discectomie
+1700000050658|Fracturé|Absent|Sans importance
+1700000050661|Vertébroplastie|Kyphoplastie inversée|Arthroplastie
+1700000050664|Assis penché en avant|Couché sur le côté|Accroupi
+1700000050665|Érosions, géodes|Syndesmophytes, ankylose|Déminéralisation
+1700000050666|Spondylophytose|Discopathie|Uncarthrose
+1700000050668|Lombalgie isolée|Claudication vasculaire|Torticolis
+1700000050669|Lasègue, 1864|Pott, 1779|Schober, 1937
+1700000050670|Hernie discale|Scoliose|Tassement
+1700000050671|Corps vertébral, lame, pédicule|Muscles, fascias, peau|Moelle, dure-mère, racines
+1700000050673|Antérieur, postérieur, latéral|Cervical, dorsal, lombaire|Discal, osseux, ligamentaire
+1700000050674|Lumbago|Claudication vasculaire|Sciatique aiguë
+1700000050675|Bas du dos uniquement|Pieds|Fesses uniquement
+1700000050676|Soulagé en extension|Aggravé assis|Soulagé debout
+1700000050678|Disque comprimé|Muscles relâchés|Moelle remontée
+1700000050681|Inflammation, infection|Tumeur, fracture|Hyperpression, œdème
+1700000050682|50 %|1 %|30 %
+1700000050684|Congénitale|Iatrogène|Tumorale
+1700000050685|> 30 ans|> 80 ans|< 40 ans
+1700000050686|Infiltration|Ponction lombaire|Corset
+1700000050688|Entorse|Contusion|Coup du lapin
+1700000050689|Hernie discale|Achondroplasie|Paget
+1700000050690|L5|L3|S1
+1700000050691|Plus lourde|Moins innervée|Disque plus épais
+1700000050692|Rétrolisthésis|Latérolisthésis|Spondyloptose
+1700000050693|20 %|5 %|50 %
+1700000050696|Coxarthrose|Hernie discale|Polyneuropathie
+1700000050697|Mesurer la TA|Lasègue|Réflexes
+1700000050701|Gonarthrose|Hallux valgus|Arthrose de cheville
+1700000050702|Sclérose en plaques|Parkinson|Myasthénie
+1700000050703|Soulagée par la flexion|Aggravée en extension|Bilatérale symétrique
+1700000050704|Radiographie seule|Échographie|Scintigraphie
+1700000050705|< 20 mm|< 5 mm|< 15 mm
+1700000050706|~5 mm|~25 mm|~8 mm
+1700000050708|< 300 mm²|< 20 mm²|< 80 mm²
+1700000050709|< 120 mm²|< 10 mm²|< 80 mm²
+1700000050711|PES|EEG|Doppler
+1700000050712|Chirurgie d'emblée|Corticothérapie orale prolongée|Repos strict au lit
+1700000050713|Assouplissements en extension|Massages|Musculation des membres inférieurs
+1700000050714|Hyperlordose|Rigide en extension|Minerve
+1700000050715|Douleur modérée|Âge > 70 ans|Imagerie sévère seule
+1700000050716|Discectomie|Cimentoplastie|Arthroplastie discale
+1700000050717|1 semaine|1 an|2 jours
+1700000050718|Cimentoplastie|Discectomie|Corset
+1700000050721|50 %|1 %|25 %
+1700000050722|Articulaires postérieures|Lames|Épineuses
+1700000050723|Ligament nuchal, interépineux|LLA, ligament transverse|Ligament dentelé
+1700000050724|Douleur cervicale isolée|Céphalées|Vertiges
+1700000050725|Compression artérielle|Irritation radiculaire|Contracture musculaire
+1700000050726|Aréflexie|Réflexes normaux|Hyporéflexie
+1700000050727|Vifs|Normaux|Polycinétiques
+1700000050728|Flexion du gros orteil|Écartement des orteils seul|Absence de réponse
+1700000050730|Sclérose en plaques|Polyneuropathie|Syringomyélie
+1700000050731|Ataxie, tremblement, rigidité|Fièvre, raideur, céphalée|Ptôsis, diplopie, dysphagie
+1700000050732|Maladie d'Alzheimer|Maladie de Parkinson|SLA
+1700000050733|Corps vertébral / canal|Disque / canal|Canal / pédicule
+1700000050735|< 0,5|< 1,2|> 0,82
+1700000050736|Hernie discale|Ostéophyte|Hyposignal T2 du disque
+1700000050737|EEG et EMG|Doppler et EMG|ECG et EEG
+1700000050739|Régressif spontanément|Toujours stable|Cyclique
+1700000050740|Chirurgie|Minerve rigide|Traction cervicale
+1700000050742|ASIA (0–100)|Glasgow (3–15)|ODI (0–100)
+1700000050743|< 15|< 12|> 10
+1700000050745|Postérieure|Combinée|Latérale
+1700000050593|Hernie, arthrose|Scoliose, Scheuermann|Fracture, entorse
+1700000050594|Métastases|Myélome|Lymphome
+1700000050595|Spondylolyse|Scheuermann|Tassement
+1700000050596|Péritonite|Invagination|Torsion testiculaire
+1700000050597|Adénopathie mésentérique|Irritation péritonéale|Douleur projetée viscérale
+1700000050600|Ostéosarcome|Kyste anévrismal|Ostéochondrome
+1700000050602|Maladie de Scheuermann|Maladie de Paget|Mal de Kümmell
+1700000050603|Streptocoque|E. coli|Mycobacterium tuberculosis
+1700000050604|Fièvre élevée isolée|Torticolis|Boiterie de hanche
+1700000050605|Ostéome ostéoïde|Mal de Pott|Leucémie
+1700000050606|Scintigraphie|Radiographie|Scanner
+1700000050608|Glissement vertébral|Hernie discale|Tassement
+1700000050609|Corps vertébral|Épineuse|Plateau vertébral
+1700000050610|L4|S1|L3
+1700000050613|Aborigènes|Japonais|Maasaï
+1700000050614|Épineuse de L4|Sacrum|Articulaire supérieure de S1
+1700000050615|Assis|Couché|Courbé
+1700000050616|Natation, vélo|Course de fond|Golf, tennis
+1700000050617|1/10|2/3|1/100
+1700000050619|Vertèbre borgne|Colonne bambou|Signe de la coquille d'œuf
+1700000050621|IRM seule|Radiographie dynamique|Échographie
+1700000050623|Arthrodèse|Corset rigide prolongé|Infiltration
+1700000050626|Spondylolyse|Rétrolisthésis|Scoliose
+1700000050627|Ligament jaune|Épineuse|Muscles paravertébraux
+1700000050629|Contracture paravertébrale|Atrophie quadricipitale|Hyperlordose cervicale
+1700000050630|Cobb|Risser|Garden
+1700000050631|3|4|6
+1700000050632|Spondylolyse|Antélisthésis|Rétrolisthésis
+1700000050633|1 sur 2|9 sur 10|Tous
+1700000050634|Stade radiologique I|Âge|Découverte fortuite
+1700000050636|I et II|Tous|Aucun
+1700000050637|Surveillance simple|Corset|Kiné intensive
+1700000050638|Laminectomie seule|Cimentoplastie|Corset
+1700000050747|Médiale (en dedans)|Dorsale|Plantaire
+1700000050748|Masculin|Identique|Enfant
+1700000050750|Génétique, enfance|Sport, course|Diabète, tabac
+1700000050751|Pied creux|Rétraction du tendon d'Achille|Inégalité des membres
+1700000050752|1re|4e|6e
+1700000050754|Pied creux, maigreur|Diabète, neuropathie|Arthrose précoce
+1700000050755|Vers l'extérieur|Vers le bas|Vers le haut
+1700000050757|Cor|Durillon|Œil de perdrix
+1700000050758|5e rayon|Talon|1er rayon
+1700000050759|Sous la tête de M5|Sous le talon|Sous P1
+1700000050762|Rupture tendineuse|Infection|Arthrose
+1700000050764|Instabilité|Paresthésies|Œdème
+1700000050765|Radiographique|IRM|Échographique
+1700000050766|Couché|Assis|En flexion plantaire
+1700000050767|< 5°|< 30°|< 25°
+1700000050768|Étroites à bout pointu|Talons hauts|Rigides montantes
+1700000050769|Appui sous la tête|Talonnette|Semelle plate rigide
+1700000050770|Tendinite|Arthrite|Fasciite
+1700000050771|~15 ans|~80 ans|~25 ans
+1700000050773|Raccourcir le pied|Fusionner la cheville|Allonger M1
+1700000050774|Jusqu'à 2 %|Jusqu'à 80 %|0 %
+1700000050776|Plâtre|Talons hauts|Chaussure fermée normale
+1700000050778|Arthrose MTP2|Hallux valgus|Arthrose IP de l'hallux
+1700000050779|~20°|~150°|~45°
+1700000050781|Face plantaire|Face médiale|Face latérale
+1700000050783|Érosions, déminéralisation|Luxation, subluxation|Ostéonécrose
+1700000050785|Arthrodèse|Ostéotomie|Synovectomie
+1700000050786|Allonger M1, prothèse|Arthrodèse de cheville|Résection tête M2
+1700000050787|Prothèse MTP1|Cheilectomie|Amputation
+1700000050789|Homme ~20 ans|Enfant|Femme ~80 ans
+1700000050791|Fracture, entorse|Goutte, infection|Arthrose de genou
+1700000050792|Cor dorsal|Durillon|Oignon
+1700000050793|Douloureux, raide, infecté|Mobile, rigide, ankylosé|Aigu, chronique, séquellaire
+1700000050795|Ténotomie seule|Amputation|Arthrodèse IPD
+1700000050797|Natation, sédentarité|Course de fond|Ski, vélo
+1700000050798|Brûlure|Coup de couteau|Crampe
+1700000050800|Talalgie de Sever|Bursite rétro-calcanéenne|Tendinite d'Achille
+1700000050802|Canal carpien|Ténosynovite de De Quervain|Doigt à ressaut
+1700000050803|Insertion du tendon d'Achille|Malléole interne|Base de M5
+1700000050804|Nocturne|En fin de journée|Au repos prolongé
+1700000050806|Rupture du tendon d'Achille|Arthrose de cheville|Entorse
+1700000050808|Chirurgie d'emblée|Plâtre|Antibiotiques
+1700000050809|Musculation, course|Électrostimulation|Repos
+1700000050810|Allongement d'Achille|Arthrodèse|Ostéotomie
+1700000050811|Femme 60–70 ans|Enfant|Adolescent
+1700000050812|Sportif occasionnel|Sédentaire|Personne âgée
+1700000050813|Natation, vélo|Golf|Haltérophilie
+1700000050814|Macrolides|Pénicillines|Aminosides
+1700000050815|Antihypertenseurs|Antidiabétiques|Antiépileptiques
+1700000050817|Craquement osseux|Sifflement|Aucun bruit
+1700000050818|Entorse de cheville|Fracture du calcanéum|Tendinite rotulienne
+1700000050819|Urgence chirurgicale|Toujours grave|Séquelles fréquentes
+1700000050820|Lasègue|Tiroir|Thomas
+1700000050822|Décubitus dorsal|Debout|Assis
+1700000050824|Talus|Flexion dorsale|Neutre
+1700000050825|Long fibulaire|Tibial postérieur|Fléchisseur de l'hallux
+1700000050827|≥ 6 semaines|≥ 2 ans|≥ 1 mois

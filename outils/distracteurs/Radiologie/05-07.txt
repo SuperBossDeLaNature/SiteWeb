@@ -1,0 +1,245 @@
+1795098084291|Paul Lauterbur et Peter Mansfield|Raymond Damadian et Isidor Rabi|Godfrey Hounsfield et Allan Cormack
+1795098084292|Felix Bloch et Edward Purcell|Godfrey Hounsfield et Allan Cormack|Raymond Damadian seul
+1795098084293|Rayons X, atténuation, numéro atomique|Ultrasons, impédance, réflexion|Radioactivité, isotopes, désintégration
+1795098084295|Seul noyau magnétique du corps|Il n'existe que dans l'eau libre|Il est radioactif
+1795098084296|¹²C, ¹⁶O, ⁴⁰Ca|²³⁸U, ²³⁵U|⁴He, ²⁰Ne
+1795098084298|≈ 30 fois plus intense|≈ 300 fois plus intense|≈ 30 millions de fois plus intense
+1795098084301|Refroidir l'aimant|Bloquer le champ magnétique statique|Protéger des rayons X
+1795098084303|À chaque fin de journée|Pour une simple panne électrique|Si le patient est claustrophobe
+1795098084304|Il est dangereux pour le patient à long terme|Il est irréversible et détruit l'aimant|Il est interdit par la loi
+1795098084305|Charge électrique du noyau|Masse du proton|Énergie de liaison nucléaire
+1795098084306|Translation|Nutation libre|Rotation inverse
+1795098084308|Rapport des champs B0/B1|Constante de Planck|Coefficient d'atténuation
+1795098084310|≈ 2 par mille|≈ 50 %|≈ 2 par milliard
+1795098084311|Les électrons des tissus|Le fer de l'hémoglobine|Les protons antiparallèles en surnombre
+1795098084312|M est trop forte et sature l'antenne|Pour annuler B0|Pour ioniser les tissus
+1795098084313|Absorption d'énergie par un tissu chaud|Émission de rayons X|Oscillation libre sans énergie
+1795098084315|Celle des micro-ondes (GHz)|Celle des ultrasons (kHz)|Celle des rayons X
+1795098084317|Valeur de B0 seule|Taille du patient|Durée du TR
+1795098084319|Relaxation longitudinale : repousse de Mz|Retour à l'équilibre thermique|Décroissance de B0
+1795098084324|Graisse ≈ 2 000 ms ; eau ≈ 250 ms|Identiques|Graisse ≈ 25 ms ; eau ≈ 25 ms
+1795098084325|Graisse ≈ 200 ms ; eau ≈ 85 ms|Graisse ≈ 2 s ; eau ≈ 2 s|Graisse ≈ 1 ms ; eau ≈ 10 ms
+1795098084326|Oui, toujours parfaitement noire|Oui, comme l'os cortical|Elle est invisible
+1795098084328|Grise plus claire que la blanche|Identiques|Toutes deux noires
+1795098084329|Blanche gris clair, grise gris foncé|Toutes deux blanches|Toutes deux noires
+1795098084330|Hypersignal dans les deux|Hypersignal T1, hyposignal T2|Hyposignal T1, hypersignal T2
+1795098084331|La vitesse de relaxation|La durée de l'examen|La valeur de B0
+1795098084332|Temps entre 90° et la mesure|Temps de relaxation T1|Temps d'acquisition total
+1795098084333|Intervalle entre 2 impulsions de 90°|Temps de relaxation T2|Durée de l'impulsion RF
+1795098084336|T1|T2|T2*
+1795098084338|TR court → signal ↑ ; TE long → signal ↑|TR et TE sans effet|TR long → signal ↓
+1795098084339|TE / TR|TR × TE|TR + TE
+1795098084340|DP : jusqu'à 500 % ; temps de relaxation : 0 à 15 %|Égales|Seule la DP compte
+1795098084341|Exciter les protons|Produire B0|Refroidir l'aimant
+1795098084343|Le gradient annule B0|La phase varie selon la vitesse du sang|La fréquence est identique partout
+1795098084344|Image finale directe|Espace du tunnel|Champ de vue du patient
+1795098084345|Uniquement émettrice|Uniquement réceptrice, sans courant induit|Ni l'un ni l'autre
+1795098084348|T2 pur|T1 pur|Densité protonique
+1795098084350|Durée plus longue|Signal plus faible de la graisse|Impossible à réaliser
+1795098084351|Impulsion 180° puis 90°|Gradient bipolaire seul|Saturation de la graisse
+1795098084353|Trop d'artefacts → écho de gradient|Bruyant → coupes épaisses|Peu de signal → gadolinium
+1795098084354|Absence de déphasage|Plus de rephasage|Effet du gadolinium
+1795098084356|Température|Taux de plaquettes|pH
+1795098084357|DésoxyHb → oxyHb → hémosidérine → MétHb|Hémosidérine → MétHb → oxyHb|MétHb EC → MétHb IC → désoxyHb
+1795098084358|T1 hypo / T2 hyper|T1 hyper / T2 hyper|T1 hypo / T2 hypo
+1795098084359|T1 hyper / T2 hypo|T1 hypo / T2 hypo|T1 hypo / T2 hyper
+1795098084360|Hyper / hyper|Hyper / hypo|Iso / hyper
+1795098084361|Augmenter le signal du sang|Mesurer la diffusion|Accélérer l'acquisition
+1795098084363|T1 avec suppression de graisse|T2 avec suppression de graisse|Séquence de diffusion
+1795098084365|Suppression du LCR|Saturation de l'eau|Séquence de perfusion
+1795098084366|Différence de densité électronique|Effet du gadolinium|Différence de T1 entre graisse et eau
+1795098084367|Inversion-récupération sur la graisse|Saturation sélective par impulsion|Soustraction avant/après gadolinium
+1795098084368|T1, T2, DP, FLAIR|Axial, coronal, sagittal, oblique|Artériel, portal, tardif, excrétoire
+1795098084369|Plus rapide que toutes les séquences|Supprime aussi le LCR|Ne nécessite pas de gradient
+1795098084370|FLAIR, DWI, SWI|TOF, PC, CE-MRA|Gradient, spin, turbo
+1795098084371|T1 avec gadolinium|Diffusion|Densité protonique
+1795098084373|Aucune injection nécessaire|Pas de risque rénal|Moins chère que le TOF
+1795098084375|Débit sanguin capillaire|Mouvement de translation du patient|Relaxation des protons
+1795098084376|Hyposignal en diffusion, hypersignal ADC|Hypersignal sur les deux|Hyposignal sur les deux
+1795098084379|Œdème vasogénique, kyste|Nécrose, gliose|LCR
+1795098084380|AVC aigu, abcès|Lymphome hypercellulaire|Crise épileptique récente
+1795098084381|Plus b ↑, plus la séquence est pondérée T1|Taille de voxel|Vitesse de rotation
+1795098084382|Pour mesurer le T1|L'ADC donne le diagnostic seul|Pour voir le sang
+1795098084383|Imagerie de perfusion|Imagerie fonctionnelle BOLD|Spectroscopie
+1795098084384|Isotrope : substance blanche ; anisotrope : LCR|Les deux isotropes|Isotrope : nerfs ; anisotrope : graisse
+1795098084385|Diffusion de l'eau|Activité neuronale|Composition chimique
+1795098084386|Bilan de fractures|Mesure du T1|Dépistage du cancer du sein
+1795098084388|Dépistage de la maladie d'Alzheimer|Bilan d'AVC aigu|Évaluation des fractures
+1795098084389|Mesure de la perfusion|Diffusion de l'eau|Activation neuronale BOLD
+1795098084390|Artefact de mouvement respiratoire|Artefact métallique|Artefact de troncature
+1795098084393|Repliement, mouvement|Troncature, flux|Repliement, Gibbs
+1795098084394|Rapide, peu coûteuse, accessible|Excellente pour l'os cortical et l'air|Sans aucune contre-indication
+1795098084395|Irradiante|Contraste tissulaire faible|Impossible en coupes coronales
+1795098084397|Radiographie systématique|Scanner|Détecteur de métaux d'aéroport
+1795098084398|Os : toujours dangereux ; tissus mous : sans risque|Identiques|Aucun risque nulle part
+1795098084399|Échographie oculaire|IRM d'essai à faible champ|Aucun examen
+1795098084400|Acier, fer, nickel|Cobalt pur|Aimants
+1795098084404|IRM sans précaution|Contre-indication définitive|Retrait du pacemaker
+1795098084405|Prothèse de hanche, plombage dentaire|Stérilet au cuivre|Valve mécanique récente
+1795098084406|Aucune précaution|Délai 1 an|IRM interdite à vie
+1795098084407|Augmenter le débit|Aucune précaution|Programmer un bolus
+1795098084409|1 à 2 min|2 à 3 h|5 h
+1795098084410|CT systématique|Anesthésie générale systématique|Annuler toujours l'examen
+1795098084412|Calcul de la dose de rayons X|Choisir l'antenne|Calcul du CTDI
+1795098084413|À la racine de B0|À la durée de l'examen seule|Au poids uniquement
+1795098084415|Gel d'échographie|Vêtements en coton|Lunettes en plastique
+1795098084416|Brûlures profondes|Hypothermie|Effet Doppler
+1795098084417|Aucun risque|Risque d'aimantation|Risque de saignement
+1795098084418|Diminuer la dose|Traiter la lésion|Remplacer le diagnostic
+1795098084419|Baryum, iode|Gadolinium|Microbulles
+1795098084420|Inhalée et sous-cutanée uniquement|Orale et intramusculaire|Cutanée et nasale
+1795098084421|Liquides, solides, gazeux|Iode, baryum, air|Positifs, négatifs, neutres
+1795098084423|Coronarographie, angio-CT|Uro-CT, arthrographie|Myélographie, sialographie
+1795098084424|Iode + gadolinium|Baryte + eau|Air + CO₂ sans baryte
+1795098084426|Allergie sévère|Néphropathie|Aucune conséquence
+1795098084428|Constipation, diabète|Allergie à l'iode|HTA, âge > 70 ans
+1795098084429|Il est irradiant|Il est allergisant|Il est néphrotoxique
+1795098084430|Chélates de gadolinium|Sulfate de baryum|Microbulles de SF₆
+1795098084431|Monomère : 6 ; dimère : 3|Les deux : 3|Monomère : 1 ; dimère : 2
+1795098084432|24 à 40 mg/ml|2 400 à 4 000 mg/ml|1 à 10 mg/ml
+1795098084433|La température seule|L'osmolalité seule|La vitesse d'injection
+1795098084437|290 mOsm/kg ; dimère non ionique|500–900 ; monomère non ionique|100 ; Visipaque
+1795098084438|1 500–2 000 ; monomère ionique|275–290 ; dimère non ionique|5 000 ; baryte
+1795098084439|Monomère ionique (Télébrix)|Monomère non ionique, 1 500 mOsm/kg|Dimère ionique, 600 mOsm/kg
+1795098084441|Vasculaire : heures ; interstitielle : jours|Toutes deux quelques secondes|Vasculaire : minutes ; interstitielle : secondes
+1795098084444|≈ 10 % en 6 h|≈ 100 % en 1 h|≈ 50 % en 1 semaine
+1795098084445|Groupe sanguin, sexe|Couleur des yeux|Taux de cholestérol
+1795098084446|Infectieux et hémorragiques|Mécaniques et électriques|Toxiques et radioactifs
+1795098084449|Car il s'agit d'une vraie allergie IgE dans 90 %|Car elle ne survient jamais|Car elle est toujours retardée
+1795098084450|Activation des lymphocytes T|Production d'IgE spécifiques|Activation de la coagulation
+1795098084451|Locale, régionale, générale|Immédiate, retardée, chronique|Légère, mortelle, fatale
+1795098084452|Hypertension maligne, AVC|Hypoglycémie, hypothermie|Fracture, luxation
+1795098084454|≈ 10–20 %|≈ 0,001 %|≈ 5 %
+1795098084455|≈ 0,2 %|≈ 50 %|≈ 1 %
+1795098084456|≈ 9 / 100 injections|≈ 9 / 10 000 injections|Aucune
+1795098084457|Moins de 5 min|Après 1 mois|Uniquement pendant l'injection
+1795098084458|Âge < 20 ans, sexe masculin|PC haute osmolalité seul|Diabète, HTA
+1795098084460|1–2 %|80–90 %|100 %
+1795098084461|×10|Aucun|÷2
+1795098084463|L'iode libre alimentaire|Le sodium|L'excipient
+1795098084464|Intracavitaire > IV > intra-artériel|IV > intra-artériel|Identique partout
+1795098084465|Améliorer l'opacification|Réduire l'allergie|Stériliser le produit
+1795098084466|Enfants et âgés plus à risque ; hommes > femmes|Aucun lien|Âge > 70 ans : CI absolue
+1795098084467|Augmenter le volume|Prémédication systématique|Utiliser un PC haute osmolalité
+1795098084469|CI absolue|Alpha-bloquant obligatoire|Prémédication obligatoire
+1795098084470|Aucun risque|CI absolue démontrée|Amélioration des symptômes
+1795098084472|Aucun délai|48 heures|1 an
+1795098084473|10 à 15 %|0,001 %|5 %
+1795098084474|Allergie retardée|Insuffisance rénale|Thrombose veineuse profonde
+1795098084475|Pli du coude|Veine jugulaire|Cathéter central
+1795098084476|> 1 ml de tout produit|> 500 ml|Tout volume, quel que soit le produit
+1795098084478|Même PC à plus faible débit|Prémédication par AINS|Aucune précaution
+1795098084481|Toujours avant tout CT injecté|Jamais|Uniquement chez le diabétique
+1795098084483|Réaction allergique rénale|Obstruction urétérale|Glomérulonéphrite auto-immune
+1795098084484|Créatinine +≥ 3 mg/dl en 7 jours|Diurèse < 1 ml/kg/h pendant 1 h|Urée > 100 mg/dl
+1795098084485|Le PC y est plus concentré en iode|Volume toujours plus faible|L'injection est veineuse
+1795098084487|Stades 4 et 5|Tous les stades|Aucun stade
+1795098084488|Jeune âge, sexe féminin|Hypothyroïdie|Obésité isolée
+1795098084490|↑ à J10, pic à J30|Pic immédiat à 1 h|Jamais de retour à la normale
+1795098084491|Angio-CT après prémédication|IRM sans injection obligatoire|Échographie abdominale
+1795098084492|Toujours avec contraste|Triple phase|Avec gadolinium
+1795098084495|Protection rénale démontrée|Plus toxiques|Interdits chez l'IR
+1795098084497|Glucosé 5 %|Bicarbonate 8,4 %|Eau libre per os seulement
+1795098084498|Considéré comme anurique|Aucun risque|CI absolue
+1795098084500|Hypoglycémie sévère|Allergie à l'iode|Insuffisance hépatique
+1795098084502|Poursuivre sans changement|Arrêter définitivement|Arrêter 1 semaine avant
+1795098084503|Jeune âge, sport|Hypothyroïdie|Hypertension isolée
+1795098084506|Iode|Manganèse|Fer
+1795098084507|Z = 26 ; fer diamagnétique|Z = 53 ; iode|Z = 56 ; baryum
+1795098084508|Pour le rendre radioactif|Pour l'éliminer par le foie|Pour le rendre visible au CT
+1795098084510|Hypersignal T2 → cholangio-IRM|Angio-IRM TOF|Diffusion
+1795098084511|Biliaire|Pulmonaire|Cutanée
+1795098084512|Dotarem, Gadovist|Visipaque, Télébrix|SonoVue, Optison
+1795098084513|Hyposignal T1|Hypersignal T2 uniquement|Aucune modification
+1795098084514|Bilan osseux|Angio-IRM cérébrale|Tumeurs rénales
+1795098084516|Anaphylaxie systématique|Insuffisance rénale aiguë|Thrombose
+1795098084518|Asthmatiques|Diabétiques bien équilibrés|Enfants en bonne santé
+1795098084519|Atteinte du visage d'abord|Éruption vésiculeuse|Ulcération aiguë
+1795098084520|Toujours responsable de démence|Interdit pour tout dérivé|Aucun dépôt décrit
+1795098084521|Lait entier|Eau gazeuse|Jus d'orange
+1795098084522|Rehausser la vésicule|Accélérer le transit|Remplir le duodénum en hypersignal
+1795098084523|Iode micronisé|Gadolinium en gel|Baryum dilué
+1795098084524|Perfluoropropane|CO₂|Azote
+1795098084526|Bilan osseux, fractures|Angio-CT, embolie|Dépistage pulmonaire
+1795098084527|Insuffisance rénale|Allergie à l'iode|Diabète
+1795098084528|Déplacement de 2 surfaces articulaires|Lésion d'un ligament|Contusion des parties molles
+1795098084529|Ostéogenèse imparfaite systématiquement|Rachitisme|Ostéomyélite
+1795098084530|Au milieu de la diaphyse|Dans le cartilage de croissance|Sur l'os spongieux
+1795098084531|Infection urinaire, hémorragie digestive|Allergie, insuffisance rénale|Ostéoporose
+1795098084533|Toujours en 1re intention|Jamais|Uniquement chez l'enfant
+1795098084536|Hypersignal T1, hyposignal T2|Isosignal T1 et T2|Vide de signal
+1795098084538|Luxation : incomplète ; subluxation : complète|Termes identiques|Luxation : fracture associée obligatoire
+1795098084539|Disparition de l'œdème|Résorption osseuse|Trait de fracture élargi
+1795098084540|Pont cortical sur 1 corticale|Disparition du trait sur une incidence|Cal hypertrophique
+1795098084541|Toute entorse|Douleur sans traumatisme|Œdème isolé
+1795098084542|Réduire de 90 %|Aucun bénéfice|Augmenter les RX
+1795098084543|IRM|CT|Scintigraphie
+1795098084547|Arthro-CT très supérieur|Arthro-IRM inférieure|Non comparables
+1795098084548|Kyste méniscal|Déchirure radiaire simple|Calcification méniscale
+1795098084549|Lésion de la coiffe des rotateurs|Fracture de Hill-Sachs|Luxation acromio-claviculaire
+1795098084550|Fracture articulaire|Luxation complète|Rupture tendineuse
+1795098084551|Ligaments croisés du genou|Ligaments du rachis|Ligament rond de hanche
+1795098084553|Arthro-CT supérieur|Arthro-IRM inférieure|Équivalents
+1795098084554|Épaule, poignet, hanche|Rachis cervical|Toutes articulations
+1795098084555|Coude, genou, cheville|Rachis|Sacro-iliaques
+1795098084556|Pincement articulaire|Ostéophyte|Géode
+1795098084557|IRM d'emblée|CT|Scintigraphie
+1795098084559|Épaississement fibrillaire normal|Hypervascularisation|Calcification
+1795098084562|Irradiante ; trop peu sensible|Coût faible ; rapide|Pas de plans de coupe
+1795098084563|Infection, fracture|Atrophie osseuse|Tumeur
+1795098084565|Mesure de la vitesse de conduction|Analyse de la myéline au µm|Mesure du débit sanguin
+1795098084566|Analyse du nerf lui-même|Mesure de la conduction|Aucun
+1795098084567|Tumeur maligne du nerf|Inflammation virale|Compression vasculaire
+1795098084568|Fracture du plateau tibial médial sans lésion ligamentaire|Rupture du LCP|Lésion méniscale isolée
+1795098084569|La RX surestime le déplacement|Pour voir les ligaments|Pour mesurer la rotule
+1795098084570|Face en extension|Défilé à 90° de flexion|Profil en hyperextension
+1795098084571|Postérieure (≈ 95 %)|Inférieure (≈ 95 %)|Antérieure (≈ 50 %)
+1795098084572|Fracture de fatigue du tibia|Tendinite d'Achille|Entorse de cheville
+1795098084573|Lipohémarthrose impossible|Infection|Épanchement inflammatoire simple
+1795098084574|Fracture sur os tumoral|Fracture à haute énergie|Fracture ouverte
+1795098084577|Os normal, contrainte anormale|Os normal, traumatisme violent|Fracture ostéoporotique uniquement
+1795098084578|Trait radio-transparent déplacé|Lacune ostéolytique|Réaction périostée en feu d'herbe
+1795098084579|6–8 sem vs 3–6 sem|1 sem vs 2 sem|6 mois vs 1 an
+1795098084580|Radiographie|IRM obligatoire|Scintigraphie obligatoire
+1795098084581|Consolidation en mauvaise position|Cal hypertrophique normal|Retard de quelques semaines
+1795098084582|Absence de consolidation|Cal excessif|Infection
+1795098084584|Ostéophyte marginal|Lacune corticale|Calcification méniscale
+1795098084585|Tabac, sport, obésité|Diabète, HTA|Infection, tumeur
+1795098084586|Trait de fracture|Interligne articulaire|Zone d'ostéolyse tumorale
+1795098084588|IRM → CT → RX|Échographie en 1re intention|Scintigraphie en 1re intention
+1795098084589|Hanche plus épaisse|Genou trop petit|Aucun n'est visible
+1795098084590|Arthrose : pincement global ; arthrite : focal|Pas de pincement|Élargissement dans les deux
+1795098084591|Arthrose : érosions ; arthrite : ostéophytes|Les deux : ostéophytes|Les deux : érosions
+1795098084593|Diminue en descendant|Constante|L5-S1 la plus haute
+1795098084594|Hernies discales|Fractures vertébrales|Scoliose
+1795098084597|Hypo T1, hyper T2 : œdème|Hyper T1 et T2 : graisse|Hyper T1, hypo T2
+1795098084598|Déplacement > 50 % de la circonférence|Fissure de l'anneau sans déplacement|Bombement global du disque
+1795098084602|Contenue : dépasse le LLP|Identiques|Contenue : séquestrée
+1795098084603|Fragment en continuité avec le nucléus|Protrusion à base large|Bombement discal
+1795098084604|Ostéophytes, fractures|Disques normaux|Spondylolisthésis
+1795098084605|Infection à anaérobies|Iatrogène après ponction|Fracture vertébrale
+1795098084607|Âge < 50 ans, douleur mécanique|Sciatique de moins de 6 semaines|Douleur soulagée au repos
+1795098084608|Céphalées, vertiges|Douleur abdominale|Lombalgie isolée
+1795098084609|Voir la hernie discale|Analyser la racine|Mesurer la compression nerveuse
+1795098084610|Pyrophosphate de calcium|Hydroxyapatite|Oxalate de calcium
+1795098084613|Symétrique, ostéopénie, pincement global|Chondrocalcinose|Érosions centrales mal limitées
+1795098084614|L'IRM ne voit pas les tophus|L'IRM est toujours normale|Le gadolinium est contre-indiqué
+1795098084616|Jeune âge, hypothyroïdie|Diabète, HTA|Obésité, tabac
+1795098084617|Goutte|PR|Hydroxyapatite
+1795098084618|Articulations portantes habituelles|Interphalangiennes distales|Sacro-iliaques
+1795098084619|Cartilage articulaire|Ménisques|Disques
+1795098084620|IRM + scintigraphie|CT + IRM|Ostéodensitométrie
+1795098084622|Calcification synoviale|Kyste synovial|Corps étranger
+1795098084623|≈ 3 %|≈ 90 %|≈ 10 %
+1795098084625|CT sacro-iliaque|Scintigraphie|Échographie
+1795098084628|Mesurer le cartilage|Diagnostiquer le germe|Analyser l'os sous-chondral
+1795098084629|Scintigraphie|Échographie|CT
+1795098084630|Disque en hyposignal sans rehaussement|Ostéophytes|Vide discal
+1795098084632|CT|RX|Scintigraphie
+1795098084633|Ostéosarcome, Ewing|Chondrosarcome|Métastase
+1795098084634|Bassin|Crâne|Rachis
+1795098084636|Ostéome ostéoïde, enchondrome|Kyste osseux simple|Tumeur à cellules géantes
+1795098084637|I perméative ; II géographique ; III mitée|Lytique, blastique, mixte|Corticale, médullaire, périostée
+1795098084638|Fracture|Arthrose|Ostéoporose
+1795098084639|IRM|Échographie|Scintigraphie
+1795098084641|Radiographies du squelette seules|Échographie|Scintigraphie osseuse seule

@@ -1,0 +1,139 @@
+1795015232273|Procédurale|Implicite|Perceptive
+1795015232274|Explicite|Épisodique|Déclarative
+1795015232275|Épisodique|Sémantique|Mémoire de travail
+1795015232276|Sémantique / épisodique|MCT / MdT|Verbale / visuelle
+1795015232277|Localiser la lésion|Prescrire un traitement|Estimer le QI
+1795015232278|Lobe, gyrus, aire|Encodage, oubli, rappel|Verbal, visuel, spatial
+1795015232279|3 ± 1 items|15 ± 3 items|20 items
+1795015232280|≈ 3 minutes|≈ 1 seconde|≈ 1 heure
+1795015232281|Tulving|Squire|Atkinson
+1795015232282|Encodage, stockage, récupération|Sémantique, épisodique, procédurale|Buffer, boucle, système superviseur
+1795015232283|Calepin visuospatial|Système superviseur|Mémoire sensorielle
+1795015232284|Boucle phonologique|Calepin visuospatial|Buffer épisodique
+1795015232286|Calepin visuospatial|Administrateur central|Buffer épisodique
+1795015232287|Boucle phonologique|Administrateur central|Mémoire sémantique
+1795015232288|Lobe occipital|Hippocampe|Cervelet
+1795015232289|Gyrus frontal inférieur|Hippocampe + amygdale|Cortex visuel primaire
+1795015232290|Occipital et temporal|Cingulaire et insulaire|Cerveleux et striatal
+1795015232291|Block tapping test|Stroop|RL/RI-16
+1795015232292|Calepin + buffer|Boucle seule|Calepin seul
+1795015232293|Empan verbal|Figure de Rey|TMT
+1795015232294|Hippocampiques|Occipitales|Cérébelleuses
+1795015232295|Motricité, sensibilité|Perception, vision|Odorat, goût
+1795015232296|Verbales, visuelles|Implicites, explicites|Anciennes, récentes
+1795015232298|Hippocampe et fornix|Lobe temporal antérieur|Cortex préfrontal
+1795015232299|Pallidum + putamen|Thalamus + noyau caudé|Substance noire + pallidum
+1795015232300|Rétrograde|Globale|Aucune
+1795015232301|Lésion hippocampique|Atrophie frontale|Atteinte cérébelleuse
+1795015232302|Empan de chiffres|RL/RI-16|Dénomination
+1795015232303|Ralentissement|Stagnation|Plus d'erreurs
+1795015232305|Procédurale, implicite|MCT, MdT|Perceptive, procédurale
+1795015232306|Épisodique|Procédurale|Autobiographique
+1795015232307|Sémantique|Procédurale|Mémoire de travail
+1795015232308|Hippocampe|Cervelet|Cortex préfrontal dorsolatéral
+1795015232309|Lobe temporal antérieur|Striatum|Cervelet
+1795015232310|Priming|Chunking|Rehearsal
+1795015232311|Stockage à long terme|Perception|Reconnaissance des visages
+1795015232312|Cubes|Code|Mémoire des chiffres
+1795015232313|Distracteur sémantique|Distracteur phonologique|Absence de distracteur
+1795015232314|Paraphasie phonémique|Néologisme|Persévération
+1795015232315|Méningite à méningocoque|Toxoplasmose|Grippe
+1795015232316|Perception, attention, réponse|Codage, consolidation, oubli|Apprentissage, répétition, automatisation
+1795015232317|Encodage|Récupération|Répétition
+1795015232318|Verbal / visuel|Rapide / lent|Conscient / inconscient
+1795015232319|Test des portes|Block tapping|Figure de Rey
+1795015232320|Baddeley et Hitch|Van der Linden|Wechsler
+1795015232321|Rappel lent / immédiat|Rappel long / inverse|Répétition libre / intégrale
+1795015232323|5 minutes|1 heure|24 heures
+1795015232324|Récupération|Stockage|Rappel libre
+1795015232325|16|32|64
+1795015232326|Harpe → harpie|Harpe → table|Harpe → harpe
+1795015232327|Figure de Rey|Block tapping|Test de Benton
+1795015232328|Sémantique|Procédurale|De travail
+1795015232329|Rétrograde|Lacunaire|Psychogène
+1795015232330|Antérograde|Transitoire|Sémantique
+1795015232331|Traumatique|Vasculaire|Dégénérative
+1795015232334|Frontale bilatérale|Temporale latérale gauche|Pariétale bilatérale
+1795015232335|Diencéphalique|Frontal|Korsakoff
+1795015232336|Long terme|Distance|Moitié
+1795015232338|Hippocampe, amygdale, fornix|Pallidum, putamen, caudé|Pont, bulbe, mésencéphale
+1795015232339|Vitamine B12|Vitamine B6|Acide folique
+1795015232340|Personnes âgées|Diabétiques|Enfants dénutris
+1795015232341|Hippocampes, amygdales|Cortex frontal, cervelet|Noyaux gris, substance noire
+1795015232342|Persévérations|Fausses reconnaissances|Intrusions
+1795015232343|Boucle phonologique|Calepin visuospatial|Buffer épisodique
+1795015232344|10-20 %|90-100 %|30-40 %
+1795015232347|Cortex frontal|Cervelet|Cortex occipital
+1795015232348|IRM T1|Scanner|EEG
+1795015232349|Tau hyperphosphorylée|α-synucléine|TDP-43
+1795015232350|Peptide amyloïde|α-synucléine|Prion
+1795015232351|Prise de sang|Biopsie cérébrale|Salive
+1795015232352|Génétique|Radiologique|Histologique
+1795015232354|Récupération|Restitution|Reconnaissance
+1795015232355|Encodage|Stockage|Consolidation
+1795015232356|Hippocampique|Cérébelleuse|Occipitale
+1795015232358|Bénéfice de l'indiçage|Performance normale|Amélioration
+1795015232359|Persévérations, confabulations|Paraphasies phonémiques|Omissions isolées
+1795015232360|Phonémique|Alternée|Aucune
+1795015232361|Néologismes|Paraphasies|Écholalie
+1795015232362|Récents|Aucun|Identiques
+1795015232363|Planification, abstraction|Aucune|Langage, praxies
+1795015232364|Mutisme|Agrammatisme|Écholalie seule
+1795015232365|Apraxie de l'habillage précoce|Apraxie bucco-faciale|Apraxie de la marche
+1795015232366|Minor Cognitive Illness|Memory Cognitive Index|Mild Cerebral Ischemia
+1795015232367|< 3 ET|< 0,5 ET|< 1 ET
+1795015232368|Âge du patient|Score MMSE seul|Type de mémoire touchée
+1795015232369|5-10 %|100 %|20-30 %
+1795015232371|5 %|90 %|20 %
+1795015232373|Syndrome Post-Commotionnel de Démence|Score de Performance Cognitive Déclinante|Symptômes Primaires Cognitifs Démentiels
+1795015232399|Durée|Capacité|Modalité sensorielle
+1795015232400|Plus précis|Remboursé|Obligatoire légalement
+1795015232401|Neuropsychologue uniquement|Neurologue uniquement|Psychiatre uniquement
+1795015232402|< 20|< 26|< 5
+1795015232403|Dépression, anxiété|Âge > 80 ans|Scolarité basse
+1795015232404|Memory Cognitive Assessment|Modified Cognitive Analysis|Mental Orientation Cognitive Assessment
+1795015232405|La démence sévère|La dépression|Le délirium
+1795015232406|Mental Memory Status Exam|Minimal Mental Screening Evaluation|Multiple Memory State Examination
+1795015232408|1-2 minutes|45-60 minutes|2 heures
+1795015232409|20|100|26
+1795015232410|18 %|50 %|100 %
+1795015232411|90 %|50 %|100 %
+1795015232412|50 %|18 %|78 %
+1795015232414|87 %|50 %|18 %
+1795015232415|100 %|18 %|50 %
+1795015232416|Sains bien classés|Résultats reproductibles|Vrais négatifs
+1795015232417|Malades bien détectés|Faux positifs|Reproductibilité
+1795015232418|< 20|< 30|< 24
+1795015232419|< 26|< 18|< 24
+1795015232420|< 26|< 18|< 21
+1795015232421|< 26|< 21|< 28
+1795015232422|+2 points si ≤ 12 ans|−1 point si > 12 ans|Aucune correction
+1795015232423|Diagnostic définitif|Localisation lésionnelle|Mesure du QI
+1795015232424|Diagnostic de démence|Rassurer et ne rien faire|IRM en urgence
+1795015232425|Jamais|Toujours|Si âge > 80 ans
+1795015232426|Stroop|Fluences|Tour de Londres
+1795015232427|D|F|C
+1795015232428|Le langage|La mémoire|L'orientation
+1795015232429|3 h 45|10 h 11|2 h 50
+1795015232430|Mémoire épisodique|Langage|Orientation
+1795015232431|Objets|Visages|Couleurs
+1795015232432|Épisodique|Procédurale|De travail
+1795015232434|3|10|7
+1795015232435|Oui, chacun 1 point|Oui, seulement le 2e|Oui, si tous corrects
+1795015232436|Croissant et décroissant|Visuel et verbal|Lent et rapide
+1795015232438|Mémoire|Langage|Praxies
+1795015232439|100 − 3|50 − 5|20 + 7
+1795015232440|Mémoire sémantique|Langage|Mémoire épisodique
+1795015232441|3|5|1
+1795015232442|P|M|S
+1795015232444|≥ 5|≥ 20|≥ 15
+1795015232445|Verbes, adjectifs|Mots longs, mots courts|Mots étrangers, animaux
+1795015232446|Mémoire, orientation|Attention, calcul|Praxies, gnosies
+1795015232447|Train - vélo|Montre - règle|Pomme - poire
+1795015232448|Oui, 1 point|Oui, 2 points|Seulement si correct
+1795015232449|Orange-banane, train-vélo|Montre-règle, pomme-poire|Chat-chien, table-chaise
+1795015232450|Mémoire|Attention|Langage
+1795015232451|MCT|Mémoire sémantique|Mémoire procédurale
+1795015232452|Heure, saison|Âge, date de naissance|Jour seulement
+1795015232453|Pays et région|Étage et rue|Pièce et adresse
+1795015232454|Patients différents|Examinateur expérimenté|Résultat chiffré

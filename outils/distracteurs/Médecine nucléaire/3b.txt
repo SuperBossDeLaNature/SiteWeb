@@ -1,0 +1,190 @@
+1032271933781|99mTc-sestamibi, 201Tl|18F-FDG, 68Ga-DOTATATE|123I-MIBG, 99mTc-MDP
+1032888606857|99mTc-MAA, 99mTc-DTPA|18F-FDG|99mTc-sestamibi
+1066358219428|AL|AA|Aβ2m
+1082150866820|Scintigraphie de perfusion|Test d'effort simple|Abstention
+1092124682926|Diagnostic d'EP|Viabilité myocardique|Endocardite
+1097383348473|Cicatrice (match)|Ischémie réversible|Myocarde normal
+1109190720318|IFR non invasive|Score calcique|FEVG
+1165144866947|99mTc-DPD|99mTc-PYP|18F-FDG
+1189873724357|≥ 0,5|≥ 1,2|≤ 0,8
+1212377790540|1,2 ± 0,3|4 ± 0,3|0,5 ± 0,1
+1218482964076|Redistribution du thallium|Effet de Bezold|Stunning
+1219866105386|Détruire les plasmocytes|Chimiothérapie anti-myélome|Greffe de moelle
+1219889295341|SPECT de perfusion|FFR|PET-FDG
+1261800631010|Régime HFLC|Jeûne de 24 h|Héparine
+1263992983680|Myocytes|Plaquettes|Fibroblastes
+1273756249001|Dipyridamole, adénosine|Bêta-bloquant, repos|Nitrés, jeûne
+1401809397872|Cicatrice fixe|Myocarde sidéré|Artefact d'atténuation
+1411630405186|Coût faible|Absence d'irradiation|Disponibilité large
+1519220142034|99mTc-sestamibi|123I-MIBG|99mTc-PYP
+1522743106067|Acides gras|Corps cétoniques|Lactate
+1544835709166|Polyarthrite rhumatoïde|Sarcoïdose|Hémochromatose
+1575465617475|Dobutamine, isoprénaline|Nitroglycérine, nifédipine|Atropine, adrénaline
+1587969985910|Atropine|Naloxone|Protamine
+1644329412000|99mTc-tétrofosmine|201Tl|82Rb
+1647509440770|> 30 %|> 70 %|> 20 %
+1682646386592|La plus faible possible|50 % exactement|Nulle
+1700845973893|Acides gras|Corps cétoniques|Lactate
+1715919524563|EEG|Respiration|Pression artérielle
+1732953584926|Hypertension|Infarctus massif immédiat|Insuffisance rénale
+1759000745069|Isoprénaline|Atropine|Milrinone
+1771490984731|Degré de sténose|Calcification|Taille de la plaque
+1795045883825|HTA légère, diabète, obésité|Âge > 70 ans|Tabagisme, dyslipidémie
+1795045883830|5 ± 2 %|70 ± 10 %|50 ± 5 %
+1795045883832|10 % vs 57 %|30 % vs 30 %|90 % vs 50 %
+1795045883837|Diabète|HTA|Insuffisance rénale
+1795045883853|Ratio cœur/foie|SUV max|Fraction d'éjection
+1795045883874|Dipyridamole d'emblée|Adénosine d'emblée|Dobutamine d'emblée
+1795045883918|Viande, poisson|Produits laitiers|Pain, féculents
+1795045883925|50 % / 50 %|70 % / 100 %|88 % / 60 %
+1795045883950|Néphrotoxicité|Ototoxicité|Hépatotoxicité
+1017179499426|Fièvre|Déformation osseuse|Adénopathies
+1020186270114|Densité minérale élevée|Absence de remodelage|Un trait de fracture net
+1037172762988|21 % O2, 79 % N2O|100 % N2O|70 % O2, 30 % N2O
+1045859309304|Rétention rénale ↓|Superscan|Hypofixation osseuse
+1081604895417|Mesurer la densité osseuse|Doser l'inflammation|Guider la chirurgie
+1108056668924|Hyperfixation intense|Fixation normale|Hypervascularisation
+1141699335411|50 % / 50 %|20 % / 100 %|100 % / 100 %
+1144664137364|Chaud (inflammatoire)|Atrophique (stade III)|Asymptomatique
+1183885824272|Intensité ↓|Stable|Disparition
+1187195926684|Hypofixation centrale|Fixation diffuse d'un os long|Aucune anomalie
+1190686316981|L1 ; scoliose|C5 ; myélopathie|S1 ; sacro-iliite
+1195434056307|Ostéoporose, hypercalcémie|Ostéonécrose, infection|Arthrite septique
+1221699742855|Histiocytose sinusale|Maladie de Rosai-Dorfman|Histiocytose maligne
+1238785037513|Infection|Métastase lytique|Fracture
+1242350977830|Foyer colloïdes sans foyer leucos|Foyers concordants|Absence de tout foyer
+1255413140700|Coxarthrose|Hallux rigidus|Gonarthrose
+1271625918048|Bisphosphonates|Statines|Anticoagulants
+1272780342638|Infection autour de l'implant|Rupture de l'implant|Luxation
+1274506602437|Discal|Radiculaire|Sacro-iliaque
+1276531162045|Aiguë, subaiguë, chronique|Inflammatoire, fibreuse, calcifiée|Vasculaire, tissulaire, osseuse
+1279213205616|Défaut de minéralisation|Raréfaction osseuse|Nécrose
+1283308914972|~100 mL|~5 litres|Aucune
+1296904743500|5 à 10 mL|500 mL|1 litre
+1312414121105|Cal vicieux|Ostéonécrose|Fracture de fatigue
+1338996941450|99mTc-MDP|18F-FDG|99mTc-MAA
+1347855243295|Scintigraphie pulmonaire|Scintigraphie osseuse 3 phases|PET-FDG
+1354522223365|Infection|Fracture périprothétique|Ossification hétérotopique
+1357516421752|3 à 4 h|5 min|24 h
+1368809876792|Personnes âgées|Animaux domestiques|Personnes diabétiques
+1370272869024|Superscan osseux|Hypofixation squelettique|Aucun effet
+1370310974153|Fracture pathologique|Fracture de fatigue|Pseudarthrose
+1388180419855|Ostéome ostéoïde|Chondrome|Tumeur à cellules géantes
+1398992231659|Métastase|Fracture occulte|Ostéonécrose
+1408807064533|Vertèbre ivoire|Vertèbre en H|Vertèbre borgne
+1417125292678|Embolie graisseuse|Thrombose artérielle|Vasospasme
+1430102193940|Natation|Cyclisme|Golf
+1457043197130|Diminuer la dose rénale seule|Éviter la contamination|Améliorer la fixation osseuse
+1481318769286|↓ fixation globale|Superscan rénal|Aucun effet
+1487061180905|Ostéoclastique|Ostéocytaire|Chondrocytaire
+1495353151357|ALADA|ALARP|TEDE
+1524805496806|Syndesmophytes anciens|Ankylose|Ossifications ligamentaires
+1528151123085|Stade II (froid)|Stade III (atrophique)|Stade 0
+1529982982637|Précoce, intermédiaire, finale|Artérielle, portale, tardive|Statique, dynamique, tomographique
+1558234857249|Carbonate de calcium|Collagène|Oxalate de calcium
+1559326923148|Rosai-Dorfman, Erdheim-Chester, Castleman|Paget, SAPHO, Gorham|Ewing, ostéosarcome, chondrosarcome
+1563409946286|Rachitisme|Ostéomyélite|Leucémie
+1564451179926|Descellement simple|Ossifications|Fracture de la tige
+1570981622681|< 30 %|~50 %|~60 %
+1586491592646|CT|Échographie|Radiographie répétée à J1
+1592704949226|10 min|24 h|6 h
+1610647607686|Mesurer la taille|Exclure une fracture|Doser l'inflammation
+1616904947103|99mTc-MAA|18F-FDG|99mTc-sulfure colloïdal
+1625857846573|Fer, G-CSF|Chimiothérapie, IPP|AINS, paracétamol
+1647038612282|Flexion|Rotation|Compression axiale
+1666403099945|Fracture de fatigue, Paget|Ostéome ostéoïde seul|Rhizarthrose
+1686253188934|Hyperthyroïdie, Paget|Corticoïdes, bisphosphonates|Myélome, métastases
+1686389061743|Syndrome des loges|Fracture de Jones|Tendinite d'Achille
+1689570687156|1 min|24 h|30 min
+1704013396963|Spondylarthrite, Arthrite, Psoriasis, Hyperostose, Ostéoporose|Synovite, Arthrose, Paget, Hyperostose, Ostéonécrose|Sclérose, Acné, Psoriasis, Hémarthrose, Ostéite
+1707279523867|PET-FDG|Biopsie d'emblée|Scintigraphie répétée
+1715349788196|50 % / 30 %|100 % / 10 %|60 % / 60 %
+1737162204079|1 mois|5 ans|Jamais
+1780835899055|Purpura, hépatomégalie, fièvre|Diabète sucré, hypothyroïdie, ostéoporose|Exophtalmie, goitre, myxœdème
+1782135684086|Superscan, hyperparathyroïdie|Paget, SAPHO|Fracture, infection
+1785364716754|Lésion unique symétrique|Fixation diffuse normale|Ostéopénie diffuse
+1793406643698|Âge, sexe, poids, taille|Densité, épaisseur, longueur, forme|Glycémie, calcémie, PTH, PAL
+1795045883816|Fémur|Tibia|Vertèbres
+1795045883817|Syndrome de Tietze|Ostéonécrose|Fibromyalgie
+1795045883835|Scintigraphie osseuse seule|Leucocytes marqués|Radiographie
+1795045883839|Corticoïdes|Calcitonine seule|Vitamine D
+1795045883854|Rachis lombaire|Bassin|Genoux
+1795045883857|4 à 6 semaines|2 ans|Indéfiniment
+1795045883873|Hyperfixation tête fémorale|Fixation normale|Hyperfixation acétabulaire
+1795045883876|1 à 3 ans|12 à 16 ans|20 à 30 ans
+1795045883889|Phase osseuse tardive seule|Corps entier unique|Leucocytes marqués
+1795045883906|Hypofixation des 2 versants|Hyperfixation d'un seul versant|Fixation normale
+1795045883909|Ganglions|Tendons|Thyroïde
+1795045883910|1 %|50 %|30 %
+1795045883927|Hypofixation persistante|Absence de fixation|Fixation normale
+1795045883930|Fusion complète|Hyperfixation des vis|Absence de fixation
+1795045883936|Barbe blanche|Mâchoire de lion|Signe du pirate
+1795045883939|Tabac, obésité, diabète|Hypothyroïdie, IR|Ostéoporose, Paget
+1795045883946|Diagnostic d'AOMI|Dosage du sucre|Évaluation nerveuse
+1795045883949|18F-FDG|Scintigraphie osseuse seule|IRM
+1795045883954|1 h|7 jours|48 h
+1795045883957|Histiocytose langerhansienne|Ostéosarcome|Maladie de Caffey
+1795045883968|Diagnostic de certitude histologique|Traitement|Mesure de densité
+1145325206487|Endoderme|Mésoderme|Poche de Rathke
+1157425435725|131I|123I|99mTc-pertechnétate
+1210329048910|PTH ↓, Ca ↑, P ↑|PTH ↑, Ca ↓, P ↑|PTH ↓, Ca ↓, P ↓
+1280072157852|Hypofixation diffuse|Nodule chaud unique|Fixation hétérogène en damier
+1299629513025|Dosage de la PTH|Traitement|Mesure de la calcémie
+1349480616214|Diagnostic des nodules froids|Basedow|Thyroïdite
+1374575184753|99mTc-MDP|18F-FDG|123I
+1461342738535|Glomérulonéphrite|Syndrome néphrotique|Polykystose
+1482674115059|18F-FDG|131I|18F-PSMA
+1515146085437|99mTc-sestamibi, 201Tl|18F-FDG, 11C-choline|68Ga-DOTATATE, 18F-DOPA
+1628983032283|Pendrine|TPO|GLUT1
+1635644289344|99mTc-MAA|99mTc-MDP|123I-MIBG
+1795045883821|4,6 %|96 %|15 %
+1795045883972|Carcinome|Hyperplasie des 4 glandes|Kyste
+1795045883975|5 min, 10 min, 15 min|24 h, 48 h|1 h uniquement
+1018730270753|TOI|OTI|MTO
+1020945451407|Insuline, corticoïdes|Café, nicotine|Antibiotiques
+1023056677454|RECIST|Lugano-Ann Arbor|PERCIST
+1047825823359|Hypofixation hépatique|Superscan rénal|Fixation musculaire
+1061014666244|TLE|FFR|ADC
+1098302892828|Hypofixation diffuse|Reins très intenses|Fixation focale unique
+1127417150285|Progression tumorale|Fracture pathologique|Hypofixation post-radiothérapie
+1135532050396|99mTc-MDP, 99mTc-MAA|123I, 131I|201Tl, 67Ga
+1153861846426|68Ga-PSMA|18F-FES|68Ga-DOTATATE
+1202552056282|Dépistage, prévention, vaccination|Uniquement diagnostic|Thérapie
+1252267844126|Coût|Irradiation élevée|Faible sensibilité
+1269124519410|Lymphomes, poumon, côlon|Mélanome, ORL|Sein, œsophage
+1282467861351|PSMA|Récepteurs aux œstrogènes|FAP
+1304220652476|Deauville|PI-RADS|RECIST
+1321569416429|Hypercalcémie, ostéolyse, fièvre|Exophtalmie, myxœdème, acropachie|Érythème, arthrite, uvéite
+1372097143972|~2 h|~24 h|~1 min
+1428484582810|~6 mois|~1 jour|~1 an
+1437275513353|~2 min|~1 h|~3 h
+1462034210874|30 min|24 h|1 à 2 h
+1467957323617|Dépistage, prévention, suivi glycémique|Diagnostic de l'infection|Calcul du PSA
+1496994591674|Double dose, CT injecté|Jeûne de 24 h|Iode stable
+1501085828674|Mickey sign|Barbe noire|Superscan
+1510103601831|1 semaine|1 h|1 mois
+1543442843092|Activité injectée / concentration|Concentration × poids|Concentration / taille
+1578528568865|Arrêt de l'insuline 3 jours|Insuline juste avant l'injection|Repas sucré juste avant
+1586389383535|CEA|CA 125|AFP
+1646094283425|300 mg/dL|100 mg/dL|70 mg/dL
+1651002318736|Ostéoblastome|Chondroblastome|Ostéome ostéoïde
+1655564552541|T uniquement|T et N|Aucune
+1697992570495|18F-FDG|68Ga-PSMA|18F-FES
+1698654305571|Prévalence / (1 + prévalence)|(1 − prévalence) / prévalence|Sensibilité / (1 − spécificité)
+1723272268399|18F-FDG|99mTc-MDP|123I-MIBG
+1723993572854|Ostéome, chondrome|Myélome, lymphome|Paget, dysplasie
+1724693487293|Effet Pasteur|Effet Crabtree|Effet Bohr
+1785798737093|Tôt le matin à jeun|Le soir après le repas|N'importe quand
+1791057706617|RET|VHL|NF1
+1795045883852|FDG libre|Glycogène|FDG-1-phosphate
+1795045883877|68Ga-DOTATATE|18F-FES|18F-FDG
+1795045883884|1 semaine|Aucune|1 mois
+1795045883885|Métastases, myélome|Paget, SAPHO|Infection, ostéoporose
+1795045883886|Muscle et rate|Rein et cerveau|Os et cœur
+1795045883897|PET-FDG|IRM corps entier|CT thorax
+1795045883898|CRP|LDH|Calcitonine
+1795045883908|Fructose|Lactate|Acide gras
+1795045883922|Éviter les nausées|Diminuer l'irradiation|Améliorer l'élimination rénale
+1795045883961|Excès de PTH|Carence en vitamine D alimentaire|Hypercalcémie
+1795045883969|Fixation des glandes salivaires|Fixation linguale|Artefact dentaire métallique
+1795045883971|Ostéosarcome|Ewing|Chondrosarcome

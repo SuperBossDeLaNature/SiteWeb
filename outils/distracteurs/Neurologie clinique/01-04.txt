@@ -1,0 +1,196 @@
+1794911041999|Depuis quand prenez-vous des antalgiques ?|Avez-vous des antécédents familiaux ?|Où est la douleur ?
+1794911042002|Migraine|Algie vasculaire de la face|Céphalée de tension
+1794911042003|IRM cérébrale|Ponction lombaire|EEG
+1794911042005|Hypotension du LCR|Migraine|Céphalée de tension
+1794911042006|HTIC|Algie vasculaire|Céphalée cervicogène
+1794911042007|Atrophie optique|Hémorragies rétiniennes isolées|Rétinopathie hypertensive
+1794911042008|Mannitol|Corticoïdes|Furosémide
+1794911042010|Corticoïdes|Ponction lombaire répétée|Acétazolamide
+1794911042011|Vasoconstriction artérielle|Ischémie corticale|Hémorragie microscopique
+1794911042013|Triptan|Opioïdes|Ergotamine
+1794911042015|Migraine chronique|Céphalée de tension|HTIC idiopathique
+1794911042016|5 à 30 s|4 à 72 h|2 à 30 min
+1794911042018|Carbamazépine|Vérapamil|Triptans
+1794911042019|Algie vasculaire de la face|SUNCT|Migraine
+1794911042020|Gabapentine|Amitriptyline|Paracétamol
+1794911042022|~5 %|~90 %|~15 %
+1794911042023|Tumorale, infectieuse|Musculaire, psychogène|Médicamenteuse, toxique
+1794911042024|Céphalée en grappe|Céphalée post-critique|Céphalée de rebond
+1794911042025|Syndrome de Sjögren|Syndrome de Kallmann|Syndrome de Cushing
+1794911042026|Kyste arachnoïdien|Épendymome|Malformation de Chiari
+1794911042029|Résorption complète|Vasospasme|Hydrocéphalie
+1794911042030|↑ sécrétion de LCR|Œdème cytotoxique|Effet de masse tumoral
+1794911042031|Non communicante|Obstructive|Ex vacuo
+1794911042032|Communicante|À pression normale|Ex vacuo
+1794911042034|Hydrocéphalie à pression normale|Pseudo-Horton|Méningite chronique
+1794911042035|Hypertension artérielle|Diabète|Anémie
+1794911042036|Doxycycline|Benzoyle peroxyde|Spironolactone
+1794911042037|Crâniectomie, lobectomie|Embolisation, stent carotidien|Ventriculocisternostomie, biopsie
+1794911042039|Allaitement ?|Hypertension ?|Césarienne ?
+1794911042040|Hydrocéphalie|Prise de contraste parenchymateuse|Atrophie corticale
+1794911042041|IRM fonctionnelle|EEG|Doppler transcrânien
+1794911042043|Méningiome|Glioblastome|Lymphome cérébral
+1794911042045|Méningite bactérienne|Gliomatose|Leucoencéphalopathie
+1794911042046|Polyarthrite rhumatoïde|Maladie de Takayasu|Lupus
+1794911042048|Coloré, circulaire, bref|Scotome central fixe|Cécité monoculaire brutale
+1794911042049|Motrice → sensitive → visuelle|Langage → visuelle → sensitive|Simultanées
+1794911042050|Prodrome|Aura|Rebond
+1794911042052|Effet antalgique propre|Effet sédatif|Effet vasoconstricteur
+1794911042054|Bradycardie|Hypertension|Tachycardie supraventriculaire
+1794911042056|Opioïde|Benzodiazépine|Corticoïde
+1794911042057|Café|Sport intensif|Repas copieux
+1794911042058|Bisoprolol|Aténolol|Sotalol
+1794911042059|Imipramine|Clomipramine|Sertraline
+1794911042061|Lamotrigine, lévétiracétam|Gabapentine, prégabaline|Carbamazépine, lacosamide
+1794911042063|≥ 15 j|≥ 2 j|≥ 4 j
+1794911042064|Âge et sexe|Localisation et intensité|Aura et photophobie
+1794911042065|SUNCT|Hémicrânie paroxystique|Hémicrânie continue
+1794911042068|Chocolat|Lumière vive|Jeûne
+1794911042069|Mydriase, photophobie bilatérale|Nausées, vomissements|Exophtalmie, diplopie
+1794911042070|Propranolol|Indométhacine|Carbamazépine
+1794911042072|Algie vasculaire de la face|Hémicrânie continue|Névralgie du trijumeau
+1794911042073|Migraine|Algie vasculaire|Céphalée de tension
+1794911042074|CT|Angiographie|PET
+1794911042075|Hypothyroïdie|Anémie|Diabète
+1794911042077|V1 (ophtalmique)|V2 (maxillaire)|Aucune
+1794911042078|Sclérose en plaques|Tumeur de l'angle|Zona
+1794911042080|Corticoïdes|Toxine botulique|Abstention
+1794911042081|> 30 ans|> 70 ans|> 40 ans
+1794911042083|Vasomotricité|Tension musculaire|Sensibilisation centrale
+1794911042084|Durée|Couleur de la peau|Incontinence
+1794911042087|Pâleur|Rougeur|Ictère
+1794911042088|Syncope cardiogénique|Hypotension orthostatique|Crise épileptique
+1794911042089|Vasovagale|Orthostatique|Psychogène
+1794911042091|10 mmHg|50 mmHg|5 mmHg
+1794911042092|Hypovolémie ou diurétique|Déshydratation ou chaleur|Anémie ou hémorragie
+1794911042094|24 heures|1 mois|48 heures
+1794911042095|≥ 1|≥ 3, à > 1 semaine d'intervalle|≥ 2, le même jour
+1794911042098|5 à 10 s|10 à 15 min|3 à 5 min
+1794911042099|Stimulation lumineuse|Privation de sommeil|Ouverture des yeux
+1794911042100|Épilepsie-absence de l'enfant|Syndrome de West|Épilepsie temporale
+1794911042102|Frontale|Occipitale|Pariétale
+1794911042104|~1 %|~80 %|~5 %
+1794911042105|« Quel jour sommes-nous ? »|« Avez-vous eu mal ? »|« Avez-vous mangé ? »
+1794911042106|Morsure de langue, cyanose|Incontinence, confusion|Yeux ouverts, mouvements
+1794911042107|~1|~50|~0,5
+1794911042109|Vers le bas|Latérale|Aucune
+1794911042110|> 2 min|> 5 min|> 10 min
+1794911042112|Vasovagale, situationnelle, psychogène|Cardiaque, cérébrale, métabolique|Primaire, secondaire, idiopathique
+1794911042113|< 70 bpm|< 30 bpm|< 60 bpm
+1794911042114|> 80 ms|> 200 ms|> 100 ms
+1794911042115|WPW|QT long|Bloc AV
+1794911042116|Cardiomyopathie hypertrophique|Brugada|QT long congénital
+1794911042118|30 s et 1 min|10 et 20 min|Immédiatement seulement
+1794911042119|2 h|6 h|5 min
+1794911042120|> 10 mmol/L dans les 24 h|> 1 mmol/L dans les 10 min|> 2,4 mmol/L dans les 24 h
+1794911042122|Encéphalopathie de Wernicke|Hypoglycémie|Hyponatrémie
+1794911042124|Antidépresseurs, neuroleptiques|Opioïdes, cannabis|Bêtabloquants, IEC
+1794911042125|Macrolides, tétracyclines|Aminosides, glycopeptides|Sulfamides, nitrofuranes
+1794911042126|Morphine|Fentanyl|Codéine
+1794911042130|≥ 20 %|≥ 90 %|≥ 40 %
+1794911042131|Tremblement essentiel|Syncope|Absences
+1794911042132|Moteur, non moteur, mixte|Conscient, inconscient, inconnu|Tonique, clonique, atonique
+1794911042133|Crise tonique|Crise atonique|Myoclonie
+1794911042134|Quelques secondes|Quelques minutes|Quelques heures
+1794911042135|Hypotonie|Cyanose|Mutisme
+1794911042136|Marche de Babinski|Phénomène de Todd|Aura motrice
+1794911042138|Temporal|Occipital|Pariétal
+1794911042139|Anosmie|Parosmie|Dysgueusie
+1794911042141|Crise généralisée|Crise focale avec altération de conscience|Prodrome non épileptique
+1794911042142|Hypoxie cérébrale|Inhibition du cervelet|Atteinte du tronc
+1794911042143|Lésionnelle|Infectieuse|Inconnue
+1794911042144|Césarienne|Allaitement|Naissance à terme
+1794911042145|Épilepsie myoclonique juvénile|Syndrome de West|Épilepsie temporale
+1794911042147|~20 %|~0,01 %|~10 %
+1794911042149|Pointes-ondes à 3 Hz|Hypsarythmie|Pointes centro-temporales
+1794911042151|Fréquence, durée, gravité|Focal, généralisé, mixte|Symptomatique, cryptogénique, idiopathique
+1794911042153|Carbamazépine, oxcarbazépine, phénytoïne, lacosamide|Gabapentine, prégabaline, vigabatrine, tiagabine|Phénobarbital, clonazépam, éthosuximide, primidone
+1794911042154|Valproate|Lévétiracétam|Lamotrigine
+1794911042156|Crises focales|Crises tonico-cloniques|Crises toniques
+1794911042157|Lamotrigine, lévétiracétam|Carbamazépine, oxcarbazépine|Gabapentine, lacosamide
+1794911042158|Valproate|Carbamazépine|Topiramate
+1794911042160|Valproate|Phénobarbital|Carbamazépine
+1794911042162|Échec d'1 antiépileptique|Échec de 5 antiépileptiques|Crises > 1 par mois
+1794911042164|~50 %|~30 %|~80 %
+1794911042165|Augmenter les doses à l'infini|Arrêter tout traitement|Ajouter une benzodiazépine
+1794911042167|> 30 min|> 1 min|> 15 min
+1794911042168|> 60 min|> 1 min|> 30 min
+1794911042170|Lévétiracétam IV|Propofol|Phénobarbital
+1794911042171|Midazolam en continu|Thiopental|Propofol
+1794911042172|Benzodiazépine IM|Surveillance|Lévétiracétam per os
+1794911042174|Induction enzymatique|Interaction pharmacodynamique|Insuffisance rénale
+1794911042175|Valproate|Lamotrigine|Lacosamide
+1794911042176|Valproate|Lévétiracétam|Topiramate
+1794911042177|Valproate, lamotrigine|Éthosuximide, valproate|Topiramate, zonisamide
+1794911042180|Lévétiracétam, topiramate|Gabapentine, phénytoïne|Carbamazépine, lacosamide
+1794911042181|Lévétiracétam, topiramate|Valproate, lamotrigine|Carbamazépine, phénytoïne
+1794911042183|Ostéonécrose|Ostéopétrose|Hypercalcémie
+1794911042184|Hirsutisme, acné|Hypertension, œdèmes|Insomnie, anxiété
+1794911042185|Insuffisance rénale|Hyponatrémie|Bradycardie
+1794911042187|Lamotrigine|Lacosamide|Gabapentine
+1794911042189|Phénobarbital|Valproate|Carbamazépine
+1794911042190|Hépatotoxicité|Agranulocytose|Prise de poids
+1794911042194|Âge du diagnostic|Antécédents familiaux|Type de crise
+1794911042196|Holter EEG|IRM fonctionnelle|EMG
+1794911042197|Hypermétabolisme|Métabolisme normal|Fixation diffuse
+1794911042198|1 Tesla|0,5 Tesla|7 Tesla obligatoire
+1794911042199|Évaluer l'intelligence|Dépister la dépression|Mesurer la mémoire de travail seule
+1794911042200|EEG de scalp, vidéo-EEG|MEG, EEG haute densité|EMG, PES
+1794911042201|≥ 5 %|100 %|≥ 95 %
+1794911042204|RNS|DBS|TMS
+1794911042205|Noyau sous-thalamique|Pallidum|Hippocampe
+1794911042206|VNS|DBS|tDCS
+1794911042208|Durée et fréquence|Âge et étiologie|EEG et IRM
+1794911042209|Marche jacksonienne|Status myoclonique|Phénomène de Todd
+1794911042211|~5 min|~2 h|~24 h
+1794911042212|Sodium + potassium|Insuline + glucagon|Calcium + magnésium
+1794911042213|Embolie pulmonaire|Hypokaliémie|Myocardite virale
+1794911042214|Comprendre, arrêter, réanimer|Arrêter, comprendre, réanimer|Réanimer, comprendre, arrêter
+1794911042215|Per os|Intrarectale (diazépam) obligatoire|Sous-cutanée
+1794911042216|> 1 h|> 7 jours|> 6 h
+1794911042217|1–2 %|80 %|5–10 %
+1794911042218|Hypoglycémie|Sevrage|AVC
+1794911042219|AVC, tumeur|Fièvre, infection|Hypoglycémie, hyponatrémie
+1794911041224|Phénomène de Lazare|Marche jacksonienne|Paralysie de Bell
+1794911041227|Crise occipitale|AIT|Décollement de rétine
+1794911041228|Aura migraineuse|AIT|Glaucome aigu
+1794911041229|Aura migraineuse|Crise occipitale|Névrite optique
+1794911041230|Démence débutante|Crise temporale|Délirium
+1794911041232|Compression du nerf ulnaire|AVC|Compression du nerf médian
+1794911041233|Sensation de malaise|Perte de connaissance|Trouble de l'équilibre
+1794911041235|Névrite vestibulaire|Maladie de Ménière|Migraine vestibulaire
+1794911041237|Inflammation du nerf|Hydrops endolymphatique|Ischémie labyrinthique
+1794911041239|Vertige, surdité, acouphènes|Vertige, nausées, céphalées|Nystagmus, diplopie, ptôsis
+1794911041240|Cause périphérique|Cause psychogène|VPPB
+1794911041241|IRM|EEG|Doppler
+1794911041242|VPPB|Névrite vestibulaire|Neurinome de l'acoustique
+1794911041243|Ischémie transitoire|Inhibition thalamique|Œdème cérébral
+1794911041244|Aura prolongée|Migraine hémiplégique|Migraine rétinienne
+1794911041247|5–10/1 000|5–10/1 000 000|50–100/100 000
+1794911041248|~30 ans|~85 ans|~45 ans
+1794911041250|Rétrograde isolée|Antérograde isolée|Sémantique
+1794911041252|Hypersignaux de la substance blanche|Atrophie hippocampique|Prise de contraste méningée
+1794911041253|Alcool, cannabis|Cocaïne, héroïne|Paracétamol, AINS
+1794911041254|Crise frontale|Absence|Syndrome de Lennox
+1794911041256|< 1 h|< 7 jours|< 72 h
+1794911041257|Flexion du poignet|Opposition du pouce|Écartement des doigts
+1794911041258|Vestibulo-oculaire|Vestibulo-corticale|Vestibulo-cérébelleuse
+1794911041259|Vestibulo-spinale|Vestibulo-corticale|Réticulo-spinale
+1794911041260|Occipital|Frontal|Temporal médial
+1794911041261|VII|IX|VI
+1794911041262|Mésencéphale|Bulbe inférieur|Moelle cervicale
+1794911041263|Cochlée, utricule, saccule|Marteau, enclume, étrier|Canaux semi-circulaires, cochlée, tympan
+1794911041265|VPPB|Maladie de Ménière|Migraine vestibulaire
+1794911041266|Manœuvre de Epley|Head impulse test|Romberg
+1794911041270|< 1 min|< 24 h|< 1 semaine
+1794911041272|Surdité, acouphènes|Nausées, vomissements|Nystagmus horizontal épuisable
+1794911041273|IRM en urgence|Neurologue en urgence|Hospitalisation en réanimation
+1794911041274|Potentiels d'action axonaux|Activité musculaire|Activité gliale
+1794911041275|4–8 Hz|13–30 Hz|< 4 Hz
+1794911041276|8–13 Hz|< 4 Hz|13–30 Hz
+1794911041277|4–8 Hz|8–13 Hz|> 30 Hz
+1794911041278|8–13 Hz|> 30 Hz|4–8 Hz
+1794911041280|Ondes delta, ondes alpha|Pointes vertex, ondes sawtooth|Rythme mu, ondes lambda
+1794911041281|N1|REM|N2
+1794911041282|Système 5–10|Système 20–40|Système 10–50
+1794911042222|AVC, tumeur, SEP|Syncope, vertige, hypoglycémie|Migraine, céphalée de tension, névralgie

@@ -1,0 +1,192 @@
+1795102856285|Walter Cannon|Louis Pasteur|Hans Selye
+1795102856286|Hormonale et nerveuse|Volontaire et involontaire|Rapide et lente
+1795102856287|Cortex préfrontal, amygdale|Cervelet, hippocampe|Thalamus, striatum
+1795102856291|Satiété (sérotoninergique)|Stress (noradrénergique)|Sommeil (GABAergique)
+1795102856292|Sensibilité accrue|Disparition de leur sécrétion|Aucun effet
+1795102856293|≈ 50 %|≈ 0,5 %|≈ 25 %
+1795102856294|α-MSH, CART, leptine|GLP-1, PYY, CCK|Sérotonine, insuline, CRH
+1795102856295|Leptine|Gastrine|Somatostatine
+1795102856296|Ghréline|Adiponectine|Résistine
+1795102856300|Ghréline, NPY, orexine|Gastrine, sécrétine, motiline|Insuline, glucagon, somatostatine
+1795102856302|Hormonaux|Métaboliques (glycémie)|Adipocytaires (leptine)
+1795102856304|Sensorielle|Mécanique (distension)|Volontaire
+1795102856306|α-MSH/CART|POMC|Orexine/MCH
+1795102856307|NPY/AgRP|Orexine/MCH|Ghréline/GHSR
+1795102856309|Faim|Satiété|Rassasiement
+1795102856310|Absence de faim entre 2 repas|Envie de manger un aliment précis|Faim ↑ en fin de repas
+1795102856311|Faim ↓ pendant le repas|Envie d'un aliment particulier|Arrêt de la prise d'un aliment précis
+1795102856312|Poids et BMI|Statut socio-économique|Taille et tour de taille
+1795102856316|Poids / taille|Taille / poids²|Poids × taille²
+1795102856317|20-27,9 kg/m²|16-22,9 kg/m²|18,5-29,9 kg/m²
+1795102856318|< 20|< 16|< 22
+1795102856319|23-27,9|27-31,9|25-34,9
+1795102856320|25-29,9|35-39,9|30-39,9
+1795102856321|30-34,9|40-44,9|32-37,9
+1795102856322|35-39,9|50-59,9|45-54,9
+1795102856323|40-49,9|≥ 60|45-49,9
+1795102856325|< 15e percentile|< 25e percentile|< 1er percentile
+1795102856326|75e-85e percentile|95e-99e percentile|50e-75e percentile
+1795102856327|> 85e percentile|> 75e percentile|> 99e percentile
+1795102856330|> 80 cm|> 102 cm|> 88 cm
+1795102856331|> 88 cm|> 94 cm|> 70 cm
+1795102856332|> 94 / > 80 cm|> 110 / > 100 cm|> 88 / > 80 cm
+1795102856333|≥ 0,80 / ≥ 0,75|≥ 1,10 / ≥ 1,00|≥ 0,95 / ≥ 0,95
+1795102856334|1 autre facteur|3 autres facteurs|4 autres facteurs
+1795102856335|≥ 200 mg/dL|≥ 100 mg/dL|≥ 400 mg/dL
+1795102856336|< 50 / < 40 mg/dL|< 35 / < 35 mg/dL|< 60 / < 60 mg/dL
+1795102856337|≥ 140/90 mmHg|≥ 120/80 mmHg|≥ 160/100 mmHg
+1795102856338|≥ 126 mg/dL|≥ 110 mg/dL|≥ 140 mg/dL
+1795102856342|Pascal|Bernoulli|Doppler
+1795102856343|1 g/mm²|100 g/mm²|50 g/mm²
+1795102856344|Membranes cellulaires|Masse grasse|Os
+1795102856345|Eau, électrolytes|Masse grasse|Os
+1795102856346|R + Xc|R × Xc|R / Xc
+1795102856348|Ultrasons à 2 fréquences|Champ magnétique|Courant électrique alternatif
+1795102856351|Uniquement un défaut d'apport|Uniquement un excès de poids|Carence en un seul micronutriment
+1795102856352|Uniquement en vitamines|Hydrique|Uniquement lipidique
+1795102856353|Perte de poids volontaire|Perte de masse musculaire liée à l'âge|Amaigrissement réversible par la seule renutrition
+1795102856354|Perte de masse grasse|Perte de masse osseuse|Perte d'appétit
+1795102856355|1-5 %|80-95 %|5-10 %
+1795102856358|> 2 % en 6 mois|> 5 % en 1 an|> 20 % en 1 an
+1795102856359|Biceps|Deltoïde|Mollet
+1795102856360|Bien nourri|Malnutrition modérée|Obésité
+1795102856361|2 critères phénotypiques seuls|1 critère étiologique seul|BMI < 18,5 seul
+1795102856363|2-5 % en 6 mois|> 10 % en 6 mois|10-20 % en 1 an
+1795102856364|5-10 % en 6 mois|> 2 % en 6 mois|> 30 % en 6 mois
+1795102856365|< 22 kg/m²|< 18,5 kg/m²|< 16 kg/m²
+1795102856366|Cancer métastatique, sepsis|Brûlures étendues, polytraumatisme|Insuffisance cardiaque aiguë
+1795102856368|10-15 %|> 20 %|≤ 1 %
+1795102856369|< 1 semaine|6-12 mois|> 1 an
+1795102856370|95 % de la normale|50 % de la normale|30 % de la normale
+1795102856372|Jeûne thérapeutique|Nutrition parentérale exclusive|Repas de fête après une maladie
+1795102856373|↗ insuline, ↘ glucagon|↗ les deux|↘ les deux
+1795102856374|Néoglucogenèse|Cétogenèse|Lipolyse
+1795102856375|50-100 g/j|1 000 g/j|30 g/j
+1795102856376|Corps cétoniques, AG|Glycogène, lactose|Cholestérol, AG
+1795102856377|Glutamine|Leucine|Tryptophane
+1795102856378|Alanine|Leucine|Lysine
+1795102856379|Acides gras libres|Glycogène cérébral|Lactate exclusivement
+1795102856383|8 h par jour|1 semaine par mois|1 repas par jour
+1795102856386|Perte des cheveux|Pâleur des lèvres|Œdème palpébral
+1795102856387|↑ jeûne / ↓ stress|↓ les deux|↑ les deux
+1795102856389|Jeûne (↑↑)|Les deux de façon égale|Aucun des deux
+1795102856390|Glucagon|Cortisol|Adrénaline
+1795102856391|Hyperkaliémie|Hypernatrémie|Hypercalcémie
+1795102856392|Na, Cl, Ca, fer|Glucose, insuline|Vitamine D, A
+1795102856393|B12|C|D
+1795102856395|Déficit en vitamine C|Excès de sodium seul|Déficit en fer
+1795102856396|Hyperkaliémie, hypercalcémie|Hypernatrémie|Hypoglycémie
+1795102856399|Cholestase par excès de lipides|Hépatite virale|Nécrose par carence en fer
+1795102856401|≈ 1 %|≈ 90 %|≈ 1/10
+1795102856402|Chute > 5 % du phosphate|Phosphate > 2 mmol/L|Chute > 80 % du calcium
+1795102856404|35-40 kcal/kg/j|25-30 kcal/kg/j|1-5 kcal/kg/j
+1795102856405|5-7 g/kg/j|0,1 g/kg/j|10 g/kg/j
+1795102856407|Glycémie capillaire seule|HbA1c|Aucune surveillance
+1795102856408|Sportifs, femmes enceintes|Obèses sans perte de poids|Jeunes en bonne santé
+1795102856410|↑|Inchangés|↑↑ (hyperphagie)
+1795102856411|NPY|Ghréline|Orexine
+1795102856414|↑ synthèse musculaire post-repas|↓ dégradation musculaire|↑ absorption des protéines
+1795102856415|Score de Glasgow|Échelle de Borg|Score MNA uniquement
+1795102856417|Lipides|Protéines|Corps cétoniques
+1795102856418|Glucose seul|Glycogène|Fructose
+1795102856419|1 mois à 1 an|Quelques minutes|Plusieurs années
+1795102856421|Aldostérone|ACTH seule|Insuline
+1795102856422|10-20 %|100 %|30-40 %
+1795102856423|Cycle de Krebs|Cycle de l'urée|Cycle glucose-alanine
+1795102856424|Favoriser le stockage du glucose|Augmenter la lipogenèse|Produire de l'insuline
+1795102856425|1/10|Égale|Double
+1795102856426|Plaquettes, neutrophiles uniquement|Hépatocytes|Adipocytes
+1795102856429|Calories totales < dépense de repos|Apports protéiques > 1 g/kg|Repas trop fréquents
+1795102856430|Consommation − dépense de repos|Apports + consommation|Dépense totale − dépense de repos
+1795102856431|↓ production de CO₂|Hypoxémie isolée|Bronchospasme
+1795102856433|Infection et hémorragie|Anémie et thrombose|Douleur et dépression
+1795102856434|Doses de traitement augmentées|Aucun impact|Efficacité accrue
+1795102856435|IL-2, IL-10|TNF-β, IFN-α|IL-4, IL-13
+1795102856436|↑|Inchangée|↑↑
+1795102856438|↓ néoglucogenèse, insulinosensibilité accrue|Hypoglycémie constante|Glycolyse inhibée
+1795102856439|↓ lipolyse|↑ lipogenèse|Stockage accru
+1795102856440|5 %|95 %|20 %
+1795102856441|1-5 %|95-100 %|10-20 %
+1795102856442|Sein (90 %)|Prostate (90 %)|Lymphome (90 %)
+1795102856444|20 %|1 %|50 %
+1795102856446|Compléments oraux standard|Alimentation libre|Nutrition parentérale systématique
+1795102856447|Effet direct de la chimiothérapie uniquement|Obstruction digestive dans tous les cas|Carence en fer
+1795102856448|Paracétamol|AINS|Antiépileptiques
+1795102856450|Parentérale → entérale → CNO → régime|CNO → parentérale → régime → entérale|Entérale → régime → CNO → parentérale
+1795102856451|Dénutrition modérée avec intestin fonctionnel|Patient capable de manger|Préférence du patient
+1795102856452|Hyperglucidique|IG élevé|Sans lipides
+1795102856453|Hyperprotéiné|Pauvre en potassium|Riche en sel
+1795102856456|Le mettre au repos|Passer à la parentérale|L'éviter en cas de dénutrition
+1795102856457|Diarrhée, nausées|Dénutrition sévère, âge avancé|Constipation, ballonnement
+1795102856458|> 50 mL/j|> 5 L/j|> 100 mL/j
+1795102856462|10 %|50 %|30 %
+1795102856463|↓ perméabilité|Aucun effet|Renforcement de la barrière
+1795102856467|≈ 800 kcal|≈ 3 500 kcal|≈ 1 000 kcal
+1795102856468|≥ 1/4|100 % obligatoirement|≥ 1/2
+1795102856471|Acides aminés libres|Peptides courts|Protéines hydrolysées
+1795102856473|Au congélateur|À l'abri de la lumière à 40 °C|Sans précaution particulière une fois ouverts
+1795102856476|Kinésithérapeute|Ergothérapeute|Diététicien
+1795102856477|4 h/24|24 h/24 sans pause|12 h/24
+1795102856478|Gastrostomie|Jéjunostomie|Naso-jéjunale
+1795102856479|Usage de longue durée à domicile|Gastrostomie|Nouveau-né
+1795102856481|> 1 semaine|> 6 mois|> 1 an
+1795102856482|Chirurgicale ouverte|Radiologique|Laparoscopique
+1795102856484|Polymérique hypercalorique|Hyperlipidique|Riche en fibres
+1795102856486|0,5 kcal/mL|2 kcal/mL|1,5 kcal/mL
+1795102856487|1 kcal/mL|1,2-1,5 kcal/mL|2 kcal/mL
+1795102856488|1 kcal/mL|0,5-0,8 kcal/mL|3 kcal/mL
+1795102856489|> 10 % de l'AET|> 50 % de l'AET|> 30 % de l'AET
+1795102856490|Protéines intactes|Peptides longs|Caséine
+1795102856491|0,3-0,5 L/j|3-4 L/j|5 L/j
+1795102856493|> 600 mOsm/L|> 1 000 mOsm/L|Indifférente
+1795102856495|Hypercalorique, débit maximal d'emblée|Élémentaire, débit maximal|Hyperprotéinée d'emblée
+1795102856499|Arrêter définitivement|Passer en parentérale|Augmenter le débit
+1795102856500|Simple intolérance au goût|Excès de fibres uniquement|Sonde mal fixée
+1795102856501|IPP, AINS, statines|Prokinétiques, laxatifs|Hyperkaliémie, hypercalcémie
+1795102856502|Augmentent l'apport calorique|Remplacent les protéines|Bloquent l'absorption des lipides
+1795102856503|Veine périphérique du bras|Voie intra-osseuse|Artère fémorale
+1795102856504|Céphalique, basilique|Saphène, poplitée|Fémorale, iliaque
+1795102856505|72 h|7 jours|6 h
+1795102856507|≈ 30 %|≈ 100 %|≈ 10 %
+1795102856508|5 %|50 %|70 %
+1795102856509|Hypoglycémie|Hémorragie|Hypercalcémie
+1795102856510|10 mg/kg/min|1 mg/kg/min|20 mg/kg/min
+1795102856512|200 g/j|5 g/j|500 g/j
+1795102856513|100-120 mg/dL|300-350 mg/dL|126-140 mg/dL
+1795102856514|250 mg/dL|100 mg/dL|80 mg/dL
+1795102856515|Bronchospasme|Hypocapnie|Embolie gazeuse
+1795102856516|Hépatite cytolytique virale|Fibrose biliaire|Atrophie hépatique
+1795102856518|1/semaine|1/j|Jamais
+1795102856519|Hyperosmolaires|Hypotoniques|Très hyperosmolaires (> 1 500 mOsm/L)
+1795102856520|≈ 4 kcal/g|≈ 7 kcal/g|≈ 20 kcal/g
+1795102856522|Triglycérides|Phospholipides|Cholestérol
+1795102856523|A et D|B et C|D et B12
+1795102856524|3-4 g/kg/j|0,1 g/kg/j|2,5-3 g/kg/j
+1795102856525|1,5 g/kg/h|0,015 g/kg/h|0,5 g/kg/h
+1795102856526|Hépatite cytolytique virale|Stéatose isolée sans biologie|Cirrhose aiguë
+1795102856528|Kernictère|Entérocolite nécrosante|Hypoglycémie
+1795102856529|Glycémie et créatinine|Ammoniémie|Lipase et amylase
+1795102856530|Sans glucose|Sans acides aminés|Sans eau
+1795102856534|Biotine|Coenzyme Q10|Thiamine
+1795102856535|2-4 C|14-18 C|20-24 C
+1795102856536|C16:0 et C18:0|C18:1 et C20:4|C20:5 et C22:6
+1795102856537|5 g/semaine|500 g/semaine|50 g/jour
+1795102856538|20 sur 20|2 sur 20|15 sur 20
+1795102856539|1 g N = 3,5 g protéines|1 g N = 10 g protéines|1 g N = 1 g protéines
+1795102856540|Leucine|Alanine|Glycine
+1795102856541|3-4 g/kg/j|0,2-0,3 g/kg/j|2-2,5 g/kg/j
+1795102856542|Taurine|Arginine|Cystéine
+1795102856543|Histidine|Taurine|Tyrosine
+1795102856544|Arginine|Histidine|Glutamine
+1795102856545|Hypoglycémie|Hyperkaliémie|Insuffisance rénale aiguë
+1795102856547|Toute dénutrition|Insuffisance hépatique|Diabète
+1795102856548|Vitamine C|Vitamine B1|Vitamine A
+1795102856549|Zinc|Sélénium|Cuivre
+1795102856550|1 semaine avant|Le lendemain|À la fin de la poche
+1795102856551|5-10 mL/kg/j|60-80 mL/kg/j|100 mL/kg/j
+1795102856552|EVA (éthylène-vinyl-acétate)|Polyéthylène|Polypropylène
+1795102856553|Hotte chimique standard|À l'air libre|Hotte à flux vertical non filtré
+1795102856554|Chlorure de sodium|Oxalate de potassium|Carbonate de magnésium
+1795102856556|Dans la poche de nutrition|Par la même voie, en Y, sans précaution|Uniquement par voie orale
+1795102856557|Lithiase cholestérolique aiguë|Cholangite sclérosante|Cancer de la vésicule
+1795102856558|1/jour|1/mois|Jamais

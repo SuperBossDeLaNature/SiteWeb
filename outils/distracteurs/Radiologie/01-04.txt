@@ -1,0 +1,269 @@
+1795098083905|Examens de surveillance|Examens thérapeutiques|Examens de dépistage
+1795098083906|Diagnostic, pronostic, prévention, recherche|Urgence, consultation, hospitalisation, suivi|Diagnostic, traitement médical, chirurgie, rééducation
+1795098083908|Dépistage organisé|Visée thérapeutique|Bilan d'extension
+1795098083909|Utiliser toujours la même machine|Changer de technique à chaque fois|Doubler la dose pour mieux voir
+1795098083910|Rapidité d'exécution|Coût le plus bas|Préférence du patient
+1795098083912|Hypoglycémie, hypertension|Infection, hémorragie|Brûlure, cataracte
+1795098083913|Sujets âgés, obèses, hommes|Diabétiques, hypertendus|Sportifs, fumeurs
+1795098083914|Risque allergique|Risque d'irradiation accrue|Risque de claustrophobie
+1795098083915|CT|Échographie|Radiographie
+1795098083916|La graisse réfléchit tous les ultrasons|Le gel ne tient pas|La sonde chauffe
+1795098083917|Erreur de technique + erreur de dose|Erreur de patient + erreur d'urgence|Erreur de produit de contraste + erreur de délai
+1795098083919|Nobel de médecine, 1895|Nobel de chimie, 1903|Nobel de physique, 1911
+1795098083920|Sa propre main|Le crâne de son assistant|Un fémur de cadavre
+1795098083921|Particules chargées (électrons)|Ondes mécaniques|Noyaux d'hélium
+1795098083923|10⁻² à 10⁻⁴ m|10⁻¹⁵ à 10⁻¹⁸ m|400 à 700 nm
+1795098083924|≈ 1 à 3 eV|≈ 1 à 10 MeV|≈ 10⁹ eV
+1795098083925|E = h·λ/c (E ↑ quand λ ↑)|E = m·c²|E indépendante de λ
+1795098083927|Tube de Crookes ouvert|Tube photomultiplicateur|Klystron
+1795098083929|1 à 5 kV|500 à 1 000 kV|10 à 50 MV
+1795098083931|Électron–électron : spectre de raies|Photon–noyau : effet Compton|Positron–électron : annihilation
+1795098083932|Spectre continu|Spectre nul|Spectre identique pour toutes les anodes
+1795098083933|L'électron incident est freiné par le noyau|Annihilation électron-positron|Le noyau se désintègre
+1795098083936|Refroidir l'anode|Filtrer les RX mous|Protéger le patient
+1795098083937|Accélérer les électrons|Durcir le faisceau|Convertir les RX en lumière
+1795098083939|La quantité de RX (nombre de photons)|La taille du foyer|La durée d'exposition
+1795098083941|Surexposition|Exposition correcte|Artefact de mouvement
+1795098083943|≈ 120 kV vs ≈ 70 kV|≈ 30 kV vs ≈ 30 kV|≈ 150 kV vs ≈ 50 kV
+1795098083944|CR = capteur plan direct ; DR = film argentique|CR = film ; DR = écran à mémoire|CR et DR identiques
+1795098083946|JPEG|PDF|TIFF
+1795098083947|Uniquement l'image compressée|Le code source du logiciel|L'ordonnance signée
+1795098083950|Décroissance linéaire|Croissance exponentielle|Indépendante de l'épaisseur
+1795098083951|Couleur, forme, température|Épaisseur seule|Taille du patient seule
+1795098083953|Calcique|Hydrique|Graisseuse
+1795098083954|Poumons, trachée|Os, calcifications|Graisse sous-cutanée
+1795098083955|Opacité = absorption ↓ (plus noir) ; clarté = absorption ↑|Opacité = air ; clarté = os|Termes équivalents
+1795098083956|Atténue fortement les RX|Toujours métallique|Apparaît blanc
+1795098083958|Sa droite à notre droite|Selon le choix du radiologue|Patient de dos
+1795098083960|Antéro-postérieure (AP), dos contre le détecteur|Profil couché|Oblique antérieure droite
+1795098083962|Oblique : agrandit sans déformer|Perpendiculaire : déforme|Aucune ne modifie l'image
+1795098083963|Deux interfaces parallèles|Opacité ronde|Superposition de 2 structures
+1795098083964|Bord du cœur|Contour du diaphragme|Bord d'une vertèbre
+1795098083965|2 structures de densités différentes fusionnent|Image fantôme d'une structure|Disparition d'un organe par artefact
+1795098083967|Le foie la masque|Elle est plus basse que la droite|Erreur de technique
+1795098083969|Addition : érosion ; soustraction : ostéophyte|Les deux : arthrose|Addition : fracture ; soustraction : tumeur
+1795098083970|Être à jeun|Injecter du contraste|Faire une IRM d'abord
+1795098083971|Augmenter le kV|Prendre le cliché de profil|Mesurer directement sur l'écran sans référence
+1795098083974|Augmenter le kV au maximum|Utiliser un film plus sensible|Doubler la durée d'exposition
+1795098083975|Gadolinium, microbulles|Air, CO₂|Eau, graisse
+1795098083976|Cerveau, moelle, foie, rate|Vaisseaux, cœur, tendons|Nerfs, muscles, ligaments
+1795098083977|Appendicite, pancréatite, cholécystite|Diverticulite, occlusion du grêle|Tumeur du côlon
+1795098083978|Utilisation d'ultrasons|Utilisation du champ magnétique|Utilisation d'isotopes
+1795098083980|Scintigraphie|IRM sans injection|Radiographie simple
+1795098083981|Échographie seule|Scintigraphie|Radiographie simple
+1795098083983|Coloscopie|Gastroscopie|Échographie abdominale
+1795098083984|Transit grêle|ASP|Échographie
+1795098083986|Lithiase rénale, kyste rénal|Cancer de prostate|Cystite aiguë
+1795098083987|Bilan de fibrome|Grossesse extra-utérine en urgence|Contraception
+1795098083988|Cancer du rectum|Hémorroïdes|Appendicite
+1795098083989|Myélographie → échographie ; sialographie → IRM|Myélographie → scintigraphie|Les deux → radiographie simple
+1795098083990|La puissance double tous les 10 ans|Le prix double chaque année|La taille des puces double tous les 2 ans
+1795098083991|Irradiation trop faible|Résolution spatiale trop haute|Absence d'agrandissement
+1795098083995|Aimant, antennes, gradients, console|Sonde, gel, écran|Cassette, écran, film
+1795098083996|1 à 2|1 000 à 2 000|4 à 8
+1795098083997|1 tour par minute|10 à 20 tours/s|1 tour par 10 s
+1795098083998|Des signaux de résonance|Des échos ultrasonores|Des désintégrations
+1795098083999|Volume du patient|Épaisseur de coupe|Nombre de détecteurs
+1795098084002|Focal Object Volume|Frequency Of View|Film Optical Value
+1795098084003|Centimétrique|Micrométrique|Pluri-centimétrique
+1795098084004|Taille du patient seule|Durée d'examen|Couleur des tissus
+1795098084005|Gray (Gy)|Décibel (dB)|Tesla (T)
+1795098084008|0 à 100 UH|−100 à +100 UH|−5000 à +5000 UH strictement
+1795098084009|+40 à +140 UH|0 UH|−600 à −900 UH
+1795098084010|−40 à −140 UH|0 à 20 UH|−1000 exactement
+1795098084011|−50 à −60 UH|150 à 160 UH|0 UH
+1795098084012|−20 à −45 UH|80 à 120 UH|0 UH
+1795098084013|−35 à −55 UH|100 à 150 UH|0 UH
+1795098084017|Opacité / clarté|Hypo- / hyper-échogénicité|Hypo- / hyper-signal
+1795098084018|Masse / volume en g/L|Nombre d'UH|Rapport aux os
+1795098084019|L'ordinateur ne gère que 256 couleurs|Pour réduire la dose|Pour diminuer le bruit
+1795098084020|Largeur de la plage d'UH|Nombre de pixels|Épaisseur de coupe
+1795098084021|Centre de la plage d'UH|Taille de la matrice|Contraste maximum
+1795098084024|C −600 / W 1600|C +450 / W 1500|C +40 / W 80
+1795098084026|−450 à +450 UH|0 à +450 UH|−1000 à +1000 UH
+1795098084027|−600 à +1600 UH|−1000 à +1000 UH|−800 à −400 UH
+1795098084028|W ≈ 80 UH, C ≈ 40 UH|W ≈ 450 UH, C ≈ 45 UH|W ≈ 1600, C ≈ −600
+1795098084029|Rate of irradiation dose|Range of interest|Relative optical index
+1795098084030|Augmenter la dose|Agrandir le champ|Choisir le produit de contraste
+1795098084033|Filtre mou ET fenêtre médiastinale|Filtre mou ET fenêtre poumon|Filtre dur ET fenêtre cérébrale
+1795098084034|Taille du plus petit pixel|Contraste minimal visible|Durée totale de l'examen
+1795098084035|Dose, durée, coût|Champ, matrice, pixel|Bruit, artefact, filtre
+1795098084037|kV, mA, dose, durée|Bruit, contraste, artefacts|Taille du patient, contraste
+1795098084039|Moins de détails, plus d'artefacts|Résolution moins bonne|Contraste plus élevé
+1795098084040|Plus petit objet visible|Temps entre deux projections|Nombre de niveaux de gris
+1795098084042|Artefact métallique|Mouvement du patient|Différence entre 2 tissus
+1795098084043|Filtre dur ; coupe plus fine|Baisser les mA|Réduire le FOV
+1795098084044|Projection d'intensité maximale|Rendu volumique|Endoscopie virtuelle
+1795098084046|Voxels les plus atténuants ; os|Moyenne des voxels ; tissus mous|Voxels les plus atténuants ; vaisseaux
+1795098084047|Reconstruction de l'os en 3D|Fibroscopie avec caméra|Projection des voxels les plus denses
+1795098084048|Aigu (hyperdense)|Chronique (hypodense)|Hyperaigu (isodense)
+1795098084049|Spongieux plus dense|Identique|Corticale hypodense
+1795098084050|Précoce, intermédiaire, tardif|Avec, sans, double injection|Artériel seul, veineux seul, mixte
+1795098084051|Non irradiant, moins cher, mobile|Meilleure résolution temporelle seule|Pas besoin de contraste
+1795098084054|Image d'une lésion réelle|Variation normale|Erreur de prescription
+1795098084055|Implants métalliques → filtre dur|Obésité → augmenter les kV|Allergie → prémédication
+1795098084057|Artefact de mouvement|Volume partiel|Durcissement du faisceau seul
+1795098084058|Mouvement du patient pendant l'acquisition|Présence de métal|Bruit quantique
+1795098084060|Être à jeun ; arrêter les anticoagulants|Retirer les bijoux uniquement|Vessie pleine
+1795098084062|Dépistage chez tous en 1re intention|Bilan de maladie de Crohn|Suivi d'appendicite
+1795098084064|Oui, toujours hyperdense|Oui, toujours hypodense|Oui, sur fenêtre osseuse
+1795098084065|2 tubes pour plus de vitesse seulement|Deux injections de contraste|Deux patients en même temps
+1795098084067|Graisse, plastique|Eau, air|Acide urique
+1795098084068|Iode, os|Métal|Calcium, iode
+1795098084069|Embolie, AVC, appendicite|Fractures, entorses, luxations|Cancer, métastases, lymphomes
+1795098084070|Remplacer l'IRM cérébrale|Mesurer le débit cardiaque|Échographie virtuelle
+1795098084072|Hémorragie aiguë|Fracture du crâne|Hydrocéphalie seule
+1795098084073|Avec (C+)|Toujours triple phase|IRM obligatoire
+1795098084074|Fractures cervicales|Lithiase salivaire|Torticolis
+1795098084075|Sinusite aiguë|Migraine|AVC
+1795098084077|Dissection aortique|Pneumonie|Cancer bronchique
+1795098084078|Embolie pulmonaire, pneumothorax|Pneumonie, emphysème|Asthme, BPCO
+1795098084079|CT médiastin < angio aortique < angio pulmonaire|Tous simultanés|Angio aortique < angio pulmonaire < médiastin
+1795098084081|C+ portal seul|C− seul|C+ artériel seul
+1795098084083|Jeûne de 24 h|Lavement|Boire du baryum
+1795098084084|Ingestion de baryum puis radio|Coloscopie virtuelle|Injection de gadolinium
+1795098084085|Capsule endoscopique : moins chère|Échographie : plus précise|Coloscopie : plus rapide
+1795098084086|Artériel, portal, tardif|C−, artériel, veineux|Néphrographique, cortical, médullaire
+1795098084087|C+ artériel|C+ triple phase|IRM obligatoire
+1795098084088|C− seul|Arthro-CT|Angio-CT
+1795098084089|En 1re intention chez tous|Jamais|Uniquement chez l'enfant
+1795098084090|Biopsies cutanées|Endoscopie|Chimiothérapie IV
+1795098084092|Mesurer la taille du fœtus|Dater la grossesse|Dépister les malformations
+1795098084095|Meilleure analyse des parties molles|UH précises, grand champ|Contraste IV excellent
+1795098084096|Irradiation plus forte que le CT|Résolution spatiale médiocre|Artefacts métalliques majorés
+1795098084097|Abdomen, thorax, cerveau|Cœur, foie|Pelvis, rachis lombaire entier
+1795098084098|Contrôle qualité des machines uniquement|Dosimétrie des tumeurs|Règles d'hygiène hospitalière
+1795098084099|1 an|5 ans|À vie
+1795098084101|÷2 en 25 ans|Stable|×100 en 25 ans
+1795098084102|≈ 5 %|≈ 95 %|≈ 20 %
+1795098084103|≈ 5 %|≈ 95 %|≈ 20 %
+1795098084105|Médicale, industrielle, militaire|Solaire, téléphonique, wifi|Cosmique, médicale, nucléaire
+1795098084107|Côte belge|Bruxelles|Campine
+1795098084108|La radiographie du thorax|La mammographie|L'échographie
+1795098084110|Photons X et γ|Neutrons|Ondes radio
+1795098084111|α, β, protons|Électrons|Ions lourds
+1795098084112|Effet Compton|Effet photoélectrique|Production de paire
+1795098084113|Excitation : e⁻ éjecté ; ionisation : e⁻ change d'orbite|Termes équivalents|Les deux concernent le noyau
+1795098084114|> 3 eV|> 3 keV|> 1 MeV
+1795098084116|Indépendant de Z|Augmente avec l'énergie|Prédomine à haute énergie
+1795098084118|L'effet photoélectrique|La diffusion Rayleigh|La production de paire
+1795098084121|Effet photoélectrique|Production de paire|Diffusion Rayleigh
+1795098084122|La graisse|Le poumon|Le muscle
+1795098084123|Énergie > 100 keV|Énergie > 0,511 keV|Énergie < 1 MeV
+1795098084124|Rayleigh + Thomson|Ionisation + excitation|Freinage + raies
+1795098084125|Gy, Gy, Gy|Sv, Gy, Bq|Bq, Sv, Gy
+1795098084126|Ne mesure que les effets stochastiques|Elle dépend de l'âge|Elle n'existe pas en radiologie
+1795098084129|E = D / WR|E = D × temps|E = WR × WT
+1795098084130|Effets déterministes (brûlures)|Effets aigus|Effets thermiques
+1795098084132|Elle surestime toujours|Le nouveau-né est radiorésistant|Elle utilise des fantômes pédiatriques
+1795098084133|Relation à seuil, effets non additifs|Relation exponentielle|Relation hormétique démontrée
+1795098084134|Calculer la dose à l'organe d'un patient précis|Prédire un cancer individuel|Doser le produit de contraste
+1795098084137|CTDIvol|DLP|SUV
+1795098084140|CTDI mesuré sur 10 mm|CTDI de 100 patients|CTDI à 100 kV
+1795098084141|100 et 50 mm|500 et 250 mm|320 et 320 mm
+1795098084142|2/3 au centre + 1/3 en périphérie|Moyenne simple|Centre uniquement
+1795098084143|Largeur du faisceau / rotation|Nombre de coupes par seconde|Épaisseur de coupe × mA
+1795098084144|CTDIw × longueur|CTDIw × pitch|CTDI100 / 3
+1795098084145|Taille du patient, âge|Longueur explorée seule|Filtre, fenêtre
+1795098084148|Dose Level Protection|Dynamic Linear Pitch|Detector Length Parameter
+1795098084150|Brûlures, érythème|Hydrolyse des lipides|Dénaturation de l'hémoglobine
+1795098084151|Atome avec un proton supplémentaire|Molécule stable|Ion positif
+1795098084152|≈ 1 s|≈ 1 h|≈ 10⁻¹⁵ s
+1795098084154|Division, croissance, apoptose obligatoire|Réparation fidèle uniquement|Cancer systématique
+1795098084155|≈ 1 par cellule par an|≈ 1 000 par cellule par jour|Aucune
+1795098084156|Irradiation faible à débit lent|Âge jeune|Repos cellulaire
+1795098084157|Mutations non létales|Sans seuil|Effets héréditaires
+1795098084158|Mort cellulaire massive|Brûlure|Inflammation
+1795098084162|Déterministe : retardé ; stochastique : rapide|Tous deux rapides|Tous deux retardés de 20 ans
+1795098084163|Linéaire sans seuil|Exponentielle|Plate
+1795098084164|Dose minimale létale|Dose annuelle maximale|Dose où l'effet touche 50 %
+1795098084165|0,6 Sv|60 Sv|1 Sv
+1795098084166|6 à 10 Sv|0,01 Sv|10 Sv
+1795098084167|0,1 à 0,5 Sv|1 Sv|20 à 30 Sv
+1795098084168|10 Sv|0,01 Sv|50 Sv
+1795098084169|5 Sv|0,05 Sv|10 Sv
+1795098084171|> 10 Gy : érythème ; > 5 Gy : brûlure|> 1 Gy : brûlures|Aucun effet sous 50 Gy
+1795098084172|Hypertrichose, hyperpigmentation|Aucune lésion|Psoriasis
+1795098084174|> 0,1 Gy|> 50 Gy|> 1 Gy
+1795098084175|Accélération de la croissance|Ostéoporose|Fracture immédiate
+1795098084176|Iode 123 (diagnostic du goitre)|Radiothérapie externe du goitre|Iode stable
+1795098084177|Embryonnaire (3 mois), fœtale (6 mois), néonatale|Fécondation, nidation, accouchement|1er, 2e, 3e trimestre seulement
+1795098084180|Cœur|Foie|Rein
+1795098084181|Malformation cardiaque|Leucémie|Fente labiale
+1795098084182|Mesurer la créatinine|Vérifier l'allergie|Prescrire une prémédication
+1795098084184|Aucune conduite particulière|Repos au lit|Échographie seule
+1795098084185|IVG systématique|Aucune discussion|Césarienne
+1795098084186|1 à 10 Gy|> 100 mGy toujours|0 mGy
+1795098084187|0,05 Gy|5 Gy|2 Gy
+1795098084188|Fréquence chez exposés − non exposés|Nombre de cas / population|Dose / effet
+1795098084189|Sujets âgés, surtout les hommes|Adultes moyens|Personnes déjà irradiées
+1795098084190|Aucune limite|Population trop petite|Suivi trop court
+1795098084192|As Little As Radiation Allowed|All Levels Are Risky Anyway|Always Limit All Radiological Acts
+1795098084193|À seuil|Hormétique|Quadratique pure
+1795098084195|Linéaire sans seuil|Effet doublé aux faibles doses|Absence d'effet
+1795098084198|Augmentation majeure|Doublement des malformations|×10 de mutations
+1795098084199|Examens urgents, pédiatriques, coûteux|Examens non remboursés|Examens de nuit
+1795098084200|CT cérébral pour AVC|Échographie pour cholécystite|IRM du genou pour entorse grave
+1795098084201|Dose maximale pour la meilleure image|Ne pas faire l'examen|Dose fixe pour tous
+1795098084202|Augmenter le kV et le temps|Diminuer la distance|Supprimer les protections
+1795098084204|Prise de sang annuelle|Compteur Geiger personnel quotidien|Aucun suivi
+1795098084205|Ondes électromagnétiques|Rayonnement ionisant|Champ magnétique
+1795098084207|20 Hz à 20 kHz|1 à 70 kHz|100 à 500 MHz
+1795098084209|λ = f / c|λ = c × f|λ = 1 / c
+1795098084210|≈ 3,85 mm|≈ 0,0385 mm|≈ 38,5 mm
+1795098084211|≈ 0,9 mm|≈ 9 mm|≈ 0,009 mm
+1795098084214|L'amplitude du signal|La vitesse du sang|La nature du tissu
+1795098084215|La profondeur|La vitesse|La fréquence
+1795098084216|Réchauffer la peau|Désinfecter|Augmenter la fréquence
+1795098084218|De la couleur du tissu|De la fréquence de la sonde seule|De la température
+1795098084219|Diffraction et interférence uniquement|Effet Compton|Effet photoélectrique
+1795098084220|A : image 2D ; B : amplitude 1D|A : Doppler ; B : 3D|A et B : identiques
+1795098084223|Linéaire, convexe, sectorielle|Abdominale, cardiaque|Superficielle, profonde
+1795098084224|kV, mA, pitch, filtre|TR, TE, FOV, matrice|Fenêtre, niveau, épaisseur
+1795098084226|Fréquence d'émission|Profondeur explorée|Taille de la zone focale
+1795098084228|Elle diminue la résolution|Elle augmente la dose|Elle crée des ombres
+1795098084229|Profondeur de Résolution Focale|Fréquence de la sonde|Puissance Relative du Faisceau
+1795098084231|Elle chauffe la sonde|Elle augmente l'atténuation|Elle change la longueur d'onde
+1795098084232|Réflexion totale du son|Atténuation de l'onde|Diffraction des ultrasons
+1795098084233|Δf = f₀·V / (2·c·cos α)|Δf = c / f₀|Δf = 2·V·sin α
+1795098084236|À c, inversement à V|Uniquement à α|Indépendant de V
+1795098084237|Mode A, B, M, 3D|Couleur, noir, blanc, gris|Linéaire, convexe, sectoriel, endocavitaire
+1795098084238|1 cristal émettant par pulsations|Aucun cristal|3 cristaux en rotation
+1795098084239|Ne mesure pas les vitesses élevées|Très irradiant|Image 2D impossible à obtenir
+1795098084240|Repérage en profondeur ; écho abdominale|Flux lents ; musculo-squelettique|Aucun ; abandonné
+1795098084241|Mesure des vitesses très élevées sans limite|Indépendance de l'angle|Pas de volume d'échantillonnage
+1795098084245|Cœur, poumon|Cerveau, rate|Os, muscle
+1795098084246|Code le décalage de fréquence|Code la profondeur|Code la direction du flux
+1795098084247|Indique la direction du flux|Mesure les vitesses élevées|Dépend fortement de l'angle
+1795098084249|Échocardiographie, valvulopathies|Mesure de sténoses carotidiennes|Datation de grossesse
+1795098084251|Cône d'ombre|Réverbération|Image en miroir
+1795098084255|Renforcement postérieur|Queue de comète|Anisotropie
+1795098084256|Doppler puissance|Augmenter le gain|TGC
+1795098084258|De la densité électronique|Du numéro atomique|De la fréquence de la sonde seule
+1795098084259|Kyste liquidien|Calcul vésiculaire|Graisse
+1795098084261|Faux aspect hyperéchogène → fausse calcification|Faux renforcement postérieur|Ombre acoustique
+1795098084262|Image derrière un kyste|Écho d'une aiguille|Ombre d'un os
+1795098084263|Une augmentation de la dose|Des brûlures cutanées|Une perte du gel
+1795098084264|Panoramique, reproductible, sans opérateur|Voit à travers l'os et l'air|Résolution supérieure à l'IRM partout
+1795098084265|Irradiation du médecin|Coût élevé|Durée très longue
+1795098084267|Échographie transcrânienne adulte|Échographie à travers les sutures adulte|Échographie orbitaire
+1795098084268|La graisse produit des artefacts métalliques|Le gel ne passe pas|La sonde ne tient pas
+1795098084269|Bronchospasme pendant l'examen|Toux|Hypoxie
+1795098084270|Expiration forcée, décubitus ventral|Vessie vide, jeûne prolongé|Manœuvre de Valsalva en position debout
+1795098084272|Vessie pleine|Vessie avec sonde|Indifférente
+1795098084275|Lithiase rénale, kystes rénaux|Bilan osseux|Bilan de goitre
+1795098084276|Queue (la tête est masquée)|Canal de Wirsung uniquement|Aucune partie
+1795098084277|Diverticulite, cancer colique, maladie de Crohn|Ulcère, gastrite, RGO|Pancréatite, cholécystite, hépatite
+1795098084278|Glomérulonéphrite, syndrome néphrotique|Hyperkaliémie|Dosage de la créatinine
+1795098084279|Fonction rénale, débit de filtration|Uretère pelvien entier|Prostate en détail
+1795098084280|Sus-pubienne vessie vide|Périnéale|Transabdominale à jeun
+1795098084281|Morphologie détaillée des organes|Croissance tardive|Présentation fœtale
+1795098084282|Datation et vitalité|Présentation|Dépistage chromosomique par clarté nucale
+1795098084283|Datation précise|Clarté nucale|Nombre de fœtus uniquement
+1795098084284|Tendons, muscles, bourses|Nerfs périphériques|Épanchements articulaires
+1795098084285|Radiographie|CT|Scintigraphie
+1795098084286|Thrombose veineuse profonde, varices|Embolie pulmonaire|Dissection aortique thoracique
+1795098084287|Phlébographie|Angio-CT|D-dimères seuls sans imagerie
+1795098084288|Coronarographie|Ponction lombaire|Endoscopie
+1795098084289|Prix, durée, gel|Fréquence, gain, PRF|Âge, sexe, poids
+1795098084290|Calcification ; os|Air ; graisse|Métal ; aiguille

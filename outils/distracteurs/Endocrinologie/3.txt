@@ -1,0 +1,117 @@
+1731945200345|Neurohypophyse|Pars intermedia|Tige pituitaire
+1731945200346|Adénohypophyse|Pars tuberalis|Éminence médiane
+1731945200347|Hyposignal spontané|Isosignal à la substance grise|Absence de signal
+1731945200348|Noyau supraoptique|Noyau paraventriculaire|Glande pinéale
+1731945200350|GHRH, CRH|TRH, GnRH|Ocytocine, ADH
+1731945200351|Corticotrope, gonadotrope|Lactotrope, gonadotrope|Corticotrope, lactotrope
+1731945200352|Somatotrope (somatostatine)|Thyréotrope (somatostatine)|Corticotrope (cortisol)
+1731945200354|GH|IGFBP-3|GHRH
+1731945200355|FT4 ↓, TSH ↑↑|FT4 ↑, TSH ↓|FT4 N, TSH ↑
+1731945200356|Craniopharyngiome|Méningiome|Kyste de la poche de Rathke
+1731945200358|< 1 %|> 50 %|~3 %
+1731945200359|Adénome hypophysaire|Méningiome|Germinome
+1731945200360|Hypersignal par rapport à l'hypophyse saine|Prise de contraste intense et homogène|Calcifications en hypersignal
+1731945200362|Fièvre, méningite, épilepsie|Polyurie, anorexie, fièvre|Ictère, prurit, hépatomégalie
+1731945200363|Occipitales|En casque, pulsatiles|Unilatérales migraineuses
+1731945200364|Hémianopsie latérale homonyme|Quadranopsie supérieure|Scotome central unilatéral
+1731945200367|Infarctus hypophysaire post-partum|Infection de l'hypophyse|Rupture d'un kyste de Rathke
+1731945200368|VI (abducens)|II (optique)|VII (facial)
+1731945200369|Thyréotrope|Gonadotrope|Somatotrope
+1731945200370|Adénome somatotrope (~60 %)|Adénome corticotrope (~60 %)|Adénome à TSH (~30 %)
+1731945200371|~60 %|< 1 %|30–40 %
+1731945200373|~10 %|~25 %|~50 %
+1731945200374|~5 %|~60 %|< 1 %
+1731945200375|Stimule la GnRH → puberté précoce|Aucun effet|Stimule la LH → hyperandrogénie
+1731945200376|10–15 % des adultes|0,01 % des adultes|5 % des enfants
+1731945200379|Hyperthyroïdie, Cushing|Acromégalie, phéochromocytome|Hypercalcémie, Addison
+1731945200380|Bromocriptine, cabergoline|β-bloquants, IEC|Lévothyroxine, metformine
+1731945200381|Prolactine mutée hyperactive|Hyperprolactinémie tumorale vraie|Prolactine liée aux Ac anti-TPO
+1731945200382|Prolactinome géant|Hyperprolactinémie médicamenteuse|Hyperprolactinémie de grossesse
+1731945200385|Hyperprolactinémie de déconnexion|Adénome non fonctionnel|Macroprolactine
+1731945200387|Hirsutisme, virilisation|Ménorragies, prise de poids|Bouffées de chaleur, hyperandrogénie
+1731945200388|Gynécomastie isolée sans troubles sexuels|Priapisme|Hypersexualité
+1731945200390|Ostéomalacie|Ostéonécrose|Hyperostose
+1731945200391|Dosage unique le soir|Dosage après effort|Dosage après injection de TRH
+1731945200392|> 20 ng/ml (> 50 si neuroleptique)|> 1000 ng/ml|IRM systématique quel que soit le taux
+1731945200393|Chirurgie transsphénoïdale|Radiothérapie|Analogues de la somatostatine
+1731945200394|Après 6 mois|Après 2 ans|Jamais
+1731945200396|Fibrose hépatique|Hypoglycémie|Ostéoporose
+1731945200399|50 % / 20 %|100 % / 100 %|20 % / 5 %
+1731945200401|Craniotomie frontale|Voie transorbitaire|Voie transcervicale
+1731945200402|Microprolactinome asymptomatique|Toujours en 1re intention|Désir de grossesse sans autre critère
+1731945200403|Diminution de moitié|Pas de changement|Multiplication par 5
+1731945200404|1–2 %|60–80 %|100 %
+1731945200407|IRM mensuelle systématique|Dosage mensuel de la prolactine|Aucune surveillance
+1731945200409|50 %|5 %|75 %
+1731945200410|MEN1|CDKN1B|PRKAR1A
+1731945200411|> 60 ans|40–50 ans|Ménopause
+1731945200412|Excès de GH chez la femme / chez l'homme|Excès d'IGF-1 / excès de GH|Excès de GH après / avant soudure des épiphyses
+1731945200413|~1/10|~1/2|Tous
+1731945200414|AIP germinale (40 %)|GNAS inactivatrice (5 %)|MEN1 somatique (40 %)
+1731945200415|Carcinome médullaire de la thyroïde|Phéochromocytome|Hypothalamus uniquement
+1731945200416|~6 mois|~1 an|~25 ans
+1731945200417|10–20 ans|20–30 ans|> 70 ans
+1731945200418|Perte de cheveux|Amaigrissement|Vergetures pourpres
+1731945200419|Rétrognathie, microglossie, dents serrées|Faciès lunaire, érythrose|Exophtalmie, rétraction palpébrale
+1731945200420|Dilatée (à paroi fine)|Restrictive amyloïde|Arythmogène du VD
+1731945200423|10 % / 50 %|90 % / 70 %|5 % / 1 %
+1731945200424|×1,5|×20|Aucun
+1731945200426|Gastroscopie annuelle|Échographie hépatique|Aucun
+1731945200429|GH aléatoire|Prolactine|GHRH
+1731945200431|< 5 ng/ml|< 10 ng/ml|> 1 ng/ml
+1731945200433|ACTH (40 %)|TSH (40 %)|FSH (40 %)
+1731945200435|Gastroscopie, scintigraphie osseuse, EEG|Ostéodensitométrie seule|Fond d'œil seul
+1731945200437|Agonistes dopaminergiques|Pegvisomant|Radiothérapie
+1731945200438|Pancréatite aiguë (25 %)|Cholestase (5 %)|Cholangite sclérosante
+1731945200439|Analogue de la somatostatine|Agoniste dopaminergique|Inhibiteur de la GHRH
+1731945200441|Lithiase biliaire|Hypoglycémie|Valvulopathie
+1731945200442|< 5 ng/ml|< 0,01 ng/ml|< 10 ng/ml
+1731945200444|En 1re intention chez tous|Jamais|Avant la chirurgie
+1731945200446|FT4 ↓, TSH ↑|FT4 ↑, TSH ↓|FT4 N, TSH ↓
+1731945200447|Basedow|Hashimoto|Thyroïdite de De Quervain
+1731945200448|Iode 131|ATS au long cours|Thyroïdectomie totale
+1731945200449|LH > FSH (virilisation)|Prolactine > FSH|Aucune sécrétion
+1731945200451|Agonistes dopaminergiques|Analogues de la somatostatine|Surveillance
+1731945200452|0,1 %|50 %|1 %
+1731945200454|IRM à 6 mois|IRM annuelle|Chirurgie
+1731945200455|Méningite, diabète sucré, épilepsie|Hypercalcémie, hypokaliémie|Hémiplégie, aphasie
+1731945200456|Bandelette de protéines|Dosage de la créatinine|Bandelette de nitrites
+1731945200458|Glioblastome|Adénome hypophysaire|Craniopharyngiome
+1731945200462|Scanner thoraco-abdominal|PET-FDG|Échographie thyroïdienne
+1731945200463|Hémorragie d'un adénome hypophysaire|Hypophysite post-partum auto-immune|Nécrose surrénalienne post-partum
+1731945200464|Homme âgé|Enfant prépubère|Ménopause
+1731945200465|Somatotrope et gonadotrope|Lactotrope et somatotrope|Gonadotrope uniquement
+1731945200466|Lithium, amiodarone|Statines, IEC|Antibiotiques
+1731945200467|Toujours insuffisance hypophysaire globale|Hyperprolactinémie constante|Diabète insipide constant
+1731945200469|17–18 h|Minuit|N'importe quelle heure
+1731945200470|Dosage de l'IGF-1 seul|Test à la TRH|Test au synacthène
+1731945200472|< 70 mg/dl|< 60 mg/dl|< 20 mg/dl
+1731945200473|Hyperaldostéronisme|Fuite rénale de sel avec hyperkaliémie|Déshydratation hypernatrémique
+1731945200474|Élevées vs non élevées|Les deux élevées|Les deux basses
+1731945200475|Gynécomastie|Hypertrophie testiculaire|Calvitie
+1731945200479|Testostérone/œstrogènes|Clomifène|Cabergoline
+1731945200480|Ostéoporose|Diabète|Hypothyroïdie
+1731945200481|Hypertrophie bénigne non obstructive|Ostéoporose|Diabète
+1731945200482|< –2 DS|> +3 DS|Valeur indétectable
+1731945200483|Diabète bien équilibré, ostéoporose|Âge > 40 ans|Hypothyroïdie substituée
+1731945200485|Tous les adultes de plus de 50 ans|Les sujets obèses|Les sportifs
+1731945200486|Polyurie hypertonique > 3 L/24 h|Polyurie avec glycosurie|Polyurie > 1 L/24 h
+1731945200487|> 800 mOsm/kg|> 1 200 mOsm/kg|300–600 mOsm/kg
+1731945200488|Syndrome de résistance à l'aldostérone|Polyurie primaire|SIADH inversé
+1731945200489|Arqué et ventromédian|Suprachiasmatique et dorsomédian|Mamillaires
+1731945200490|V1a (vasoconstriction)|V1b (ACTH)|Récepteur nucléaire
+1731945200492|≥ 1 %|≥ 50 %|≥ 30 %
+1731945200493|250–260 mOsm/kg|300–310 mOsm/kg|320–330 mOsm/kg
+1731945200496|Hypocalcémie, hyperkaliémie|Hypernatrémie, hypoglycémie|Hyperthyroïdie, hypocalcémie
+1731945200498|Progressif sur des années|Cyclique|Uniquement nocturne
+1731945200499|1–2 %|90 %|10 %
+1731945200500|< 135 mmol/L|135–140 mmol/L|< 120 mmol/L
+1731945200503|Charge en eau|Hypoglycémie insulinique|Test à la TRH
+1731945200504|Ocytocine|Néoptérine|Procalcitonine
+1731945200505|≥ 135 mmol/L|≥ 160 mmol/L|≤ 130 mmol/L
+1731945200506|≥ 1 %|≥ 15 %|≥ 10 kg
+1731945200507|Hydrochlorothiazide|Furosémide|Vaptans
+1731945200509|Le matin|À midi|Au réveil uniquement
+1731945200510|↓ catabolisme de la vasopressine|Auto-anticorps anti-ADH|Infarctus hypophysaire
+1731945200511|Sécrétion de prolactine, croissance|Réabsorption d'eau, vasoconstriction|Libération d'ACTH, lipolyse
+1731945200513|Adénome à prolactine|Méningiome|Gliome du nerf optique

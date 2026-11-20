@@ -1,0 +1,121 @@
+1795017230105|Microangiopathie et macroangiopathie|Rétinopathie et néphropathie|Infections et cataracte
+1795017230107|Macroangiopathie (spécifique) – microangiopathie (non spécifique)|Neuropathie (spécifique) – rétinopathie (non spécifique)|Les deux sont spécifiques du diabète
+1795017230109|Acidocétose : type 2 – Hyperosmolaire : type 1|Les deux : type 1|Les deux : MODY
+1795017230111|AC : lente (semaines) – HO : rapide (heures)|Les deux rapides (heures)|Les deux lentes (mois)
+1795017230113|AC > 600 – HO > 250 mg/dl|AC > 126 – HO > 200 mg/dl|AC > 1 000 – HO > 400 mg/dl
+1795017230115|pH < 7,45 – HCO₃⁻ < 30 mEq/l|pH < 7,00 – HCO₃⁻ < 5 mEq/l|pH > 7,45 – HCO₃⁻ > 30 mEq/l
+1795017230117|< 0,5 mM (cétonurie absente)|> 50 mM|1–2 mM (cétonurie +)
+1795017230119|> 280–290 mosm/kg|> 250 mosm/kg|> 500–600 mosm/kg
+1795017230121|Excès d'insuline + déficit en glucagon|Insulinorésistance isolée sans carence|Déshydratation isolée
+1795017230123|Na + K + glucose + urée|2 × Na + glucose/6 + urée/18|Na + glucose/18 + urée
+1795017230125|310 ± 8 – ~290 mosm/kg|250 ± 8 – ~400 mosm/kg|290 ± 8 – ~290 mosm/kg
+1795017230127|(Na + K) – Cl = 20 ± 4 mEq/l|Na – Cl = 40 mEq/l|Cl – (Na + HCO₃) = 12 ± 4 mEq/l
+1795017230129|Il est toujours normal|Il n'est pas mesurable en routine|Il est entièrement intracellulaire
+1795017230131|~12 mEq/l|~52 mEq/l|~20 mEq/l
+1795017230133|Le rein produit de l'insuline|L'aldostérone inhibe la réabsorption du glucose|Le glucose est converti en cétones par le rein
+1795017230135|À la glycémie – pas au β-OHB|Aux deux de façon égale|À aucun des deux
+1795017230137|0,5–1 l|15–20 l|2 l (20 ml/kg)
+1795017230139|Toujours ↑ (pas de déficit en sodium)|Toujours effondrée < 110|Toujours normale
+1795017230141|Pool ↑ et kaliémie ↑|Pool normal et kaliémie ↓|Pool ↓ et kaliémie toujours ↓
+1795017230143|Absolue 65–75 % – relative 25–35 %|Absolue 100 %|Absolue 5 % – relative 95 %
+1795017230145|Infection (40 %) – infarctus (20 %)|Excès d'exercice – repas riche|Metformine – iDPP-4
+1795017230147|Oubli d'insuline (60 %)|Infarctus (30–40 %)|Corticoïdes (50 %)
+1795017230149|Infection (60 %)|Excès d'insuline (30 %)|Grossesse (50 %)
+1795017230151|Céphalées (70 %)|Douleur thoracique (70 %)|Prurit (70 %)
+1795017230153|Hypertension, bradycardie, œdèmes|Hyperthermie, hypertonie, sueurs|Pâleur, tremblements, hypertonie
+1795017230155|> 80 %|~50 %|Jamais
+1795017230157|Au pH|À la cétonémie|À la kaliémie
+1795017230159|Gastro-entérite virale banale uniquement|Appendicite|Ulcère gastrique
+1795017230161|Insuline IV à forte dose|Bicarbonate de sodium|Potassium seul
+1795017230163|Elle dilue le glucose uniquement|Elle stimule la sécrétion d'insuline|Elle inhibe la néoglucogenèse
+1795017230165|Hypoglycémie immédiate|Hyperkaliémie|Œdème pulmonaire
+1795017230167|Parce que la kaliémie mesurée est toujours fausse|Pour prévenir l'hyperglycémie|Pour corriger l'acidose
+1795017230169|~100–150 mEq/l|~2–4 mEq/l|Pas de KCl
+1795017230171|~1 U/kg/h|~0,01 U/kg/h|~10 U en bolus unique
+1795017230173|Après l'arrêt de l'IV (6 h)|Le lendemain|En même temps que l'arrêt
+1795017230175|Oui, systématiquement|Oui, si pH < 7,30|Oui, avant l'insuline
+1795017230177|Elle se normalise immédiatement|Les tigettes ne détectent rien|Elle reflète exactement la cétonémie
+1795017230179|Le rapport β-OHB/ACAC augmente|L'acétone s'accumule|Les tigettes détectent l'insuline
+1795017230181|Doser l'HbA1c en urgence|Faire une HGPO|Doser l'insuline
+1795017230183|Hypoglycémie|Pancréatite|Acidose lactique
+1795017230185|1 % de mortalité – aucune séquelle|80 % de mortalité|5 % de mortalité – 1 % de séquelles
+1795017230187|Les sujets > 70 ans|Les DT2 obèses|Les femmes enceintes
+1795017230189|Infectieux, auto-immuns|Hémorragiques uniquement|Génétiques uniquement
+1795017230191|Il élimine des osmoles → œdème si réhydratation lente|Il sécrète de l'ADH|Il bloque l'entrée du glucose
+1795017230193|Ventricules plus grands en début de traitement|Hémorragie sous-arachnoïdienne|Calcifications des noyaux gris
+1795017230195|20–30 %|< 0,1 %|50 %
+1795017230197|Non, identique partout|Non, elle est nulle en Europe|Oui, mais seulement chez l'adulte
+1795017230199|Oubli d'insuline (35–60 %)|Infarctus (35–60 %)|Exercice intense
+1795017230201|Metformine, iDPP-4, statines|Insuline, glucagon|Lévothyroxine, aspirine
+1795017230203|Hyperhydratation – hyperfiltration|Prise d'iSGLT2 – polyurie|Anémie – hypokaliémie
+1795017230205|Régime hypoglucidique|Jeûne prolongé|Perfusion de NaCl 9 ‰
+1795017230207|~5 %|~90 %|~15 %
+1795017230209|Signes neurologiques focaux toujours définitifs|Aucun symptôme neurologique|Uniquement des céphalées
+1795017230211|Plus d'AGL (insuline absente)|Cétones éliminées dans les urines|Excès de glucagon
+1795017230213|Insuline IV seule sans réhydratation|Bicarbonates + restriction hydrique|Diurétiques + insuline
+1795017230383|< 70 / < 60 mg/dl|< 30 / < 20 mg/dl|< 60 / < 50 mg/dl
+1795017230385|Cortisol et hormone de croissance|Insuline et somatostatine|Thyroxine et aldostérone
+1795017230387|Après 3–4 h – 8 à 12 h|Quelques secondes – 10 min|Plusieurs jours – 2 semaines
+1795017230389|Sur la néoglucogenèse à partir des protéines|Sur l'absorption intestinale|Sur la captation musculaire seule
+1795017230391|Catécholamines et glucagon|Insuline et GLP-1|Thyroxine et PTH
+1795017230393|Quelques minutes – ~2 h|Après 24 h – 1 semaine|Immédiat – 30 min
+1795017230395|Glycogénolyse hépatique directe|Inhibition de la sécrétion d'insuline uniquement|↑ absorption intestinale du glucose
+1795017230397|Glycogène : linéaire (α-1,4) – Amidon : ramifié (α-1,6)|Les deux sont linéaires|Glycogène : β-1,4 – Amidon : α-1,4
+1795017230399|Stockage plus lent du glucose|Moins de molécules d'eau|Résistance à l'hydrolyse
+1795017230401|Troubles de concentration, vue trouble, somnolence|Céphalées, nausées, paresthésies|Polyurie, polydipsie
+1795017230403|Tremblements, palpitations, transpiration|Faim, anxiété|Céphalées, nausées
+1795017230405|Tremblements, palpitations|Coma, convulsions|Faim, sueurs
+1795017230407|~40 / ~20 mg/dl|~80 / ~70 mg/dl|~60 / ~65 mg/dl
+1795017230409|~60 / < 50 mg/dl|~20 / < 10 mg/dl|~30 / < 40 mg/dl
+1795017230411|~40 / ~30 mg/dl|~10 / ~5 mg/dl|~30 / ~20 mg/dl
+1795017230413|Metformine, iDPP-4|iSGLT2, glitazones|Glucagon, corticoïdes
+1795017230415|Cushing, phéochromocytome, hyperthyroïdie|Acromégalie, glucagonome|DT2, obésité
+1795017230417|Insulinome, tumeurs mésenchymateuses|Cushing, acromégalie|Hypothyroïdie, hyperparathyroïdie
+1795017230419|Insulinome dans la majorité des cas|DT2 de l'enfant|Excès de cortisol
+1795017230421|Hypo : arrêt d'insuline – Hyper : repas manqué|Les deux : exercice|Hypo : infection – Hyper : exercice
+1795017230423|Hypo : progressive – Hyper : abrupte|Les deux abruptes|Les deux progressives
+1795017230425|Hypo : hypotonie, Kussmaul, rougeur – Hyper : hypertonie, agitation, pâleur|Les deux : calme, hypotonique|Hypo : déshydratation – Hyper : sueurs profuses
+1795017230427|Réveil en 2 h / aucun effet|Aucun effet / réveil immédiat|Réveil en 15 min / immédiat
+1795017230429|Infection – oubli d'insuline|Repas copieux – sédentarité|Corticoïdes – stress
+1795017230431|Pour éviter une hyperglycémie de rebond immédiate|Parce que l'hypoglycémie disparaît seule|Pour éviter l'acidocétose
+1795017230433|1 modérée/an – jamais de sévère|2–3 sévères/semaine|10 modérées/jour
+1795017230435|Il est plus sensible à l'insuline|Il a plus de glucagon|Il mange plus
+1795017230437|Plus l'HbA1c est haute, plus les hypos sont fréquentes|Aucun lien|Lien uniquement chez le DT2
+1795017230439|Elle l'augmente|Aucun effet|Elle supprime uniquement le glucagon
+1795017230441|Plus haut chez le bien contrôlé|Identique|Absent chez le mal contrôlé
+1795017230443|Le cerveau ↓ sa captation de glucose|↑ adrénaline et symptômes|Lésions cérébrales irréversibles
+1795017230445|50–60 g de chocolat|1 verre de lait|5 g de sucre
+1795017230447|Glucose IV 20 g par l'entourage|Insuline rapide 2 U|Sucre en morceaux chez un patient inconscient
+1795017230449|↑ de 200 mg/dl en 1 min|↑ de 5 mg/dl en 2 h|↓ de la glycémie
+1795017230451|Glucagon 10 mg IV|Glucose PO 100 g|Insuline IV
+1795017230453|Repos sans collation|Injection d'insuline rapide|Arrêt définitif de l'insuline
+1795017230455|~50 g|~5 g|~30 g
+1795017230457|1 sucre – 1 Dextro – 50 ml de cola|10 sucres – 15 Dextro – 500 ml de cola|3 sucres – 5 Dextro – 150 ml de cola light
+1795017230459|Pour éviter l'hyperglycémie de rebond|Parce que le glucose n'est pas absorbé|Pour stimuler l'insuline
+1795017230461|Chocolat – tablettes de glucose|Jus de fruit – glucose|Pain – lait
+1795017230463|Hypoglycémie prolongée|Acidocétose|Hypokaliémie
+1795017230465|1–2 / 5 000/an|10 / 100 000/an|1 / 10 000 000/an
+1795017230467|50–100 mm|1–2 mm|> 100 mm
+1795017230469|80 % malin – 10 % bénin|50 % multiples – 50 % uniques|100 % bénin unique
+1795017230471|1 %|75 %|50 %
+1795017230473|HGPO 75 g|Test au glucagon|Dosage d'HbA1c
+1795017230475|Hyperglycémie avec insuline basse|Hypoglycémie avec insuline effondrée|Hypoglycémie avec cétose majeure
+1795017230477|Glycémie < 45–50 – insuline < 3 – peptide C < 0,2 – β-OHB > 2,7|Glycémie > 70 – insuline > 20|Glycémie < 45 – insuline indétectable – cétones +++
+1795017230479|10 % / 50 % / 60 %|33 % / 50 % / 70 %|90 % / 95 % / 100 %
+1795017230481|Normale : absentes – Insulinome : +++|Les deux : +++|Les deux : absentes
+1795017230483|Insuline ↑ – peptide C ↑|Insuline ↓ – peptide C ↓|Insuline ↓ – peptide C ↑
+1795017230485|Insuline ↑ – peptide C ↓|Insuline ↓ – peptide C ↓|Insuline ↓ – peptide C ↑
+1795017230487|Échographie abdominale (~80 %)|Scanner thoracique|Scintigraphie osseuse
+1795017230489|~20 % et 90 %|~95 % et 95 %|~10 % et 10 %
+1795017230491|Octréotide|MIBG|FDG
+1795017230493|Pancréatectomie totale systématique|Radiothérapie|Chimiothérapie seule
+1795017230495|Insuline basale, metformine|Sulfonylurées|Jeûne prolongé
+1795017230497|Perte de poids|Aucune variation|Cachexie
+1795017230499|Petits adénomes pancréatiques|Lymphomes cutanés|Carcinomes basocellulaires
+1795017230501|Production d'insuline ectopique|Production de glucagon|Destruction du foie
+1795017230503|Hypos au cours du jeûne|Hypos nocturnes sous insuline|Hypos après l'exercice
+1795017230505|Oui, très fréquentes|Non, jamais démontrées, même après chirurgie|Oui, uniquement chez le DT1
+1795017230507|Polyurie + polydipsie + amaigrissement|Hypo + cétose + coma|Tremblements + sueurs + faim
+1795017230509|0 % / 1 %|50 % / 75 %|25 % / 50 %
+1795017230511|Oui, beaucoup plus|Oui, systématiquement|Oui, seulement les femmes
+1795017230513|Absorption lente → pas de pic|Glucagon ↑ → hyperglycémie|Insulinorésistance → hyperglycémie

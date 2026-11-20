@@ -1,0 +1,115 @@
+1794991049025|COL1|FBN1|NOTCH3
+1794991049026|Rougeole|Grippe|Oreillons
+1794991049027|1 mois|1 an|2 ans
+1794991049028|Myélinisation précoce complète|Plasticité nulle|Absence de cortex
+1794991049029|8–12 SG|40 SG → 1 an|2–5 ans
+1794991049030|8–20 SG|24–28 SG|5 → 10 ans
+1794991049033|Convulsions|Hypotonie axiale|Retard de langage
+1794991049037|Rubro-spinale|Vestibulo-spinale|Réticulo-spinale controlatérale
+1794991049039|5 %|90 %|60 %
+1794991049040|1 an|12 ans|2 ans
+1794991049041|Âge de la mère|Sexe de l'enfant|Côté de la lésion
+1794991049042|Effet plafond|Diaschisis|Kennard principle
+1794991049045|Crise > 5 min|Crise > 2 h|Crise > 1 min
+1794991049046|30 min|1 min|1 h
+1794991049047|Cérébelleux|Corticaux moteurs|Médullaires
+1794991049050|Valproate, carbamazépine|Lévétiracétam, lamotrigine|Clobazam, éthosuximide
+1794991049051|Lévétiracétam|Lamotrigine|Oxcarbazépine
+1794991049052|Bithérapie d'emblée|Dose maximale|Arrêt rapide
+1794991049053|Crises toniques répétées|Lésion focale|Hypoglycémie
+1794991049054|3–10 ans|Adolescence|Nouveau-né < 1 semaine
+1794991049056|Pointes-ondes continues du sommeil|Pointes-ondes à 3 Hz|Tracé normal
+1794991049057|Absences, myoclonies, chutes|Fièvre, convulsions, coma|Spasmes, fièvre, hypotonie
+1794991049058|< 1 an|12–18 ans|1–2 ans
+1794991049061|Infectieuse|Toxique|Traumatique
+1794991049062|Supprimer toute crise clinique|Sédation|Augmenter le QI
+1794991049065|IRM|EEG de veille|Ponction lombaire
+1794991049066|Convulsions fébriles|Spasmes en flexion|Ataxie aiguë
+1794991049069|Lennox-Gastaut|Dravet|Rasmussen
+1794991049072|5 %|95 %|20 %
+1794991049073|Syndrome de Dravet|Épilepsie-absence|POCS
+1794991049075|Nodules sous-épendymaires|Astrocytomes à cellules géantes|Angiofibromes
+1794991049077|Hémorragiques|Kystiques|Graisseux
+1794991049078|Dermoscopie|Biopsie cutanée|Lumière bleue
+1794991049079|NF1, NF2|VHL|PTEN, TP53
+1794991049080|< 37 SA, < 2500 g|< 28 SA, < 1000 g|< 34 SA, < 2000 g
+1794991049081|15 %|0,1 %|10 %
+1794991049082|50 %|1 %|25–30 %
+1794991049083|5 %|80–90 %|1–2 %
+1794991049084|Hémorragie sous-durale|Infarctus sylvien|Kyste porencéphalique cortical
+1794991049085|Zones très myélinisées|Zones corticales|Zones de forte densité neuronale
+1794991049087|Toxoplasmose|Varicelle|Infection urinaire
+1794991049088|Hémiplégie|Tétraplégie flasque|Choréo-athétose
+1794991049090|Fibres les plus externes|Plus longues fibres sensitives|Vascularisation cérébelleuse
+1794991049091|Signes déjà évidents|Pied en équin marqué|Marche ataxique
+1794991049092|Hypotonie franche|Convulsions|Signes spécifiques nets
+1794991049093|0–3 mois|3–4 ans|18–24 mois
+1794991049094|Signe de Gowers|Signe de Babinski|Signe du foulard
+1794991049095|Angle poplité ouvert|Recurvatum|Pied plat
+1794991049096|Pied talus|Pied plat valgus|Hallux valgus
+1794991049098|Épaules, coudes, poignets|Hanches, rachis, cou|Genoux, chevilles, orteils
+1794991049099|10–12 mois|Jamais|6–8 ans
+1794991049101|Baclofène oral|Plâtre|Ténotomie systématique
+1794991049102|Oui, progressive|Oui, par poussées|Variable
+1794991049103|10 ans|6 mois|18 ans
+1794991049104|Duchenne, SMA|Leucodystrophie, West|SEP, Guillain-Barré
+1794991049106|Varicelle|Grippe|Rotavirus
+1794991049108|DCX|SCN1A|TSC1
+1794991049109|Démyélinisation, apoptose|Compression, hémorragie|Thrombose, embolie
+1794991049110|Fracture du crâne simple|Commotion légère|Plaie du cuir chevelu
+1794991049111|Cervelet|Cortex moteur|Moelle
+1794991049112|Tremblement|Myoclonies|Tics
+1794991049113|Prématurité, leucomalacie|Méningite, varicelle|Génétique, trisomie
+1794991049116|Asphyxie|Prématurité|Infection
+1794991049117|< 5 %|100 %|≈ 20 %
+1794991049118|Rétrécie|Normale|Variable
+1794991049119|Tremblement de repos|Spasticité|Hypertonie
+1794991049122|Corticoïdes, antiépileptiques|Repos, attelles seules|Chirurgie cérébrale
+1794991049123|Corticoïdes|Antiépileptiques|Psychiatrie seule
+1794991049124|Galactocérébrosidase|Hexosaminidase A|Glucocérébrosidase
+1794991049125|Glycogène|Mucopolysaccharides|Acides gras à très longue chaîne
+1794991049127|6 mois|5 ans|10 ans
+1794991049129|Antécédents familiaux|Prématurité|Asphyxie néonatale
+1794991049131|Normale|Accélérée|Absente
+1794991049132|Lésion focale corticale|Hypersignal des noyaux gris|Calcifications
+1794991049133|IRM seule|Biopsie musculaire|Ponction lombaire
+1794991049134|Enzymothérapie IV|Corticoïdes|Régime alimentaire
+1794991049136|À un stade avancé|Après la perte de la marche|À l'âge adulte
+1794991049137|50 %|100 %|1 %
+1794991049138|Coût, âge, sexe|Infection, rejet, douleur|Diagnostic, imagerie, génétique
+1794991049139|SMN1|PMP22|DMPK
+1794991049140|Chromosome 19|Chromosome 5|Chromosome 7
+1794991049142|Hypertrophie fonctionnelle|Inflammation auto-immune|Démyélinisation
+1794991049143|Moelle, racine, plexus|Cortex, tronc, moelle|Os, articulation, muscle
+1794991049144|Naissance|12–15 ans|Adolescence
+1794991049145|Fauchante|Steppage|Talonnante
+1794991049147|Neuropathie|Lésion médullaire|Atteinte cérébelleuse
+1794991049149|3 ans|20 ans|15 ans
+1794991049150|Insuffisance hépatique|Infection urinaire|Insuffisance rénale
+1794991049151|Valvulopathie|Coronaropathie|Péricardite
+1794991049153|Hypoxie néonatale|Épilepsie associée|Effet des corticoïdes
+1794991049155|Cyphose|Rectitude|Scoliose isolée
+1794991049156|Signe de Thompson|Signe de Babinski|Signe du ciseau
+1794991049157|Normales|Diminuées|Discrètement augmentées
+1794991049158|Neurogène|Normal|Myotonique
+1794991049160|EMG|CK|IRM musculaire
+1794991049161|Totalement absente|Normale|Augmentée
+1794991049164|Becker → Duchenne|Duchenne → guérison|SMA → Duchenne
+1794991049999|Faire une IRM|Traiter les symptômes|Rechercher la cause génétique
+1794991050000|AVC|Tumeur|Encéphalopathie hépatique
+1794991050001|SEP|AVC sylvien|Méningiome
+1794991050004|Dissection, cardiopathie|Drépanocytose, infection|Moyamoya, varicelle
+1794991050005|Meilleure plasticité adulte|Disparition spontanée|Diagnostic plus facile
+1794991050006|24–34 SG|1–4 SG|30–40 SG
+1794991050007|Cortex|Plaque neurale|Cervelet
+1794991050009|2–8 SG|30–40 SG|0–6 mois post-natal
+1794991050010|Vaisseaux sanguins|Axones moteurs|Fibres myélinisées
+1794991050012|1er trimestre|Après la naissance|À 6 SG
+1794991050013|Polymicrogyrie|Hétérotopie|Schizencéphalie
+1794991050014|Sillon central|Sillon calcarin|Scissure pariéto-occipitale
+1794991050016|Avant 20 SG|À l'adolescence|Après 10 ans
+1794991050017|2 ans|18 ans|12 ans
+1794991050018|Neurogenèse|Apoptose primaire|Migration
+1794991050019|Strabisme acquis|Myopie|Daltonisme
+1794991050022|Hypertonie isolée|Épilepsie obligatoire|Aucune conséquence
+1794991050023|Toujours génétique|Toujours infectieuse|Toujours traumatique

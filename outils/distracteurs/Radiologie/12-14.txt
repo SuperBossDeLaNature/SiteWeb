@@ -1,0 +1,195 @@
+1795098085034|Le lobe (3–4 par sein)|Le canal galactophore|Le sinus lactifère
+1795098085035|Mamelon → sinus → canal → lobule → acinus|Lobule → acinus → mamelon|Acinus → sinus → lobule → mamelon
+1795098085036|Muscles intercostaux|Canaux lymphatiques|Fascia du grand pectoral uniquement
+1795098085037|Muscle pectoral absent, mamelon de face|Glande comprimée sans peau|Aisselle exclue
+1795098085039|Uniquement par la profondeur en cm|Par le côté seul|Par le nombre de clichés
+1795098085041|Polymastie : mamelon accessoire ; polythélie : glande accessoire|Identiques|Polymastie : tumeur multiple
+1795098085042|Hypertrophie mammaire bilatérale|Absence des deux seins|Gynécomastie familiale
+1795098085044|Mammographie en urgence|Biopsie immédiate|Rien
+1795098085045|Inutile|Contre-indiquée|Uniquement après 20 ans
+1795098085048|Le cancer du poumon|L'infarctus|Les accidents de la route
+1795098085049|≈ 1 000|≈ 100 000|≈ 3 000
+1795098085051|≈ 80 %|≈ 1 %|≈ 50 %
+1795098085052|Écoulement mamelonnaire|Douleur|Rétraction cutanée
+1795098085053|Ancien, bilatéral, multiporique, laiteux|Récent, bilatéral, multiporique, vert|Spontané, bilatéral, clair
+1795098085055|Ménarche tardive, ménopause précoce, multiparité|Allaitement prolongé|Grossesse précoce < 20 ans
+1795098085057|Allaitement, sport|Contraception au cuivre|Faible consommation d'alcool
+1795098085060|Côlon, estomac, rein|Thyroïde, cerveau|Vessie, foie
+1795098085061|Uniques, tardifs, peu agressifs|Toujours bénins|Uniquement chez l'homme
+1795098085062|Ulcération cutanée|Rétraction du mamelon|Varices superficielles
+1795098085063|Psoriasis vs mycose ; antifongique|Kyste vs abcès ; ponction|Fibroadénome vs lipome ; IRM
+1795098085064|Antibiotiques|Surveillance à 1 an|Mastectomie d'emblée
+1795098085067|Cancer canalaire|Lipome|Kyste hydatique
+1795098085068|Normal|Probablement bénin|Malin prouvé
+1795098085069|Suspect → biopsie|Examen incomplet|Malin prouvé
+1795098085072|Probablement bénin (≤ 2 %)|Normal|Malin prouvé
+1795098085073|Très probablement malin|Normal|Examen incomplet
+1795098085075|La sensibilité de l'examen|La densité mammaire|La taille de la lésion
+1795098085076|Le plus rassurant|La moyenne|Celui de la mammographie seule
+1795098085078|Face et profil seuls|Oblique inverse et axillaire|Tangentielle unique
+1795098085079|Allergie ?|Diabète ?|Pacemaker ?
+1795098085080|Diagnostique : asymptomatique ; dépistage : symptomatique|Identiques|Dépistage : 1 seul sein
+1795098085082|Payant, 1 incidence, lecture simple|Gratuit, échographie seule|Payant, IRM systématique
+1795098085083|≈ 90 %|≈ 1 %|≈ 50 %
+1795098085089|≈ 3 %|≈ 90 %|≈ 70 %
+1795098085090|IRM vs mammographie|Tomosynthèse vs échographie|Dépistage dès 20 ans pour toutes
+1795098085091|Kyste, ganglion, peau, mamelon|Œdème, rougeur, chaleur, douleur|Graisse, vaisseaux, muscle, peau
+1795098085092|Couleur, taille seule|Densité en UH|Localisation seule
+1795098085095|Femme > 60 ans|Femme ménopausée|Homme uniquement
+1795098085097|Systématiquement chez toutes|Jamais avant 40 ans|Uniquement si BRCA
+1795098085100|≈ 30 %|100 %|≈ 50 %
+1795098085101|Mammographie|IRM|Scintigraphie
+1795098085102|Hyperéchogène avec cône d'ombre|Hypoéchogène vascularisé|Contours irréguliers
+1795098085103|Chirurgie|Biopsie|Antibiotiques
+1795098085105|Graisse vs glande|Identiques|Kyste vs tumeur
+1795098085106|Exercice physique|Allergie|Tabac seul
+1795098085107|IRM mammaire d'emblée|Biopsie systématique|Aucun bilan
+1795098085108|1/20|1/2|1/2000
+1795098085111|B1 à B5|BI-RADS 0 à 6|Bethesda I à VI
+1795098085112|Complications fréquentes|Douleur|Très coûteuse
+1795098085113|25G, aspiration ; cytologique|7G ; cytologique|20G ; C1–C5
+1795098085114|Pneumothorax|Infection|Malaise vagal
+1795098085115|14G|20G|25G
+1795098085117|Toute lésion visible en écho|Microcalcifications|Kyste simple
+1795098085118|Résultat cytologique|Anesthésie générale|Cicatrice importante
+1795098085119|Sensibilité 50 %, spécificité 99 %|Sensibilité et spécificité ~50 %|Spécificité excellente
+1795098085122|Doubler le THS|Aucune précaution|Arrêter 1 an avant
+1795098085123|Calcifications|Densité|Différence d'impédance
+1795098085124|Mesurer le T1|Réduire la dose|Remplacer les séquences dynamiques
+1795098085125|Rehaussement lent progressif|Absence de rehaussement|Rehaussement périphérique fixe
+1795098085127|Dépistage de toute la population|Kyste simple|Mastite aiguë
+1795098085128|> 1 mois|Immédiatement|> 10 ans
+1795098085129|> 3 jours|> 1 an|Immédiatement
+1795098085130|Âge > 50 ans seul|Seins denses seuls|ATCD de fibroadénome
+1795098085132|Multifocales : quadrants différents ; multicentriques : même quadrant|Identiques|Multifocales : bilatérales
+1795098085134|Focus > 5 mm ; masse < 5 mm|Identiques|Non-masse : > 5 cm
+1795098085135|Mammographie|Scanner|Scintigraphie
+1795098085136|Signe de la goutte|Signe du trou de serrure|Signe du croissant
+1795098085138|Hypoéchogène bien limitée|Calcifications|Cône d'ombre
+1795098085139|Cancer → mastectomie|Fibrose → rien|Kyste → ponction simple
+1795098085140|Contraception, sport|Âge jeune|Allaitement
+1795098085141|Prépectorale : meilleur rendu|Identiques|Rétropectorale : rupture plus grave
+1795098085142|Cancer du sein|Fibroadénome géant|Abcès nécessitant chirurgie
+1795098085143|Mastite infectieuse simple|Eczéma|Lymphœdème post-op
+1795098085144|Excellent|Bénin|Identique aux autres cancers
+1795098085146|1re intention systématique|Contre-indiquée|Uniquement en urgence
+1795098085148|Meilleure résolution|Analyse de l'endomètre fine|Doppler ovarien précis
+1795098085149|Champ de vue plus large|Pas de contact|Possible chez la patiente vierge
+1795098085150|Lithiase rénale|Appendicite chez l'homme|Bilan osseux
+1795098085151|Épais, hyperéchogène|Fin linéaire|Kystique
+1795098085152|Trilaminaire en grain de café|Fin linéaire|Absent
+1795098085153|Épaisseur simple couche en coronal|Volume en 3D|Longueur
+1795098085154|Kyste anéchogène avasculaire|Masse solide|Calcification
+1795098085157|Kyste séreux simple|Kyste dermoïde|Kyste fonctionnel
+1795098085158|Masse anéchogène|Kyste à paroi fine|Masse graisseuse
+1795098085159|Masse bien limitée|Endomètre fin|Calcifications utérines
+1795098085160|Injection d'iode → trompes|Injection d'air → vagin|Injection de gadolinium
+1795098085163|≈ 2 semaines|≈ 20 semaines|≈ 12 semaines uniquement
+1795098085167|Liquide libre seul|Utérus vide seul|Endomètre épais seul
+1795098085168|GIU visible|Kyste du corps jaune isolé|β-hCG basse
+1795098085170|Appendicite seule|Cancer de l'ovaire|Fibrome
+1795098085171|Hématogène|Lymphatique|Par contiguïté digestive
+1795098085172|Créatinine|Allergie|Glycémie
+1795098085175|Diagnostic initial en urgence|Remplacer l'échographie|Aucun rôle
+1795098085176|Fibrome, polype|Cancer de l'endomètre|Endométriose
+1795098085177|Hydrosalpinx|Endométriome|Torsion
+1795098085178|Abcès hépatique|Cholécystite|Thrombose porte
+1795098085179|Ovaire normal|Kyste simple|Calcification
+1795098085180|Masse solide|Kyste ovarien|Calcification
+1795098085181|Cancer|Torsion|Grossesse gémellaire
+1795098085182|Ovaires et trompes|Ovaires uniquement|Paroi utérine
+1795098085184|Traitement du fibrome|Contraception|Traitement de l'endométriose
+1795098085185|Milieu de cycle|Après les règles suivantes|Aucune
+1795098085187|Vessie pleine, laxatif|Aucune|Jeûne 24 h, lavement
+1795098085189|Graisse|Liquide clair|Air
+1795098085190|CI absolue|Retrait obligatoire|IRM à 0,5 T uniquement
+1795098085191|Sans précaution|Obligatoire|Avec gadolinium
+1795098085192|Endomètre|Couche séreuse|Col utérin
+1795098085194|Corps plus grand que le col|Hypertrophie|Utérus inchangé
+1795098085195|Épais > 15 mm normal|Toujours invisible|Kystique
+1795098085196|Jusqu'à ≈ 50 mm|Jamais|Jusqu'à ≈ 1 mm
+1795098085197|Ovaires atrophiques|Kyste unique|Ovaire unique
+1795098085199|Utérus double|Absence d'ovaires|Hymen imperforé
+1795098085202|Malformations cardiaques|Malformations osseuses|Fente labiale
+1795098085203|Rien|Mesurer les ovaires|Voir les trompes
+1795098085205|Interne, externe, mixte|Bénin, malin, borderline|Kystique, solide, calcifié
+1795098085206|Hyposignal T2|Hypersignal T1|Vide de signal
+1795098085207|Toujours calcifié|Toujours malin|Hyposignal T2 franc
+1795098085208|Torsion d'annexe|Appendicite|GEU
+1795098085209|Aiguë et chronique|Kystique et solide|Bénigne et maligne
+1795098085210|Hyposignal T1, hypersignal T2|Chute en fat sat|Calcifications
+1795098085211|Ovaire|Vessie|Rectum
+1795098085213|CT|Biopsie|Laparotomie d'emblée
+1795098085215|Rupture|Hémorragie|Infection
+1795098085216|Tumeur solide maligne|Kyste fonctionnel|Endométriome
+1795098085217|Tératome|Cystadénome mucineux|Tumeur de Krukenberg
+1795098085218|Femme âgée|Ménopause tardive|Homme
+1795098085219|Kyste < 3 cm à paroi fine|Uniloculaire anéchogène|Graisse
+1795098085220|Kyste uniloculaire simple|Graisse et calcifications|Masse T2 hypo pure
+1795098085221|Aucun|Contre-indiqué|Uniquement chez l'enfant
+1795098085225|Taille de l'utérus|Épaisseur de l'endomètre seule|Atteinte ovarienne
+1795098085226|Radiothérapie seule|Surveillance|Hormonothérapie seule
+1795098085227|Dépistage de masse|Bilan de lithiase|Suivi de grossesse
+1795098085228|IRM < CT < US < RX|US < RX < IRM < CT|CT < IRM < RX < US
+1795098085229|CT < RX < US = IRM|RX = CT|US < CT < IRM
+1795098085231|Calcul vésiculaire|Appendicolithe|Calcul pancréatique
+1795098085232|Évoque une lithiase|Normale|Évoque une occlusion
+1795098085233|Colique néphrétique|PNA|Tumeur vésicale
+1795098085234|Lithiase rénale|Tumeur du rein|Prostate
+1795098085236|Actif : au remplissage ; passif : à la miction|Identiques|Actif : sous anesthésie
+1795098085237|Vessie vide|Patient à jeun|Sonde en place
+1795098085238|Infections, PNA|Tumeurs urothéliales|Vaisseaux
+1795098085240|Calculs uniquement|Rien|Os
+1795098085241|Voit tous les calculs|Irradiante|Inutile
+1795098085242|Traiter le calcul|Doser la créatinine|Mesurer l'urée
+1795098085243|Bassinet|Calice inférieur|Uretère lombaire moyen
+1795098085247|Anéchogène avec renforcement|Hypoéchogène sans ombre|Isoéchogène
+1795098085250|Reflux|Hormones uniquement|Infection
+1795098085252|Calcul d'oxalate|Calcul d'acide urique|Calcul de cystine
+1795098085253|Rehaussement intense|Calcification|Gaz
+1795098085254|Calcul toujours visible|Aucun signe|Rein atrophique
+1795098085255|Appendicite|Pancréatite|Ulcère
+1795098085258|Rien|IRM cérébrale|Scintigraphie osseuse
+1795098085259|Rien|ASP|Cystographie
+1795098085260|Excellente (> 95 %)|Moyenne (60 %)|Parfaite
+1795098085262|Plus précoce, meilleure|Identique|Moins de dose
+1795098085265|Composante solide rehaussée|Septas épais irréguliers|Kyste avec nodule
+1795098085268|Kyste simple|Septas fins|Surveillance
+1795098085269|Simule une tumeur|Simule un calcul|Aucun piège
+1795098085270|Hypertension sans IR|Cancer|Lithiase isolée
+1795098085271|< 5 %|100 %|20 %
+1795098085272|Tissu fibreux, calcium|Kystes, nécrose|Cellules claires malignes
+1795098085273|NF1|Von Hippel-Lindau|Polykystose
+1795098085276|Hypo T1, pas de chute en fat sat|Hypersignal T2 franc|Diffusion restreinte
+1795098085277|≈ 90 %|0 %|≈ 2 %
+1795098085278|Tumeur urothéliale|Lymphome|Métastase
+1795098085279|Carcinome à cellules claires|Angiomyolipome|Oncocytome
+1795098085280|Carcinome à cellules claires|Angiomyolipome|Kyste
+1795098085283|Intense et précoce|Absent|Wash-out rapide
+1795098085284|Papillaire, chromophobe|Lymphome, métastase|Angiomyolipome pauvre en graisse
+1795098085285|Ne se rehausse pas → malin|Calcifié → bénin|Graisse
+1795098085286|Bassinet|Uretère|Urètre
+1795098085287|Côlon|Sein|Prostate
+1795098085288|Angiomyolipome, oncocytome|Kyste simple|Lithiase
+1795098085290|Hydratation excessive|Fonction normale|Hypertension isolée
+1795098085292|≈ 50 %|≈ 0,05 %|≈ 25 %
+1795098085293|Sein|Côlon|Thyroïde
+1795098085295|> 4 cm, croissance|Hétérogène|Contours irréguliers
+1795098085296|< 10 UH|Chute en opposition de phase|Petite taille stable
+1795098085297|Surveillance simple|Biopsie systématique|Ignorer
+1795098085298|Carcinome, métastase|Phéochromocytome|Lymphome
+1795098085300|(D15 − D1) / D1 × 100|D1 / D15|(D1 − Dsans) / D15
+1795098085301|(D1 − D15) / Dsans × 100|D15 / D1|(D15 − D1) / D1 × 100
+1795098085303|Activité < médiastin|Jamais hypermétabolique|Activité nulle
+1795098085305|Hypodense < 10 UH|Graisse|Kystique pur
+1795098085306|Chute en opposition de phase|Hyposignal T2|Graisse
+1795098085307|CI absolue|Prémédication obligatoire|Alpha-bloquant obligatoire avant
+1795098085308|IRM|CT|Scintigraphie
+1795098085309|Absence de flux|Calcification|Hydrocèle isolée
+1795098085311|Signe de la torsion du testicule controlatéral|Signe de la cloche|Signe du halo
+1795098085313|Varicocèle|Hydrocèle|Orchite
+1795098085314|Leydigomes|Lymphomes|Métastases
+1795098085316|Orchidectomie|Biopsie|Rien
+1795098085317|Droit|Bilatéral|Indifférent
+1795098085318|Hernie inguinale|Hydrocèle|Torsion
+1795098085319|Décubitus strict|Flexion de hanche|Apnée en expiration

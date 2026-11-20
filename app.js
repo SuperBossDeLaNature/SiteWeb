@@ -202,9 +202,12 @@ function build(themeKey, seed, n, chs){
   const order = shuffle(ids, mulberry(seed)).slice(0, Math.min(n || DEFAULT_N, ids.length));
   return order.map((qi, k) => {
     const q = th.questions[qi];
-    const perm = shuffle([0, 1, 2, 3], mulberry(seed + k + 1));
-    return { text: q.q, choices: perm.map(p => q.c[p]), correct: perm.indexOf(0), exp: q.e,
-             chap: (th.chapters && th.chapters[q.h]) || '' };
+    const chap = (th.chapters && th.chapters[q.h]) || '';
+    // Vrai/Faux : deux boutons dans un ordre fixe (Vrai à gauche, Faux à droite).
+    if (typeof q.vf === 'boolean')
+      return { text: q.q, choices: ['Vrai', 'Faux'], correct: q.vf ? 0 : 1, exp: q.e || '', chap, vf: true };
+    const perm = shuffle(q.c.map((_, j) => j), mulberry(seed + k + 1));
+    return { text: q.q, choices: perm.map(p => q.c[p]), correct: perm.indexOf(0), exp: q.e || '', chap };
   });
 }
 function cfgLabel(c){
@@ -233,6 +236,7 @@ function needName(){
 }
 function needOnline(){ if (!sb){ toast('Mode en ligne non configuré (voir config.js)'); return false; } return true; }
 
+$('#btn-find').onclick = () => { if (!needName() || !needOnline()) return; pending = 'queue'; renderThemes(); show('s-themes'); };
 $('#btn-create').onclick = () => { if (!needName() || !needOnline()) return; pending = 'online'; renderThemes(); show('s-themes'); };
 $('#btn-solo').onclick   = () => { if (!needName()) return; pending = 'solo'; renderThemes(); show('s-themes'); };
 $('#btn-join').onclick   = () => {
@@ -300,7 +304,7 @@ function renderSetup(){
   });
   const go = $('#setup-go');
   go.disabled = avail === 0;
-  go.textContent = pending === 'online' ? 'Créer le salon' : pending === 'rematch' ? 'Lancer le duel' : 'Lancer';
+  go.textContent = pending === 'queue' ? 'Chercher un adversaire' : pending === 'online' ? 'Créer le salon' : pending === 'rematch' ? 'Lancer le duel' : 'Lancer';
 }
 $('#chap-all').onclick = () => {
   const th = THEMES.find(t => t.key === setup.key);
@@ -319,6 +323,7 @@ $('#setup-go').onclick = () => {
   if (pending === 'solo') beginMatch({ mode: 'solo', ...c, seed: newSeed(), opp: { id: 'bot', name: 'Bot' } });
   else if (pending === 'online') openRoom(randomCode(), 'host', c);
   else if (pending === 'rematch') hostStart(c);
+  else if (pending === 'queue') mmStart(c);
 };
 
 /* ---------- Salon en ligne (Supabase Realtime) ---------- */
@@ -372,6 +377,8 @@ function onPresence(){
     ? others.find(p => p.role === 'guest') || null
     : others.find(p => p.role === 'host') || null;
   renderLobby();
+  // Duel trouvé par le matchmaking : l'hôte lance dès que l'adversaire est arrivé.
+  if (room.role === 'host' && room.auto && room.opp && !G){ room.auto = false; setTimeout(() => hostStart(room.cfg), 600); }
 }
 
 function showLobby(){ renderLobby(); show('s-lobby'); }
@@ -475,6 +482,169 @@ function tryReconnect(){
 document.addEventListener('visibilitychange', tryReconnect);
 window.addEventListener('online', tryReconnect);
 
+/* ---------- Matchmaking : liste des joueurs qui cherchent un adversaire ---------- */
+// Canal public commun : chaque joueur en recherche s'y déclare (Presence) ; les défis passent en Broadcast.
+const INVITE_MS = 20000;
+const MM = { ch: null, ready: false, searching: false, cfg: null, since: 0, list: [], out: null, inc: null, refresh: null };
+
+function mmInit(){
+  if (!sb || (MM.ch && MM.ch.state !== 'closed' && MM.ch.state !== 'errored')) return;
+  if (MM.ch){ try { sb.removeChannel(MM.ch); } catch(e){} }
+  const ch = sb.channel('mediduel:lobby', { config: { broadcast: { self: false }, presence: { key: me.id } } });
+  MM.ch = ch; MM.ready = false;
+  ch.on('presence', { event: 'sync' }, mmSync);
+  ['invite', 'accept', 'decline', 'cancel'].forEach(ev =>
+    ch.on('broadcast', { event: ev }, ({ payload }) => mmMsg(ev, payload || {})));
+  ch.subscribe(st => {
+    if (st === 'SUBSCRIBED'){ MM.ready = true; if (MM.searching) mmTrack(); mmSync(); }
+    else if (st === 'CHANNEL_ERROR' || st === 'TIMED_OUT' || st === 'CLOSED') MM.ready = false;
+  });
+}
+function mmSend(event, payload){ if (MM.ch && MM.ready) MM.ch.send({ type: 'broadcast', event, payload: { ...payload, from: me.id } }); }
+function mmTrack(){
+  if (!MM.ch || !MM.ready || !MM.searching) return;
+  const c = MM.cfg;
+  MM.ch.track({ id: me.id, name: me.name, themeKey: c.themeKey, n: c.n, label: cfgLabel(c), since: MM.since,
+                busy: !!(MM.out || MM.inc) });
+}
+
+function mmStart(c){
+  if (!needOnline()) return;
+  MM.cfg = c; MM.searching = true; MM.since = Date.now(); MM.out = null; MM.inc = null;
+  mmInit(); mmTrack();
+  const th = THEMES.find(t => t.key === c.themeKey);
+  document.documentElement.style.setProperty('--accent', th.color);
+  $('#mm-cfg').textContent = cfgLabel(c);
+  mmRender(); show('s-match');
+  clearInterval(MM.refresh); MM.refresh = setInterval(mmRender, 15000);
+}
+function mmStop(){
+  MM.searching = false; clearInterval(MM.refresh);
+  if (MM.out){ mmSend('cancel', { to: MM.out.id }); clearTimeout(MM.out.t); }
+  if (MM.inc){ clearTimeout(MM.inc.t); clearInterval(MM.inc.bar); }
+  MM.out = null; MM.inc = null; $('#mm-inv').hidden = true;
+  if (MM.ch && MM.ready){ try { MM.ch.untrack(); } catch(e){} }
+}
+
+function mmSync(){
+  if (!MM.ch) return;
+  const seen = new Set();
+  MM.list = Object.values(MM.ch.presenceState()).flat()
+    .filter(p => p && p.id && p.id !== me.id && !seen.has(p.id) && seen.add(p.id))
+    .sort((a, b) => (a.since || 0) - (b.since || 0));
+  // Compteur sur l'accueil
+  const cnt = $('#mm-count'), n = MM.list.length;
+  if (sb && MM.ready){
+    cnt.hidden = false;
+    cnt.innerHTML = '';
+    cnt.append(el('span', 'mm-dot' + (n ? '' : ' off')),
+      el('span', '', n ? `${n} joueur${n > 1 ? 's' : ''} cherche${n > 1 ? 'nt' : ''} un adversaire` : "Personne ne cherche d'adversaire pour l'instant"));
+  }
+  // Mon défi envoyé : la cible est partie ?
+  if (MM.out && !MM.list.some(p => p.id === MM.out.id)){ toast(`${MM.out.name} n'est plus disponible`); clearTimeout(MM.out.t); MM.out = null; mmTrack(); }
+  if ($('#s-match').classList.contains('active')) mmRender();
+}
+
+function ago(ts){
+  const s = Math.max(0, Math.round((Date.now() - (ts || Date.now())) / 1000));
+  return s < 60 ? "à l'instant" : `depuis ${Math.round(s / 60)} min`;
+}
+function mmRender(){
+  const box = $('#mm-list'); box.innerHTML = '';
+  $('#mm-n').textContent = MM.list.length;
+  if (!MM.list.length){
+    box.appendChild(el('div', 'mm-empty', "Personne d'autre ne cherche pour l'instant.\nReste sur cet écran : dès que quelqu'un arrive, il apparaît ici, et toi tu es déjà dans sa liste."));
+    box.firstChild.style.whiteSpace = 'pre-line';
+  }
+  MM.list.forEach(p => {
+    const row = el('div', 'mm-row' + (p.busy ? ' busy' : ''));
+    const av = el('div', 'av'); setAv(av, p.name);
+    const info = el('div', 'mm-info');
+    info.append(el('span', 'mm-nm', p.name), el('span', 'mm-c', `${p.label || ''} · ${ago(p.since)}`));
+    const mine = MM.out && MM.out.id === p.id;
+    const b = el('button', 'btn' + (mine ? ' ghost' : ' primary'), mine ? 'En attente…' : p.busy ? 'Occupé' : 'Défier');
+    b.disabled = !!MM.out || !!p.busy;
+    b.onclick = () => mmChallenge(p);
+    row.append(av, info, b); box.appendChild(row);
+  });
+  const out = $('#mm-out');
+  out.hidden = !MM.out;
+  if (MM.out) $('#mm-out-txt').textContent = `Défi envoyé à ${MM.out.name}… (${MM.out.label})`;
+}
+
+function mmChallenge(p){
+  if (MM.out || MM.inc) return;
+  MM.out = { id: p.id, name: p.name, label: p.label || '' };
+  MM.out.t = setTimeout(() => {
+    if (!MM.out || MM.out.id !== p.id) return;
+    mmSend('cancel', { to: p.id }); toast(`${p.name} n'a pas répondu`); MM.out = null; mmTrack(); mmRender();
+  }, INVITE_MS + 2000);
+  mmSend('invite', { to: p.id, name: me.name });
+  mmTrack(); mmRender(); Sfx.beep();
+}
+$('#mm-out-cancel').onclick = () => {
+  if (!MM.out) return;
+  mmSend('cancel', { to: MM.out.id }); clearTimeout(MM.out.t); MM.out = null; mmTrack(); mmRender();
+};
+
+function mmIncoming(p){
+  MM.inc = { id: p.from, name: p.name || 'Un joueur' };
+  setAv($('#mm-inv-av'), MM.inc.name);
+  $('#mm-inv-t').textContent = `${MM.inc.name} te défie !`;
+  $('#mm-inv-cfg').textContent = cfgLabel(MM.cfg);
+  $('#mm-inv').hidden = false;
+  const t0 = Date.now(), bar = $('#mm-inv-bar');
+  bar.style.width = '100%';
+  MM.inc.bar = setInterval(() => { bar.style.width = Math.max(0, 100 - (Date.now() - t0) / INVITE_MS * 100) + '%'; }, 250);
+  MM.inc.t = setTimeout(() => mmAnswer(false), INVITE_MS);
+  mmTrack(); Sfx.go(); if (navigator.vibrate) navigator.vibrate([60, 40, 60]);
+}
+function mmAnswer(ok){
+  const inc = MM.inc; if (!inc) return;
+  clearTimeout(inc.t); clearInterval(inc.bar); MM.inc = null; $('#mm-inv').hidden = true;
+  if (!ok){ mmSend('decline', { to: inc.id }); mmTrack(); mmRender(); return; }
+  // J'accepte : je crée le salon avec MES réglages (ceux affichés dans la liste) et il me rejoint.
+  const code = randomCode(), c = MM.cfg;
+  mmSend('accept', { to: inc.id, code });
+  mmStop();
+  openRoom(code, 'host', c);
+  room.auto = true;
+}
+$('#mm-inv-ok').onclick = () => mmAnswer(true);
+$('#mm-inv-no').onclick = () => mmAnswer(false);
+
+function mmMsg(ev, p){
+  if (p.to !== me.id || !MM.searching) return;
+  switch (ev){
+    case 'invite':
+      if (MM.inc || MM.out){ mmSend('decline', { to: p.from, busy: true }); return; }
+      mmIncoming(p); break;
+    case 'cancel':
+      if (MM.inc && MM.inc.id === p.from){ clearTimeout(MM.inc.t); clearInterval(MM.inc.bar); MM.inc = null; $('#mm-inv').hidden = true; toast('Défi annulé'); mmTrack(); mmRender(); }
+      break;
+    case 'decline':
+      if (MM.out && MM.out.id === p.from){
+        toast(p.busy ? `${MM.out.name} est déjà en train de répondre à un défi` : `${MM.out.name} a refusé`);
+        clearTimeout(MM.out.t); MM.out = null; mmTrack(); mmRender();
+      }
+      break;
+    case 'accept':
+      if (MM.out && MM.out.id === p.from && p.code){
+        clearTimeout(MM.out.t); MM.out = null;
+        mmStop();
+        openRoom(p.code, 'guest');
+      }
+      break;
+  }
+}
+
+$('#mm-back').onclick = () => { mmStop(); document.documentElement.style.removeProperty('--accent'); show('s-home'); };
+$('#mm-change').onclick = () => { mmStop(); pending = 'queue'; renderThemes(); show('s-themes'); };
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') mmInit(); });
+window.addEventListener('online', mmInit);
+mmInit();
+
+
 /* ---------- Duel ---------- */
 const isDriver = () => G && (G.mode === 'solo' || (room && room.role === 'host'));
 const total = who => G.answers.reduce((s, a) => s + ((a && a[who] && a[who].pts) || 0), 0);
@@ -506,7 +676,7 @@ function countdown(cb){
   }, 900);
 }
 function stopCountdown(){ if (G && G.cd){ clearInterval(G.cd); G.cd = null; } $('#countdown').hidden = true; }
-function clearTimers(){ if (G){ clearInterval(G.tick); clearInterval(G.cd); clearTimeout(G.wd); clearTimeout(G.t2); } }
+function clearTimers(){ if (G){ clearInterval(G.tick); clearInterval(G.cd); clearTimeout(G.wd); clearTimeout(G.t2); clearTimeout(G.botT); } }
 
 function nextQ(i){
   showQuestion(i);
@@ -520,11 +690,12 @@ function showQuestion(i){
   $('#qn').textContent = `${i + 1}/${g.nq}` + (i === g.nq - 1 ? ' · ×2' : '');
   $('#qtext').textContent = q.text;
   const box = $('#choices'); box.innerHTML = '';
+  box.classList.toggle('vf', !!q.vf);
   q.choices.forEach((c, k) => {
     const b = document.createElement('button');
-    b.className = 'ch';
+    b.className = 'ch' + (q.vf ? (k === 0 ? ' v' : ' f') : '');
     b.innerHTML = '<span class="lt"></span><span class="tx"></span><span class="tag"></span>';
-    b.children[0].textContent = 'ABCD'[k]; b.children[1].textContent = c;
+    b.children[0].textContent = q.vf ? (k === 0 ? '✓' : '✗') : 'ABCD'[k]; b.children[1].textContent = c;
     b.onclick = () => answer(k);
     box.appendChild(b);
   });
@@ -574,6 +745,7 @@ function answer(k){
   if (ok) Sfx.correct(); else { if (k < 0) Sfx.ring(); else Sfx.wrong(); shake(); }
   if (navigator.vibrate) navigator.vibrate(ok ? 20 : [70, 40, 70, 40, 110]);
   paint(); updateScores(); checkAdvance(i);
+  if (G.mode === 'solo' && G.botFire) G.botFire();
 }
 
 function shake(){
@@ -597,7 +769,7 @@ function paint(){
     }
   });
   const exp = $('#exp'); exp.hidden = !a.me;
-  if (a.me) exp.textContent = (a.me.correct ? '✓ ' : '✗ ') + q.exp;
+  if (a.me) exp.textContent = (a.me.correct ? '✓ ' : '✗ ') + (q.vf ? q.choices[q.correct] + '. ' : '') + q.exp;
   const chip = $('#chip-opp');
   if (a.opp){
     chip.textContent = a.opp.choice < 0 ? 'temps écoulé' : (a.opp.correct ? '✓ juste' : '✗ faux');
@@ -626,13 +798,16 @@ function checkAdvance(i){
 function scheduleBot(i){
   const g = G, q = g.questions[i];
   const t = 2500 + Math.random() * 13000, ok = Math.random() < 0.65;
-  setTimeout(() => {
-    if (G !== g || g.idx !== i) return;
-    const wrong = [0, 1, 2, 3].filter(x => x !== q.correct);
-    const choice = ok ? q.correct : wrong[Math.floor(Math.random() * 3)];
+  // En entraînement, le bot répond tout de suite si tu réponds avant lui (ses points restent ceux de son temps prévu).
+  const fire = g.botFire = () => {
+    clearTimeout(g.botT); g.botFire = null;
+    if (G !== g || g.idx !== i || g.answers[i].opp) return;
+    const wrong = q.choices.map((_, x) => x).filter(x => x !== q.correct);
+    const choice = ok ? q.correct : wrong[Math.floor(Math.random() * wrong.length)];
     g.answers[i].opp = { choice, correct: ok, pts: points(ok, TIME - t / 1000, i) };
     paint(); updateScores(); Sfx.opp(); checkAdvance(i);
-  }, t);
+  };
+  g.botT = setTimeout(fire, t);
 }
 
 /* ---------- Résultats & revue des questions ---------- */

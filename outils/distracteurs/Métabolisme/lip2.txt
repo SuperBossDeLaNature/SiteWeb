@@ -1,0 +1,100 @@
+1795017230811|L'épaisseur adventice-média : marqueur direct de sténose|Le diamètre de la lumière carotidienne|La vitesse de l'onde de pouls
+1795017230813|Non, aucune valeur pronostique|Oui, mais uniquement chez la femme|Non, elle ne prédit que les AVC hémorragiques
+1795017230815|≥ 10 % à 10 ans|≥ 5 % à 10 ans|≥ 30 % à 10 ans
+1795017230817|5 à < 10 %|20 à < 30 %|2 à < 5 %
+1795017230819|5 à < 10 % / < 5 %|1 à < 5 % / < 1 %|10 à < 20 % / < 10 %
+1795017230821|Tabac seul – HTA isolée – âge > 70 ans|DT2 récent sans complication – obésité|LDL 130 mg/dl – ATCD familiaux
+1795017230823|Tabac seul chez un jeune|LDL 120 mg/dl isolé|ASCVD documentée
+1795017230825|DT2 > 60 ans avec atteinte d'organe|DT1 depuis > 20 ans|Diabétiques avec IR sévère
+1795017230827|Sujet sain avec SCORE2 > 5 %|Diabétique sans complication|Premier infarctus sans FR
+1795017230829|≥ 20 % (< 50 ans : ≥ 15 % ; ≥ 70 ans : ≥ 25 %)|≥ 5 % (< 50 ans : ≥ 2,5 % ; ≥ 70 ans : ≥ 7,5 %)|≥ 10 % quel que soit l'âge
+1795017230831|Le risque relatif ↓ avec l'âge|Les statines sont moins tolérées|Le LDL baisse avec l'âge
+1795017230833|1 %|15 %|30 %
+1795017230835|L'âge biologique mesuré par les télomères|L'âge auquel survient le 1er événement CV|L'âge à partir duquel une statine est obligatoire
+1795017230837|Le risque d'infarctus à 10 ans|La sévérité de l'hypertriglycéridémie|La réponse aux statines
+1795017230839|4 / 6|1 / 1|8 / 2
+1795017230841|4 / 2|2 / 4|1 / 6
+1795017230843|> 2|> 12|> 8 seulement
+1795017230845|LPL, APOC2, GPIHBP1|APOE, CETP, LCAT|ABCA1, SR-B1, LIPC
+1795017230847|Rien, sauf symptômes|Traiter tous les apparentés par statine sans dosage|Dosage uniquement après 40 ans
+1795017230849|Adulte : après 40 ans – enfant : jamais|Adulte : après un 1er événement – enfant : 18 ans|Dès la naissance chez tous
+1795017230851|< 70 mg/dl + ↓ ≥ 50 %|< 100 mg/dl|< 40 mg/dl + ↓ ≥ 30 %
+1795017230853|< 55 mg/dl + ↓ ≥ 50 %|< 100 mg/dl|< 116 mg/dl
+1795017230855|< 70 / < 100 mg/dl|< 116 / < 130 mg/dl|< 130 / < 160 mg/dl
+1795017230857|< 55 mg/dl|< 25 mg/dl|< 70 mg/dl
+1795017230859|< 100 → < 70 mg/dl|< 55 → < 40 mg/dl|< 70 → < 70 mg/dl
+1795017230861|120–150 mg/dl|10–20 mg/dl|100–130 mg/dl
+1795017230863|Plus le LDL est bas, plus le risque de cancer ↑|La dose la plus faible de statine est la meilleure|Plus le HDL est bas, mieux c'est
+1795017230865|Un traitement débuté tard est aussi efficace|Plus vite le LDL baisse en quelques jours, mieux c'est|Il faut traiter dès qu'un infarctus survient
+1795017230867|Randomiser des patients selon leur génotype|Comparer des jumeaux|Étudier des familles avec maladie mendélienne
+1795017230869|Plus le traitement est long, plus les effets secondaires ↓|Un traitement court mais intensif est préférable|Seule la dose compte, pas la durée
+1795017230871|Statine forte dose|Statine + ézétimibe|iPCSK9
+1795017230873|Conseils hygiéno-diététiques seuls|Pas de traitement si LDL < 100|Fibrate seul
+1795017230875|Augmenter leur teneur en oméga-3|Diminuer leurs calories|Les rendre liquides à température ambiante
+1795017230877|↓ saturation + doubles liaisons trans → cis|Formation d'oméga-3|Disparition de toutes les doubles liaisons
+1795017230879|20–30 % de l'énergie|0 % de l'énergie|10–15 % de l'énergie
+1795017230881|Saturés : LDL ↓, HDL ↓ – Trans : LDL ↓, HDL ↑|Les deux : LDL neutre, HDL ↑|Saturés : LDL ↑, HDL ↓↓ – Trans : LDL neutre
+1795017230883|LDL ↑, HDL ↓|LDL ↑↑, TG ↑|TG ↓↓, LDL neutre
+1795017230885|LDL ↓↓ (TG neutres)|HDL ↑↑|TG ↑
+1795017230887|LDL ↑, HDL ↑, TG ↓|Aucun effet|LDL ↓, HDL ↑, TG ↓
+1795017230889|HDL ↓ et TG ↓|LDL ↓ et TG ↓|HDL ↑ et TG ↓
+1795017230891|Glucides : ↓ LDL sans ↓ HDL ni ↑ TG|Équivalents|MUFA : ↑ LDL et ↓ HDL
+1795017230893|0,95 (–5 %)|0,30 (–70 %)|1,10 (+10 %)
+1795017230895|Oui, tous de la même façon|Non : l'acide palmitique ne l'↑ pas|Non : aucun ne l'↑
+1795017230897|ALA (C18:3) et LA (C18:2)|Acide oléique et palmitique|Acide arachidonique et stéarique
+1795017230899|↑ TG – ↑ agrégabilité – pro-arythmique|↓ LDL de 50 %|↑ HDL de 50 %
+1795017230901|↑ LDL majeur et hépatotoxicité|Rhabdomyolyse|Hypoglycémies
+1795017230903|1 fois par mois|Tous les jours|Jamais (risque de mercure)
+1795017230905|Cabillaud, colin (~200 mg/100 g)|Thon en boîte, crevettes|Sole, limande
+1795017230907|Effet hypolipémiant|Effet antiagrégant|Effet anti-inflammatoire
+1795017230909|Réduction de 50 % des événements|Réduction de la mort subite uniquement|Augmentation des événements
+1795017230911|DHA seul (1 g/j) chez des sujets sains|Mélange EPA+DHA chez des diabétiques non traités|Fibrate combiné à une statine
+1795017230913|Inhibition de l'HMG-CoA réductase|Inhibition de NPC1L1 de façon covalente|Chélation des acides biliaires
+1795017230915|LDL –30 %|LDL –1 %|LDL –50 %
+1795017230917|Oui, –30 %|Oui, comme les statines|Non, ils les augmentent
+1795017230919|↓ sucres et alcool|↑ oméga-3 seul|↓ sel
+1795017230921|↓ cholestérol alimentaire|↑ graisses saturées|↑ fructose
+1795017230923|↑ sucres simples – tabac|↑ AG trans – sédentarité|↓ graisses mono-insaturées
+1795017230925|Statines – IEC – diurétiques – β-bloquants – fibrates – résines – AAP|Statines – metformine – fibrates – glitazones – résines – iSGLT2 – aGLP-1|Statines – fibrates – oméga-3 – aspirine – IEC – sartans – ézétimibe
+1795017230927|Inhibition de NPC1L1|Inhibition de l'HMG-CoA réductase|Activation des PPARα
+1795017230929|LDL –50 % – TG –30 %|LDL +15 % – TG –20 %|LDL –5 % – TG –50 %
+1795017230931|Rhabdomyolyse – hépatite|Flush – goutte|Lithiase biliaire
+1795017230933|50 % / 97 %|10 % / 10 %|80 % / 80 %
+1795017230935|Inhibe l'HMG-CoA réductase|Chélate les acides biliaires|Inhibe PCSK9
+1795017230937|40 mg/j – LDL ~–50 % supplémentaire|1 mg/j – LDL ~–5 %|10 mg/j – LDL ~–60 % supplémentaire
+1795017230939|Rhabdomyolyse fréquente|Flush cutané|Lithiase biliaire
+1795017230941|Statine max nettement supérieure|Statine 10 mg + ézétimibe inefficace|Ézétimibe seul supérieur
+1795017230943|LDL 70 vs 54 – événements 35 vs 33 %|LDL 30 vs 70 – événements 10 vs 35 %|LDL 54 vs 70 – aucun effet sur les événements
+1795017230945|Inhibition de NPC1L1 → ↓ absorption|Activation des PPARα → ↑ LPL|Inhibition de PCSK9
+1795017230947|↑ HDL de 50 %|Effet hypoglycémiant|Anti-arythmique majeur
+1795017230949|LDL –5 % – TG –50 % – HDL +30 %|LDL –70 % – TG +20 % – HDL –10 %|LDL –10 % – TG –10 % – HDL +50 %
+1795017230951|Flush – goutte|Lithiase biliaire – interactions coumariniques|Toux – angioedème
+1795017230953|Doubler la dose ↓ le LDL de 60 %|6 semaines pour obtenir l'effet maximal|6 mois d'arrêt après myopathie
+1795017230955|PCSK9|HMGCR|LDLR
+1795017230957|Les sujets à bas risque|Les sujets de plus de 85 ans sans FR|Les enfants
+1795017230959|Inhibe l'HMG-CoA réductase directement dans le muscle|Inhibe NPC1L1|Agoniste PPARα
+1795017230961|–60 % seul|–5 % seul|–50 % seul (–80 % avec ézétimibe)
+1795017230963|Flush – hypoglycémie|Lithiase biliaire|Stéatorrhée
+1795017230965|Inhibition de l'HMG-CoA réductase|Activation des PPARγ|Inhibition de la CETP
+1795017230967|TG –5 % – HDL –10 %|TG +30 % – HDL +15 %|TG –80 % – HDL +50 %
+1795017230969|Flush – goutte|Stéatorrhée|Toux sèche
+1795017230971|Réduction de 50 % des événements|Augmentation de la mortalité|Bénéfice chez tous les DT2
+1795017230973|LDL > 190 et HDL normal|TG normaux et HDL élevé|Tous les diabétiques
+1795017230975|485 / 3 543 / 23 727|3 543 / 23 727 / 485|23 727 / 485 / 3 543
+1795017230977|Inhibition de l'HMG-CoA réductase|Inhibition de PCSK9|Inhibition de l'absorption intestinale
+1795017230979|Réduction de 30 % des événements|Bénéfice chez les HDL bas|Réduction de la mortalité
+1795017230981|Ézétimibe, acide bempédoïque|Évinacumab, volanésorsen|Anacétrapib, torcétrapib
+1795017230983|↓ expression des récepteurs LDL|Inhibent l'HMG-CoA réductase|↓ absorption du cholestérol
+1795017230985|–10 à 20 %|–90 à 100 %|–25 à 30 %
+1795017230987|Hypertriglycéridémie isolée|Hyperchylomicronémie familiale|HDL bas isolé
+1795017230989|Per os tous les jours|IV toutes les semaines|IM une fois par an
+1795017230991|Identique|10 €/an vs 100 €|50 000 €/an vs 1 000 €
+1795017230993|~10 % / ~20 %|~50 % / ~80 %|~20 % / ~30 %
+1795017230995|~40 %|~80 %|~50 %
+1795017230997|~60 %|~95 %|~70 %
+1795017230999|Fibrate + oméga-3|Résine seule|Acide nicotinique + fibrate
+1795017231001|Ézétimibe + résine|iPCSK9 seul|Résine + acide nicotinique
+1795017231003|Ézétimibe + résine|iPCSK9 + résine|Acide nicotinique seul
+1795017231005|Les fibrates|L'acide nicotinique|Les oméga-3
+1795017231007|Réduction de 50 % des événements|Bénéfice dans tous les essais|Bénéfice uniquement chez la femme
+1795017231009|TG : PCSK9 – LDL : apo CIII – Lp(a) : CETP|TG : HMG-CoA – LDL : LPL – Lp(a) : NPC1L1|TG : ABCA1 – LDL : SR-B1 – Lp(a) : LCAT

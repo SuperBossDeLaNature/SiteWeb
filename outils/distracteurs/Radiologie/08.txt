@@ -1,0 +1,39 @@
+1795098084642|Le diagnostic avant tout|Primum non nocere|Voir pour croire
+1795098084643|Anesthésie générale + voie ouverte|Laparotomie + guidage manuel|Voie la plus rapide + absence d'imagerie
+1795098084646|Pas de matériel nécessaire|Aucune irradiation|Réalisable uniquement au bloc
+1795098084647|Chirurgie thoracique ouverte|Diurétiques seuls|Embolisation de la veine cave
+1795098084648|Cholécystectomie en urgence|Antibiotiques seuls|CPRE
+1795098084649|Embolisation par voie jugulaire|Ligature chirurgicale|Stent non couvert veineux
+1795098084650|Scintigraphie, PET, IRM, US|IRM, US, endoscopie, RX|Échographie, IRM, PET, thermographie
+1795098084652|Irradiation|Coût élevé|Impossible au lit du patient
+1795098084653|Le mode B mesure les fréquences|Le mode B mesure les vitesses|Il n'y a pas de différence
+1795098084654|Absence d'irradiation|Temps réel parfait|Mobilité au lit
+1795098084655|Aucun guidage possible|Images 2D uniquement|Contre-indiqué en oncologie
+1795098084656|Dynamic Sonographic Analysis|Digital Scanner Acquisition|Direct Signal Amplification
+1795098084658|Baryum|Microbulles|Air seul
+1795098084659|Aimant, antenne, gradients|Sonde, gel, échographe|Gamma-caméra
+1795098084660|Une IRM per-opératoire|Une échographie 3D|Un scanner conventionnel séparé
+1795098084661|Justification seule|Dose maximale|Aucun
+1795098084662|Allonger la scopie|Rapprocher l'opérateur|Augmenter le kV
+1795098084663|Réduire la dose|Remplacer l'anatomie|Choisir l'aiguille
+1795098084665|Il a inventé la radiographie|Il a créé le scanner|Il a inventé les produits de contraste
+1795098084666|Dépistage de masse|Suivi des fractures|Bilan de première intention de toute douleur
+1795098084668|HTA, diabète|Âge > 60 ans|Obésité
+1795098084669|Dissoudre les caillots|Traiter les varices|Mesurer la pression
+1795098084670|Injection de gadolinium intra-articulaire|Échographie des ganglions|Biopsie ganglionnaire
+1795098084671|Os, nerf, muscle|Cerveau, moelle, œil|Artère, veine, lymphatique
+1795098084672|Mesure, injection, embolisation, dilatation|Diagnostic, biopsie, drainage, suture|Ponction, aspiration, lavage, rinçage
+1795098084673|Extrémité souple hydrophile|Rigide sur toute la longueur|Extrémité en J mousse
+1795098084674|Extrémité très souple|Hydrophile|Court
+1795098084676|Drainage biliaire|Drainage pleural|Gastrostomie
+1795098084678|French (Fr)|Millimètres|Gauge (G)
+1795098084679|Plus gros calibre|Remplacer le guide|Mesurer la pression
+1795098084680|Dilatation d'une sténose|Pose d'un stent|Aspiration d'un caillot
+1795098084681|Dilatation, sténose, thrombose veineuse|Biopsie, drainage|Fracture, luxation
+1795098084686|Fibrome utérin uniquement|Hémorragie digestive|AVC
+1795098084687|Embolisation définitive de MAV|Varicocèle|Tumeur hépatique
+1795098084688|Les deux identiques|Chimio : microsphères à ⁹⁰Y|Radio : particules chargées en cytotoxique
+1795098084689|Poumon|Rein|Cerveau
+1795098084691|Gadolinium huileux|Colle acrylique|Gel résorbable
+1795098084692|Embolisation proximale et lente|Agent temporaire résorbable|Produit de contraste seul
+1795098084697|Préférence du patient|Coût seul|Disponibilité du matériel

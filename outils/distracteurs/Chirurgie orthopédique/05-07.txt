@@ -1,0 +1,144 @@
+1700000050538|Frontal et sagittal|Sagittal et transversal|Sagittal uniquement
+1700000050539|Cyphose, lordose, scoliose|Hernie, spondylolisthésis, scoliose|Attitude, cyphose, torticolis
+1700000050540|Hémivertèbre|Paralysie|Rotation vertébrale
+1700000050542|Corset|Kinésithérapie|Ostéotomie
+1700000050543|Inégalité des épaules|Attitude asthénique|Déviation corrigée en position assise
+1700000050544|Extension du tronc|Inclinaison latérale|Position assise
+1700000050545|Test de Schober|Test de Lasègue|Test de Trendelenburg
+1700000050546|Gauche|Centrale|Bilatérale
+1700000050548|Inclinaison latérale seule|Hypertrophie musculaire|Tassement vertébral
+1700000050550|Asthénie, inégalité, posture|Hernie, arthrose, ostéoporose|Spondylolyse, Scheuermann, torticolis
+1700000050551|Congénitale|Neuromusculaire|Posturale
+1700000050553|< 1 / 1–5 / > 5 ans|< 5 / 5–12 / > 12 ans|< 2 / 2–8 / > 8 ans
+1700000050554|Indice de Risser|Angle de Sorensen|Test d'Adams
+1700000050555|Vertèbres sommets|Vertèbres neutres|Sacrum et C7
+1700000050556|Scoliose complexe|Double cyphose|Scoliose en C
+1700000050557|6–8 ans|16–18 ans|2–4 ans
+1700000050559|Fin de puberté|Petite enfance|Âge adulte
+1700000050560|Poils axillaires, mue|Règles, barbe|Acné, croissance des pieds
+1700000050561|Premières règles|Bourgeon mammaire|Poils pubiens
+1700000050562|Greulich-Pyle|Tanner|Sorensen
+1700000050563|Main et poignet|Vertèbres|Genou
+1700000050566|~6 mois|~5 ans|~10 ans
+1700000050568|×1,5|×10|×2
+1700000050569|> 1° par an|> 10° par mois|> 5° par an
+1700000050571|Corset|Chirurgie|Plâtre
+1700000050572|10–15°|50–60°|40–45°
+1700000050575|6 mois|1 an|À vie
+1700000050576|25–30°|> 90°|35–40°
+1700000050577|Douleur|Fonction respiratoire|Prévenir l'arthrose
+1700000050578|Antéflexion du tronc|Debout contre un mur|Décubitus ventral
+1700000050580|Maladie d'Osgood-Schlatter|Maladie de Pott|Maladie de Legg-Perthes
+1700000050581|Infection|Génétique pure|Carence vitaminique
+1700000050583|1|2 consécutives|5 consécutives
+1700000050584|≥ 1°|≥ 20°|≥ 10°
+1700000050585|Nodules d'Heberden|Ostéophytes|Syndesmophytes
+1700000050586|Sédentarité, obésité|Personne âgée|Enfant en bas âge
+1700000050590|Lordosante|Respiratoire|Relaxante
+1700000050591|Chirurgie|Plâtre|Infiltration
+1700000050451|Hématopoïèse, protection viscérale|Mobilité, thermorégulation|Respiration, digestion
+1700000050452|~10 %|~90 %|~25 %
+1700000050454|1 %|50 %|30 %
+1700000050455|C7 → L5|T12 → sacrum|Omoplates → genoux
+1700000050458|5 %|60 %|40 %
+1700000050459|1 vertèbre, 2 disques|2 vertèbres, ligament jaune|1 vertèbre, disque, muscles
+1700000050460|Corps vertébral|Lame|Articulaire postérieure
+1700000050461|Nucleus pulposus|Plateau vertébral|Ligament jaune
+1700000050462|Annulus fibrosus|Plateau vertébral|Ligament longitudinal
+1700000050464|Cyphose cervicale, lordose dorsale, cyphose lombaire|Lordose sur toute la colonne|Rectitude cervicale, cyphose lombaire
+1700000050469|Compression discale|Raideur|Cyphose dorsale
+1700000050470|Traction|Cisaillement|Aucune
+1700000050471|Compression pure|Traction|Aucune
+1700000050472|−40 %|Identique|+200 %
+1700000050473|Artères discales|Moelle|Ligaments
+1700000050474|Graisse|Calcium|Élastine
+1700000050478|Fissures trop petites|Pas d'inflammation|Annulus non innervé
+1700000050479|Sciatique|Cruralgie|Torticolis
+1700000050481|C2-C3, C3-C4|C7-T1|C4-C5, C1-C2
+1700000050482|L1-L2, L2-L3|L3-L4|T12-L1
+1700000050483|15–25 ans|65–80 ans|5–15 ans
+1700000050485|Femme|Identique|Enfant
+1700000050486|Sédentarité, régime|Tabac, alcool|Sport, sommeil
+1700000050487|Bras puis cou|Bras seul|Cou seul
+1700000050488|Auriculaire|Majeur|Coude
+1700000050491|C5|C6|C8
+1700000050492|Extension du cou|Rotation du cou|Inclinaison latérale
+1700000050493|Maladie de Parkinson|Polyarthrite|Myasthénie
+1700000050494|S1|L5|L1-L2
+1700000050495|L5|L4|S3
+1700000050496|L5-S1|S1|L1
+1700000050497|S1|L2|L3
+1700000050499|S1|L4|L3
+1700000050500|L5|L4|L3
+1700000050502|Marche sur les talons|Lasègue|Réflexe rotulien
+1700000050503|Bord externe du pied|Talon|Petit orteil
+1700000050504|Médiale|Postérieure|Antérieure
+1700000050505|Gros orteil|Dos du pied|Malléole interne
+1700000050507|L5|L4|S2
+1700000050508|L4|S1|L3
+1700000050509|Schober|Trendelenburg|Adams
+1700000050511|> 90°|0–10°|80–90°
+1700000050512|Lasègue inversé|Signe de Léri|Signe de Lhermitte
+1700000050513|Lasègue croisé|Signe de Schober|Signe de Babinski
+1700000050514|Radiographie|EMG|Scintigraphie
+1700000050515|20 %|50 %|99 %
+1700000050516|Force 4/5|Toute douleur|Force 5/5
+1700000050517|Hernie de petite taille|Lombalgie isolée|Hernie asymptomatique
+1700000050519|J3|J45|J7
+1700000050520|≥ 1 semaine|≥ 1 an|Immédiatement
+1700000050522|Infection urinaire|Incontinence définitive|Hématurie
+1700000050525|Jusqu'au pied|Jusqu'au genou|Dans le bras
+1700000050526|Infection discale|Compression radiculaire|Tumeur
+1700000050527|Repos strict|Massages seuls|Corset rigide
+1700000050529|Arthrodèse antérieure|Arthroplastie discale|Laminectomie
+1700000050531|Yellow flags|Blue flags|Black flags
+1700000050532|< 30 ou > 70 ans|< 10 ou > 80 ans|Entre 30 et 50 ans
+1700000050533|Douleur ↑ à l'effort|Douleur ↓ au repos|Douleur matinale brève
+1700000050535|Raideur, obésité, sport|Sciatique, lumbago|Stress, dépression
+1700000050536|Hernie, arthrose, scoliose, entorse|Psychologique, posturale, musculaire, discale|Anévrisme, colique, ulcère, pancréatite
+1700000050537|Red flags|Blue flags|Black flags
+1700000050386|Unilatérale, asymétrique|Monoarticulaire|Axiale
+1700000050387|Continu progressif|Unique crise|Saisonnier
+1700000050390|Maladie de Still adulte|Spondylarthrite juvénile|Rhumatisme articulaire aigu
+1700000050391|Europe du Nord|Europe de l'Est|Royaume-Uni
+1700000050392|Infectieuse|Dégénérative|Microcristalline
+1700000050394|1 sur 10|9 sur 10|Toutes
+1700000050395|T CD8 et NK|Éosinophiles|Mastocytes
+1700000050396|Cartilage|Os sous-chondral|Ligaments
+1700000050397|Tophus|Ostéophyte|Synovite villonodulaire
+1700000050398|Ostéophytes|Sclérose|Syndesmophytes
+1700000050399|Guérison spontanée|Hyperlaxité|Ostéonécrose
+1700000050401|< 5 min|< 15 min|Absent
+1700000050403|IPD|Hanches|Rachis lombaire
+1700000050406|En marteau|En baguette de tambour|En griffe
+1700000050407|Face palmaire de la main|Genou|Talon
+1700000050409|CPK, LDH|Ferritine, TSH|Procalcitonine, troponine
+1700000050410|Éosinophilie|Lymphocytose|Leucopénie
+1700000050411|Ferriprive|Hémolytique|Mégaloblastique
+1700000050412|Anticorps anti-nucléaires|ANCA|Anti-DNA natif
+1700000050413|ANCA|Anti-ADN|Anti-Sm
+1700000050414|> 50 000 leucocytes/mm³|> 200 leucocytes/mm³|> 100 leucocytes/mm³
+1700000050415|Arthrose, entorse|Hémophilie, tumeur|Ostéoporose, fracture
+1700000050416|Arthrose|Hémochromatose|Lupus
+1700000050418|Pincement de la hanche|Ostéophyte du genou|Syndesmophyte
+1700000050420|Ostéophytes, sclérose|Syndesmophytes, ankylose|Calcifications, tophus
+1700000050421|En marteau|En griffe|Doigt à ressaut
+1700000050422|Doigt en maillet, Heberden|Rhizarthrose, Bouchard|Dupuytren, griffe
+1700000050423|Recurvatum → luxation|Valgus → instabilité|Hyperlaxité
+1700000050424|Antibiotiques|Chirurgie immédiate|Immobilisation plâtrée prolongée
+1700000050426|Augmenter la force|Diminuer l'inflammation|Corriger les déformations
+1700000050427|Arthrodèses|Synovectomie seule|Amputation
+1700000050428|Prothèse de MTP|Arthrodèse tibio-talienne|Ostéotomie du calcanéum
+1700000050429|Prothèse uniquement|Synovectomie|Résection
+1700000050430|Arthrodèse|Ostéotomie|Synovectomie
+1700000050432|Mains, pieds|Hanches, genoux|Épaules, coudes
+1700000050434|1 / 2|1 / 1|10 / 1
+1700000050436|Membrane synoviale|Cartilage|Ménisques
+1700000050437|HLA-DR4|HLA-B51|HLA-DQ2
+1700000050440|Érosion → destruction|Résorption → lyse|Normalisation
+1700000050444|Cortisone|Méthotrexate|Paracétamol
+1700000050445|Méthotrexate, hydroxychloroquine|Colchicine, allopurinol|Corticoïdes au long cours
+1700000050446|Repos|Corset|Immobilisation
+1700000050448|Ostéophytes|Nodules de Schmorl|Géodes
+1700000050449|Colonne en S|Vertèbre en galette|Vertèbre ivoire
+1700000050450|Lasègue|Adams|Léri

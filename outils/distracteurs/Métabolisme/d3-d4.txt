@@ -1,0 +1,85 @@
+1795017229935|Diabète insipide central|Potomanie|Hyperthyroïdie
+1795017229937|Rien, c'est une glycémie normale|Débuter d'emblée l'insuline|Poser le diagnostic de diabète sur cette seule valeur
+1795017229939|14 novembre 1922 – Collip et Macleod|30 juillet 1921 – Minkowski et von Mering|1889 – Banting et Best
+1795017229941|1 injection/j d'insuline pure, sans régime|Insuline orale quotidienne, survie limitée|Insuline humaine recombinante, pompes portables
+1795017229943|NPH (1936)|Insuline glargine (1936)|Insuline protamine zinc (1955)
+1795017229945|Neutral Protamine Hagedorn (1936)|Natural Pork Hormone (1945)|Neutral Protamine Humulin (1983)
+1795017229947|1993 / 1983 / 2007|1945 / 1983 / 1993|1983 / 1997 / 2003
+1795017229949|Contrôle glycémique excellent mais qualité de vie médiocre|Ni amélioration de la qualité de vie ni du contrôle|Disparition des complications
+1795017229951|2 injections/j de prémélangée|1 injection/j d'insuline lente|Antidiabétiques oraux seuls
+1795017229953|Levemir, Tresiba, Lantus, Toujeo|Humuline Regular, Humuline NPH|Lantus, Novorapid, NPH
+1795017229955|Novorapid|Levemir|Humuline NPH
+1795017229957|Humuline Regular|Tresiba|Fiasp
+1795017229959|Novorapid, Humalog, Apidra|Humuline Regular, Humuline NPH|Fiasp, Lyumjev
+1795017229961|La proportion d'insuline lente|La dose totale en unités|La durée d'action en heures
+1795017229963|8–16 h / 6–8 h|2–4 h / 20–24 h|12 h / 40 h
+1795017229965|1–2 h|8–12 h|12–20 h
+1795017229967|20 h / 40 h / 12–20 h|6–8 h / 8–16 h / 20 h|40 h / 12 h / 20 h
+1795017229969|Trop d'insuline aux repas, pas assez entre les repas|Trop d'injections par jour|Impossible à associer aux ADO
+1795017229971|Action trop rapide et trop courte|Injection obligatoire en IV|Instable à température ambiante
+1795017229973|Trop plate et trop longue|Action trop rapide|Uniquement disponible en IV
+1795017229975|Elle est liée à l'albumine|Elle précipite au pH neutre|Elle est dégradée par la DPP-4
+1795017229977|Moins d'injections par jour|Pas besoin d'autocontrôle|Doses fixes indépendantes des repas
+1795017229979|Adapter la dose au repas prévu|Corriger la glycémie mesurée au moment de l'injection|Changer de type d'insuline chaque semaine
+1795017229981|Corriger une déviation des 3–7 jours précédents|Adapter la dose à la glycémie mesurée|Adapter la dose au poids
+1795017229983|Adapter la dose au repas prévu|Corriger une déviation des 3–7 jours précédents|Adapter la dose à l'activité prévue
+1795017229985|Rétrospectives et correctrices|Rétrospectives uniquement|Anticipatives et rétrospectives
+1795017229987|↑ la dose d'insuline lente du coucher|↑ la dose d'insuline rapide du midi|↑ la dose d'insuline rapide du petit-déjeuner
+1795017229989|Fesse > cuisse > bras > abdomen|Cuisse > abdomen > fesse > bras|Bras > fesse > abdomen > cuisse
+1795017229991|SC|Identiques|Dépend uniquement de l'insuline
+1795017229993|Froid, repos, tabac|Lipohypertrophie, tabac|Injection dans la cuisse au repos
+1795017229995|Vasodilatation|Lipohypertrophie|Liaison de la nicotine à l'insuline
+1795017229997|Elle cristallise au froid|C'est une solution limpide|Elle contient de l'albumine
+1795017229999|1–2 %|50–60 %|80–100 %
+1795017230001|Rapide : cuisse – Lente : abdomen|Rapide : fesse – Lente : bras|Les deux dans l'abdomen exclusivement
+1795017230003|Normoglycémie stricte à tout prix|HbA1c < 5 % chez tous|Éviter toute hypo, sans viser l'HbA1c
+1795017230005|80–120 / < 180 / < 7 %|100–150 / < 200 / 7,5–8,5 %|60–80 / < 100 / < 5 %
+1795017230007|100–150 / 7,5–8,5 %|70–100 / 5,5–6,5 %|120–180 / 8–9 %
+1795017230009|80–120 / 6,5–7 %|70–100 / 5,5–6,5 %|150–250 / 9–10 %
+1795017230011|Patients jeunes sans complications|Femmes enceintes|Patients sous pompe
+1795017230013|Pompe + cathéter seuls (sans capteur)|Capteur + lecteur seuls|Stylo connecté + glucomètre
+1795017230015|La lipohypertrophie|L'allergie|La prise de poids
+1795017230017|Acidose lactique – pancréatite|Hépatite – fractures|Infections génitales – acidocétose
+1795017230019|Injecter toujours au même endroit|Aiguille plus longue (12 mm)|Massage du site après injection
+1795017230021|Hypoglycémies systématiquement plus rares|Aucune|Glycémie stable mais HbA1c fausse
+1795017230023|Différé après 3 mois de régime|Antidiabétiques oraux d'abord|Immédiat en ambulatoire, sans éducation
+1795017230025|1–5 %|90–100 %|10 %
+1795017230027|Traitement retardé|Régime hypoglucidique seul|Antidiabétiques oraux
+1795017230029|Elle permet d'arrêter définitivement l'insuline|Elle protège de l'auto-immunité|Elle évite la prise de poids
+1795017230031|40 U/ml – flacons 100 ml – cartouches de 10 ml|500 U/ml – ampoules de 1 ml|10 U/ml – sachets de 50 ml
+1795017230033|Glycosurie seule|Dosage de l'HbA1c à domicile chaque jour|Cétonurie seule
+1795017230035|Acceptation – révolte – dépression – déni|Euphorie – déni – acceptation|Colère – peur – guérison
+1795017230037|Éviter les hypoglycémies|Améliorer leur HbA1c|Augmenter leur masse musculaire
+1795017230039|Insuline orale – metformine – sulfonylurées|Régime cétogène – jeûne|Chirurgie bariatrique systématique
+1795017230041|Injection sous-cutanée sans immunosuppression|Greffe dans le pancréas natif|Perfusion dans l'artère rénale
+1795017230043|DT2 obèses|Enfants au diagnostic|Patients MODY
+1795017230045|Metabolic Obesity Diabetes of Youth|Monogenic Onset Diabetes of the Young|Mature Onset Diabetic Youth
+1795017230047|Autosomique récessif – début > 40 ans – insulino-dépendant|Auto-immun – cétose – peptide C nul|Lié à l'X – début néonatal
+1795017230049|GCK (61 %)|HNF4A (61 %)|HNF1B (22 %)
+1795017230051|66 % / 22 %|50 % / 50 %|5 % / 95 %
+1795017230053|GCK, KCNJ11, ABCC8|INS, HLA, PTPN22|TCF7L2, FTO, PPARG
+1795017230055|Type 1 – type 2 – gestationnel – LADA|Néonatal – juvénile auto-immun – gestationnel – sénile|Lipodystrophique – mitochondrial – cétosique – gestationnel
+1795017230057|60–90 mg/dl|200–300 mg/dl|> 400 mg/dl
+1795017230059|Très grand incrément entre 0 h et 2 h|Hypoglycémie à 2 h|Glycémie à jeun normale, 2 h > 300
+1795017230061|5 % de la population|0,0001 %|1 % de la population
+1795017230063|À l'adolescence uniquement|Après 50 ans|Uniquement pendant la grossesse
+1795017230065|Absence totale de sécrétion d'insuline|Résistance à l'insuline|Abaissement du seuil glycémique de sécrétion
+1795017230067|5,8 % vs 6,9 % vs 7,8 %|9 % vs 5,8 % vs 7,8 %|6,9 % vs 6,9 % vs 6,9 %
+1795017230069|Rapidement, vers une insulinodépendance|Elle diminue avec l'âge|Elle double tous les 10 ans
+1795017230071|36 % vs 1 %|20 % vs 20 %|10 % vs 50 %
+1795017230073|Oui, par insuline|Oui, par sulfonylurées|Oui, par metformine
+1795017230075|Hyperglycémie stable légère – petit incrément – pas de complications|Début néonatal – sulfonylurées inefficaces|Auto-anticorps positifs – cétose
+1795017230077|↑ activité de la glucokinase|Destruction auto-immune des cellules β|Ouverture permanente du canal K-ATP
+1795017230079|Insuline|Metformine|Régime seul
+1795017230081|HNF1A : meilleure réponse à la metformine – DT2 : réponse au gliclazide|Aucune réponse chez les HNF1A|Réponse identique dans les deux groupes
+1795017230083|Ajouter la metformine|Passer à une pompe|Aucun changement
+1795017230085|+550 g|Aucun|–900 g
+1795017230087|–790 g|Aucun|–550 g
+1795017230089|+900 g|Aucun|+550 g
+1795017230091|–550 g|+790 g|–900 g
+1795017230093|Diagnostiqué avant 1 mois, auto-immun|Diagnostiqué avant 2 ans, auto-immun|Hyperglycémie transitoire liée à une infection néonatale
+1795017230095|Mutations de KCNJ11|Mutations de GCK|Anticorps maternels
+1795017230097|HNF1A ou HNF4A|INS ou HLA|GCK hétérozygote
+1795017230099|Bloquent le canal en position fermée → hyperinsulinisme|Inactivent la glucokinase|Détruisent les cellules β
+1795017230101|Insuline à vie|Metformine|Régime seul
+1795017230103|↑ HbA1c et hypoglycémies|Aucun effet|Aggravation de la sécrétion

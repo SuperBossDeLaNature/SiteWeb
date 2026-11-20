@@ -1,0 +1,202 @@
+1731900200375|≈ 50 %|≈ 20 %|≈ 70 %
+1731900200377|< 30 minutes|< 4 heures|< 6 heures
+1731900200378|ASA 1 uniquement|ASA 4 et 5|Toutes les classes
+1731900200380|< 10 minutes|< 3 heures|Aucune limite
+1731900200383|Confort du patient uniquement|Diminution des infections|Formation des internes
+1731900200385|Fracture fermée du poignet|Hernie inguinale non compliquée|Lithiase vésiculaire
+1731900200386|5|50|12
+1731900200387|Préopératoire, peropératoire, postopératoire|Admission, bloc, sortie d'hôpital|Avant incision, avant suture, au réveil
+1731900200389|≈ 5 %|≈ 80 %|≈ 10 %
+1731900200391|~5 %|~90 %|~20 %
+1731900200392|Coûts hospitaliers|Formation universitaire|Recherche clinique
+1731900200393|Lignes de Blaschko|Lignes de Beau|Lignes de Kerley
+1731900200395|Kocher|Pfannenstiel|Jalaguier
+1731900200396|Mc Burney|Pfannenstiel|Médiane sous-ombilicale
+1731900200398|Kocher|Mc Burney|Sternotomie
+1731900200399|Mc Burney|Pfannenstiel|Kocher
+1731900200400|Thoracotomie latérale droite|Laparotomie|Cervicotomie
+1731900200401|Sternotomie partielle inférieure|Thoracotomie droite|Laparotomie
+1731900200402|Sternotomie|Thoracotomie droite|Cervicotomie
+1731900200403|Sternotomie|Incision sus-claviculaire|Thoracotomie
+1731900200404|Cervicotomie latérale|Sternotomie|Incision sous-mandibulaire
+1731900200407|Bord inférieur de la côte supérieure|Milieu de l'espace|Sur la côte
+1731900200408|Mammaire interne|Fémorale|Mésentérique
+1731900200409|Espace de Douglas|Espace de Morison|Arrière-cavité des épiploons
+1731900200412|Épaules|Hanches|Genoux
+1731900200413|Moins de douleur|Moins d'infections|Rapidité
+1731900200415|Absence de coût|Retour haptique parfait|Durée plus courte
+1731900200418|Armée de l'air|Aviation civile|Chirurgie cardiaque
+1731900200419|Hypertension, alcalose, polyglobulie|Hypoxie, hypercapnie, hypothermie|Fièvre, tachycardie, polypnée
+1731900200421|~1 minute|~1 jour|~10 minutes
+1731900200423|6 heures|15 minutes|3 heures
+1731900200424|< 37 °C|< 30 °C|< 38 °C
+1731900200425|< 7,4|< 6,8|< 7,35
+1731900200426|> 1 mmol/l|> 20 mmol/l|> 2 mmol/l
+1731900200427|< -2 mmol/l|< -30 mmol/l|> +5 mmol/l
+1731900200428|> 1 CE|> 50 CE|> 3 CE
+1731900200429|< 120 mmHg|< 50 mmHg|< 140 mmHg
+1731900200430|2|7|3
+1731900200432|Faciliter l'infection|Économiser du temps|Améliorer la cicatrice
+1731900200433|1/10|5/1|1/4
+1731900200434|< 10 mmol/l|< 1 mmol/l|> 4 mmol/l
+1731900200437|Garrot|Compresse de gaze seule|Suture cutanée
+1731900200439|Second look|Damage control|Biopsie exérèse
+1731900200440|Guérir le cancer|Diagnostiquer|Prévenir les métastases
+1731900200442|Radiofréquence|Électroporation|Thermochirurgie
+1731900200444|Chirurgie de Halsted|Chirurgie de Moore|Exérèse large
+1731900200445|Côlon|Poumon|Cerveau
+1731900200447|Stomie|Ligature|Résection
+1731900200449|Anastomose|Fistule|Drainage
+1731900200450|Diététicienne|Kinésithérapeute|Ergothérapeute
+1731900200451|Endartériectomie|Embolectomie|Amputation
+1731900200452|Theodor Kocher|William Halsted|Victor Horsley
+1731900200454|Pince bipolaire|Électrode active|Aiguille
+1731900200456|Mode DDD|Mode AAI|Désactivation définitive
+1731900200458|Électrolytique|Mécanique|Chimique
+1731900200459|37 °C|100 °C|200 °C
+1731900200460|Intermittent|Pulsé faible|Nul
+1731900200461|Continu de faible puissance|Continu|Alternatif basse fréquence
+1731900200462|Fulguration|Section|Vaporisation
+1731900200463|Ligne droite|Plus grande résistance|Aléatoire
+1731900200465|Coût faible|Puissance maximale|Contact cutané inutile
+1731900200467|Harmonic|Bovie|Cell-Saver
+1731900200469|Fer|Cuivre|Argent
+1731900200470|Nylon, polyester, polypropylène|Vicryl, PDS, Monocryl|Coton, lin, laine
+1731900200473|Plus épais|Plus résorbable|Plus solide
+1731900200475|4-0|12-0|2-0
+1731900200476|1/100 mm|1 mm|1/1000 mm
+1731900200477|4|0,15|15
+1731900200478|Oxydation et chaleur|Dissolution dans le sang|Phagocytose exclusive
+1731900200479|Muqueuses digestives|Sous-cutané|Fascia
+1731900200480|1/4 et 5/8|Droite uniquement|3/4 et 7/8
+1731900200481|Triangulaire|Spatulée|Diamant
+1731900200482|Conventional cutting|Spatulée|Taper point
+1731900200483|Inversante|Indifférente|Invaginante
+1731900200484|Éversante|Indifférente|Matelassée verticale
+1731900200486|Intima|Média|Endothélium
+1731900200487|Surjet de Connell|Surjet de Lembert|Surjet de Halsted
+1731900200488|Points de Lembert|Points en X|Surjet intradermique
+1731900200490|Hypotension seule|Bradycardie|Polyurie
+1731900200491|Antibiotiques|Ligature systématique|Transfusion
+1731900200492|Coagulation, fibrinolyse, cicatrisation|Inflammation, prolifération, remodelage|Vasodilatation, agrégation, lyse
+1731900200493|Point simple|Point en X|Surjet
+1731900200494|Anévrisme|Fuite|Sténose
+1731900200495|Par prix|Par couleur|Par taille
+1731900200496|BioGlue|Surgicel|Floseal
+1731900200497|Surgicel|Floseal|BioGlue
+1731900200498|Tissucol|Surgicel|TachoSil
+1731900200499|Floseal|BioGlue|TachoSil
+1731900200500|Tissucol|Surgicel|Floseal
+1731900200501|Allergies|Infection|Embolie gazeuse
+1731900200503|> 100 ml|> 5 000 ml|> 300 ml
+1731900200504|NaCl 0,9 %|Ringer lactate|Glucose 5 %
+1731900200508|Hypercoagulabilité|Thrombopénie auto-immune|CIVD systématique
+1731900200509|Cholécystectomie|Thyroïdectomie|Hernie inguinale
+1731900200511|Drainage curatif|Drainage thoracique|Drainage biliaire
+1731900200512|Penrose|Blake|Lame de Delbet
+1731900200513|Redon|Penrose|Kehr
+1731900200514|Au-dessus du patient|Au niveau de la plaie|Indifférente
+1731900200515|Thyroïdienne|Hernie|Appendicectomie
+1731900200517|Consentement|Lettre de sortie|Prescription
+1731900200518|1er anneau|8e-10e anneau|Cartilage cricoïde
+1731900200519|Intubation < 24 h|Asthme|Pneumonie simple
+1731900200522|Ambroise Paré|Antoine Depage|Larrey
+1731900200523|Œsophagostomie abdominale|Pharyngostomie|Trachéostomie
+1731900200524|≥ 3 jours|≥ 1 an|≥ 1 semaine
+1731900200525|Nasale, buccale, rectale|Cutanée, veineuse|Thoracique
+1731900200528|Opération de Miles|Colectomie totale|Anastomose iléo-rectale
+1731900200529|Sonde de Foley|Drain de Kehr|Clamp
+1731900200530|Évacuer une occlusion définitive|Esthétique|Faciliter la coloscopie
+1731900200531|ICU|ED|OR
+1731900200533|Diurèse|Appétit|Marche
+1731900200534|Céphalées sévères, fièvre|Convulsions|Diplopie
+1731900200536|Theodor Billroth|Harvey Cushing|Kurt Semm
+1731900200537|Laparotomie, morphine, jeûne, alitement|Sonde gastrique, drain, sonde urinaire|Antibiotiques, corticoïdes, repos
+1731900200540|Absence de fièvre seule|Imagerie normale|Plaie fermée
+1731900200544|30 min à J0, puis 1 h/j|Alitement 48 h|8 h dès J0
+1731900200545|5 jours avec morphine|24 h|Aucune
+1731900200547|Perdre du poids|Réduire les apports|Jeûne prolongé
+1731900200548|Excès de plaquettes|Hypertension|Hypothermie protectrice
+1731900200549|Sternotomie de reprise valvulaire|Drainage percutané|Péricardiocentèse
+1731900200551|Trendelenburg|Décubitus ventral|Décubitus latéral
+1731900200556|Règle des 500|Règle des 300|Règle des 100
+1731900200557|500 ml|100 ml|2000 ml
+1731900200559|> 100 ml/h|> 1000 ml/h|> 50 ml/h
+1731900200560|Inflammation, migration, prolifération, nécrose|Coagulation, infection, fibrose, atrophie|Exsudation, détersion, granulation, chéloïde
+1731900200562|J10 à J20|H1 à H6|J30
+1731900200563|Insuline|Érythropoïétine|Thrombopoïétine
+1731900200564|J1 à J4|J21 à J60|J60 à J365
+1731900200566|Fibroblastes|Macrophages|Kératinocytes
+1731900200568|Collagène|Élastine|Kératine
+1731900200569|50 %|80 %|1 %
+1731900200570|100 %|30 %|15 %
+1731900200574|Infection aiguë|Hémostase rapide|Fermeture primaire
+1731900200575|< 14 g/dl|< 5 g/dl|< 12 g/dl
+1731900200576|Antiseptique doux|Pansement hydrocolloïde|Sérum physiologique
+1731900200577|< 24 h|< 1 h|< 48 h
+1731900200578|7 jours|21 jours|6 heures
+1731900200580|Première intention|Première intention différée|Greffe immédiate
+1731900200581|1 à 2 heures|2 semaines|24 heures
+1731900200583|Détersion|Débridement enzymatique|Lavage
+1731900200585|20 à 30 % du poids|80 à 90 % du poids|30 à 40 % du poids
+1731900200586|1/3|1/2|1/4
+1731900200587|3/4|1/2|1/10
+1731900200588|≈ 40 %|≈ 5 %|≈ 60 %
+1731900200590|K+ et phosphates|Na+ et Cl-|Protéines
+1731900200591|Starling|Henderson|Laplace
+1731900200592|Hydrostatique|Osmotique urinaire|Atmosphérique
+1731900200594|~10 mmHg|~80 mmHg|~2 mmHg
+1731900200595|~ +8 mmHg|~ 0 mmHg|~ +30 mmHg
+1731900200597|~250 mOsm/kg|~350 mOsm/kg|~1000 mOsm/kg
+1731900200598|~290 mOsm/kg|~600 mOsm/kg|~3000 mOsm/kg
+1731900200599|ADH, ANF, insuline|Natrémie, glycémie, TSH|Cortisol, GH, prolactine
+1731900200601|Aldostérone|ANF|Rénine
+1731900200602|20 mOsm/l|0,1 mOsm/l|50 mOsm/l
+1731900200603|Ventricules|Reins|Surrénales
+1731900200604|Retenir le sodium|Élever la pression|Stimuler l'aldostérone
+1731900200605|500 à 800 ml/j|4000 à 5000 ml/j|10 l/j
+1731900200606|~50 ml|~2000 ml|~4 l
+1731900200609|Estomac|Salive|Côlon
+1731900200610|Pancréas|Bile|Iléon
+1731900200611|Déshydratation intracellulaire|Hyperhydratation|Œdème
+1731900200613|Agitation, délire|Euphorie|Hallucinations
+1731900200614|Apathie, somnolence|Aucun effet|Euphorie calme
+1731900200615|Œdème|Prise de poids|Hypertension
+1731900200617|Déshydratation|Hémorragie occulte|Infection
+1731900200618|Créatinine|Glycémie|Bilirubine
+1731900200619|Hypokaliémie|Hypertension|Anémie
+1731900200620|Hypotonique|Isotonique|Hyperhydratation
+1731900200621|Hypertonique|Isotonique|Hyperhydratation globale
+1731900200623|Déshydratation hypertonique|Hyperhydratation isotonique|Déshydratation globale
+1731900200624|Tachycardie, hyperthermie|Polyurie, soif|Hypertension, bouffées
+1731900200625|Âge|Sexe|Taille
+1731900200626|ASA|Caprini|Clavien-Dindo
+1731900200627|Contaminée|Sale|Propre-contaminée
+1731900200628|I (propre)|III (contaminée)|IV (sale)
+1731900200629|IV (sale)|I (propre)|II (propre-contaminée)
+1731900200630|III (contaminée)|II|I
+1731900200632|Gram négatif|Anaérobies stricts|Mycobactéries
+1731900200633|Virulence|Résistance|Colonisation
+1731900200635|Zone 5 → zone 1|Aléatoire|Zone 3 → zone 1
+1731900200637|IL-10|IL-4|TGF-β
+1731900200638|Histamine|Bradykinine|Leucotriène B4
+1731900200640|Antibiotiques seuls|Compresses froides|Corticoïdes
+1731900200642|Phlébite|Adénite|Cellulite
+1731900200643|Cutanée|Urinaire|Pulmonaire
+1731900200644|Gram positif|Champignons|Virus
+1731900200645|Hypodynamique|Cardiogénique|Obstructive
+1731900200646|Hyperdynamique|Normodynamique|Vasoplégique pure
+1731900200647|Staphylocoque doré|Pseudomonas|Clostridium
+1731900200648|Mesurer la température|Prévoir la biopsie|Esthétique
+1731900200649|Endocardite, méningite|Arthrite, ostéite|Pneumonie
+1731900200650|Clostridium tetani|Staphylococcus aureus|Streptocoque A
+1731900200651|Prurit|Pétéchies|Bulles hémorragiques isolées
+1731900200653|Corticothérapie|Radiothérapie|Héparine
+1731900200654|Gangrène de Meleney|Gangrène gazeuse|Gangrène sèche
+1731900200655|Tétanolysine|Toxine botulique|Exotoxine A
+1731900200656|Paralysie flasque|Ptôsis|Diplopie
+1731900200658|Immunoglobulines seules|Rien|Vaccin + Ig
+1731900200659|Rien|Immunoglobulines seules|Antibiotiques
+1731900200660|Rappel seul|Rien|Immunoglobulines seules
+1731900200661|Rien|Immunoglobulines seules|Rappel seul
+1731900200663|Prise de sang|Intradermoréaction|Radiographie
