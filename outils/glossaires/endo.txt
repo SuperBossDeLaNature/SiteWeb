@@ -1,0 +1,89 @@
+TSH|Thyroid-stimulating hormone : hormone hypophysaire qui commande la thyroïde. Haute = thyroïde paresseuse ; basse = thyroïde trop active (en général).|Thyréostimuline
+T4;FT4|Thyroxine (libre = FT4) : principale hormone sécrétée par la thyroïde, convertie en T3 active dans les tissus.|Thyroxine
+T3;FT3|Triiodothyronine : forme active de l'hormone thyroïdienne.|Triiodothyronine
+PTH|Parathormone : hormone des parathyroïdes qui augmente le calcium sanguin.|Parathormone
+GH|Hormone de croissance ; son excès chez l'adulte donne l'acromégalie.|Hormone de croissance
+IGF-1|Facteur de croissance produit par le foie sous l'effet de la GH ; meilleur test de dépistage de l'acromégalie.|Insulin-like growth factor 1
+LH;FSH|Gonadotrophines hypophysaires qui commandent les ovaires et les testicules.|Hormone lutéinisante
+ACTH|Hormone hypophysaire qui stimule le cortisol des surrénales.|Hormone adrénocorticotrope
+PRL;prolactine|Prolactine : hormone de la lactation, freinée par la dopamine. En excès : galactorrhée, troubles des règles, infertilité.|Prolactine
+TPO;anti-TPO|Thyroperoxydase : enzyme de la thyroïde ; les anticorps anti-TPO signent la thyroïdite de Hashimoto.|Thyroperoxydase
+TRAb|Anticorps contre le récepteur de la TSH qui stimulent la thyroïde : cause de la maladie de Basedow.|
+RET|Proto-oncogène muté dans les NEM2 et une partie des cancers médullaires de la thyroïde.|RET (gène)
+HPT;hyperparathyroïdie|Hyperparathyroïdie : excès de PTH (primaire = adénome parathyroïdien, avec hypercalcémie).|Hyperparathyroïdie
+SOPK|Syndrome des ovaires polykystiques : troubles des règles, hyperandrogénie et ovaires multifolliculaires. 1re cause d'hirsutisme.|Syndrome des ovaires polykystiques
+NEM;NEM1;NEM2;MEN1|Néoplasies endocrines multiples : syndromes génétiques avec plusieurs tumeurs endocrines (NEM1 : parathyroïdes, pancréas, hypophyse ; NEM2 : cancer médullaire, phéochromocytome).|Néoplasie endocrinienne multiple
+ATS|Antithyroïdiens de synthèse (thiamazole, PTU) : bloquent la fabrication des hormones thyroïdiennes.|Antithyroïdien de synthèse
+PTU|Propylthiouracile : antithyroïdien préféré au 1er trimestre de grossesse (moins de malformations), mais toxique pour le foie.|Propylthiouracile
+HCS|Hyperplasie congénitale des surrénales : déficit enzymatique (21-hydroxylase surtout) → peu de cortisol, trop d'androgènes.|Hyperplasie congénitale des surrénales
+AMH|Hormone anti-müllérienne : reflète la réserve ovarienne ; élevée dans le SOPK.|Hormone anti-müllérienne
+TBG|Protéine de transport des hormones thyroïdiennes ; augmentée par la grossesse et les œstrogènes.|Thyroxine-binding globulin
+EU-TIRADS|Score échographique (1 à 5) du risque de malignité d'un nodule thyroïdien, qui décide de la cytoponction.|
+SIADH|Sécrétion inappropriée d'ADH : hyponatrémie par rétention d'eau.|Syndrome de sécrétion inappropriée d'hormone antidiurétique
+HHF|Hypercalcémie hypocalciurique familiale : mutation du capteur du calcium (CaSR), calcium un peu élevé, calciurie basse, bénigne, pas d'opération.|
+CaSR|Récepteur sensible au calcium de la parathyroïde et du rein : « thermostat » du calcium.|
+ADH;vasopressine|Hormone antidiurétique : retient l'eau au rein.|Hormone antidiurétique
+DI;diabète insipide|Diabète insipide : urines abondantes et diluées par manque d'ADH (souvent central, après chirurgie hypophysaire).|Diabète insipide
+DHEA;DHEAS|Androgènes faibles produits par les surrénales ; DHEAS très élevé = tumeur surrénalienne à évoquer.|Déhydroépiandrostérone
+PGL;paragangliome|Paragangliome : tumeur sécrétant des catécholamines en dehors de la surrénale.|Paragangliome
+phéochromocytome|Tumeur de la médullosurrénale qui sécrète adrénaline/noradrénaline : HTA, céphalées, sueurs, palpitations.|Phéochromocytome
+métanéphrines|Dérivés des catécholamines dosés dans le plasma ou les urines pour dépister un phéochromocytome.|Métanéphrine
+TNE|Tumeurs neuroendocrines (pancréas, intestin…) qui peuvent sécréter des hormones.|Tumeur neuroendocrine
+FA|Fibrillation auriculaire, complication de l'hyperthyroïdie chez l'âgé.|Fibrillation atriale
+CMT;cancer médullaire|Cancer médullaire de la thyroïde : vient des cellules C (calcitonine) ; héréditaire dans 25 % (RET).|Carcinome médullaire de la thyroïde
+calcitonine|Hormone des cellules C de la thyroïde ; marqueur du cancer médullaire.|Calcitonine
+thyroglobuline;Tg|Protéine fabriquée par la thyroïde ; marqueur de suivi après ablation d'un cancer différencié.|Thyroglobuline
+BRAF;V600E|Mutation fréquente des cancers papillaires de la thyroïde.|BRAF (gène)
+PTC;cancer papillaire|Cancer papillaire de la thyroïde : le plus fréquent, de très bon pronostic.|Carcinome papillaire de la thyroïde
+I-131;iode radioactif|Iode radioactif : détruit le tissu thyroïdien restant (cancer) ou traite une hyperthyroïdie.|Iode 131
+SRY|Gène du chromosome Y qui déclenche le développement des testicules.|SRY
+SHBG|Protéine qui transporte la testostérone et l'œstradiol dans le sang.|Sex hormone-binding globulin
+Kallmann|Syndrome de Kallmann : déficit en GnRH (puberté absente) + perte de l'odorat (anosmie).|Syndrome de Kallmann
+GnRH|Hormone hypothalamique qui commande la sécrétion de LH et FSH.|Gonadolibérine
+Klinefelter;XXY|Syndrome de Klinefelter (47,XXY) : petits testicules fermes, infertilité, grande taille, parfois gynécomastie.|Syndrome de Klinefelter
+Turner|Syndrome de Turner (45,X) : petite taille et insuffisance ovarienne chez la fille.|Syndrome de Turner
+Hashimoto|Thyroïdite de Hashimoto : destruction auto-immune de la thyroïde (anti-TPO), 1re cause d'hypothyroïdie.|Thyroïdite de Hashimoto
+Basedow|Maladie de Basedow (Graves) : hyperthyroïdie auto-immune par TRAb, goitre, atteinte des yeux (exophtalmie).|Maladie de Basedow
+orbitopathie;exophtalmie|Atteinte inflammatoire des muscles et graisses de l'orbite dans le Basedow : yeux saillants. Aggravée par le tabac.|Exophtalmie
+hypothyroïdie|Manque d'hormones thyroïdiennes : fatigue, frilosité, prise de poids, constipation, bradycardie.|Hypothyroïdie
+hyperthyroïdie|Excès d'hormones thyroïdiennes : amaigrissement, palpitations, tremblement, chaleur.|Hyperthyroïdie
+L-T4;lévothyroxine|Lévothyroxine : hormone thyroïdienne de synthèse, traitement de l'hypothyroïdie.|Lévothyroxine
+goitre|Augmentation de volume de la thyroïde.|Goitre
+nodule|Nodule thyroïdien : boule dans la thyroïde, très fréquente et presque toujours bénigne.|Nodule thyroïdien
+cytoponction|Prélèvement de cellules à l'aiguille fine, guidé par échographie.|Cytoponction
+Bethesda|Classification des résultats de cytoponction thyroïdienne en 6 catégories (I non diagnostique à VI malin).|
+thyroïdectomie|Ablation chirurgicale de la thyroïde.|Thyroïdectomie
+adénome hypophysaire|Tumeur bénigne de l'hypophyse, sécrétante ou non.|Adénome hypophysaire
+prolactinome|Adénome hypophysaire qui sécrète la prolactine ; traité par agonistes dopaminergiques (cabergoline).|Prolactinome
+cabergoline;agonistes dopaminergiques|Médicaments qui imitent la dopamine et font baisser la prolactine et rétrécir le prolactinome.|Cabergoline
+hémianopsie bitemporale|Perte du champ visuel externe des deux yeux par compression du chiasma optique.|Hémianopsie bitemporale
+apoplexie|Apoplexie hypophysaire : hémorragie brutale dans un adénome → céphalée violente, troubles visuels, insuffisance surrénalienne aiguë.|Apoplexie hypophysaire
+acromégalie|Excès de GH chez l'adulte : grossissement des mains, pieds, mâchoire, HTA, diabète, apnées.|Acromégalie
+HGPO|Hyperglycémie provoquée par voie orale : on boit 75 g de glucose. Ici : la GH ne baisse pas dans l'acromégalie.|Hyperglycémie provoquée par voie orale
+Sheehan|Nécrose de l'hypophyse après une hémorragie de l'accouchement : pas d'allaitement, pas de retour des règles.|Syndrome de Sheehan
+hypopituitarisme;insuffisance hypophysaire|Déficit d'une ou plusieurs hormones de l'hypophyse.|Hypopituitarisme
+Cushing|Excès de cortisol : obésité du tronc, visage rond, vergetures pourpres larges, HTA, diabète, ostéoporose.|Syndrome de Cushing
+cortisol|Hormone surrénalienne du stress : glucose, tension, anti-inflammatoire. Rythme : haut le matin, bas le soir.|Cortisol
+aldostérone|Hormone surrénalienne qui retient le sodium et élimine le potassium.|Aldostérone
+hyperaldostéronisme;Conn|Hyperaldostéronisme primaire : HTA (souvent avec hypokaliémie), aldostérone haute et rénine basse.|Hyperaldostéronisme primaire
+rénine|Enzyme du rein qui démarre le système rénine-angiotensine-aldostérone.|Rénine
+cathétérisme des veines surrénales|Prélèvements dans les deux veines surrénales pour savoir quel côté sécrète trop d'aldostérone.|
+incidentalome|Masse surrénalienne découverte par hasard à l'imagerie ; on vérifie si elle sécrète et si elle est maligne.|Incidentalome
+21-hydroxylase|Enzyme des surrénales dont le déficit cause la plupart des hyperplasies congénitales.|21-hydroxylase
+Addison|Insuffisance surrénalienne primaire (auto-immune) : fatigue, hypotension, mélanodermie, hyponatrémie, hyperkaliémie.|Maladie d'Addison
+mélanodermie|Peau et muqueuses brunes, par excès d'ACTH (qui stimule les mélanocytes).|
+hydrocortisone|Cortisol de synthèse ; à doubler ou tripler en cas de stress, maladie ou chirurgie chez l'insuffisant surrénalien.|Hydrocortisone
+fludrocortisone|Minéralocorticoïde de synthèse qui remplace l'aldostérone dans l'insuffisance surrénale primaire.|Fludrocortisone
+insuffisance surrénalienne aiguë;crise surrénalienne|Urgence : choc, vomissements, douleurs abdominales ; hydrocortisone IV immédiate.|Insuffisance surrénalienne aiguë
+hirsutisme|Pilosité masculine chez la femme (visage, thorax), signe d'excès d'androgènes.|Hirsutisme
+aménorrhée|Absence de règles.|Aménorrhée
+vitamine D|Vitamine (soleil, alimentation) activée par le foie (25-OH) puis le rein (1,25-OH = calcitriol) ; fait absorber le calcium.|Vitamine D
+calcitriol|1,25-dihydroxyvitamine D, forme active de la vitamine D.|Calcitriol
+hypercalcémie|Calcium sanguin trop élevé ; causes principales : hyperparathyroïdie primaire et cancers.|Hypercalcémie
+hypocalcémie|Calcium bas : fourmillements, crampes, signes de Chvostek et Trousseau, QT long.|Hypocalcémie
+Chvostek|Signe de Chvostek : tapoter devant l'oreille fait contracter la lèvre (hypocalcémie).|Signe de Chvostek
+cinacalcet|Médicament qui rend le CaSR plus sensible au calcium et baisse la PTH.|Cinacalcet
+ostéoporose|Os fragile (densité basse) avec risque de fractures.|Ostéoporose
+densitométrie|Mesure de la densité des os par rayons X à faible dose (T-score).|Ostéodensitométrie
+polyendocrinopathies auto-immunes;APS;APS1;APS2|Associations de plusieurs maladies endocrines auto-immunes (ex. APS2 : Addison + thyroïdite ± diabète de type 1).|Polyendocrinopathie auto-immune
+acidocétose|Complication du diabète de type 1 : manque d'insuline, sucre et cétones élevés, acidose, déshydratation.|Acidocétose diabétique

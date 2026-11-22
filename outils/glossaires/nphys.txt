@@ -1,0 +1,99 @@
+EMG|Électromyogramme : enregistre l'activité électrique des muscles (aiguille) et mesure la conduction des nerfs (stimulation). Examen clé du nerf, de la jonction et du muscle.|Électromyographie
+SLA|Sclérose latérale amyotrophique (maladie de Charcot) : dégénérescence des motoneurones central et périphérique, faiblesse progressive, survie moyenne ≈ 3 ans.|Sclérose latérale amyotrophique
+LEMS|Syndrome de Lambert-Eaton : anticorps contre les canaux calciques présynaptiques. Faiblesse proximale, réflexes abolis, souvent cancer du poumon à petites cellules.|Syndrome de Lambert-Eaton
+PE;potentiels évoqués|Potentiels évoqués : réponses électriques du système nerveux à un stimulus (visuel, auditif, sensitif, magnétique), moyennées pour être visibles.|Potentiel évoqué
+PSW|Positive sharp waves (ondes lentes positives) : activité spontanée de dénervation à l'EMG, comme les fibrillations.|
+PUM|Potentiel d'unité motrice : signal d'un motoneurone et de toutes ses fibres. Géant après réinnervation, petit et bref dans une myopathie.|Unité motrice
+VC|Vitesse de conduction : vitesse de l'influx dans le nerf. Très ralentie si la myéline est atteinte, presque normale si c'est l'axone.|Conduction nerveuse
+DFT|Démence fronto-temporale : troubles du comportement et du langage par atteinte frontale/temporale. Associée à la SLA dans ≈ 30 % des cas.|Démence frontotemporale
+CTG|Triplet de nucléotides répété dans le gène DMPK. Plus de 40 répétitions donnent la maladie de Steinert.|
+SEP|Sclérose en plaques : maladie démyélinisante du système nerveux central. Les potentiels évoqués montrent des latences allongées.|Sclérose en plaques
+N13|Onde des PES enregistrée à la nuque : témoin de l'arrivée du message dans la moelle cervicale.|
+N20|Onde des PES enregistrée au scalp : réponse du cortex sensitif. Absente des deux côtés dans le coma = très mauvais pronostic.|
+GM1|Ganglioside de la membrane des axones moteurs. Les anticorps anti-GM1 donnent des formes motrices (AMAN, neuropathie motrice multifocale).|Ganglioside
+TTR;transthyrétine|Transthyrétine : protéine de transport fabriquée par le foie. Mutée, elle forme des dépôts amyloïdes dans les nerfs et le cœur.|Transthyrétine
+MAG|Myelin-associated glycoprotein : cible des IgM monoclonales dans une neuropathie démyélinisante avec ataxie et tremblement.|
+CD20|Marqueur des lymphocytes B ; cible du rituximab.|CD20
+EPP|Potentiel de plaque motrice : dépolarisation de la fibre musculaire causée par l'acétylcholine. S'il dépasse le seuil, le muscle se contracte.|
+SMA|Amyotrophie spinale infantile : perte des motoneurones par absence du gène SMN1. Types I (Werdnig-Hoffmann) à III (Kugelberg-Welander).|Amyotrophie spinale proximale
+SMN1;SMN2|Gènes « survival motor neuron ». SMN1 absent dans la SMA ; SMN2 donne surtout une protéine tronquée, et plus il y a de copies, moins c'est sévère.|
+CAG|Triplet répété dans le gène du récepteur aux androgènes (maladie de Kennedy) ou de la huntingtine.|
+PES|Potentiels évoqués somesthésiques : on stimule un nerf (médian, tibial) et on suit l'influx jusqu'au cortex. Explorent les cordons postérieurs.|
+BAEP|Potentiels évoqués auditifs du tronc cérébral : 5 ondes après un clic, de la cochlée (I) au mésencéphale (V).|Potentiel évoqué auditif
+PEM|Potentiels évoqués moteurs : stimulation magnétique du cortex et enregistrement d'un muscle. Mesure la conduction de la voie pyramidale.|Stimulation magnétique transcrânienne
+PEV|Potentiels évoqués visuels : réponse du cortex occipital à un damier qui s'inverse. Onde P100 retardée dans la névrite optique.|
+MRC|Échelle du Medical Research Council : cote la force d'un muscle de 0 (rien) à 5 (normal).|
+CMT;CMT1;CMT1A;CMT2;CMTX|Maladie de Charcot-Marie-Tooth : neuropathie héréditaire. CMT1 = démyélinisante (souvent duplication PMP22), CMT2 = axonale, CMTX = liée à l'X.|Maladie de Charcot-Marie-Tooth
+HMSN|Hereditary motor and sensory neuropathy : autre nom de la maladie de Charcot-Marie-Tooth.|
+PMP22|Protéine de la myéline périphérique. Dupliquée : CMT1A ; délétée : HNPP.|PMP22
+HNPP|Neuropathie héréditaire avec hypersensibilité à la pression : paralysies répétées aux points de compression (fibulaire, ulnaire au coude).|
+AIDP|Forme démyélinisante du Guillain-Barré, la plus fréquente en Europe.|
+AMAN;AMSAN|Formes axonales du Guillain-Barré : motrice (AMAN) ou sensitivo-motrice (AMSAN), souvent après Campylobacter, avec anti-GM1.|
+LCR|Liquide céphalo-rachidien : liquide autour du cerveau et de la moelle, prélevé par ponction lombaire.|Liquide cérébrospinal
+PIDC|Polyradiculonévrite inflammatoire démyélinisante chronique : « Guillain-Barré chronique », installation sur plus de 8 semaines.|Polyradiculonévrite inflammatoire démyélinisante chronique
+Guillain-Barré;GB|Polyradiculonévrite aiguë auto-immune : paralysie ascendante avec aréflexie en < 4 semaines, souvent après une infection.|Syndrome de Guillain-Barré
+VGCC|Canaux calciques voltage-dépendants (type P/Q) de la terminaison nerveuse ; cible des anticorps du Lambert-Eaton.|Canal calcique
+CMAP|Compound muscle action potential : réponse globale d'un muscle quand on stimule son nerf. Son amplitude reflète le nombre d'axones.|
+SFEMG|EMG de fibre unique : mesure le « jitter » entre deux fibres d'une même unité. Examen le plus sensible de la myasthénie.|
+JNM;jonction neuromusculaire|Jonction neuromusculaire : synapse entre le nerf moteur et le muscle, où l'acétylcholine déclenche la contraction.|Jonction neuromusculaire
+SNARE|Protéines qui font fusionner les vésicules d'acétylcholine avec la membrane ; coupées par les toxines botulique et tétanique.|Protéine SNARE
+BMAA|Toxine d'algues (cyanobactéries) des îles du Pacifique, suspectée de causer une SLA par excitotoxicité.|
+TDP-43|Protéine qui s'agrège dans les neurones dans la SLA et la DFT.|TDP-43
+C9ORF72|Gène le plus souvent muté dans les formes familiales de SLA et de DFT.|C9orf72
+SOD1|Gène de la superoxyde dismutase, deuxième grande cause génétique de SLA.|Superoxyde dismutase
+DM1;Steinert|Dystrophie myotonique de type 1 (Steinert) : expansion CTG du gène DMPK. Myotonie, atrophie faciale, cataracte, troubles cardiaques.|Dystrophie myotonique de Steinert
+DMPK|Gène de la dystrophie myotonique de type 1, sur le chromosome 19.|
+CPT|Carnitine palmitoyltransférase : enzyme qui fait entrer les acides gras dans la mitochondrie. Son déficit donne des rhabdomyolyses à l'effort prolongé.|Carnitine palmitoyltransférase
+MERRF|Maladie mitochondriale : épilepsie myoclonique avec « ragged red fibers » (fibres rouges déchiquetées) à la biopsie.|MERRF
+MELAS|Maladie mitochondriale : encéphalopathie, acidose lactique et épisodes « pseudo-AVC ».|MELAS
+CK|Créatine kinase : enzyme musculaire, très élevée dans le sang quand le muscle est détruit.|Créatine kinase
+P100|Onde positive à ≈ 100 ms des potentiels évoqués visuels. Retardée (amplitude conservée) dans une démyélinisation.|
+AAV9|Virus adéno-associé de type 9 : vecteur de thérapie génique qui passe dans le système nerveux, utilisé pour la SMA.|Virus adéno-associé
+bloc de conduction|L'influx s'arrête à un endroit du nerf alors que l'axone est intact (démyélinisation focale, compression). Récupère vite.|
+dispersion temporelle|Les fibres d'un nerf conduisent à des vitesses différentes : la réponse s'étale (plus longue, moins ample). Signe de démyélinisation.|
+réponse H|Équivalent électrique du réflexe achilléen : stimulation des fibres sensitives Ia → motoneurone → muscle. Abolie si la racine S1 est lésée.|Réflexe de Hoffmann
+réponse F|Réponse tardive : l'influx remonte le nerf moteur jusqu'à la moelle et redescend. Explore les segments proximaux (racines).|
+fibrillations|Petits potentiels spontanés de fibres musculaires dénervées, visibles à l'EMG (invisibles à l'œil).|Fibrillation musculaire
+fasciculations|Contractions spontanées d'une unité motrice, visibles sous la peau. Typiques de la SLA.|Fasciculation
+neurapraxie|Atteinte de la myéline sans section de l'axone : bloc de conduction qui récupère rapidement et complètement.|Neurapraxie
+axonotmèse|Interruption de l'axone avec dégénérescence en aval ; récupération lente par repousse.|Axonotmèse
+radiculopathies;radiculopathie|Atteinte d'une racine nerveuse à la sortie de la moelle (souvent hernie discale) : douleur et déficit dans un dermatome.|Radiculopathie
+dermatome|Territoire de peau innervé par une seule racine spinale.|Dermatome (anatomie)
+polyneuropathie|Atteinte diffuse, symétrique et distale des nerfs (« gants et chaussettes »).|Polyneuropathie
+multinévrite|Atteinte asymétrique de plusieurs nerfs distincts, souvent par vascularite.|Mononévrite multiple
+neuropathie diabétique|Complication du diabète : polyneuropathie surtout sensitive et axonale, plus douleurs et dysautonomie.|Neuropathie diabétique
+canal carpien|Compression du nerf médian au poignet sous le ligament annulaire : fourmillements nocturnes des 3 premiers doigts.|Syndrome du canal carpien
+nerf médian|Nerf du bras qui innerve la flexion des doigts, l'opposition du pouce et la sensibilité des 3 premiers doigts.|Nerf médian
+Tinel|Signe de Tinel : tapoter sur le nerf déclenche des fourmillements dans son territoire.|Signe de Tinel
+prégabaline|Antiépileptique utilisé contre les douleurs neuropathiques et l'anxiété.|Prégabaline
+amitriptyline|Antidépresseur tricyclique utilisé à faible dose contre les douleurs neuropathiques.|Amitriptyline
+dissociation albumino-cytologique|LCR avec protéines élevées mais cellules normales : signe typique du Guillain-Barré.|
+plasmaphérèse|Épuration du plasma pour retirer les anticorps ; traitement du Guillain-Barré et des crises myasthéniques.|Plasmaphérèse
+IVIg;immunoglobulines|Immunoglobulines intraveineuses : anticorps de donneurs qui modulent l'immunité (Guillain-Barré, PIDC, myasthénie).|Immunoglobuline
+gammapathies;gammapathie|Production d'une immunoglobuline monoclonale (même anticorps en excès) par un clone de plasmocytes.|Gammapathie monoclonale
+myasthénie|Maladie auto-immune de la jonction (anti-récepteur de l'acétylcholine) : faiblesse qui augmente à l'effort, ptôsis, diplopie.|Myasthénie
+acétylcholine;ACh|Neurotransmetteur libéré par le nerf moteur à la jonction neuromusculaire.|Acétylcholine
+stimulation répétitive|On stimule un nerf plusieurs fois (3 Hz) : une baisse de réponse > 10 % (décrément) évoque la myasthénie.|
+décrément|Diminution de l'amplitude de la réponse musculaire au fil des stimulations répétées : signe de myasthénie.|
+incrément|Augmentation de la réponse après effort ou stimulation rapide (> 100 %) : signe du Lambert-Eaton.|
+pyridostigmine|Anticholinestérasique : augmente l'acétylcholine dans la synapse. Traitement symptomatique de la myasthénie.|Pyridostigmine
+thymectomie|Ablation du thymus, qui améliore beaucoup de myasthénies avec anticorps anti-RACh.|Thymectomie
+3,4-DAP|3,4-diaminopyridine (amifampridine) : bloque les canaux potassiques, prolonge la dépolarisation et augmente la libération d'acétylcholine (Lambert-Eaton).|Amifampridine
+botulisme|Intoxication par la toxine botulique (aliments mal conservés) : paralysie descendante, pupilles dilatées, sécheresse buccale.|Botulisme
+maladie de Kennedy;Kennedy|Amyotrophie bulbo-spinale liée à l'X (CAG du récepteur aux androgènes) : faiblesse lente, fasciculations faciales, gynécomastie.|Amyotrophie bulbo-spinale liée à l'X
+myotonie|Défaut de relâchement du muscle après une contraction (main qui ne se rouvre pas).|Myotonie
+paramyotonie|Myotonie qui s'aggrave à l'effort répété et au froid.|Paramyotonie congénitale
+rhabdomyolyse|Destruction aiguë des muscles : CK très élevées, urines foncées, risque d'insuffisance rénale.|Rhabdomyolyse
+myosites;myosite|Inflammation des muscles (polymyosite, dermatomyosite) : faiblesse proximale, CK élevées.|Myosite
+dermatomyosite|Myosite avec atteinte de la peau : œdème lilacé des paupières, papules sur les doigts.|Dermatomyosite
+McArdle|Glycogénose de type V : déficit en myophosphorylase, crampes et contractures à l'effort.|Maladie de McArdle
+Pompe|Glycogénose de type II : déficit en alpha-glucosidase acide, faiblesse musculaire et cardiaque.|Maladie de Pompe
+riluzole|Seul médicament qui allonge un peu la survie dans la SLA (anti-glutamate).|Riluzole
+nusinersen|Oligonucléotide antisens injecté par ponction lombaire : fait produire plus de protéine SMN complète à partir de SMN2.|Nusinersen
+Erb|Point d'Erb : creux au-dessus de la clavicule où l'on enregistre l'arrivée de l'influx du plexus brachial.|
+champ lointain|Potentiel enregistré loin de sa source (ex. P14 au scalp), qui naît quand l'influx change de direction ou de milieu.|
+syringomyélie|Cavité liquidienne au centre de la moelle : perte de la sensibilité douleur/température « suspendue » sur quelques segments.|Syringomyélie
+myéline|Gaine isolante autour des axones, qui permet la conduction saltatoire rapide.|Myéline
+nœuds de Ranvier;nœud de Ranvier|Interruptions de la gaine de myéline où se concentrent les canaux sodiques ; l'influx « saute » de l'un à l'autre.|Nœud de Ranvier
+Duchenne|Myopathie liée à l'X par absence de dystrophine : faiblesse proximale dès l'enfance.|Dystrophie musculaire de Duchenne
+dystrophine|Protéine qui ancre le squelette de la fibre musculaire à sa membrane.|Dystrophine

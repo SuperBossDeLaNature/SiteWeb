@@ -4,7 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0b1020">
-<title>MédiDuel</title>
+<title>Supa BossuDeLaNaturu</title>
+<link rel="icon" href="img/logo.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,7 +14,8 @@
   <!-- ACCUEIL -->
   <section id="s-home" class="screen active">
     <button class="snd" id="snd-home" aria-label="Activer ou couper le son">🔊</button>
-    <div class="logo">⚔️ <b>Médi</b>Duel</div>
+    <img class="logo-img" src="img/logo.png" alt="">
+    <div class="logo">Supa <b>BossuDeLaNaturu</b></div>
     <p class="tag">Révise en duel, en direct.</p>
 
     <label class="field">
@@ -31,6 +33,10 @@
     </div>
 
     <button class="btn ghost" id="btn-solo">Entraînement contre un bot</button>
+    <div class="home-row">
+      <button class="btn" id="btn-board">🏆 Scores</button>
+      <button class="btn" id="btn-rev">📚 Révision</button>
+    </div>
     <label class="volrow"><span>🔈</span><input type="range" class="vol" min="0" max="100" step="1" aria-label="Volume des bruitages"><span>🔊</span></label>
     <p class="note" id="net-note"></p>
   </section>
@@ -142,6 +148,39 @@
     <div class="overlay" id="countdown" hidden></div>
   </section>
 
+  <!-- TABLEAU DES SCORES -->
+  <section id="s-board" class="screen">
+    <header class="top">
+      <button class="icon-btn" id="board-back" aria-label="Retour">←</button>
+      <h2>Tableau des scores</h2>
+    </header>
+    <div class="pills" id="board-filter"></div>
+    <p class="hint" id="board-hint">Duels en ligne uniquement (l'entraînement contre le bot ne compte pas).</p>
+    <div class="board" id="board"></div>
+  </section>
+
+  <!-- RÉVISION : liste des cours -->
+  <section id="s-rev" class="screen">
+    <header class="top">
+      <button class="icon-btn" id="rev-back" aria-label="Retour">←</button>
+      <h2>Révision</h2>
+    </header>
+    <p class="hint">Les mots <span class="gl demo">surlignés en bleu</span> ont une bulle d'explication : passe la souris dessus ou touche-les.</p>
+    <div id="rev-list"></div>
+  </section>
+
+  <!-- RÉVISION : lecture d'un cours -->
+  <section id="s-rev-read" class="screen">
+    <header class="top rv-top">
+      <button class="icon-btn" id="revr-back" aria-label="Retour">←</button>
+      <h2 id="revr-title"></h2>
+      <button class="icon-btn" id="revr-toc-btn" aria-label="Sommaire">☰</button>
+    </header>
+    <nav class="rv-toc" id="revr-toc" hidden></nav>
+    <article class="rv-doc" id="revr-doc"></article>
+    <button class="btn ghost" id="revr-up">↑ Haut de page</button>
+  </section>
+
   <!-- RÉSULTATS -->
   <section id="s-result" class="screen">
     <div class="verdict" id="verdict"></div>
@@ -169,6 +208,13 @@
 
 </main>
 <div id="toast" role="status"></div>
+<div id="gl-pop" class="gl-pop" role="dialog" aria-live="polite" hidden>
+  <button class="gl-x" id="gl-x" aria-label="Fermer">×</button>
+  <div class="gl-n" id="gl-n"></div>
+  <div class="gl-d" id="gl-d"></div>
+  <div class="gl-img" id="gl-img"></div>
+  <a class="gl-src" id="gl-src" target="_blank" rel="noopener" hidden>Images : Wikipédia ↗</a>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="config.js"></script>
@@ -178,6 +224,7 @@
 <script src="questions/radio.js"></script>
 <script src="questions/chir.js"></script>
 <script src="questions/neuro.js"></script>
+<script src="revision/index.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-# MédiDuel — prototype
+# Supa BossuDeLaNaturu — prototype
 
 Quiz de révision en duel, 100 % statique : compatible GitHub Pages, mobile-first, thème sombre.
 
@@ -48,3 +48,15 @@ Dans `questions.js`, chaque matière a une liste de chapitres et des questions :
 - L'hôte pilote la partie : s'il quitte, le duel s'arrête.
 - Reconnexion basique après verrouillage du téléphone (l'invité redemande l'état à l'hôte).
 - Les questions d'exemple (12 par matière) sont des brouillons à relire avant de s'en servir pour réviser.
+
+## Tableau des scores
+Bouton « 🏆 Scores » sur l'accueil. Il lit la table `matches` de Supabase (créée par `supabase-setup.sql`) :
+victoires / défaites / nuls par pseudo, filtre par matière. Seuls les duels en ligne comptent (l'hôte enregistre le résultat).
+Si la table n'existe pas encore, l'écran l'indique : colle `supabase-setup.sql` dans Supabase > SQL Editor.
+
+## Révision
+Bouton « 📚 Révision » : les 15 fiches résumés, avec les mots importants surlignés en bleu.
+Survol (ordinateur) ou appui (téléphone) → bulle avec une explication + images d'exemple chargées depuis Wikipédia.
+- `revision/<matière>.js` : fiche + glossaire (généré, ne pas éditer à la main).
+- `outils/glossaires/<matière>.txt` : une ligne par mot : `mot;synonyme|définition|Titre de l'article Wikipédia` (titre vide = pas d'image).
+- Regénérer : `python3 outils/pdf2html.py fiche.pdf > html/<nom>.html` puis `python3 outils/build_rev.py revision`.

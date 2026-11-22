@@ -1,0 +1,83 @@
+SG|Semaines de grossesse, comptées à partir de la conception. À ne pas confondre avec les SA (semaines d'aménorrhée), qui comptent 2 semaines de plus.|
+SA|Semaines d'aménorrhée : âge de la grossesse compté depuis le 1er jour des dernières règles. Un terme normal est à 37–41 SA.|Aménorrhée
+IMC;infirmité motrice cérébrale|Infirmité motrice cérébrale : trouble permanent de la posture et du mouvement dû à une lésion cérébrale fixe survenue avant 2 ans. La lésion ne progresse pas, mais le tableau évolue avec la croissance.|Infirmité motrice cérébrale
+POCS|Pointes-ondes continues du sommeil : encéphalopathie épileptique de l'enfant (3–10 ans). L'EEG de sommeil est envahi de décharges, ce qui provoque une régression cognitive ou comportementale.|
+EEG|Électroencéphalogramme : enregistrement de l'activité électrique du cerveau par des électrodes posées sur le cuir chevelu. Sert surtout au diagnostic des épilepsies.|Électroencéphalographie
+AVC|Accident vasculaire cérébral : déficit neurologique brutal dû à l'obstruction (ischémique, 85 %) ou à la rupture (hémorragique) d'une artère du cerveau.|Accident vasculaire cérébral
+QI|Quotient intellectuel : score standardisé (moyenne 100, écart-type 15). Un QI < 70 définit le retard mental (déficience intellectuelle).|Quotient intellectuel
+QV;QP|QV = QI verbal, QP = QI de performance (non verbal). Un écart QV > QP suggère que l'hémisphère gauche (langage) a été privilégié.|
+IRM|Imagerie par résonance magnétique : imagerie sans rayons X, basée sur les protons de l'eau dans un champ magnétique. Excellente pour le cerveau et la moelle.|Imagerie par résonance magnétique
+DMD|Gène de la dystrophine, situé sur le chromosome X. Sa mutation donne la myopathie de Duchenne (pas de dystrophine) ou de Becker (dystrophine anormale).|Dystrophine
+SEP|Sclérose en plaques : maladie inflammatoire auto-immune qui détruit la myéline du système nerveux central, par poussées. Typique de l'adulte jeune.|Sclérose en plaques
+HTA|Hypertension artérielle : pression artérielle ≥ 140/90 mmHg de façon répétée. Grand facteur de risque d'AVC chez l'adulte.|Hypertension artérielle
+SNC|Système nerveux central : cerveau, cervelet, tronc cérébral et moelle épinière.|Système nerveux central
+COL4|Gènes du collagène de type IV, constituant des membranes basales des vaisseaux. Leurs mutations fragilisent les petites artères (AVC, hémorragies in utero).|Collagène de type IV
+LIS1|Gène indispensable à la migration des neurones. Sa mutation donne une lissencéphalie (cerveau lisse, sans circonvolutions).|Lissencéphalie
+CMV|Cytomégalovirus : virus de la famille des herpès. Transmis pendant la grossesse, il peut causer surdité, microcéphalie, calcifications et IMC.|Cytomégalovirus
+VCN|Vitesse de conduction nerveuse : vitesse de l'influx dans un nerf périphérique, mesurée à l'EMG. Elle est ralentie quand la myéline est atteinte.|
+CK|Créatine kinase : enzyme du muscle. Son taux sanguin s'élève quand des fibres musculaires sont détruites (myopathies, rhabdomyolyse).|Créatine kinase
+EMG|Électromyogramme : examen qui enregistre l'activité électrique des muscles et la conduction des nerfs, avec des électrodes ou une aiguille.|Électromyographie
+T2|Séquence d'IRM où l'eau apparaît blanche (hypersignal). Utile pour voir l'œdème, la démyélinisation et les lésions de la substance blanche.|
+microcéphalie|Tête anormalement petite (périmètre crânien < −2 ou −3 écarts-types), qui reflète un cerveau trop petit.|Microcéphalie
+lissencéphalie|« Cerveau lisse » : absence de circonvolutions par défaut de migration des neurones. Donne épilepsie sévère et retard majeur.|Lissencéphalie
+zone épendymaire|Couche de cellules qui borde les ventricules. Chez l'embryon, c'est là que naissent les neurones avant de migrer vers le cortex.|Épendyme
+fibres gliales radiaires|Longues cellules gliales tendues des ventricules à la surface du cerveau, qui servent de « rails » aux neurones qui migrent.|Glie radiaire
+synaptogenèse|Formation des synapses (connexions entre neurones). Très intense pendant les 2 premières années de vie.|Synapse
+élagage|Élimination des synapses peu utilisées après la naissance : on garde les connexions qui servent (« use it or lose it »).|Élagage synaptique
+myélinisation|Formation de la gaine de myéline autour des axones par les oligodendrocytes, qui accélère l'influx nerveux. Elle se poursuit jusqu'à l'âge adulte.|Myéline
+oligodendrocytes|Cellules gliales du système nerveux central qui fabriquent la myéline.|Oligodendrocyte
+plasticité|Capacité du cerveau à se réorganiser après une lésion : d'autres régions reprennent les fonctions perdues. Elle est maximale chez le très jeune enfant.|Neuroplasticité
+hémiplégie|Paralysie d'une moitié du corps (bras + jambe du même côté), du côté opposé à la lésion cérébrale.|Hémiplégie
+voie pyramidale|Faisceau cortico-spinal : grande voie de la motricité volontaire, du cortex moteur jusqu'à la moelle. Elle croise la ligne médiane dans le bulbe.|Faisceau pyramidal
+Moro|Réflexe archaïque du nouveau-né : quand on lâche brièvement sa tête, il écarte puis referme les bras. Disparaît vers 4–6 mois.|Réflexe de Moro
+grasping|Réflexe d'agrippement : le nouveau-né serre fort le doigt posé dans sa paume. Disparaît vers 3–4 mois.|Réflexe d'agrippement
+aphasie|Trouble du langage acquis après une lésion cérébrale (expression et/ou compréhension), sans atteinte de l'articulation.|Aphasie
+crowding effect|« Effet d'encombrement » : après une lésion précoce, l'hémisphère sain doit assurer les fonctions des deux. Il privilégie le langage au détriment des fonctions visuo-spatiales.|
+État de mal convulsif;état de mal|Crise d'épilepsie qui dure trop longtemps (ou crises répétées sans reprise de conscience). Urgence : on traite dès 5 minutes.|État de mal épileptique
+hippocampe|Structure du lobe temporal interne essentielle à la mémoire. Ses neurones sont très sensibles à l'hypoxie et aux crises prolongées.|Hippocampe (cerveau)
+phénobarbital|Ancien antiépileptique (barbiturique). Efficace mais sédatif, avec des effets cognitifs démontrés chez l'enfant.|Phénobarbital
+phénytoïne|Ancien antiépileptique qui bloque les canaux sodiques. Effets cognitifs et cosmétiques (hypertrophie des gencives).|Phénytoïne
+topiramate|Antiépileptique récent ; c'est le plus à risque pour la cognition (ralentissement, manque du mot). Contre-indiqué pendant la grossesse.|Topiramate
+monothérapie|Traitement par un seul médicament. En épilepsie de l'enfant : un seul antiépileptique, à la plus faible dose efficace.|
+syndrome de West;West|Encéphalopathie épileptique du nourrisson (< 1 an) : spasmes en flexion en salves, EEG d'hypsarythmie et régression du développement.|Syndrome de West
+hypsarythmie|Aspect EEG très désorganisé du syndrome de West : ondes lentes amples et pointes partout, sans rythme de fond normal.|
+spasmes en flexion|Brèves contractions qui fléchissent brusquement la tête, le tronc et les bras, en séries au réveil. Signe du syndrome de West.|
+Sclérose tubéreuse de Bourneville;sclérose tubéreuse|Maladie génétique (TSC1/TSC2) qui donne des tumeurs bénignes (hamartomes) dans le cerveau, la peau, les reins, le cœur. Cause classique de West.|Sclérose tubéreuse de Bourneville
+taches achromiques|Taches blanches de peau (sans pigment) en forme de feuille, présentes dès la naissance dans la sclérose tubéreuse. Mieux vues à la lampe de Wood.|
+hamartomes|Masses bénignes faites de tissus normaux mais mal organisés. Dans le cortex (« tubers »), ils sont très épileptogènes.|Hamartome
+angiofibromes|Petites papules rosées sur le nez et les joues, qui apparaissent dans l'enfance dans la sclérose tubéreuse.|Angiofibrome
+nodules sous-épendymaires|Petites lésions bordant les ventricules dans la sclérose tubéreuse. Ils se calcifient et sont donc visibles au scanner.|
+leucomalacie périventriculaire|Nécrose de la substance blanche autour des ventricules chez le grand prématuré, par manque de perfusion. Cause principale de diplégie spastique.|Leucomalacie périventriculaire
+chorioamniotite|Infection des membranes et du liquide amniotique pendant la grossesse. Elle favorise la prématurité et les lésions de la substance blanche.|Chorioamniotite
+diplégie spastique|Forme d'IMC où les 4 membres sont raides (spastiques), les jambes beaucoup plus que les bras. Typique de l'ancien grand prématuré.|Diplégie spastique
+spasticité|Raideur musculaire qui augmente avec la vitesse d'étirement, avec réflexes vifs. Signe d'atteinte de la voie pyramidale.|Spasticité
+signe des ciseaux|Jambes qui se croisent quand on soulève l'enfant, par spasticité des adducteurs de cuisse.|
+pied en équin|Pied bloqué en flexion plantaire (pointe en bas), par raideur du triceps sural : l'enfant marche sur la pointe.|Pied équin
+triple flexion|Marche avec hanches, genoux et chevilles fléchis (« crouch gait »), fréquente dans la diplégie spastique.|
+syndrome pyramidal|Ensemble des signes d'atteinte de la voie motrice : déficit, spasticité, réflexes vifs, signe de Babinski.|Syndrome pyramidal
+toxine botulique|Toxine qui bloque la libération d'acétylcholine. Injectée dans un muscle, elle diminue la spasticité pendant 3–6 mois.|Toxine botulique
+choréo-athétose|Mouvements involontaires : brusques et désordonnés (chorée) mêlés à des torsions lentes (athétose). Atteinte des noyaux gris centraux.|Athétose
+ictère nucléaire|Atteinte des noyaux gris du nouveau-né par la bilirubine en excès (ictère sévère). Peut laisser une IMC dyskinétique et une surdité.|Ictère nucléaire
+noyaux gris centraux|Amas de neurones profonds (striatum, pallidum…) qui règlent le mouvement. Leur atteinte donne des mouvements anormaux.|Noyaux gris centraux
+dyskinétique|Forme d'IMC dominée par des mouvements involontaires (chorée, athétose, dystonie) plutôt que par la raideur.|
+ataxique|Forme d'IMC dominée par l'ataxie : incoordination et troubles de l'équilibre par atteinte du cervelet.|Ataxie
+logopédie|Nom belge de l'orthophonie : rééducation du langage, de la parole et de la déglutition.|Orthophonie
+leucodystrophie métachromatique|Maladie lysosomale récessive (déficit en arylsulfatase A) : la myéline centrale et périphérique se détruit, avec perte des acquis.|Leucodystrophie métachromatique
+arylsulfatase A|Enzyme lysosomale qui dégrade les sulfatides (lipides de la myéline). Son déficit les accumule et détruit la myéline.|Arylsulfatase A
+sphingolipides|Famille de lipides des membranes, très abondants dans la myéline (dont les sulfatides).|Sphingolipide
+lysosomes|Organites de la cellule qui digèrent les grosses molécules grâce à des enzymes. Un déficit enzymatique cause une « maladie de surcharge ».|Lysosome
+démyélinisation|Perte de la gaine de myéline autour des axones, qui ralentit ou bloque la conduction nerveuse.|Démyélinisation
+cellules souches hématopoïétiques;CSH|Cellules de la moelle osseuse qui fabriquent toutes les cellules du sang. Greffées, elles apportent l'enzyme manquante.|Cellule souche hématopoïétique
+Duchenne|Myopathie liée à l'X (garçons) par absence de dystrophine : faiblesse proximale dès 3–6 ans, perte de la marche vers 10 ans.|Dystrophie musculaire de Duchenne
+Becker|Forme moins sévère que Duchenne : la dystrophine est présente mais anormale. La marche reste possible jusqu'à l'âge adulte.|Dystrophie musculaire de Becker
+dystrophine|Protéine qui relie le squelette interne de la fibre musculaire à sa membrane. Sans elle, la membrane se déchire à chaque contraction.|Dystrophine
+myopathie|Maladie du muscle lui-même (pas du nerf) : faiblesse surtout proximale, sans trouble sensitif.|Myopathie
+pseudo-hypertrophie|Mollets gros mais faibles : le muscle est remplacé par de la graisse et du tissu fibreux.|
+hyperlordose|Cambrure lombaire exagérée, qui compense la faiblesse des muscles du bassin.|Hyperlordose
+Gowers|Signe de Gowers : pour se relever du sol, l'enfant « grimpe » sur ses jambes avec les mains, à cause de la faiblesse des cuisses et du bassin.|Signe de Gowers
+immunohistochimie|Technique qui colore une protéine précise sur une biopsie grâce à des anticorps. Ici : montre si la dystrophine est absente ou anormale.|Immunohistochimie
+cardiomyopathie|Maladie du muscle cardiaque, qui peut mener à l'insuffisance cardiaque.|Cardiomyopathie
+scoliose|Déformation de la colonne dans les 3 plans, avec rotation des vertèbres.|Scoliose
+thérapie génique|Traitement qui apporte ou corrige un gène défectueux dans les cellules du patient.|Thérapie génique
+cataracte|Opacification du cristallin. Congénitale et non opérée tôt, elle empêche le cerveau visuel de se développer (malvoyance définitive).|Cataracte
+encéphalopathie|Atteinte diffuse du cerveau (toxique, métabolique, épileptique…), avec troubles de la conscience ou du développement.|Encéphalopathie

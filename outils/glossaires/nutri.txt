@@ -1,0 +1,63 @@
+AG|Acides gras : constituants des graisses (saturés, mono- et polyinsaturés).|Acide gras
+BMI;IMC|Indice de masse corporelle = poids / taille² ; normal 18,5–25.|Indice de masse corporelle
+B12|Vitamine B12 : globules rouges et myéline ; carence chez le végétalien ou après chirurgie gastrique.|Cobalamine
+B1;thiamine|Vitamine B1 : indispensable au métabolisme du glucose ; à donner avant de renourrir un dénutri ou un alcoolique.|Thiamine
+B6|Vitamine B6 (pyridoxine) ; toxique pour les nerfs à forte dose.|Vitamine B6
+B9;folates|Vitamine B9 (acide folique) : synthèse de l'ADN ; carence → anémie et malformations du tube neural.|Acide folique
+AET|Apport énergétique total.|
+QR|Quotient respiratoire = CO2 produit / O2 consommé : 1 pour les glucides, 0,7 pour les lipides.|Quotient respiratoire
+TG|Triglycérides.|Triglycéride
+IG;index glycémique|Index glycémique : vitesse à laquelle un aliment élève la glycémie par rapport au glucose.|Indice glycémique
+SNO;CNO|Suppléments (compléments) nutritionnels oraux : boissons ou crèmes enrichies en énergie et protéines.|
+NPY|Neuropeptide Y : signal de faim puissant dans l'hypothalamus.|Neuropeptide Y
+GLP-1|Hormone de l'intestin qui augmente l'insuline et la satiété.|Glucagon-like peptide-1
+CCK|Cholécystokinine : hormone intestinale libérée par les graisses, qui donne la satiété à court terme.|Cholécystokinine
+PYY|Peptide YY : hormone de l'intestin distal qui coupe l'appétit après le repas.|Peptide YY
+ghréline|Hormone de l'estomac qui donne faim ; elle monte avant les repas.|Ghréline
+leptine|Hormone de la graisse qui informe le cerveau des réserves (long terme).|Leptine
+ADEK|Les 4 vitamines liposolubles (A, D, E, K) : absorbées avec les graisses, stockées, toxiques en excès.|Vitamine liposoluble
+SGLT1;GLUT2|Transporteurs du glucose dans l'intestin : SGLT1 (actif, avec le sodium) et GLUT2 (passif).|
+EFSA|Autorité européenne de sécurité des aliments, qui fixe les apports recommandés.|Autorité européenne de sécurité des aliments
+NOAEL|Dose la plus élevée sans effet indésirable observé ; sert à fixer la limite supérieure de sécurité.|Dose sans effet nocif observé
+PAL|Niveau d'activité physique : multiplicateur du métabolisme de base (1,4 sédentaire → 2 très actif).|
+MUFA;PUFA|Acides gras mono-insaturés (huile d'olive) et polyinsaturés (oméga-3, oméga-6).|Acide gras insaturé
+PTH|Parathormone : hormone qui règle le calcium.|Parathormone
+RBP|Retinol-binding protein : transporte la vitamine A ; marqueur rapide de l'état nutritionnel.|Protéine de liaison au rétinol
+PIVKA|Protéines de coagulation inactives qui apparaissent en cas de manque de vitamine K.|
+DEXA|Absorptiométrie : mesure masse grasse, masse maigre et os.|Absorptiométrie biphotonique à rayons X
+GLIM|Critères internationaux de la dénutrition : 1 critère phénotypique (perte de poids, IMC bas, muscle) + 1 étiologique.|
+CRP|Protéine C réactive : marqueur d'inflammation.|Protéine C réactive
+PICC|Cathéter central inséré par une veine du bras, pour nutrition parentérale de moyenne durée.|Cathéter central inséré par voie périphérique
+MCT;LCT|Triglycérides à chaîne moyenne (absorbés sans bile, directement vers le foie) ou longue.|Triglycéride à chaîne moyenne
+BCAA|Acides aminés branchés (leucine, isoleucine, valine) ; la leucine stimule la synthèse musculaire.|Acide aminé ramifié
+AGCC|Acides gras à chaîne courte produits par les bactéries du côlon à partir des fibres ; nourrissent la muqueuse colique.|Acide gras à chaîne courte
+macronutriments|Nutriments qui apportent l'énergie : glucides, lipides, protéines (et alcool).|Macronutriment
+micronutriments|Vitamines et minéraux, nécessaires en petites quantités, sans apport d'énergie.|Micronutriment
+biodisponibilité|Part d'un nutriment avalé qui est réellement absorbée et utilisée par le corps.|Biodisponibilité
+fibres|Glucides non digérés par l'intestin grêle ; régulent le transit et la glycémie, nourrissent le microbiote.|Fibre alimentaire
+appétit|Envie de manger, influencée par le plaisir et l'environnement.|Appétit
+rassasiement|Signal qui fait arrêter de manger pendant le repas.|Rassasiement
+satiété|Absence de faim entre deux repas.|Satiété
+hypothalamus|Centre du cerveau qui règle faim et satiété (noyau arqué).|Hypothalamus
+malnutrition|Déséquilibre entre apports et besoins, par défaut (dénutrition) ou par excès.|Malnutrition
+dénutrition|Manque d'apports par rapport aux besoins, avec perte de poids et de muscle.|Dénutrition
+cachexie|Dénutrition liée à une maladie inflammatoire (cancer, insuffisance cardiaque) qui ne se corrige pas en mangeant plus.|Cachexie
+sarcopénie|Perte de masse et de force musculaires, surtout chez l'âgé.|Sarcopénie
+syndrome de renutrition;renutrition|Complication grave quand on renourrit trop vite un dénutri : le phosphore, le potassium et le magnésium chutent (troubles cardiaques).|Syndrome de renutrition inappropriée
+hypophosphatémie|Phosphore sanguin bas, signe principal du syndrome de renutrition.|Hypophosphatémie
+bilan azoté|Différence entre l'azote mangé (protéines) et l'azote perdu (urines) ; négatif = on perd du muscle.|Bilan azoté
+nutrition entérale|Alimentation liquide par une sonde dans l'estomac ou l'intestin (nasogastrique, gastrostomie).|Nutrition entérale
+nutrition parentérale|Alimentation par voie veineuse, quand l'intestin ne peut pas être utilisé.|Nutrition parentérale
+gastrostomie|Sonde posée à travers la paroi du ventre directement dans l'estomac.|Gastrostomie
+métabolisme de base|Énergie dépensée au repos pour les fonctions vitales (≈ 60–70 % de la dépense totale).|Métabolisme de base
+calorimétrie indirecte|Mesure de la dépense d'énergie à partir de l'O2 consommé et du CO2 produit.|Calorimétrie indirecte
+vitamine D|Vitamine (soleil UVB, poissons gras) qui fait absorber le calcium.|Vitamine D
+vitamine K|Vitamine des facteurs de coagulation (II, VII, IX, X).|Vitamine K
+vitamine A|Vitamine de la vision et de la peau ; carence = cécité nocturne.|Vitamine A
+scorbut|Carence en vitamine C : saignements des gencives, purpura, fatigue.|Scorbut
+béribéri|Carence en vitamine B1 : atteinte du cœur (humide) ou des nerfs (sec).|Béribéri
+pellagre|Carence en vitamine B3 : dermatite, diarrhée, démence.|Pellagre
+régime méditerranéen|Alimentation riche en légumes, fruits, huile d'olive, poisson, peu de viande rouge ; réduit les maladies cardiovasculaires.|Régime méditerranéen
+résistance anabolique|Le muscle du malade ou de l'âgé répond moins aux protéines : il en faut plus pour le maintenir.|
+overfeeding|Suralimentation en réanimation : trop de calories, ce qui aggrave hyperglycémie et complications.|
+sécrétion lactique;lactate|Lactate : produit du métabolisme anaérobie du glucose.|Acide lactique

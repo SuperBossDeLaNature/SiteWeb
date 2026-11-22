@@ -1,0 +1,87 @@
+CT|Tomodensitométrie (scanner) : des rayons X tournent autour du patient et un ordinateur reconstruit des coupes.|Tomodensitométrie
+IRM|Imagerie par résonance magnétique : utilise un aimant et des ondes radio, pas de rayons X. Excellente pour les tissus mous.|Imagerie par résonance magnétique
+RX|Rayons X : rayonnement ionisant utilisé en radiographie et au scanner.|Rayon X
+T1;T2|Séquences d'IRM : en T1 l'eau est noire et la graisse blanche (anatomie) ; en T2 l'eau est blanche (œdème, liquides).|Imagerie par résonance magnétique
+UH|Unités Hounsfield : échelle de densité au scanner (eau 0, air −1000, os +1000, graisse ≈ −100).|Échelle de Hounsfield
+CBCT;cone beam|Cone beam CT : scanner à faisceau conique, faible dose, pour dents, sinus, petites articulations.|Tomographie volumique à faisceau conique
+MIP|Maximum intensity projection : reconstruction qui garde les pixels les plus denses (vaisseaux, nodules).|
+TVP|Thrombose veineuse profonde : caillot dans une veine des jambes ; diagnostic par écho-Doppler.|Thrombose veineuse profonde
+DWI;diffusion|IRM de diffusion : mesure le mouvement de l'eau ; l'AVC ischémique y est blanc dès les premières minutes.|Imagerie de diffusion
+ADC|Coefficient de diffusion apparent : carte associée à la diffusion ; noir quand la diffusion est vraiment restreinte (AVC aigu).|
+FLAIR|Séquence T2 où le LCR est rendu noir, pour bien voir les lésions près des ventricules (SEP).|
+STIR|Séquence qui efface la graisse ; montre l'œdème osseux et musculaire.|
+OAP|Œdème aigu du poumon : liquide dans les alvéoles (insuffisance cardiaque).|Œdème aigu du poumon
+AAA|Anévrisme de l'aorte abdominale : dilatation ≥ 3 cm ; opérer à partir de 5,5 cm (homme).|Anévrisme de l'aorte abdominale
+ALARA|As Low As Reasonably Achievable : principe d'utiliser la dose de rayons la plus faible possible.|ALARA
+ASP|Abdomen sans préparation : radiographie simple du ventre (pneumopéritoine, occlusion).|
+CPRM|Cholangio-pancréatographie par IRM : image des voies biliaires sans injection.|
+AOMI|Artériopathie oblitérante des membres inférieurs : artères des jambes rétrécies par l'athérome.|Artériopathie oblitérante des membres inférieurs
+PET-FDG|Imagerie du métabolisme du glucose, très utile en cancérologie.|Tomographie par émission de positons
+MLO|Incidence médio-latérale oblique de la mammographie (avec l'incidence de face).|
+GEU|Grossesse extra-utérine : œuf implanté hors de l'utérus (trompe) ; urgence.|Grossesse extra-utérine
+PNA|Pyélonéphrite aiguë.|Pyélonéphrite
+DLP|Produit dose-longueur : indicateur de la dose délivrée lors d'un scanner.|
+SAR|Taux d'absorption spécifique : chaleur déposée dans les tissus par les ondes de l'IRM.|Débit d'absorption spécifique
+CI-AKI|Insuffisance rénale aiguë après produit de contraste iodé (rare, surtout si DFG bas).|Néphropathie induite par les produits de contraste
+CPPD;chondrocalcinose|Dépôts de pyrophosphate de calcium dans les cartilages (ménisques), visibles en radio.|Chondrocalcinose
+HLA-B27|Marqueur génétique associé aux spondylarthrites.|HLA-B27
+LI-RADS|Classification du risque de carcinome hépatocellulaire au scanner/IRM chez le cirrhotique.|
+BI-RADS|Classification des images du sein (0 à 6) qui fixe la conduite à tenir (surveillance, biopsie).|BI-RADS
+EU-TIRADS|Classification échographique des nodules thyroïdiens.|
+FAST|Échographie rapide au déchocage pour chercher du sang dans le ventre ou autour du cœur.|Focused assessment with sonography for trauma
+CHC|Carcinome hépatocellulaire : cancer primitif du foie, souvent sur cirrhose ; se rehausse au temps artériel et se lave au temps portal.|Carcinome hépatocellulaire
+MICI|Maladies inflammatoires chroniques de l'intestin (Crohn, rectocolite).|Maladie inflammatoire chronique de l'intestin
+SDRA|Syndrome de détresse respiratoire aiguë : poumons blancs bilatéraux, œdème non cardiaque.|Syndrome de détresse respiratoire aiguë
+HTAP|Hypertension artérielle pulmonaire.|Hypertension artérielle pulmonaire
+HSA|Hémorragie sous-arachnoïdienne : sang dans les citernes au scanner.|Hémorragie méningée
+MAV|Malformation artério-veineuse.|Malformation artério-veineuse
+TAVI|Remplacement de la valve aortique par cathéter.|TAVI
+radioprotection|Ensemble des règles pour limiter l'exposition aux rayons (justification, optimisation, limitation).|Radioprotection
+sievert;mSv|Unité de dose efficace de rayonnement ; on reçoit ≈ 2–3 mSv par an naturellement.|Sievert
+effets déterministes|Effets des rayons qui apparaissent au-dessus d'un seuil, avec gravité proportionnelle à la dose (brûlure, cataracte).|
+effets stochastiques|Effets des rayons sans seuil, dont seule la probabilité augmente avec la dose (cancer).|
+signe de la silhouette|Deux structures de même densité qui se touchent perdent leur contour commun : localise une opacité pulmonaire.|Signe de la silhouette
+opacité|Zone plus blanche à la radio (plus dense, moins de rayons passent).|
+clarté|Zone plus noire à la radio (air, graisse).|
+fenêtrage|Réglage du contraste au scanner (fenêtre os, poumon, parties molles…).|
+artefacts|Images fausses créées par la technique (mouvement, métal…).|Artéfact (imagerie)
+échographie|Imagerie par ultrasons : sans danger, en temps réel, mais dépend de l'opérateur et bloquée par l'air et l'os.|Échographie
+Doppler|Technique d'échographie qui mesure la vitesse et le sens du sang dans les vaisseaux.|Effet Doppler
+anéchogène|Noir à l'échographie : liquide (kyste, vessie).|
+hyperéchogène|Blanc à l'échographie (graisse, calcification, os).|
+cône d'ombre|Bande noire derrière un calcul ou un os à l'échographie, car les ultrasons ne passent pas.|
+hypersignal|Zone plus blanche que la normale en IRM.|
+gadolinium|Produit de contraste de l'IRM ; contre-indiqué si insuffisance rénale sévère (fibrose systémique néphrogénique).|Gadolinium
+produits de contraste iodés;iodés|Produits injectés au scanner pour rendre les vaisseaux et organes plus blancs ; risque allergique et rénal.|Produit de contraste iodé
+baryum|Produit de contraste digestif (bouillie) pour les examens opacifiés du tube digestif.|Sulfate de baryum
+microbulles|Produit de contraste de l'échographie (bulles de gaz).|
+fracture|Rupture de l'os ; lisérés clairs à la radio.|Fracture osseuse
+arthrose|Usure du cartilage : pincement localisé, ostéophytes, sclérose, géodes.|Arthrose
+arthrite|Inflammation de l'articulation : pincement global, déminéralisation, érosions.|Arthrite
+ostéophytes|Excroissances osseuses au bord des articulations arthrosiques (« becs de perroquet »).|Ostéophyte
+radiologie interventionnelle|Gestes thérapeutiques guidés par l'imagerie (embolisation, drainage, biopsie, radiofréquence).|Radiologie interventionnelle
+embolisation|Boucher un vaisseau par cathéter (coils, particules, colle) pour arrêter un saignement ou dévasculariser une tumeur.|Embolisation
+radiofréquence|Destruction d'une tumeur par la chaleur avec une aiguille placée sous imagerie.|Ablation par radiofréquence
+Seldinger|Technique d'accès aux vaisseaux : ponction, guide, puis introducteur.|Technique de Seldinger
+pneumopéritoine|Air libre dans le ventre : perforation d'un organe creux. Croissant clair sous les coupoles.|Pneumopéritoine
+occlusion|Arrêt du transit : anses dilatées avec niveaux hydro-aériques.|Occlusion intestinale
+appendicite|Inflammation de l'appendice ; écho chez l'enfant, scanner chez l'adulte.|Appendicite
+diverticulite|Inflammation d'un diverticule du côlon (souvent sigmoïde).|Diverticulite
+pénombre|Tissu cérébral en souffrance mais encore sauvable autour de l'infarctus.|
+dissection aortique;syndrome aortique aigu|Déchirure de la paroi de l'aorte avec faux chenal ; douleur thoracique brutale.|Dissection aortique
+embolie pulmonaire|Caillot dans une artère pulmonaire ; angio-scanner thoracique.|Embolie pulmonaire
+mammographie|Radiographie des seins à faible dose ; dépistage du cancer du sein de 50 à 69 ans.|Mammographie
+microcalcifications|Petits points blancs en mammographie ; groupés et irréguliers, ils peuvent révéler un cancer.|
+bronchogramme aérique|Bronches remplies d'air visibles dans une opacité alvéolaire (pneumonie).|Bronchogramme aérien
+atélectasie|Affaissement d'une partie du poumon (bronche bouchée), avec rétraction.|Atélectasie
+pneumothorax|Air entre poumon et paroi : liseré pleural visible, sans vaisseaux au-delà.|Pneumothorax
+épanchement pleural|Liquide dans la plèvre : opacité déclive avec ligne de Damoiseau.|Épanchement pleural
+nodule|Opacité arrondie < 3 cm dans le poumon ; au-delà on parle de masse.|Nodule pulmonaire
+syndrome interstitiel|Atteinte du tissu de soutien du poumon : opacités en lignes, réticulations, verre dépoli.|Pneumopathie interstitielle
+verre dépoli|Voile gris au scanner du poumon qui laisse voir les vaisseaux.|Opacité en verre dépoli
+hydronéphrose|Dilatation des cavités du rein en amont d'un obstacle.|Hydronéphrose
+Bosniak|Classification des kystes du rein selon le risque de cancer.|
+invagination|Télescopage d'un segment d'intestin dans le suivant, chez le nourrisson ; image en cocarde à l'écho.|Invagination intestinale aiguë
+sténose du pylore|Épaississement du muscle du pylore du nourrisson (vomissements en jet) ; diagnostic par écho.|Sténose du pylore
+maltraitance;enfant battu|Fractures d'âges différents, fractures métaphysaires en coin, fractures de côtes postérieures : évoquer la maltraitance.|Syndrome de Silverman
+Salter-Harris|Classification des fractures touchant le cartilage de croissance de l'enfant (I à V).|Classification de Salter-Harris

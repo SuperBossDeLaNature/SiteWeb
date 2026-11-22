@@ -1,0 +1,91 @@
+MCT|Mémoire à court terme : garde quelques éléments (7 ± 2) pendant quelques secondes, sans les transformer.|Mémoire à court terme
+MLT|Mémoire à long terme : stocke les informations durablement (épisodique, sémantique, procédurale).|Mémoire à long terme
+MdT;mémoire de travail|Mémoire de travail : système qui maintient ET manipule l'information pendant une tâche (calcul mental, compréhension). Modèle de Baddeley.|Mémoire de travail
+TR|Temps de réaction : délai entre l'apparition d'un stimulus et la réponse. Mesure de base de l'attention et de la vitesse de traitement.|Temps de réaction
+MCI|Mild Cognitive Impairment (trouble neurocognitif mineur) : déficit objectif mais vie quotidienne autonome. Peut évoluer vers une démence.|Trouble cognitif léger
+TC|Traumatisme crânien. Les troubles de l'attention, de la mémoire et des fonctions exécutives y sont très fréquents.|Traumatisme crânien
+TAP|Test of Attentional Performance (Zimmermann et Fimm) : batterie informatisée qui mesure alerte, vigilance, attention divisée…|
+PASAT|Paced Auditory Serial Addition Test : on additionne chaque chiffre entendu au précédent, à un rythme imposé. Teste l'attention soutenue.|
+BREF|Batterie rapide d'efficience frontale : dépistage en 10 min des troubles exécutifs (6 sous-tests). Peu sensible aux déficits légers.|
+RL/RI-16;RL;RI-16|Rappel libre / rappel indicé à 16 items (Grober et Buschke) : test de mémoire verbale qui sépare un trouble d'encodage d'un trouble de récupération.|
+IRM|Imagerie par résonance magnétique : images du cerveau sans rayons X, très précises pour l'anatomie.|Imagerie par résonance magnétique
+PET|Tomographie par émission de positons : imagerie du métabolisme (glucose) des régions cérébrales. Montre un hypométabolisme dans les démences.|Tomographie par émission de positons
+DAN|Réseau attentionnel dorsal : oriente volontairement l'attention (top-down). Sillon intrapariétal + champs oculomoteurs frontaux, bilatéral.|
+VAN|Réseau attentionnel ventral : détecte les stimuli inattendus et réoriente l'attention (« disjoncteur »). Latéralisé à droite.|
+TPJ;jonction temporo-pariétale|Jonction temporo-pariétale : carrefour entre lobes temporal et pariétal, nœud clé du réseau ventral (attention exogène).|Jonction temporo-pariétale
+LPS|Lobule pariétal supérieur : partie haute du lobe pariétal, impliquée dans l'attention volontaire et l'espace.|Lobule pariétal supérieur
+AVC|Accident vasculaire cérébral : obstruction ou rupture d'une artère du cerveau, avec déficit brutal.|Accident vasculaire cérébral
+SEP|Sclérose en plaques : maladie démyélinisante du système nerveux central, souvent avec ralentissement et fatigue cognitive.|Sclérose en plaques
+ISDC|Inventaire du syndrome dysexécutif comportemental : questionnaire rempli par un proche pour décrire les changements de comportement.|
+WAIS|Wechsler Adult Intelligence Scale : échelle d'intelligence de l'adulte (QI), avec des sous-tests verbaux et non verbaux.|Échelle d'intelligence de Wechsler pour adultes
+HM;H.M.|Henry Molaison, patient célèbre : ablation des 2 hippocampes contre l'épilepsie (1953) → amnésie antérograde massive, mémoire procédurale intacte.|
+B1|Vitamine B1 (thiamine). Sa carence, surtout chez l'alcoolique, donne l'encéphalopathie de Wernicke puis le syndrome de Korsakoff.|Thiamine
+DNF;dégénérescences neurofibrillaires|Dégénérescences neurofibrillaires : amas de protéine tau anormale dans les neurones, lésion typique de la maladie d'Alzheimer.|Dégénérescence neurofibrillaire
+ET|Écart-type : mesure de la dispersion des scores. Un score à −1,5 ET sous la moyenne est considéré comme déficitaire.|Écart type
+MMSE|Mini-Mental State Examination : test de dépistage cognitif sur 30 points. Spécifique mais peu sensible pour les troubles légers.|Mini-Mental State Examination
+MoCA|Montreal Cognitive Assessment : test de dépistage sur 30 points, plus sensible que le MMSE pour le MCI. Seuil standard < 26.|
+TMT;Trail Making Test|Trail Making Test : relier des cercles le plus vite possible (A : 1→25 ; B : alterner chiffres et lettres). Mesure la flexibilité.|Trail Making Test
+Stroop|Test de Stroop : nommer la couleur de l'encre d'un mot de couleur écrit dans une autre couleur. Mesure l'inhibition.|Effet Stroop
+Tour de Londres|Test de planification (Shallice) : déplacer des boules sur des tiges pour reproduire un modèle en un minimum de coups.|Tour de Londres
+fonctions exécutives;FE|Fonctions de contrôle qui permettent de s'adapter aux situations nouvelles : inhibition, flexibilité, mémoire de travail, planification.|Fonctions exécutives
+cortex préfrontal|Partie la plus antérieure du lobe frontal ; siège principal des fonctions exécutives et du contrôle du comportement.|Cortex préfrontal
+Phineas Gage|Ouvrier américain (1848) dont le lobe frontal a été traversé par une barre de fer. Il a survécu mais sa personnalité a changé.|
+syndrome dysexécutif|Ensemble des troubles des fonctions exécutives (cognitifs et/ou comportementaux), après une lésion frontale ou de ses connexions.|Syndrome dysexécutif
+persévération|Répétition inadaptée d'une même réponse ou d'une même action alors que la consigne a changé.|Persévération
+aspontanéité|Manque d'initiative : le patient ne commence rien de lui-même.|
+anosodiaphorie|Indifférence affective à ses propres troubles, que le patient connaît pourtant.|Anosodiaphorie
+anosognosie|Le patient n'a pas conscience de son propre trouble (déficit, négligence…).|Anosognosie
+confabulation|Production de faux souvenirs sans intention de mentir.|Confabulation
+apathique|Syndrome apathique (« pseudo-dépression ») : perte de motivation et d'initiative, par lésion frontale médiane.|Apathie
+désinhibition|Perte du contrôle des comportements sociaux (familiarité, impulsivité), par lésion orbito-frontale.|Désinhibition
+orbito-frontale|Partie du lobe frontal au-dessus des orbites ; contrôle les comportements sociaux et émotionnels.|Cortex orbitofrontal
+inhibition|Capacité à bloquer une réponse automatique ou une distraction pour faire ce qui est demandé.|Inhibition (psychologie)
+flexibilité|Capacité à passer d'une tâche, d'une règle ou d'un point de vue à un autre.|
+fluences;fluence|Test : citer en 1–2 min le plus de mots d'une catégorie (animaux = sémantique) ou commençant par une lettre (phonémique).|Fluence verbale
+évaluation écologique|Évaluation proche de la vie réelle (ex. : faire des courses selon des règles), plus parlante que les tests de bureau.|
+Baddeley|Psychologue britannique, auteur du modèle de la mémoire de travail (boucle phonologique, calepin visuospatial, administrateur central, buffer).|
+boucle phonologique|Composante de la mémoire de travail qui garde les informations verbales en les « répétant » mentalement.|Boucle phonologique
+calepin visuospatial|Composante de la mémoire de travail qui garde les images et positions dans l'espace.|
+administrateur central|Composante de la mémoire de travail qui contrôle et manipule l'information ; dépend du cortex préfrontal.|
+buffer épisodique|Composante ajoutée par Baddeley en 2000 : intègre les informations des autres systèmes et de la mémoire à long terme.|
+mémoire procédurale|Mémoire des savoir-faire (vélo, dactylographie), implicite. Dépend du cervelet et du striatum.|Mémoire procédurale
+mémoire épisodique|Mémoire des événements personnels situés dans l'espace et le temps. Dépend de l'hippocampe.|Mémoire épisodique
+mémoire sémantique|Mémoire des connaissances générales (sens des mots, faits), indépendante du contexte d'apprentissage.|Mémoire sémantique
+hippocampe|Structure du lobe temporal interne indispensable pour former de nouveaux souvenirs épisodiques.|Hippocampe (cerveau)
+striatum|Noyau caudé + putamen : noyaux gris impliqués dans les habitudes et la mémoire procédurale.|Striatum
+cervelet|Structure à l'arrière du tronc cérébral qui coordonne les mouvements et participe aux apprentissages moteurs.|Cervelet
+antérograde|Amnésie antérograde : impossibilité de retenir les informations nouvelles après la lésion.|Amnésie antérograde
+rétrograde|Amnésie rétrograde : perte des souvenirs antérieurs à la lésion.|Amnésie rétrograde
+Korsakoff|Syndrome amnésique par carence en vitamine B1 (alcoolisme) : amnésie antérograde, fausses reconnaissances, confabulations.|Syndrome de Korsakoff
+corps mamillaires|Petits noyaux sous l'hypothalamus, relais du circuit de la mémoire ; lésés dans le syndrome de Korsakoff.|Corps mamillaire
+Alzheimer|Maladie neurodégénérative la plus fréquente (60–70 % des démences) : plaques amyloïdes + dégénérescences tau, débute par l'hippocampe.|Maladie d'Alzheimer
+plaques amyloïdes;plaques séniles|Dépôts de peptide bêta-amyloïde entre les neurones, typiques de la maladie d'Alzheimer.|Plaque amyloïde
+encodage|Étape d'enregistrement de l'information en mémoire. Atteinte dans Alzheimer : l'indiçage n'aide pas.|
+récupération|Étape où l'on retrouve un souvenir stocké. Atteinte dans le vieillissement normal : l'indiçage aide.|
+intrusions|Erreurs où le patient cite un mot qui n'était pas dans la liste à apprendre.|
+apraxie|Incapacité à réaliser des gestes volontaires alors que la force et la coordination sont normales.|Apraxie
+double dissociation|Méthode : un patient A rate la tâche X mais réussit Y, un patient B fait l'inverse → X et Y reposent sur des systèmes distincts.|Double dissociation
+modularité|Postulat selon lequel la cognition est faite de modules spécialisés et indépendants.|Modularité de l'esprit
+soustractivité|Hypothèse : un patient cérébrolésé = système normal auquel on a retiré certains composants.|
+phrénologie|Théorie de Gall (XIXe s.) qui reliait les bosses du crâne aux facultés mentales. Fausse, mais a lancé l'idée de spécialisation cérébrale.|Phrénologie
+Broca|Aire de Broca (gyrus frontal inférieur gauche) : production du langage. Sa lésion donne une aphasie non fluente.|Aire de Broca
+Wernicke|Aire de Wernicke (gyrus temporal supérieur gauche) : compréhension du langage. Sa lésion donne une aphasie fluente.|Aire de Wernicke
+test de Wada|Injection d'un anesthésique dans une carotide pour « endormir » un hémisphère et savoir où est le langage avant une chirurgie.|Test de Wada
+notes z;note z|Score standardisé : (score − moyenne) / écart-type. 0 = moyenne ; −1,5 = déficitaire.|Cote Z
+percentiles|Rang du score sur 100 : au 5e percentile, 95 % des gens font mieux.|Centile
+notes T|Score standardisé de moyenne 50 et d'écart-type 10.|
+impureté des tâches|Toute épreuve sollicite plusieurs fonctions ; il faut plusieurs tests différents pour isoler un déficit.|
+Token test|Test de compréhension orale avec des jetons de formes et couleurs (« touchez le carré rouge »).|
+héminégligence;négligence spatiale unilatérale|Le patient ignore la moitié de l'espace opposée à sa lésion (souvent la gauche après lésion pariétale droite).|Héminégligence
+bissection de ligne|Marquer le milieu d'une ligne. Le négligent gauche place le milieu trop à droite.|
+test des cloches|Barrer toutes les cloches parmi des dessins distracteurs ; recherche une négligence ou un trouble de l'exploration.|
+cécité attentionnelle|Ne pas voir un objet pourtant bien visible parce que l'attention est ailleurs (ex. : le gorille en comptant les passes).|Cécité d'inattention
+paradigme de Posner;paradigme d'indiçage|Tâche où un indice annonce (ou non) le côté de la cible : la réponse est plus rapide quand l'indice est valide.|
+endogène|Attention endogène : orientée volontairement, selon nos buts (top-down).|
+exogène|Attention exogène : captée automatiquement par un stimulus saillant (bottom-up).|
+alerte|Niveau d'éveil général (tonique) ou augmenté brièvement par un signal d'avertissement (phasique).|Vigilance (psychologie)
+vigilance|Capacité à rester prêt à détecter des événements rares dans un environnement monotone.|Vigilance (psychologie)
+attention soutenue|Capacité à traiter un flux rapide et continu d'informations pendant longtemps.|
+attention divisée|Capacité à répartir son attention sur plusieurs tâches à la fois.|Attention divisée
+attention sélective|Capacité à se concentrer sur une information en ignorant les distracteurs.|Attention sélective
+FDG|Fluorodésoxyglucose marqué au fluor 18 : glucose radioactif utilisé en PET pour voir l'activité des régions du cerveau.|Fludésoxyglucose (18F)

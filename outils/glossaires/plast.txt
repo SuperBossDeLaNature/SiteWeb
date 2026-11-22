@@ -1,0 +1,69 @@
+SCB|Surface corporelle brûlée, en pourcentage du corps (règle des 9, tables de Lund et Browder).|
+DIEP;TRAM|Lambeaux du ventre pour reconstruire un sein : DIEP (peau + graisse sur des vaisseaux perforants, sans muscle) ou TRAM (avec le muscle grand droit).|Lambeau DIEP
+VRAM|Lambeau de muscle grand droit de l'abdomen à pédicule vertical, pour combler le périnée ou le bassin.|
+TIME|Méthode de soin des plaies chroniques : Tissu (débrider), Infection, Moisture (humidité), Edge (bords).|
+VAC|Thérapie par pression négative (Vacuum Assisted Closure) : une mousse sous vide aspire les sécrétions et stimule le bourgeon.|Traitement des plaies par pression négative
+ABCDE|Critères d'un grain de beauté suspect : Asymétrie, Bords irréguliers, Couleur hétérogène, Diamètre > 6 mm, Évolution.|Mélanome
+WALANT|Chirurgie de la main sous anesthésie locale avec adrénaline, sans garrot, patient éveillé.|
+EPL;EPB|Tendons long (EPL) et court (EPB) extenseurs du pouce.|
+STT|Articulation scapho-trapézo-trapézoïdienne du poignet (arthrose).|
+peau|Organe le plus grand (1,5–2 m², ≈ 3,5 kg) : épiderme, derme, hypoderme.|Peau
+épiderme|Couche superficielle de la peau, sans vaisseaux, qui se renouvelle.|Épiderme
+derme|Couche profonde de la peau avec vaisseaux, nerfs, follicules ; sa profondeur atteinte détermine la cicatrisation.|Derme
+plaie chronique|Plaie qui ne cicatrise pas en 6 semaines (ulcère, escarre, pied diabétique).|Plaie chronique
+parage|Nettoyage chirurgical d'une plaie : on enlève tissus morts et corps étrangers.|
+détersion;débridement|Retrait des tissus morts (nécrose, fibrine) d'une plaie pour qu'elle puisse cicatriser.|Débridement
+cicatrisation|Réparation en 4 étapes : hémostase, inflammation, prolifération, remodelage (12–18 mois).|Cicatrisation
+hémostase|Arrêt du saignement : plaquettes et caillot de fibrine, première étape de la cicatrisation.|Hémostase
+macrophage|Globule blanc qui nettoie la plaie et pilote la cicatrisation par ses signaux.|Macrophage
+granulation;bourgeon charnu|Tissu rouge et granuleux (vaisseaux + fibroblastes) qui comble la plaie.|Tissu de granulation
+épidermisation|Recouvrement de la plaie par l'épiderme qui avance depuis les bords.|
+myofibroblastes|Fibroblastes contractiles qui rapprochent les bords de la plaie (contraction).|Myofibroblaste
+remodelage|Phase longue où le collagène se réorganise ; la cicatrice ne retrouve que 80 % de la résistance.|
+cicatrice hypertrophique;hypertrophique|Cicatrice épaisse qui reste dans les limites de la plaie et s'améliore avec le temps.|Cicatrice hypertrophique
+chéloïde|Cicatrice qui déborde de la plaie et récidive après exérèse simple ; plus fréquente sur peau noire.|Chéloïde
+lignes de Langer;plis naturels|Lignes de tension de la peau ; une incision dans leur sens cicatrise mieux.|Lignes de Langer
+silicone|Plaques ou gels de silicone qui aplatissent les cicatrices hypertrophiques.|
+escarre|Plaie par compression prolongée de la peau contre un os (sacrum, talons) chez le patient immobile.|Escarre
+greffe de peau;greffe|Lambeau de peau détaché et reposé sur une plaie ; il survit grâce aux vaisseaux du lit receveur.|Greffe de peau
+lambeau|Tissu déplacé avec ses propres vaisseaux pour couvrir une perte de substance.|Lambeau (chirurgie)
+expanseur|Ballon sous la peau gonflé progressivement pour fabriquer de la peau en plus.|
+brûlure|Destruction de la peau par chaleur, produit chimique ou électricité ; gravité selon surface, profondeur, localisation.|Brûlure
+règle des 9;Wallace|Règle de Wallace : chaque zone du corps vaut 9 % (ou un multiple) de la surface, pour estimer la surface brûlée.|Règle des neuf
+Lund et Browder|Table de surface corporelle adaptée à l'âge (la tête compte plus chez l'enfant).|
+phlyctène|Cloque remplie de liquide : brûlure du 2e degré.|Phlyctène
+degrés|1er degré : rougeur ; 2e superficiel : cloques, rose, douloureux ; 2e profond : blanc, moins sensible ; 3e : cartonné, indolore.|Brûlure
+dermotomie;escarrotomie|Incision des brûlures circulaires profondes qui serrent comme un garrot (membre, thorax).|Escarrotomie
+choc hypovolémique|Chute de tension par perte de liquide (fuite plasmatique massive après brûlure étendue).|Choc hypovolémique
+Parkland;remplissage|Formule de remplissage du brûlé : 4 ml × poids × % SCB sur 24 h, moitié dans les 8 premières heures.|Formule de Parkland
+sulfadiazine d'argent|Crème antiseptique pour les brûlures.|Sulfadiazine d'argent
+Diphotérine|Solution de lavage des brûlures chimiques (œil, peau).|
+mélanome|Cancer des mélanocytes, le plus grave des cancers de peau ; pronostic selon l'épaisseur de Breslow.|Mélanome
+Breslow|Épaisseur du mélanome mesurée au microscope ; elle fixe les marges d'exérèse et le pronostic.|Indice de Breslow
+biopsie excisionnelle|Ablation complète d'une lésion suspecte avec une petite marge, pour l'analyser.|
+carcinome basocellulaire;basocellulaire|Cancer de peau le plus fréquent, perle translucide sur le visage, ne métastase presque jamais.|Carcinome basocellulaire
+carcinome épidermoïde;spinocellulaire|Cancer de peau ulcéré et croûteux des zones exposées, qui peut métastaser aux ganglions.|Carcinome épidermoïde cutané
+ulcère de Marjolin;Marjolin|Carcinome épidermoïde qui se développe sur une vieille cicatrice ou une brûlure.|Ulcère de Marjolin
+lymphoscintigraphie;ganglion sentinelle|Repérage du premier ganglion qui draine une tumeur grâce à un traceur, pour le prélever.|Ganglion sentinelle
+Darier-Ferrand;dermatofibrosarcome|Dermatofibrosarcome de Darier-Ferrand : tumeur de la peau à croissance lente, qui récidive localement ; exérèse large.|Dermatofibrosarcome protubérant
+reconstruction mammaire|Recréation d'un sein après mastectomie (prothèse, lambeau).|Reconstruction mammaire
+fente labiale;fente labio-palatine|Malformation où la lèvre et/ou le palais ne se sont pas fermés pendant la grossesse.|Fente labio-palatine
+fléchisseurs|Tendons qui plient les doigts ; leurs plaies (zone 2) sont graves et doivent être réparées en urgence.|Muscle fléchisseur profond des doigts
+Mallet finger|Doigt en maillet : rupture du tendon extenseur au bout du doigt ; attelle en extension 6–8 semaines.|Doigt en maillet
+nerf digital|Nerf sensitif de chaque côté du doigt ; à suturer au microscope s'il est coupé.|
+microchirurgie|Chirurgie sous microscope des nerfs et petits vaisseaux (fils 9-0/10-0) ; replantation de doigts.|Microchirurgie
+replantation|Remise en place d'un doigt ou d'une main amputés en suturant os, tendons, vaisseaux et nerfs.|Réimplantation
+kyste synovial|Tumeur bénigne la plus fréquente du poignet, remplie de liquide articulaire.|Kyste synovial
+tumeur à cellules géantes|Tumeur bénigne de la gaine des tendons de la main, 2e en fréquence.|
+canal carpien|Compression du nerf médian au poignet : fourmillements nocturnes des 3 premiers doigts.|Syndrome du canal carpien
+Phalen|Test de Phalen : poignets fléchis 1 min reproduisent les fourmillements du canal carpien.|Test de Phalen
+Tinel|Signe de Tinel : tapoter sur le nerf déclenche des fourmillements.|Signe de Tinel
+Dupuytren|Maladie de Dupuytren : épaississement de l'aponévrose de la paume qui recroqueville les doigts (annulaire, auriculaire).|Maladie de Dupuytren
+collagénase|Enzyme injectée qui coupe la corde de Dupuytren.|
+doigt à ressaut|Doigt qui se bloque puis saute en se dépliant, par nodule du tendon fléchisseur (poulie A1).|Doigt à ressaut
+De Quervain|Ténosynovite de De Quervain : inflammation des tendons du pouce au bord du poignet (test de Finkelstein).|Ténosynovite de De Quervain
+rhizarthrose|Arthrose de la base du pouce (trapézo-métacarpienne).|Rhizarthrose
+syndactylie|Doigts soudés (malformation congénitale).|Syndactylie
+polydactylie|Doigt surnuméraire.|Polydactylie
+camptodactylie|Flexion permanente congénitale de l'articulation du milieu du petit doigt.|Camptodactylie
+morsure|Plaie très infectante (surtout humaine et chat) : lavage, pas de suture serrée, antibiotiques.|

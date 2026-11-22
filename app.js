@@ -24,7 +24,7 @@ let pending = 'online'; // après les réglages : online | solo | rematch
 let setup = null;       // réglages en cours de saisie
 
 const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt !== undefined) e.textContent = txt; return e; };
-function show(id){ $$('.screen').forEach(s => s.classList.toggle('active', s.id === id)); window.scrollTo(0,0); }
+function show(id){ $$('.screen').forEach(s => s.classList.toggle('active', s.id === id)); if (id !== 's-rev-read') document.body.classList.remove('reading'); window.scrollTo(0,0); }
 function toast(msg){
   const t = $('#toast'); t.textContent = msg; t.classList.add('on');
   clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove('on'), 2600);
@@ -404,8 +404,8 @@ $('#lb-start').onclick = () => hostStart(room.cfg);
 $('#lb-leave').onclick = () => { leaveRoom(); show('s-home'); };
 $('#btn-share').onclick = async () => {
   const url = location.href.split('?')[0].split('#')[0] + '?room=' + room.code;
-  const text = `Je te défie sur MédiDuel ! Code : ${room.code}`;
-  if (navigator.share){ try { await navigator.share({ title: 'MédiDuel', text, url }); return; } catch(e){} }
+  const text = `Je te défie sur Supa BossuDeLaNaturu ! Code : ${room.code}`;
+  if (navigator.share){ try { await navigator.share({ title: 'Supa BossuDeLaNaturu', text, url }); return; } catch(e){} }
   try { await navigator.clipboard.writeText(url); toast('Lien copié'); } catch(e){ toast(url); }
 };
 
@@ -881,5 +881,232 @@ $('#btn-other').onclick = () => {
 function goHome(){ clearTimers(); Sfx.stopTicking(); G = null; leaveRoom(); document.documentElement.style.removeProperty('--accent'); show('s-home'); }
 $('#btn-home').onclick = goHome;
 $('#btn-quit').onclick = () => { if (confirm('Quitter le duel ?')) goHome(); };
+
+
+/* ---------- Tableau des scores (victoires / défaites par joueur) ---------- */
+const Board = { rows: null, theme: 'all', err: null };
+const normName = n => String(n || '').trim().toLowerCase();
+
+async function boardLoad(){
+  Board.rows = null; Board.err = null; boardRender();
+  if (!sb){ Board.err = "Mode en ligne non configuré (voir config.js)."; boardRender(); return; }
+  try {
+    const all = [];
+    for (let from = 0; from < 20000; from += 1000){
+      const { data, error } = await sb.from('matches')
+        .select('theme,host_name,guest_name,host_score,guest_score')
+        .order('created_at', { ascending: false }).range(from, from + 999);
+      if (error) throw error;
+      all.push(...data);
+      if (data.length < 1000) break;
+    }
+    Board.rows = all;
+  } catch(e){
+    Board.err = /matches|relation|schema/i.test((e && e.message) || '')
+      ? "La table des duels n'existe pas encore : colle supabase-setup.sql dans Supabase > SQL Editor."
+      : "Impossible de charger les scores pour l'instant.";
+  }
+  boardRender();
+}
+
+function boardStats(rows){
+  const P = new Map();
+  const get = n => {
+    const k = normName(n);
+    if (!P.has(k)) P.set(k, { name: String(n).trim(), w: 0, l: 0, d: 0, pts: 0 });
+    return P.get(k);
+  };
+  rows.forEach(r => {
+    if (normName(r.host_name) === normName(r.guest_name)) return;
+    const h = get(r.host_name), g = get(r.guest_name);
+    h.pts += r.host_score; g.pts += r.guest_score;
+    if (r.host_score > r.guest_score){ h.w++; g.l++; }
+    else if (r.host_score < r.guest_score){ g.w++; h.l++; }
+    else { h.d++; g.d++; }
+  });
+  return [...P.values()].map(p => ({ ...p, n: p.w + p.l + p.d, pct: (p.w + p.l + p.d) ? p.w / (p.w + p.l + p.d) : 0 }))
+    .sort((a, b) => b.w - a.w || b.pct - a.pct || a.l - b.l || b.pts - a.pts);
+}
+
+function boardRender(){
+  const f = $('#board-filter'); f.innerHTML = '';
+  const used = new Set((Board.rows || []).map(r => r.theme));
+  const opts = [{ key: 'all', name: 'Toutes les matières' }, ...THEMES.filter(t => used.has(t.key)).map(t => ({ key: t.key, name: t.icon + ' ' + t.name }))];
+  if (!opts.some(o => o.key === Board.theme)) Board.theme = 'all';
+  opts.forEach(o => {
+    const b = el('button', 'pill' + (o.key === Board.theme ? ' on' : ''), o.name);
+    b.onclick = () => { Board.theme = o.key; boardRender(); };
+    f.appendChild(b);
+  });
+  const box = $('#board'); box.innerHTML = '';
+  if (Board.err){ box.appendChild(el('p', 'hint center', Board.err)); return; }
+  if (!Board.rows){ box.appendChild(el('p', 'hint center', 'Chargement…')); return; }
+  const rows = Board.theme === 'all' ? Board.rows : Board.rows.filter(r => r.theme === Board.theme);
+  const st = boardStats(rows);
+  if (!st.length){ box.appendChild(el('p', 'hint center', 'Aucun duel joué pour l\'instant. Le premier à gagner prend la tête !')); return; }
+  const head = el('div', 'bd-row bd-head');
+  ['#', 'Joueur', 'V', 'D', 'N', '%'].forEach(t => head.appendChild(el('span', '', t)));
+  box.appendChild(head);
+  st.forEach((p, i) => {
+    const r = el('div', 'bd-row' + (normName(p.name) === normName(me.name) ? ' me' : ''));
+    const medal = ['🥇', '🥈', '🥉'][i] || String(i + 1);
+    const who = el('span', 'bd-who'); const av = el('div', 'av sm'); setAv(av, p.name);
+    who.append(av, el('span', 'bd-nm', p.name));
+    r.append(el('span', 'bd-rk', medal), who, el('span', 'bd-w', p.w), el('span', 'bd-l', p.l),
+             el('span', 'bd-d', p.d), el('span', 'bd-p', Math.round(p.pct * 100) + '%'));
+    box.appendChild(r);
+  });
+}
+$('#btn-board').onclick = () => { show('s-board'); boardLoad(); };
+$('#board-back').onclick = () => show('s-home');
+
+
+/* ---------- Révision : résumés de cours avec bulles de définitions ---------- */
+const REV = { cur: null, loading: {} };
+const revIndex = window.REVISION_INDEX || [];
+
+function revRenderList(){
+  const box = $('#rev-list'); box.innerHTML = '';
+  const ues = [...new Set(revIndex.map(r => r.ue))];
+  ues.forEach(ue => {
+    box.appendChild(el('h3', 'rev-ue', ue));
+    const g = el('div', 'theme-grid');
+    revIndex.filter(r => r.ue === ue).forEach(r => {
+      const b = document.createElement('button');
+      b.className = 'tcard'; b.style.setProperty('--c', r.color);
+      b.innerHTML = `<span class="ti">${r.icon}</span><span class="tn">${esc(r.title)}</span><span class="tc">${r.nsec} parties · ${r.nterms} mots expliqués</span>`;
+      b.onclick = () => revOpen(r.key);
+      g.appendChild(b);
+    });
+    box.appendChild(g);
+  });
+}
+
+function revLoad(key){
+  if (window.REVISION && window.REVISION[key]) return Promise.resolve(window.REVISION[key]);
+  if (REV.loading[key]) return REV.loading[key];
+  return REV.loading[key] = new Promise((ok, ko) => {
+    const sc = document.createElement('script');
+    sc.src = 'revision/' + key + '.js';
+    sc.onload = () => (window.REVISION && window.REVISION[key]) ? ok(window.REVISION[key]) : ko();
+    sc.onerror = () => { delete REV.loading[key]; ko(); };
+    document.head.appendChild(sc);
+  });
+}
+
+async function revOpen(key){
+  let d;
+  try { d = await revLoad(key); } catch(e){ toast('Impossible de charger ce cours'); return; }
+  REV.cur = d;
+  document.documentElement.style.setProperty('--accent', d.color);
+  $('#revr-title').textContent = d.icon + ' ' + d.title;
+  const toc = $('#revr-toc'); toc.innerHTML = ''; toc.hidden = true;
+  d.toc.forEach((t, i) => {
+    const a = el('button', 'rv-toc-i', t);
+    a.onclick = () => { toc.hidden = true; const h = document.getElementById('s' + i); if (h) h.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+    toc.appendChild(a);
+  });
+  $('#revr-doc').innerHTML = d.html;
+  document.body.classList.add('reading');
+  show('s-rev-read');
+  glHide();
+}
+$('#btn-rev').onclick = () => { revRenderList(); show('s-rev'); };
+$('#rev-back').onclick = () => show('s-home');
+$('#revr-back').onclick = () => { glHide(); document.body.classList.remove('reading'); document.documentElement.style.removeProperty('--accent'); show('s-rev'); };
+$('#revr-toc-btn').onclick = () => { const t = $('#revr-toc'); t.hidden = !t.hidden; };
+$('#revr-up').onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' });
+
+/* Bulle : définition + images d'exemple (Wikipédia, chargées à la demande) */
+const GL = { el: null, t: null, hideT: null, cache: {} };
+const canHover = window.matchMedia && matchMedia('(hover: hover) and (pointer: fine)').matches;
+const BAD_IMG = /(icon|logo|flag|drapeau|symbol|disambig|question_book|nuvola|crystal|commons-|wikiquote|wiktionary|wikibooks|wikiversity|edit-clear|padlock|ambox|portal|star_of_life|stub|loudspeaker|speaker|increase|decrease|steady|red_pog|blue_pog|searchtool|info_simple|emblem|oojs|gnome|p_medicine|caduceus|rod_of_asclepius)/i;
+
+function wikiImages(title){
+  if (!title) return Promise.resolve(null);
+  if (GL.cache[title]) return GL.cache[title];
+  const api = 'https://fr.wikipedia.org/w/api.php?format=json&formatversion=2&origin=*&redirects=1&titles=' + encodeURIComponent(title);
+  const page = 'https://fr.wikipedia.org/wiki/' + encodeURIComponent(title.replace(/ /g, '_'));
+  const get = async u => { try { const r = await fetch(u); return r.ok ? await r.json() : null; } catch(e){ return null; } };
+  return GL.cache[title] = (async () => {
+    const [lead, all] = await Promise.all([
+      get(api + '&action=query&prop=pageimages&piprop=thumbnail&pithumbsize=400'),
+      get(api + '&action=query&generator=images&gimlimit=25&prop=imageinfo&iiprop=url|mime&iiurlwidth=360')
+    ]);
+    const imgs = [];
+    const p0 = lead && lead.query && lead.query.pages && lead.query.pages[0];
+    if (p0 && p0.missing) return { imgs, page: null };
+    if (p0 && p0.thumbnail) imgs.push(p0.thumbnail.source);
+    const files = (all && all.query && all.query.pages) || [];
+    files.forEach(f => {
+      const ii = (f.imageinfo || [])[0]; if (!ii || imgs.length >= 3) return;
+      if (BAD_IMG.test(f.title || '') || !/image\/(jpeg|png|svg|gif|webp)/.test(ii.mime || '')) return;
+      const u = ii.thumburl || ii.url;
+      const key = s => decodeURIComponent((s || '').split('/').pop()).replace(/^\d+px-/, '').replace(/\.png$/, '');
+      if (u && !imgs.some(x => key(x) === key(u))) imgs.push(u);
+    });
+    return { imgs, page };
+  })();
+}
+
+function glShow(span){
+  if (!REV.cur) return;
+  const t = REV.cur.gl[span.dataset.t]; if (!t) return;
+  clearTimeout(GL.hideT);
+  if (GL.t === span && !$('#gl-pop').hidden) return;
+  $$('.gl.on').forEach(x => x.classList.remove('on'));
+  span.classList.add('on');
+  GL.t = span;
+  const pop = $('#gl-pop');
+  $('#gl-n').textContent = t.n.charAt(0).toUpperCase() + t.n.slice(1);
+  $('#gl-d').textContent = t.d;
+  const box = $('#gl-img'); box.innerHTML = ''; const src = $('#gl-src'); src.hidden = true;
+  if (t.w){
+    box.appendChild(el('div', 'gl-load', 'Chargement des images…'));
+    wikiImages(t.w).then(res => {
+      if (GL.t !== span) return;
+      box.innerHTML = '';
+      if (!res || !res.imgs.length){ if (res && res.page){ src.href = res.page; src.textContent = 'En savoir plus : Wikipédia ↗'; src.hidden = false; } return; }
+      src.textContent = 'Images : Wikipédia ↗';
+      res.imgs.forEach(u => {
+        const im = document.createElement('img'); im.loading = 'lazy'; im.alt = t.n; im.src = u;
+        im.onerror = () => im.remove();
+        im.onclick = () => window.open(u, '_blank', 'noopener');
+        box.appendChild(im);
+      });
+      src.href = res.page; src.hidden = false;
+      glPlace();
+    });
+  }
+  pop.hidden = false;
+  glPlace();
+}
+function glPlace(){
+  const pop = $('#gl-pop'), span = GL.t; if (!span || pop.hidden) return;
+  const sheet = !canHover || window.innerWidth < 640;
+  pop.classList.toggle('sheet', sheet);
+  if (sheet){ pop.style.left = pop.style.top = ''; return; }
+  const r = span.getBoundingClientRect(), w = pop.offsetWidth, h = pop.offsetHeight;
+  let x = Math.min(Math.max(8, r.left + r.width / 2 - w / 2), window.innerWidth - w - 8);
+  let y = r.bottom + 8;
+  if (y + h > window.innerHeight - 8 && r.top - h - 8 > 8) y = r.top - h - 8;
+  pop.style.left = (x + window.scrollX) + 'px'; pop.style.top = (y + window.scrollY) + 'px';
+}
+function glHide(){ clearTimeout(GL.hideT); $('#gl-pop').hidden = true; $$('.gl.on').forEach(x => x.classList.remove('on')); GL.t = null; }
+function glHideSoon(){ clearTimeout(GL.hideT); GL.hideT = setTimeout(glHide, 280); }
+
+const doc = $('#revr-doc');
+doc.addEventListener('click', e => { const s = e.target.closest('.gl'); if (s){ e.stopPropagation(); glShow(s); } });
+doc.addEventListener('keydown', e => { const s = e.target.closest('.gl'); if (s && (e.key === 'Enter' || e.key === ' ')){ e.preventDefault(); glShow(s); } });
+if (canHover){
+  doc.addEventListener('mouseover', e => { const s = e.target.closest('.gl'); if (s) glShow(s); });
+  doc.addEventListener('mouseout', e => { const s = e.target.closest('.gl'); if (s && !s.contains(e.relatedTarget)) glHideSoon(); });
+  $('#gl-pop').addEventListener('mouseenter', () => clearTimeout(GL.hideT));
+  $('#gl-pop').addEventListener('mouseleave', glHideSoon);
+}
+$('#gl-x').onclick = glHide;
+document.addEventListener('click', e => { if (!$('#gl-pop').hidden && !e.target.closest('#gl-pop') && !e.target.closest('.gl')) glHide(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') glHide(); });
+window.addEventListener('resize', glPlace);
 
 })();

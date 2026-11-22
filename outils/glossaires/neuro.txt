@@ -1,0 +1,153 @@
+IRM|Imagerie par résonance magnétique : examen de référence pour le cerveau et la moelle, sans rayons X.|Imagerie par résonance magnétique
+CT|Scanner (tomodensitométrie) : rapide, idéal en urgence pour voir un saignement.|Tomodensitométrie
+SEP|Sclérose en plaques : maladie auto-immune qui détruit la myéline du SNC, par poussées chez l'adulte jeune.|Sclérose en plaques
+AVC|Accident vasculaire cérébral : ischémique (artère bouchée) ou hémorragique (artère rompue).|Accident vasculaire cérébral
+AIT|Accident ischémique transitoire : déficit bref, entièrement réversible, sans lésion à l'IRM. Haut risque d'AVC dans les jours suivants.|Accident ischémique transitoire
+EEG|Électroencéphalogramme : enregistrement de l'activité électrique du cortex.|Électroencéphalographie
+LCR|Liquide céphalo-rachidien, prélevé par ponction lombaire.|Liquide cérébrospinal
+HSA|Hémorragie sous-arachnoïdienne : céphalée brutale « en coup de tonnerre », souvent par rupture d'anévrisme.|Hémorragie méningée
+PL|Ponction lombaire : prélèvement de LCR dans le bas du dos.|Ponction lombaire
+LR|Likelihood ratio (rapport de vraisemblance) : combien un signe augmente (LR+) ou diminue la probabilité d'un diagnostic.|Rapport de vraisemblance
+BZD|Benzodiazépines : sédatifs anticonvulsivants (diazépam, midazolam, lorazépam), 1re ligne de l'état de mal.|Benzodiazépine
+EME;état de mal épileptique|État de mal épileptique : crise convulsive > 5 min (ou > 10 min si non convulsive), ou crises sans retour à la normale. Urgence.|État de mal épileptique
+AAS|Acide acétylsalicylique (aspirine) : antiagrégant plaquettaire.|Acide acétylsalicylique
+DIS;DIT|Dissémination dans l'espace (lésions à plusieurs endroits) et dans le temps (lésions d'âges différents) : les 2 critères du diagnostic de SEP.|
+AINS|Anti-inflammatoires non stéroïdiens (ibuprofène, naproxène).|Anti-inflammatoire non stéroïdien
+ACM;ACA;ACP|Artères cérébrales moyenne (sylvienne), antérieure et postérieure : les 3 grandes artères du cerveau.|Artère cérébrale moyenne
+NMO|Neuromyélite optique : maladie auto-immune (anti-AQP4) avec névrites optiques sévères et myélites étendues.|Neuromyélite optique
+B12|Vitamine B12 : sa carence donne anémie, atteinte des cordons postérieurs et troubles cognitifs.|Cobalamine
+TNC|Trouble neurocognitif : mineur (autonomie préservée) ou majeur (= démence).|Trouble neurocognitif
+SVCR|Syndrome de vasoconstriction cérébrale réversible : céphalées en coup de tonnerre répétées, artères en « chapelet » qui se normalisent.|Syndrome de vasoconstriction cérébrale réversible
+HTIC|Hypertension intracrânienne : céphalées matinales, vomissements, œdème papillaire.|Hypertension intracrânienne
+SAOS|Syndrome d'apnées obstructives du sommeil : la gorge se ferme pendant le sommeil. Céphalées matinales, somnolence.|Syndrome d'apnées du sommeil
+CTA|Céphalées trigémino-autonomes : douleur unilatérale autour de l'œil avec larmoiement, nez qui coule (algie vasculaire, hémicrânies, SUNCT).|
+CTCG|Crise tonico-clonique généralisée : perte de connaissance, raideur puis secousses des 4 membres, 1–2 min.|Crise tonico-clonique
+TDAH|Trouble du déficit de l'attention avec ou sans hyperactivité.|Trouble du déficit de l'attention avec ou sans hyperactivité
+FRCV|Facteurs de risque cardiovasculaire : HTA, diabète, tabac, cholestérol, âge…|Facteur de risque cardiovasculaire
+HLH|Hémianopsie latérale homonyme : perte de la même moitié du champ visuel aux deux yeux, par lésion derrière le chiasma.|Hémianopsie latérale homonyme
+FLM|Faisceau longitudinal médian : relie les noyaux du VI et du III pour que les deux yeux bougent ensemble. Lésé dans l'ophtalmoplégie internucléaire.|Faisceau longitudinal médian
+HINTS|Examen au lit en 3 temps (head impulse, nystagmus, skew) pour distinguer un vertige central (AVC) d'une névrite vestibulaire.|
+FA|Fibrillation auriculaire : arythmie qui forme des caillots dans l'oreillette ; 1re cause d'AVC cardio-embolique.|Fibrillation atriale
+MOG|Myelin oligodendrocyte glycoprotein : cible d'anticorps dans une maladie démyélinisante distincte de la SEP (MOGAD).|
+JC|Virus JC : virus banal qui, chez l'immunodéprimé (natalizumab), cause la LEMP.|Virus JC
+LEMP|Leucoencéphalopathie multifocale progressive : infection cérébrale grave par le virus JC chez l'immunodéprimé.|Leucoencéphalopathie multifocale progressive
+IMAO-B|Inhibiteurs de la MAO-B (rasagiline, safinamide) : freinent la dégradation de la dopamine dans le cerveau (Parkinson).|Inhibiteur de la monoamine oxydase
+ICOMT|Inhibiteurs de la COMT (entacapone) : prolongent l'effet de la lévodopa.|
+MMSE|Mini-Mental State : test de dépistage cognitif sur 30 points.|Mini-Mental State Examination
+MoCA|Montreal Cognitive Assessment : test cognitif sur 30, plus sensible que le MMSE. Normal ≥ 26.|
+NMDAR;anti-NMDA|Récepteur NMDA du glutamate : cible des anticorps de l'encéphalite auto-immune la plus fréquente (jeune femme, tératome ovarien).|Encéphalite à anticorps anti-récepteurs NMDA
+CGRP|Calcitonin gene-related peptide : neuropeptide clé de la crise migraineuse ; cible des anticorps et gépants de la migraine.|Peptide relié au gène calcitonine
+SUNCT;SUNA|Céphalées trigémino-autonomes à crises très brèves (secondes), très nombreuses par jour, avec larmoiement.|
+QT|Intervalle QT de l'ECG : temps de repolarisation des ventricules. Allongé, il expose aux arythmies graves.|Intervalle QT
+BAV|Bloc auriculo-ventriculaire : retard ou blocage de la conduction des oreillettes aux ventricules.|Bloc atrio-ventriculaire
+ECG|Électrocardiogramme.|Électrocardiographie
+BBD|Bloc de branche droit à l'ECG.|Bloc de branche
+DVDA|Dysplasie ventriculaire droite arythmogène : maladie génétique du ventricule droit, risque de mort subite.|Dysplasie ventriculaire droite arythmogène
+SIADH|Sécrétion inappropriée d'hormone antidiurétique : rétention d'eau et hyponatrémie.|Syndrome de sécrétion inappropriée d'hormone antidiurétique
+VNS|Stimulation du nerf vague : boîtier sous la clavicule qui réduit les crises d'épilepsie pharmacorésistante.|Stimulation du nerf vague
+RNS|Responsive neurostimulation : stimulateur intracrânien qui détecte la crise et envoie une décharge pour la stopper.|
+AGT;amnésie globale transitoire|Amnésie globale transitoire : épisode de quelques heures où le patient ne retient rien et répète les mêmes questions, puis récupère.|Ictus amnésique
+GHB|Gamma-hydroxybutyrate : drogue sédative (« drogue du violeur ») qui peut donner une amnésie.|Acide gamma-hydroxybutyrique
+VPPB|Vertige positionnel paroxystique bénin : vertiges de quelques secondes aux changements de position, par otolithes détachés.|Vertige paroxystique positionnel bénin
+N2;N3|Stades du sommeil lent : N2 (fuseaux, complexes K) et N3 (sommeil profond à ondes lentes).|Sommeil
+MRC|Échelle MRC : cote la force musculaire de 0 à 5.|
+CBH|Claude Bernard-Horner : ptôsis + myosis + énophtalmie du même côté, par atteinte de la voie sympathique.|Syndrome de Claude Bernard-Horner
+AOD|Anticoagulants oraux directs (apixaban, rivaroxaban, dabigatran).|Anticoagulant oral direct
+AVK|Antivitamines K (warfarine) : anticoagulants surveillés par l'INR.|Antivitamine K
+NNT|Number needed to treat : nombre de patients à traiter pour éviter un événement.|Nombre de sujets à traiter
+ETT|Échographie cardiaque transthoracique.|Échocardiographie
+IEC|Inhibiteurs de l'enzyme de conversion (antihypertenseurs).|Inhibiteur de l'enzyme de conversion
+PRES|Posterior reversible encephalopathy syndrome : œdème cérébral postérieur réversible (HTA, éclampsie, immunosuppresseurs).|Syndrome d'encéphalopathie postérieure réversible
+ISRS|Inhibiteurs sélectifs de la recapture de la sérotonine (antidépresseurs).|Inhibiteur sélectif de la recapture de la sérotonine
+BOC;bandes oligoclonales|Bandes oligoclonales : anticorps produits dans le LCR (pas dans le sang). Présentes dans > 90 % des SEP.|Bandes oligoclonales
+CIS|Clinically isolated syndrome : première poussée évocatrice de SEP, sans critères complets.|Syndrome cliniquement isolé
+ADEM|Encéphalomyélite aiguë disséminée : inflammation démyélinisante en une seule fois, souvent après une infection ou un vaccin, surtout chez l'enfant.|Encéphalomyélite aiguë disséminée
+S1P|Sphingosine-1-phosphate : son récepteur retient les lymphocytes dans les ganglions ; cible du fingolimod.|
+VLA4|Intégrine qui permet aux lymphocytes de franchir la barrière hémato-encéphalique ; bloquée par le natalizumab.|
+CSH|Cellules souches hématopoïétiques : l'autogreffe « remet à zéro » l'immunité dans les SEP très agressives.|Cellule souche hématopoïétique
+RAW;PIRA|Deux modes d'aggravation de la SEP : séquelles de poussées (RAW) ou progression indépendante des poussées (PIRA).|
+PEV|Potentiels évoqués visuels : onde P100 retardée après névrite optique.|
+AQP4|Aquaporine 4 : canal à eau des astrocytes, cible des anticorps de la NMO.|Aquaporine 4
+PSP|Paralysie supranucléaire progressive : syndrome parkinsonien axial, chutes en arrière, paralysie du regard vers le bas.|Paralysie supranucléaire progressive
+AMS|Atrophie multisystématisée : parkinsonisme + dysautonomie sévère ± syndrome cérébelleux.|Atrophie multisystématisée
+TOC|Troubles obsessionnels compulsifs.|Trouble obsessionnel compulsif
+SAPL|Syndrome des antiphospholipides : auto-anticorps qui favorisent les thromboses.|Syndrome des antiphospholipides
+ATP7B|Gène du transporteur du cuivre muté dans la maladie de Wilson.|Maladie de Wilson
+SCA|Ataxies spinocérébelleuses : ataxies héréditaires dominantes (souvent expansions CAG).|Ataxie spinocérébelleuse
+FXTAS|Syndrome tremblement-ataxie lié à l'X fragile, chez l'homme de plus de 50 ans porteur d'une prémutation.|
+CNEP|Crises non épileptiques psychogènes : crises qui ressemblent à de l'épilepsie mais sans décharge à l'EEG.|Crise non épileptique psychogène
+CADASIL|Maladie génétique (NOTCH3) des petites artères : migraines avec aura, AVC lacunaires, démence chez l'adulte jeune.|CADASIL
+ARIA-E;ARIA-H;ARIA|Effets indésirables des anticorps anti-amyloïdes vus à l'IRM : œdème (ARIA-E) ou microsaignements (ARIA-H).|
+TDP-43|Protéine anormale dans la SLA et beaucoup de démences fronto-temporales.|TDP-43
+CPPC|Cancer pulmonaire à petites cellules : souvent à l'origine de syndromes paranéoplasiques (Lambert-Eaton, anti-Hu).|Cancer du poumon à petites cellules
+FOUR|Score de coma (0–16) qui ajoute au Glasgow les réflexes du tronc et la respiration.|
+VNI|Ventilation non invasive (par masque).|Ventilation non invasive
+red flags|« Drapeaux rouges » : signes d'alarme qui imposent une imagerie (céphalée brutale, fièvre, déficit, > 50 ans, cancer…).|
+blood patch|Injection du propre sang du patient dans l'espace péridural pour boucher une brèche de la dure-mère (céphalées après ponction).|Blood patch
+HTIC idiopathique|Hypertension intracrânienne sans cause (pseudotumor cerebri), chez la jeune femme obèse ; risque pour la vision.|Hypertension intracrânienne idiopathique
+dépolarisation corticale propagée|Vague d'activation puis d'inhibition des neurones qui avance lentement sur le cortex ; cause de l'aura migraineuse.|Dépression corticale envahissante
+migraine|Céphalée par crises de 4–72 h, pulsatile, souvent unilatérale, avec nausées et gêne à la lumière ; parfois précédée d'une aura.|Migraine
+aura|Symptômes neurologiques transitoires (visuels surtout) qui précèdent la céphalée migraineuse et se propagent en 5–60 min.|Aura (neurologie)
+triptan|Agonistes sérotoninergiques 5-HT1B/1D qui traitent la crise de migraine ; contre-indiqués si maladie coronaire.|Triptan
+algie vasculaire de la face|Céphalée trigémino-autonome : douleur atroce autour d'un œil, 15 min à 3 h, avec larmoiement, souvent la nuit, par périodes.|Algie vasculaire de la face
+indométhacine|AINS qui fait disparaître complètement les hémicrânies (test diagnostique).|Indométacine
+névralgie du trijumeau|Décharges électriques brèves dans le visage déclenchées par le toucher, la mastication.|Névralgie du trijumeau
+syncope|Perte de connaissance brève par baisse du débit sanguin cérébral, avec récupération rapide et complète.|Syncope (médecine)
+vasovagale|Syncope réflexe la plus fréquente : debout, chaleur, émotion, avec prodromes (sueurs, nausées).|Malaise vagal
+hypotension orthostatique|Baisse de pression artérielle en position debout (≥ 20/10 mmHg dans les 3 min).|Hypotension orthostatique
+Brugada|Syndrome génétique (canal sodique) avec aspect ECG en V1–V3 et risque de mort subite.|Syndrome de Brugada
+épilepsie|Tendance durable à faire des crises épileptiques non provoquées (≥ 2 crises, ou 1 avec risque de récidive élevé).|Épilepsie
+absences|Crises généralisées très brèves (secondes) avec arrêt de l'activité, chez l'enfant ; pointes-ondes à 3 Hz à l'EEG.|Absence (épilepsie)
+myoclonies|Secousses musculaires brèves et involontaires.|Myoclonie
+lamotrigine|Antiépileptique à large spectre, bien toléré, compatible avec la grossesse ; à monter lentement (risque d'allergie cutanée).|Lamotrigine
+lévétiracétam|Antiépileptique à large spectre, peu d'interactions ; peut rendre irritable.|Lévétiracétam
+valproate|Antiépileptique très efficace mais tératogène : interdit chez la femme en âge de procréer sauf exception.|Acide valproïque
+carbamazépine|Antiépileptique pour crises focales, inducteur enzymatique ; aggrave les absences.|Carbamazépine
+inducteur|Médicament qui accélère le métabolisme hépatique d'autres médicaments (carbamazépine, phénytoïne) et baisse leurs taux.|Induction enzymatique
+phénomène de Todd;Todd|Déficit moteur transitoire après une crise focale (fatigue du cortex), qui peut faire croire à un AVC.|Paralysie de Todd
+vertige|Illusion de mouvement (tout tourne).|Vertige
+nystagmus|Mouvements involontaires et rythmiques des yeux.|Nystagmus
+névrite vestibulaire|Inflammation du nerf vestibulaire : grand vertige de plusieurs jours, sans surdité ni signe neurologique.|Névrite vestibulaire
+Ménière|Maladie de Ménière : crises de vertige de quelques heures avec surdité fluctuante, acouphènes et oreille pleine.|Maladie de Ménière
+Dix-Hallpike|Manœuvre qui reproduit le vertige et le nystagmus du VPPB du canal postérieur.|Manœuvre de Dix-Hallpike
+Broca|Aphasie de Broca : parole non fluente, laborieuse, compréhension préservée (lésion frontale inférieure gauche).|Aphasie de Broca
+Wernicke|Aphasie de Wernicke : parole fluente mais vide de sens, compréhension altérée (lésion temporale gauche).|Aphasie de Wernicke
+héminégligence|Le patient ignore la moitié gauche de l'espace et de son corps (lésion pariétale droite).|Héminégligence
+Wallenberg|Syndrome de Wallenberg : infarctus du bulbe latéral (vertige, Horner, troubles de déglutition, anesthésie croisée).|Syndrome de Wallenberg
+pénombre|Zone ischémique encore sauvable autour du cœur de l'infarctus.|
+thrombolyse|Médicament IV qui dissout le caillot de l'AVC ischémique, jusqu'à 4,5 h.|Thrombolyse
+thrombectomie|Retrait mécanique du caillot par cathéter, pour une grosse artère bouchée.|Thrombectomie mécanique
+angiopathie amyloïde|Dépôts amyloïdes dans les petites artères corticales du sujet âgé : hématomes lobaires et microsaignements.|Angiopathie amyloïde cérébrale
+thrombose veineuse cérébrale|Caillot dans un sinus veineux du cerveau : céphalées, crises, déficits ; femme jeune sous pilule, grossesse.|Thrombose veineuse cérébrale
+névrite optique|Inflammation du nerf optique : baisse de vision et douleur aux mouvements de l'œil. Fréquente dans la SEP.|Névrite optique
+ophtalmoplégie internucléaire|L'œil ne va pas vers le nez dans le regard latéral alors que l'autre fait un nystagmus : lésion du FLM (SEP).|Ophtalmoplégie internucléaire
+natalizumab|Anticorps anti-VLA4 très efficace dans la SEP, mais risque de LEMP si sérologie JC positive.|Natalizumab
+ocrélizumab|Anticorps anti-CD20 qui élimine les lymphocytes B ; traitement de la SEP.|Ocrélizumab
+substance noire|Noyau du mésencéphale dont les neurones à dopamine dégénèrent dans la maladie de Parkinson.|Substance noire
+Parkinson|Maladie de Parkinson : perte des neurones dopaminergiques, avec tremblement de repos, lenteur (akinésie) et rigidité.|Maladie de Parkinson
+corps de Lewy;Lewy|Inclusions d'alpha-synucléine dans les neurones, typiques du Parkinson et de la démence à corps de Lewy.|Corps de Lewy
+lévodopa|Précurseur de la dopamine, traitement le plus efficace du Parkinson.|Lévodopa
+dyskinésies|Mouvements involontaires (choréiques) liés aux pics de lévodopa après plusieurs années de traitement.|Dyskinésie
+tremblement essentiel|Tremblement postural et d'action des mains (et de la tête, de la voix), souvent familial, amélioré par l'alcool.|Tremblement essentiel
+DaTSCAN|Scintigraphie des transporteurs de la dopamine : diminuée dans les parkinsonismes dégénératifs.|
+tics|Mouvements ou sons brefs, répétés, que l'on peut retenir un moment au prix d'une tension.|Tic
+Gilles de la Tourette|Tics moteurs et vocaux multiples depuis l'enfance, souvent avec TDAH ou TOC.|Syndrome de Gilles de la Tourette
+Huntington|Maladie de Huntington : expansion CAG dominante, chorée, troubles psychiatriques et démence vers 40 ans.|Maladie de Huntington
+chorée|Mouvements involontaires brusques, irréguliers et imprévisibles, comme une danse.|Chorée
+dystonie|Contractions prolongées qui tordent une partie du corps en postures anormales.|Dystonie
+toxine botulique|Toxine injectée dans les muscles pour traiter dystonies, spasticité et migraine chronique.|Toxine botulique
+Wilson|Maladie de Wilson : accumulation de cuivre (foie, cerveau), anneau de Kayser-Fleischer ; à chercher devant tout mouvement anormal avant 30 ans.|Maladie de Wilson
+Friedreich|Ataxie de Friedreich : ataxie récessive (GAA) de l'adolescent, aréflexie, cardiomyopathie, diabète.|Ataxie de Friedreich
+Alzheimer|Maladie d'Alzheimer : démence la plus fréquente, troubles de la mémoire épisodique d'abord.|Maladie d'Alzheimer
+démence fronto-temporale|Démence du sujet plus jeune avec changement de comportement (désinhibition, apathie) ou troubles du langage.|Démence frontotemporale
+Creutzfeldt-Jakob|Maladie à prions : démence très rapide (mois), myoclonies, signal anormal du cortex à l'IRM.|Maladie de Creutzfeldt-Jakob
+encéphalite limbique|Inflammation auto-immune des structures de la mémoire (hippocampes) : troubles mnésiques et crises temporales.|Encéphalite limbique
+Glasgow|Échelle de coma de Glasgow : de 3 à 15 (yeux, verbal, moteur).|Échelle de Glasgow
+formation réticulée|Réseau de neurones du tronc cérébral qui maintient l'éveil.|Formation réticulée
+Korsakoff|Amnésie par carence en vitamine B1 chez l'alcoolique, avec fabulations.|Syndrome de Korsakoff
+Gayet-Wernicke|Encéphalopathie aiguë par carence en B1 : confusion, ataxie, ophtalmoplégie. Urgence : thiamine IV.|Encéphalopathie de Gayet-Wernicke
+astérixis|« Flapping tremor » : brèves chutes du tonus des mains tendues, dans les encéphalopathies métaboliques (foie, rein).|Astérixis
+Babinski|Signe de Babinski : le gros orteil se relève quand on gratte la plante du pied. Signe d'atteinte pyramidale.|Signe de Babinski
+Brown-Séquard|Hémisection de la moelle : paralysie et perte du toucher fin du même côté, perte douleur/température de l'autre côté.|Syndrome de Brown-Séquard
+cordons postérieurs|Partie arrière de la moelle qui transmet toucher fin, vibration et position des membres.|Colonne dorsale
+Romberg|Signe de Romberg : le patient tombe quand il ferme les yeux pieds joints (atteinte proprioceptive ou vestibulaire).|Signe de Romberg

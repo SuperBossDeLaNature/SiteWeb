@@ -1,0 +1,82 @@
+TG;triglycérides|Triglycérides : graisses de réserve du sang. Très élevés (> 1000 mg/dl), ils peuvent donner une pancréatite.|Triglycéride
+LDL|Lipoprotéines de basse densité (« mauvais cholestérol ») : déposent le cholestérol dans les artères. Cible principale de traitement.|Lipoprotéine de basse densité
+HDL|Lipoprotéines de haute densité (« bon cholestérol ») : ramènent le cholestérol vers le foie.|Lipoprotéine de haute densité
+VLDL|Lipoprotéines de très basse densité, fabriquées par le foie, riches en triglycérides ; deviennent des LDL.|Lipoprotéine de très basse densité
+DT1|Diabète de type 1 : destruction auto-immune des cellules β du pancréas → plus d'insuline, traitement par insuline à vie.|Diabète de type 1
+DT2|Diabète de type 2 : insulinorésistance + sécrétion d'insuline insuffisante, lié au surpoids ; 90 % des diabètes.|Diabète de type 2
+BMI;IMC|Indice de masse corporelle = poids / taille² (kg/m²). Obésité ≥ 30.|Indice de masse corporelle
+GLP-1;agonistes GLP-1|Hormone intestinale (incrétine) qui stimule l'insuline et la satiété ; ses agonistes (sémaglutide) font maigrir et protègent le cœur.|Glucagon-like peptide-1
+SU;sulfonylurées|Sulfonylurées (gliclazide) : forcent le pancréas à sécréter de l'insuline ; risque d'hypoglycémie.|Sulfamide hypoglycémiant
+OHB;β-OHB|Bêta-hydroxybutyrate : principal corps cétonique, mesuré dans le sang dans l'acidocétose.|Acide β-hydroxybutyrique
+IDM|Infarctus du myocarde.|Infarctus du myocarde
+HC|Hydrates de carbone : autre nom des glucides (sucres simples et amidon).|Glucide
+AGL|Acides gras libres : libérés par le tissu adipeux ; en excès, ils aggravent l'insulinorésistance.|Acide gras
+HGPO|Hyperglycémie provoquée orale : glycémie 2 h après 75 g de glucose ; ≥ 200 mg/dl = diabète.|Hyperglycémie provoquée par voie orale
+SCORE2|Score qui estime le risque cardiovasculaire à 10 ans selon âge, sexe, tabac, tension et cholestérol.|
+ADO|Antidiabétiques oraux.|Antidiabétique
+FRCV|Facteurs de risque cardiovasculaire.|Facteur de risque cardiovasculaire
+GIP|Autre incrétine intestinale ; le tirzépatide agit sur GIP et GLP-1.|Polypeptide insulinotrope dépendant du glucose
+NPH|Insuline intermédiaire (« lente » ancienne) qui dure ≈ 12 h.|Insuline NPH
+PCSK9;iPCSK9|Protéine qui détruit les récepteurs du LDL ; ses inhibiteurs (anticorps) font chuter le LDL de 60 %.|PCSK9
+LPL|Lipoprotéine lipase : enzyme des vaisseaux qui découpe les triglycérides des lipoprotéines.|Lipoprotéine lipase
+CETP|Protéine qui transfère le cholestérol des HDL vers les autres lipoprotéines.|
+DEXA|Absorptiométrie biphotonique : mesure la masse grasse, la masse maigre et la densité osseuse.|Absorptiométrie biphotonique à rayons X
+GADA;anti-GAD|Anticorps anti-GAD : marqueurs du diabète de type 1 (et du LADA de l'adulte).|
+MODY;GCK;HNF1A|Diabètes monogéniques du sujet jeune (MODY). GCK : hyperglycémie légère stable sans traitement ; HNF1A : très sensible aux sulfonylurées.|Maturity onset diabetes of the young
+KCNJ11;ABCC8|Gènes du canal potassique de la cellule β ; mutés, ils donnent un diabète néonatal traitable par sulfonylurées.|
+DPP-4|Enzyme qui dégrade le GLP-1 ; ses inhibiteurs (gliptines) prolongent l'effet des incrétines.|Dipeptidyl peptidase-4
+SGLT2;iSGLT2|Transporteur du rein qui réabsorbe le glucose ; ses inhibiteurs (gliflozines) font uriner le sucre et protègent cœur et reins.|Inhibiteur du SGLT2
+CGM|Capteur de glucose en continu sous la peau.|Mesure continue du glucose
+HbA1c|Hémoglobine glyquée : reflète la glycémie moyenne des 2–3 derniers mois. Diabète si ≥ 6,5 %.|Hémoglobine glyquée
+peptide C|Fragment libéré avec l'insuline en quantité égale : mesure ce que le pancréas produit encore (même sous insuline).|Peptide C
+MEOS|Système microsomal d'oxydation de l'éthanol (CYP2E1) : voie inductible chez le buveur chronique.|
+ADH;alcool déshydrogénase|Alcool déshydrogénase : enzyme principale de dégradation de l'alcool dans le foie.|Alcool déshydrogénase
+NAFLD;stéatose|Accumulation de graisse dans le foie liée au syndrome métabolique ; peut évoluer vers la cirrhose.|Stéatose hépatique non alcoolique
+SAOS|Syndrome d'apnées obstructives du sommeil, très lié à l'obésité.|Syndrome d'apnées du sommeil
+SOPK|Syndrome des ovaires polykystiques, associé à l'insulinorésistance.|Syndrome des ovaires polykystiques
+Lp(a)|Lipoprotéine(a) : particule génétiquement déterminée, facteur de risque cardiovasculaire indépendant ; à doser une fois dans la vie.|Lipoprotéine (a)
+statines|Médicaments qui bloquent la HMG-CoA réductase (fabrication du cholestérol) ; baissent le LDL et les infarctus.|Statine
+ézétimibe|Bloque l'absorption intestinale du cholestérol (NPC1L1) ; s'ajoute aux statines.|Ézétimibe
+hypercholestérolémie familiale|Maladie génétique (récepteur du LDL) : LDL très élevé depuis la naissance, xanthomes tendineux, infarctus précoces.|Hypercholestérolémie familiale
+xanthomes|Dépôts de cholestérol sous la peau ou dans les tendons (Achille, mains).|Xanthome
+Friedewald|Formule qui calcule le LDL : cholestérol total − HDL − TG/5 (en mg/dl), valable si TG < 400.|
+obésité|Excès de masse grasse nuisible à la santé ; IMC ≥ 30 (ou tour de taille élevé).|Obésité
+graisse viscérale;viscérale|Graisse autour des organes du ventre : la plus dangereuse pour le métabolisme et le cœur.|Graisse viscérale
+tour de taille|Mesure de la graisse abdominale ; élevé si > 94 cm (homme) ou > 80 cm (femme) en Europe.|Tour de taille
+leptine|Hormone du tissu adipeux qui signale les réserves au cerveau ; élevée dans l'obésité (résistance à la leptine).|Leptine
+graisse brune|Tissu adipeux qui brûle des calories pour produire de la chaleur (UCP1).|Tissu adipeux brun
+insulinorésistance|L'insuline agit moins bien sur ses cibles (muscle, foie, graisse) ; le pancréas doit en sécréter plus.|Résistance à l'insuline
+adiponectine|Hormone protectrice du tissu adipeux, qui améliore la sensibilité à l'insuline ; basse dans l'obésité.|Adiponectine
+syndrome métabolique|Association obésité abdominale + au moins 2 facteurs (TG ↑, HDL ↓, tension ↑, glycémie ↑).|Syndrome métabolique
+sleeve|Gastrectomie longitudinale : on enlève une grande partie de l'estomac pour en faire un tube.|Gastrectomie longitudinale
+bypass|Court-circuit gastrique : petite poche d'estomac reliée directement à l'intestin grêle (Roux-en-Y).|Bypass gastrique
+insulite|Infiltration des îlots du pancréas par des lymphocytes dans le diabète de type 1.|
+cellules β|Cellules des îlots de Langerhans qui fabriquent l'insuline.|Cellule bêta
+teplizumab|Anticorps anti-CD3 qui retarde l'apparition du diabète de type 1 chez les personnes à risque.|Teplizumab
+glucotoxicité|Un sucre élevé abîme lui-même les cellules β et aggrave l'insulinorésistance (cercle vicieux).|
+index glycémique|Vitesse à laquelle un aliment fait monter la glycémie, par rapport au glucose (100).|Indice glycémique
+effet incrétine|L'insuline sécrétée est plus forte quand le glucose est pris par la bouche que par IV, grâce aux hormones intestinales.|Incrétine
+metformine|Antidiabétique de 1re ligne : diminue la production de glucose par le foie ; pas d'hypoglycémie.|Metformine
+hypoglycémie|Glycémie trop basse (< 70 mg/dl) : sueurs, tremblements, faim, puis confusion, coma.|Hypoglycémie
+basal-prandial|Schéma d'insuline imitant la normale : insuline lente pour la journée + rapide à chaque repas.|
+lune de miel|Période après le début du DT1 où le pancréas récupère partiellement et les besoins en insuline baissent.|
+acidocétose|Urgence du DT1 : manque d'insuline → cétones, acidose, déshydratation. Traitement : sérum, insuline, potassium.|Acidocétose diabétique
+hyperosmolaire|État hyperglycémique hyperosmolaire : glycémie très haute et déshydratation majeure chez le DT2 âgé, sans acidose.|Syndrome d'hyperglycémie hyperosmolaire
+œdème cérébral|Complication redoutée de la correction trop rapide de l'acidocétose chez l'enfant.|Œdème cérébral
+AGEs|Produits de glycation avancée : protéines « sucrées » qui abîment les tissus dans le diabète.|Produit de glycation avancée
+rétinopathie|Atteinte des petits vaisseaux de la rétine par le diabète (microanévrismes, hémorragies, néovaisseaux).|Rétinopathie diabétique
+péricytes|Cellules qui entourent les capillaires ; leur perte est la 1re lésion de la rétinopathie diabétique.|Péricyte
+VEGF|Facteur de croissance des vaisseaux ; fait pousser les néovaisseaux de la rétine. Ses inhibiteurs sont injectés dans l'œil.|Facteur de croissance de l'endothélium vasculaire
+néphropathie|Atteinte du rein par le diabète (albuminurie, puis insuffisance rénale).|Néphropathie diabétique
+polyneuropathie|Atteinte des nerfs « en chaussettes » par le diabète ; risque de plaie du pied.|Neuropathie diabétique
+triade de Whipple|Symptômes d'hypoglycémie + glycémie basse mesurée + disparition après sucre : prouve une vraie hypoglycémie.|Triade de Whipple
+insulinome|Tumeur du pancréas qui sécrète de l'insuline : hypoglycémies à jeun avec insuline et peptide C hauts.|Insulinome
+jeûne de 72 h|Test hospitalier pour prouver un insulinome : on attend l'hypoglycémie en dosant insuline et peptide C.|
+contre-régulation|Hormones qui font remonter la glycémie : glucagon et adrénaline (rapides), cortisol et GH (lentes).|
+glucagon|Hormone du pancréas qui fait libérer du glucose par le foie ; injectable en cas d'hypoglycémie sévère.|Glucagon
+thiamine|Vitamine B1 : à donner à l'alcoolique avant le sucre pour éviter l'encéphalopathie de Wernicke.|Thiamine
+acidocétose alcoolique|Acidose par cétones chez l'alcoolique dénutri après une alcoolisation, avec glycémie normale ou basse.|
+xanthélasma|Dépôts jaunes de cholestérol sur les paupières.|Xanthélasma
+pancréatite|Inflammation du pancréas ; cause métabolique : triglycérides très élevés.|Pancréatite aiguë
+athérosclérose|Dépôt de cholestérol et d'inflammation dans la paroi des artères (plaques).|Athérosclérose
+oméga-3|Acides gras polyinsaturés (EPA, DHA) des poissons gras ; baissent les triglycérides.|Acide gras oméga-3
