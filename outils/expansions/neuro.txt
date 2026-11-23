@@ -1,0 +1,173 @@
+AAS|Acide AcétylSalicylique
+ACA|Artère Cérébrale Antérieure
+ACM|Artère Cérébrale Moyenne
+ACP|Artère Cérébrale Postérieure
+ADEM|Acute Disseminated EncephaloMyelitis (encéphalomyélite aiguë disséminée)
+AGT|Amnésie Globale Transitoire
+AINS|Anti-Inflammatoires Non Stéroïdiens
+AIT|Accident Ischémique Transitoire
+AOD|Anticoagulants Oraux Directs
+ARIA|Amyloid-Related Imaging Abnormalities (anomalies d'imagerie liées à l'amyloïde)
+ARIA-E|Amyloid-Related Imaging Abnormalities - Edema (ARIA avec œdème)
+ARIA-H|Amyloid-Related Imaging Abnormalities - Hemosiderin (ARIA avec microsaignements)
+ATCD|AnTéCéDents
+ATP7B|ATPase transporteuse du cuivre de type 7B
+AVC|Accident Vasculaire Cérébral
+AVK|AntiVitamines K
+ApoE4|Apolipoprotéine E, allèle ε4
+B12|Vitamine B12 (cobalamine)
+BAV|Bloc Auriculo-Ventriculaire
+BBD|Bloc de Branche Droit
+BOC|Bandes OligoClonales
+BPCO|BronchoPneumopathie Chronique Obstructive
+BZD|BenZoDiazépines
+Brown-Séquard|Charles-Édouard Brown-Séquard (physiologiste et neurologue franco-mauricien)
+C4|4e vertèbre / segment médullaire cervical
+C9orf72|Chromosome 9 Open Reading Frame 72 (cadre de lecture ouvert 72 du chromosome 9)
+CADASIL|Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy (artériopathie cérébrale autosomique dominante avec infarctus sous-corticaux et leucoencéphalopathie)
+CAG|Cytosine-Adénine-Guanine (triplet codant la glutamine)
+CBH|Claude Bernard-Horner
+CGRP|Calcitonin Gene-Related Peptide (peptide lié au gène de la calcitonine)
+CI|Contre-Indication
+CIS|Clinically Isolated Syndrome (syndrome cliniquement isolé)
+CK|Créatine Kinase
+CNEP|Crises Non Épileptiques Psychogènes
+CO|Monoxyde de carbone (Carbon monOxide)
+COVID|COronaVIrus Disease (maladie à coronavirus SARS-CoV-2)
+CPPC|Cancer Pulmonaire à Petites Cellules
+CSH|Cellules Souches Hématopoïétiques
+CT|Computed Tomography (tomodensitométrie, scanner)
+CTA|Céphalées Trigémino-Autonomes
+CTCG|Crise Tonico-Clonique Généralisée
+Creutzfeldt-Jakob|Hans Gerhard Creutzfeldt et Alfons Maria Jakob (neurologues allemands)
+D2|Récepteur de la dopamine de type 2
+DD|Diagnostic Différentiel
+DIS|Dissemination In Space (dissémination dans l'espace)
+DIT|Dissemination In Time (dissémination dans le temps)
+DMF|DiMéthyl Fumarate
+DT1|Diabète de Type 1
+DVDA|Dysplasie Ventriculaire Droite Arythmogène
+DVP|Dérivation Ventriculo-Péritonéale
+DaTSCAN|Dopamine Transporter SCAN (scintigraphie des transporteurs de la dopamine)
+Dix-Hallpike|Margaret Dix et Charles Hallpike (otologistes britanniques)
+E1-4|Ouverture des yeux (Eyes) cotée de 1 à 4 dans le score de Glasgow
+E2|Ouverture des yeux (Eyes) à la douleur, cotation 2 du Glasgow
+ECG|ÉlectroCardioGramme
+ECoG|ÉlectroCorticoGraphie
+EEG|ÉlectroEncéphaloGramme
+EI|Effets Indésirables
+EME|État de Mal Épileptique
+ETT|Échographie TransThoracique
+FA|Fibrillation Atriale
+FC|Fréquence Cardiaque
+FLM|Faisceau Longitudinal Médian
+FOUR|Full Outline of UnResponsiveness (description complète de l'aréactivité)
+FRCV|Facteurs de Risque CardioVasculaire
+FXTAS|Fragile X-associated Tremor/Ataxia Syndrome (syndrome tremblement-ataxie lié à l'X fragile)
+GAA|Guanine-Adénine-Adénine (triplet répété du gène de la frataxine)
+GB|Globules Blancs
+GHB|Gamma-HydroxyButyrate
+Gayet-Wernicke|Charles-Jules-Alphonse Gayet et Carl Wernicke (médecins français et allemand)
+HINTS|Head Impulse, Nystagmus, Test of Skew (impulsion céphalique, nystagmus, déviation verticale)
+HIT|Head Impulse Test (test d'impulsion céphalique)
+HLH|Hémianopsie Latérale Homonyme
+HSA|Hémorragie Sous-Arachnoïdienne
+HTA|HyperTension Artérielle
+HTIC|HyperTension IntraCrânienne
+ICOMT|Inhibiteurs de la Catéchol-O-MéthylTransférase
+IEC|Inhibiteurs de l'Enzyme de Conversion
+IM|IntraMusculaire
+IMAO-B|Inhibiteurs de la MonoAmine Oxydase de type B
+IRM|Imagerie par Résonance Magnétique
+ISRS|Inhibiteurs Sélectifs de la Recapture de la Sérotonine
+IX-X|9e et 10e nerfs crâniens (glossopharyngien et vague)
+IX-XII|9e à 12e nerfs crâniens (glossopharyngien, vague, spinal, hypoglosse)
+J1|1er jour après l'événement
+J2|2e jour après l'événement
+JC|John Cunningham (initiales du premier patient chez qui le virus a été isolé)
+JNM|Jonction NeuroMusculaire
+L5|5e racine lombaire
+LCR|Liquide Céphalo-Rachidien
+LEMP|LeucoEncéphalopathie Multifocale Progressive
+LR|Likelihood Ratio (rapport de vraisemblance)
+M1-6|Réponse Motrice cotée de 1 à 6 dans le score de Glasgow
+M2|Réponse Motrice 2 du Glasgow (extension, décérébration)
+M3|Réponse Motrice 3 du Glasgow (flexion anormale, décortication)
+M4|Réponse Motrice 4 du Glasgow (retrait à la douleur)
+M5|Réponse Motrice 5 du Glasgow (localise la douleur)
+M6|Réponse Motrice 6 du Glasgow (obéit aux ordres)
+MI|Membres Inférieurs
+MMSE|Mini-Mental State Examination (mini-examen de l'état mental)
+MRC|Medical Research Council (conseil britannique de la recherche médicale)
+MS|Membres Supérieurs
+McDonald|W. Ian McDonald (neurologue néo-zélandais)
+MoCA|Montreal Cognitive Assessment (évaluation cognitive de Montréal)
+N2|Stade 2 du sommeil lent (Non-REM 2)
+N3|Stade 3 du sommeil lent profond (Non-REM 3)
+NC|Nerf Crânien
+NEJM|New England Journal of Medicine (revue médicale américaine)
+NMO|NeuroMyélite Optique
+NNT|Number Needed to Treat (nombre de patients à traiter)
+NO|Protoxyde d'azote (Nitrous Oxide)
+OFF|Phase « éteinte » (OFF), sans effet de la lévodopa
+ORL|Oto-Rhino-Laryngologie
+P100|Onde Positive à 100 millisecondes des potentiels évoqués visuels
+PA|Pression Artérielle
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PET-FDG|Positron Emission Tomography au FluoroDésoxyGlucose (TEP au FDG)
+PEV|Potentiels Évoqués Visuels
+PIRA|Progression Independent of Relapse Activity (progression indépendante des poussées)
+PL|Ponction Lombaire
+PRES|Posterior Reversible Encephalopathy Syndrome (syndrome d'encéphalopathie postérieure réversible)
+PSP|Paralysie Supranucléaire Progressive
+QRS|Complexe QRS de l'ECG (dépolarisation des ventricules, ondes Q, R et S)
+QT|Intervalle QT de l'ECG (du début de l'onde Q à la fin de l'onde T)
+RAW|Relapse-Associated Worsening (aggravation liée aux poussées)
+RNS|Responsive NeuroStimulation (neurostimulation réactive)
+RT|Real-Time (temps réel)
+S1P|Sphingosine-1-Phosphate
+SAOS|Syndrome d'Apnées Obstructives du Sommeil
+SAPL|Syndrome des AntiPhosphoLipides
+SC|Sous-Cutané
+SCA|SpinoCerebellar Ataxia (ataxie spinocérébelleuse)
+SEP|Sclérose En Plaques
+SGB|Syndrome de Guillain-Barré
+SIADH|Syndrome of Inappropriate AntiDiuretic Hormone secretion (sécrétion inappropriée d'hormone antidiurétique)
+SLA|Sclérose Latérale Amyotrophique
+SUNA|Short-lasting Unilateral Neuralgiform headache attacks with cranial Autonomic symptoms (céphalées unilatérales brèves névralgiformes avec signes autonomes)
+SUNCT|Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing (céphalées unilatérales brèves névralgiformes avec injection conjonctivale et larmoiement)
+SVCR|Syndrome de VasoConstriction cérébrale Réversible
+TCC|Thérapie Cognitivo-Comportementale
+TDAH|Trouble du Déficit de l'Attention avec ou sans Hyperactivité
+TDP-43|TAR DNA-binding Protein 43 (protéine de liaison à l'ADN TAR de 43 kDa)
+TNC|Trouble NeuroCognitif
+TOC|Troubles Obsessionnels Compulsifs
+TSH|Thyroid-Stimulating Hormone (thyréostimuline)
+V1-5|Réponse Verbale cotée de 1 à 5 dans le score de Glasgow
+V1-V2|1re et 2e branches du trijumeau (ophtalmique et maxillaire)
+V1-V3|Dérivations précordiales droites V1 à V3 de l'ECG
+V3|3e branche du trijumeau (nerf mandibulaire)
+V4|Réponse Verbale 4 du Glasgow (confuse)
+VIH|Virus de l'Immunodéficience Humaine
+VNI|Ventilation Non Invasive
+VNS|Vagus Nerve Stimulation (stimulation du nerf vague)
+VPPB|Vertige Positionnel Paroxystique Bénin
+VPPM|Vertige Positionnel Paroxystique Malin
+angio-CT|Angiographie par Computed Tomography (angioscanner)
+mmHg|millimètre de mercure (Hg = hydrargyrum)
+sus-ST|Sus-décalage du segment ST de l'ECG
+vidéo-EEG|Vidéo-ÉlectroEncéphaloGramme (EEG couplé à la vidéo)
+stéréo-EEG|Stéréo-ÉlectroEncéphaloGraphie (EEG par électrodes intracérébrales)
+anti-MOG|anti-Myelin Oligodendrocyte Glycoprotein (anti-glycoprotéine oligodendrocytaire de la myéline)
+Anti-VLA4|Anti-Very Late Antigen 4 (anti-intégrine α4β1)
+Anti-CD20|Anti-Cluster of Differentiation 20 (anti-marqueur CD20 des lymphocytes B)
+anti-AQP4|anti-AQuaPorine 4
+anti-GAD|anti-Glutamic Acid Decarboxylase (anti-glutamate décarboxylase)
+Lance-Adams|James Lance et Raymond Adams (neurologues australien et américain)
+Kayser-Fleischer|Bernhard Kayser et Bruno Fleischer (ophtalmologues allemands)
+Aβ42|peptide Amyloïde bêta de 42 acides aminés
+RT-QuIC|Real-Time Quaking-Induced Conversion (conversion induite par agitation, en temps réel)
+anti-NMDAR|anti-N-Méthyl-D-Aspartate Receptor (anti-récepteur NMDA du glutamate)
+Cheyne-Stokes|John Cheyne et William Stokes (médecins écossais et irlandais)
+Edinger-Westphal|Ludwig Edinger et Carl Westphal (neurologues allemands)
+N₂O|Protoxyde d'azote (2 atomes d'azote, 1 d'oxygène)

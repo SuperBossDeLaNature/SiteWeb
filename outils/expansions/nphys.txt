@@ -1,0 +1,108 @@
+3,4-DAP|3,4-DiAminoPyridine (amifampridine)
+AAV9|Adeno-Associated Virus serotype 9 (virus adéno-associé de sérotype 9)
+AC|AntiCorps
+ACh|AcétylCholine
+AD|Autosomique Dominante
+AIDP|Acute Inflammatory Demyelinating Polyneuropathy (polyradiculonévrite inflammatoire démyélinisante aiguë)
+AMAN|Acute Motor Axonal Neuropathy (neuropathie axonale motrice aiguë)
+AMSAN|Acute Motor and Sensory Axonal Neuropathy (neuropathie axonale sensitivo-motrice aiguë)
+AR|Autosomique Récessive
+ATP|Adénosine TriPhosphate
+B12|Vitamine B12 (cobalamine)
+BAEP|Brainstem Auditory Evoked Potentials (potentiels évoqués auditifs du tronc cérébral)
+BMAA|Bêta-Méthylamino-L-Alanine
+C5|5e racine cervicale
+C6|6e racine cervicale
+C7|7e racine cervicale
+C8|8e racine cervicale
+C9ORF72|Chromosome 9 Open Reading Frame 72 (cadre de lecture ouvert n° 72 du chromosome 9)
+CAG|Cytosine-Adénine-Guanine (triplet de nucléotides, code la glutamine)
+CCG|Cytosine-Cytosine-Guanine (motif répété ; dans la DM2 la répétition est CCTG)
+CD20|Cluster of Differentiation 20 (classe de différenciation 20)
+CI|Contre-Indication
+CK|Créatine Kinase
+CMAP|Compound Muscle Action Potential (potentiel d'action musculaire global)
+CMT|Charcot-Marie-Tooth (maladie de)
+CMT1|Charcot-Marie-Tooth de type 1 (forme démyélinisante)
+CMT1A|Charcot-Marie-Tooth de type 1A (duplication de PMP22)
+CMT2|Charcot-Marie-Tooth de type 2 (forme axonale)
+CMTX|Charcot-Marie-Tooth liée à l'X
+CPT|Carnitine PalmitoylTransférase
+CT|Computed Tomography (tomodensitométrie, scanner)
+CTG|Cytosine-Thymine-Guanine (triplet de nucléotides)
+CV|Capacité Vitale
+Ca2|Ion calcium Ca2+ (deux charges positives)
+DFT|Démence Fronto-Temporale
+DM1|Dystrophie Myotonique de type 1
+DMPK|Dystrophia Myotonica Protein Kinase (protéine kinase de la dystrophie myotonique)
+DR3-B8|Haplotype HLA-DR3 / HLA-B8
+EMG|ÉlectroMyoGramme
+EPP|End-Plate Potential (potentiel de plaque motrice)
+FcRn|neonatal Fc Receptor (récepteur Fc néonatal)
+GB|Guillain-Barré (syndrome de)
+HLA|Human Leukocyte Antigen (antigènes des leucocytes humains)
+HMSN|Hereditary Motor and Sensory Neuropathy (neuropathie héréditaire sensitivo-motrice)
+HNPP|Hereditary Neuropathy with liability to Pressure Palsies (neuropathie héréditaire avec hypersensibilité à la pression)
+IRM|Imagerie par Résonance Magnétique
+IVIg|IntraVenous Immunoglobulins (immunoglobulines intraveineuses)
+IgG4|Immunoglobuline G de sous-classe 4
+IgM|Immunoglobuline M
+JNM|Jonction NeuroMusculaire
+L4|4e racine lombaire
+L4-L5|Disque entre la 4e et la 5e vertèbre lombaire
+LCR|Liquide Céphalo-Rachidien
+LEMS|Lambert-Eaton Myasthenic Syndrome (syndrome myasthénique de Lambert-Eaton)
+MELAS|Mitochondrial Encephalomyopathy, Lactic Acidosis and Stroke-like episodes (encéphalomyopathie mitochondriale, acidose lactique et pseudo-AVC)
+MERRF|Myoclonic Epilepsy with Ragged Red Fibers (épilepsie myoclonique avec fibres rouges déchiquetées)
+MI|Membres Inférieurs
+MN|MotoNeurone
+MRC|Medical Research Council (conseil britannique de la recherche médicale)
+MS|Membres Supérieurs
+MuSK|Muscle-Specific Kinase (kinase spécifique du muscle)
+N13|Onde Négative à environ 13 ms (PES, moelle cervicale)
+N20|Onde Négative à environ 20 ms (PES, cortex somesthésique)
+NH4|Ion ammonium NH4+ (ammoniac)
+OFF|Cellules « OFF » (activées par l'extinction de la lumière au centre de leur champ)
+ON|Cellules « ON » (activées par la lumière au centre de leur champ)
+P100|Onde Positive à environ 100 ms (PEV)
+P14|Onde Positive à environ 14 ms (PES, tronc cérébral)
+PA|Potentiel d'Action
+PE|Potentiels Évoqués
+PEM|Potentiels Évoqués Moteurs
+PES|Potentiels Évoqués Somesthésiques
+PEV|Potentiels Évoqués Visuels
+PIDC|Polyradiculonévrite Inflammatoire Démyélinisante Chronique
+PMP22|Peripheral Myelin Protein 22 (protéine de la myéline périphérique de 22 kDa)
+PP|Paralysies Périodiques
+PPS|Potentiel PostSynaptique
+PSW|Positive Sharp Waves (ondes lentes positives)
+PUM|Potentiel d'Unité Motrice
+RC|Rythme Cardiaque
+S1|1re racine sacrée
+SEP|Sclérose En Plaques
+SFEMG|Single-Fiber EMG (EMG de fibre unique)
+SLA|Sclérose Latérale Amyotrophique
+SMA|Spinal Muscular Atrophy (amyotrophie spinale)
+SMN|Survival Motor Neuron (survie du motoneurone)
+SMN1|Survival Motor Neuron 1 (gène de survie du motoneurone 1)
+SMN2|Survival Motor Neuron 2 (gène de survie du motoneurone 2)
+SNA|Système Nerveux Autonome
+SNARE|Soluble NSF Attachment protein REceptor (récepteurs des protéines d'attachement de NSF)
+SOD1|SuperOxyde Dismutase 1
+TDP-43|TAR DNA-binding Protein of 43 kDa (protéine de liaison à l'ADN TAR de 43 kDa)
+TTR|TransThyRétine
+USI|Unité de Soins Intensifs
+VC|Vitesse de Conduction
+Val30Met|Valine en position 30 remplacée par une Méthionine (mutation de la transthyrétine)
+mV|Millivolt
+cmH2O|Centimètre d'eau
+VI|6e nerf crânien (nerf abducens)
+VII|7e nerf crânien (nerf facial)
+anti-GM1|Anticorps anti-Ganglioside Monosialylé GM1
+anti-GQ1b|Anticorps anti-Ganglioside GQ1b
+anti-MAG|Anticorps anti-Myelin-Associated Glycoprotein (anti-glycoprotéine associée à la myéline)
+Anti-MAG|Anticorps anti-Myelin-Associated Glycoprotein (anti-glycoprotéine associée à la myéline)
+anti-RACh|Anticorps anti-Récepteur de l'ACétylcholine
+Anti-RACh|Anticorps anti-Récepteur de l'ACétylcholine
+anti-VGCC|Anticorps anti-Voltage-Gated Calcium Channels (anti-canaux calciques voltage-dépendants)
+Anti-VGCC|Anticorps anti-Voltage-Gated Calcium Channels (anti-canaux calciques voltage-dépendants)

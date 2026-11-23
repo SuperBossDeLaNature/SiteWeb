@@ -1,0 +1,60 @@
+# Glossaire commun : abréviations au sens unique, utilisées dans plusieurs matières
+HTA|Hypertension artérielle : pression artérielle ≥ 140/90 mmHg au cabinet, de façon répétée. Souvent silencieuse, c'est le 1er facteur de risque d'AVC et un grand facteur d'infarctus, d'insuffisance cardiaque et rénale.|Hypertension artérielle
+IRM|Imagerie par résonance magnétique : le patient est placé dans un aimant puissant ; les protons de l'eau renvoient un signal que l'ordinateur transforme en images. Pas de rayons X, excellente pour les tissus mous (cerveau, moelle, ligaments), mais longue et contre-indiquée avec certains métaux.|Imagerie par résonance magnétique
+AVC|Accident vasculaire cérébral : une zone du cerveau est brutalement privée de sang, soit parce qu'une artère est bouchée (ischémique, 85 %), soit parce qu'elle s'est rompue (hémorragique). Déficit brutal : paralysie, trouble du langage, perte de vision.|Accident vasculaire cérébral
+AIT|Accident ischémique transitoire : déficit neurologique bref (souvent < 1 h) qui disparaît complètement, sans lésion à l'IRM. C'est une alerte : risque élevé d'AVC dans les jours suivants.|Accident ischémique transitoire
+IDM|Infarctus du myocarde : mort d'une partie du muscle cardiaque parce qu'une artère coronaire est bouchée (caillot sur une plaque d'athérome).|Infarctus du myocarde
+ECG|Électrocardiogramme : enregistrement de l'activité électrique du cœur avec des électrodes sur la peau. Montre le rythme, les troubles de conduction, l'ischémie et l'effet des ions (potassium, calcium).|Électrocardiographie
+EEG|Électroencéphalogramme : enregistrement de l'activité électrique du cerveau par des électrodes posées sur le cuir chevelu. Examen clé des épilepsies et des comas.|Électroencéphalographie
+EMG|Électromyogramme : examen qui stimule les nerfs et enregistre les muscles (souvent avec une fine aiguille). Il dit si le problème vient du nerf, de la jonction ou du muscle.|Électromyographie
+SNC|Système nerveux central : cerveau, cervelet, tronc cérébral et moelle épinière, protégés par le crâne, la colonne et les méninges.|Système nerveux central
+LCR|Liquide céphalo-rachidien : liquide clair qui entoure et protège le cerveau et la moelle (≈ 150 ml, renouvelé 3 à 4 fois par jour). On le prélève par ponction lombaire.|Liquide cérébrospinal
+SEP|Sclérose en plaques : maladie auto-immune où les défenses attaquent la myéline du système nerveux central, par poussées. Touche surtout l'adulte jeune (femme).|Sclérose en plaques
+SLA|Sclérose latérale amyotrophique (maladie de Charcot) : les neurones moteurs meurent progressivement ; paralysie qui s'étend, sans trouble de la sensibilité.|Sclérose latérale amyotrophique
+BPCO|Bronchopneumopathie chronique obstructive : rétrécissement permanent des bronches, surtout dû au tabac. Essoufflement, toux, bronchite chronique.|Bronchopneumopathie chronique obstructive
+ORL|Oto-rhino-laryngologie : spécialité des oreilles, du nez, de la gorge et du cou.|Oto-rhino-laryngologie
+USI|Unité de soins intensifs : service où l'on surveille et soutient en continu les patients graves (respirateur, médicaments IV, monitoring).|Unité de soins intensifs
+ATCD|Antécédents : maladies, opérations, traitements et histoire familiale du patient, notés à l'anamnèse.|
+VIH;HIV|Virus de l'immunodéficience humaine : virus qui détruit les lymphocytes T CD4 et affaiblit l'immunité ; au stade avancé, c'est le sida.|Virus de l'immunodéficience humaine
+EBV|Virus d'Epstein-Barr : virus de la famille des herpès, responsable de la mononucléose, associé à certains lymphomes.|Virus d'Epstein-Barr
+COVID;COVID-19|Maladie due au coronavirus SARS-CoV-2 (pandémie à partir de 2020).|Maladie à coronavirus 2019
+OMS|Organisation mondiale de la santé : agence de l'ONU qui fixe des définitions et recommandations internationales.|Organisation mondiale de la santé
+ULB|Université libre de Bruxelles.|Université libre de Bruxelles
+NEJM|New England Journal of Medicine : grande revue médicale où sont publiés les essais majeurs.|
+pH|Mesure de l'acidité : 7,40 dans le sang (7,35–7,45). En dessous = acidose, au-dessus = alcalose.|Potentiel hydrogène
+O2|Oxygène.|Oxygène
+CO2|Dioxyde de carbone (gaz carbonique), éliminé par les poumons ; sa pression dans le sang (PaCO2) reflète la ventilation.|Dioxyde de carbone
+NaCl|Chlorure de sodium (sel). En perfusion : « sérum physiologique » à 0,9 %, isotonique au plasma.|Chlorure de sodium
+KCl|Chlorure de potassium : sel utilisé pour corriger un potassium trop bas (oral ou IV lent, jamais en bolus).|Chlorure de potassium
+HCO3|Bicarbonate : principal tampon du sang (22–26 mmol/l). Bas = acidose métabolique ; haut = alcalose métabolique.|Bicarbonate
+ATP|Adénosine triphosphate : la « monnaie énergétique » des cellules, produite surtout par les mitochondries.|Adénosine triphosphate
+ADN|Acide désoxyribonucléique : support de l'information génétique, dans le noyau des cellules.|Acide désoxyribonucléique
+AINS|Anti-inflammatoires non stéroïdiens (ibuprofène, diclofénac, naproxène) : antidouleur et anti-inflammatoires. Attention à l'estomac (ulcère), au rein et au saignement.|Anti-inflammatoire non stéroïdien
+IEC|Inhibiteurs de l'enzyme de conversion (ramipril, périndopril) : bloquent la fabrication d'angiotensine II. Baissent la tension et protègent cœur et reins ; effet indésirable classique : toux sèche.|Inhibiteur de l'enzyme de conversion
+IPP|Inhibiteurs de la pompe à protons (oméprazole, pantoprazole) : bloquent la sécrétion d'acide de l'estomac ; traitement du reflux et de l'ulcère.|Inhibiteur de la pompe à protons
+DFG|Débit de filtration glomérulaire : volume de sang que les reins filtrent par minute (normal ≈ 90–120 ml/min/1,73 m²). On l'estime à partir de la créatinine ; < 60 pendant 3 mois = insuffisance rénale chronique.|Débit de filtration glomérulaire
+IRC|Insuffisance rénale chronique : les reins filtrent moins bien depuis plus de 3 mois (DFG < 60). Évolue lentement ; anémie, troubles du calcium, HTA.|Insuffisance rénale chronique
+IRA|Insuffisance rénale aiguë : chute rapide (heures à jours) de la fonction des reins, souvent réversible si on traite la cause (déshydratation, toxique, obstacle).|Insuffisance rénale aiguë
+DT1|Diabète de type 1 : le système immunitaire détruit les cellules qui fabriquent l'insuline ; insuline obligatoire à vie. Débute souvent jeune.|Diabète de type 1
+DT2|Diabète de type 2 : le corps répond mal à l'insuline et le pancréas n'en fait plus assez ; lié au surpoids et à l'hérédité, 90 % des diabètes.|Diabète de type 2
+HbA1c|Hémoglobine glyquée : part de l'hémoglobine « sucrée », qui reflète la glycémie moyenne des 2–3 derniers mois. Normal < 5,7 % ; diabète si ≥ 6,5 %.|Hémoglobine glyquée
+TSH|Thyréostimuline : hormone de l'hypophyse qui commande la thyroïde. C'est le meilleur test de dépistage : haute si la thyroïde fonctionne trop peu, basse si elle fonctionne trop.|Thyréostimuline
+GH|Hormone de croissance, sécrétée par l'hypophyse. Elle fait grandir l'enfant et, chez l'adulte, augmente le glucose et mobilise les graisses (hormone de contre-régulation).|Hormone de croissance
+CK|Créatine kinase : enzyme du muscle. Elle augmente dans le sang quand des fibres musculaires sont détruites (myopathie, rhabdomyolyse, effort intense).|Créatine kinase
+IgA;IgG;IgM;IgE;IgG4|Immunoglobulines (anticorps) : IgM = 1re réponse, IgG = réponse durable, IgA = muqueuses, IgE = allergie et parasites. IgG4 : sous-classe impliquée dans la « maladie à IgG4 » (organes infiltrés et gonflés).|Immunoglobuline
+IL-6;IL-1|Interleukines : messagers de l'inflammation. L'IL-6 fait fabriquer la CRP par le foie et donne de la fièvre.|Interleukine
+HLA|Antigènes leucocytaires humains : « carte d'identité » des cellules, très variable d'une personne à l'autre. Comptent pour la greffe et sont liés à certaines maladies auto-immunes.|Antigène des leucocytes humains
+QT|Intervalle QT de l'ECG : durée de la repolarisation des ventricules. Allongé (médicaments, hypokaliémie, hypocalcémie), il expose à une arythmie grave (torsade de pointes).|Intervalle QT
+QRS|Complexe QRS de l'ECG : dépolarisation des ventricules. Élargi en cas de bloc de branche ou d'hyperkaliémie sévère.|Complexe QRS
+PET;PET-FDG;PET-CT|Tomographie par émission de positons : on injecte un traceur radioactif (souvent du glucose marqué, FDG) et une caméra montre les tissus qui le consomment (cancers, inflammation, cerveau). Souvent couplé à un scanner (PET-CT).|Tomographie par émission de positons
+TNM|Classification de l'extension d'un cancer : T = taille/extension de la tumeur, N = ganglions envahis, M = métastases à distance. Elle définit le stade et le traitement.|Classification TNM
+mUI|Milli-unités internationales : unité utilisée pour certaines hormones (TSH en mUI/l, hCG).|
+UVB|Ultraviolets B : rayons du soleil qui font fabriquer la vitamine D par la peau (et qui donnent les coups de soleil).|Ultraviolet
+B12|Vitamine B12 (cobalamine) : nécessaire aux globules rouges et à la myéline. Carence : anémie macrocytaire, atteinte de la moelle (cordons postérieurs), troubles cognitifs.|Cobalamine
+B1|Vitamine B1 (thiamine) : indispensable pour utiliser le glucose. Carence (alcool, dénutrition) : encéphalopathie de Wernicke, béribéri.|Thiamine
+RX|Rayons X / radiographie standard.|Radiographie
+MeV;keV|Mégaélectronvolt / kiloélectronvolt : unités d'énergie des photons et particules (ex. 511 keV pour les photons du PET, 140 keV pour le technétium).|Électronvolt
+IM|Intramusculaire : injection dans un muscle (deltoïde, fesse).|Injection intramusculaire
+SC|Sous-cutané : injection sous la peau (insuline, héparine).|Injection sous-cutanée
+TA;PA|Tension (pression) artérielle : pression du sang dans les artères, notée systolique/diastolique en mmHg (normale < 140/90 au cabinet).|Pression artérielle
+CI|Contre-indication : situation où un traitement, un examen ou un geste ne doit pas être fait car le risque dépasse le bénéfice (absolue) ou doit être pesé (relative).|Contre-indication

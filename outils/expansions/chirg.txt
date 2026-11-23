@@ -1,0 +1,122 @@
+ABO|système de groupes sanguins A, B et O (absence d'antigène A et B)
+ACTH|AdrenoCorticoTropic Hormone (hormone adrénocorticotrope, corticotrophine)
+ADH|AntiDiuretic Hormone (hormone antidiurétique)
+ADP|Adénosine DiPhosphate
+AINS|Anti-Inflammatoires Non Stéroïdiens
+AIT|Accident Ischémique Transitoire
+ANF|Atrial Natriuretic Factor (facteur natriurétique auriculaire)
+AO|Arbeitsgemeinschaft für Osteosynthesefragen (groupe de travail pour les questions d'ostéosynthèse)
+ARA2|Antagonistes des Récepteurs de l'Angiotensine II
+ARDS|Acute Respiratory Distress Syndrome (syndrome de détresse respiratoire aiguë)
+ASA|American Society of Anesthesiologists (Société américaine des anesthésistes)
+AT1|récepteur de l'AngioTensine II de type 1
+AVC|Accident Vasculaire Cérébral
+AVK|AntiVitamines K
+BE|Base Excess (excès de base)
+BMI|Body Mass Index (indice de masse corporelle)
+BPCO|BronchoPneumopathie Chronique Obstructive
+BioGlue|Bio + Glue (colle biologique)
+C3a|fragment a du 3e composant du Complément
+C5a|fragment a du 5e composant du Complément
+CARS|Compensatory Anti-inflammatory Response Syndrome (syndrome de réponse anti-inflammatoire compensatoire)
+CE|Concentrés Érythrocytaires
+CEC|Circulation ExtraCorporelle
+CHA2DS2|Congestive heart failure, Hypertension, Age ≥ 75 ans (2 points), Diabetes, Stroke (2 points) (insuffisance cardiaque, HTA, âge, diabète, AVC)
+CHA2DS2-VASc|CHA2DS2 + VAScular disease, Age 65–74 ans, Sex category (maladie vasculaire, âge 65–74 ans, sexe féminin)
+CIVD|Coagulation IntraVasculaire Disséminée
+CO2|dioxyde de carbone (Carbone + 2 atomes d'Oxygène)
+CPA|Cellules Présentatrices d'Antigène
+CRASH|Corticosteroid Randomisation After Significant Head injury (essai randomisé des corticoïdes après traumatisme crânien grave, CRASH-1)
+CRF|Corticotropin-Releasing Factor (corticolibérine)
+CRP|C-Reactive Protein (protéine C réactive)
+CV|Capacité Vitale (ou CardioVasculaire selon le contexte)
+Cell-Saver|économiseur de cellules (récupérateur de sang peropératoire)
+DAMP|Damage-Associated Molecular Patterns (motifs moléculaires associés aux dégâts)
+DCS|Damage Control Surgery (chirurgie de contrôle des dégâts)
+DFG|Débit de Filtration Glomérulaire
+DHEA|DéHydroÉpiAndrostérone
+ECG|ÉlectroCardioGramme
+EFR|Explorations Fonctionnelles Respiratoires
+EGF|Epidermal Growth Factor (facteur de croissance épidermique)
+EVAR|EndoVascular Aneurysm Repair (réparation endovasculaire d'anévrisme)
+FA|Fibrillation Auriculaire
+FDR|Facteurs De Risque
+FGF|Fibroblast Growth Factor (facteur de croissance des fibroblastes)
+Fast-Track|voie rapide (récupération accélérée après chirurgie)
+GH|Growth Hormone (hormone de croissance)
+GRF|Gélatine-Résorcine-Formol
+HBPM|Héparine de Bas Poids Moléculaire
+HCO3|ion bicarbonate (Hydrogène, Carbone, 3 Oxygènes)
+HIV|Human Immunodeficiency Virus (virus de l'immunodéficience humaine)
+HNF|Héparine Non Fractionnée
+HTA|HyperTension Artérielle
+HbA1c|Hémoglobine glyquée (fraction A1c de l'hémoglobine)
+IBM|International Business Machines
+IEC|Inhibiteurs de l'Enzyme de Conversion
+IIa|classe de recommandation IIa (doit être envisagé)
+IIb|classe de recommandation IIb (peut être envisagé)
+IL|InterLeukine
+IL-1|InterLeukine 1
+IL-10|InterLeukine 10
+IL-4|InterLeukine 4
+IL-6|InterLeukine 6
+IPP|Inhibiteurs de la Pompe à Protons
+J0|Jour 0 (jour de l'intervention)
+J1-J4|Jours 1 à 4 après l'intervention
+J10|Jour 10 après l'intervention
+J2-J5|Jours 2 à 5 après l'intervention
+J21|Jour 21 après l'intervention
+J30|Jour 30 après l'intervention
+J4-J21|Jours 4 à 21 après l'intervention
+J7|Jour 7 après l'intervention
+KCE|Kenniscentrum (Centre fédéral d'Expertise des soins de santé, Belgique)
+LPS|LipoPolySaccharide
+LigaSure|Ligature sûre (scellement vasculaire bipolaire)
+METs|Metabolic EquivalenTs (équivalents métaboliques)
+MOF|Multiple Organ Failure (défaillance multiviscérale)
+MTEV|Maladie ThromboEmbolique Veineuse
+Mg2|ion Magnésium chargé 2+ (Mg²⁺)
+NOAC|New (Non-vitamin K) Oral AntiCoagulants (nouveaux anticoagulants oraux, AOD)
+NaCl|chlorure de sodium (Na = natrium, Cl = chlore)
+OMS|Organisation Mondiale de la Santé
+PACU|Post-Anesthesia Care Unit (salle de surveillance post-interventionnelle)
+PAMP|Pathogen-Associated Molecular Patterns (motifs moléculaires associés aux pathogènes)
+PAS|Pression Artérielle Systolique
+PEG|PolyÉthylène Glycol
+PFC|Plasma Frais Congelé
+PGE2|ProstaGlandine E2
+PICS|Persistent Inflammation, Immunosuppression and Catabolism Syndrome (syndrome d'inflammation, d'immunosuppression et de catabolisme persistants)
+POMC|Pro-OpioMélanoCortine
+PRR|Pattern Recognition Receptors (récepteurs de reconnaissance de motifs)
+PaCO2|Pression artérielle partielle en CO2
+RAA|Rénine-Angiotensine-Aldostérone
+RX|Rayons X (radiographie)
+SCA|Syndrome Coronarien Aigu
+SILS|Single Incision Laparoscopic Surgery (cœlioscopie par incision unique)
+SIRS|Systemic Inflammatory Response Syndrome (syndrome de réponse inflammatoire systémique)
+SRAA|Système Rénine-Angiotensine-Aldostérone
+T3|TriiodoThyronine (3 atomes d'iode)
+T4|Thyroxine (TétraiodoThyronine, 4 atomes d'iode)
+T4L|Thyroxine (T4) Libre
+TA|Tension Artérielle
+TGF|Transforming Growth Factor (facteur de croissance transformant)
+THS|Traitement Hormonal Substitutif
+TNF|Tumor Necrosis Factor (facteur de nécrose tumorale)
+TP|Taux de Prothrombine
+TRH|Thyrotropin-Releasing Hormone (thyréolibérine)
+TSH|Thyroid-Stimulating Hormone (thyréostimuline)
+TVP|Thrombose Veineuse Profonde
+ULB|Université Libre de Bruxelles
+USP|United States Pharmacopeia (pharmacopée des États-Unis)
+VEMS|Volume Expiratoire Maximal par Seconde
+VIP|Vasoactive Intestinal Peptide (peptide vasoactif intestinal)
+VOO|code pacemaker : V = Ventricule stimulé, O = aucune détection, O = aucune réponse programmée (stimulation asynchrone)
+pH|potentiel Hydrogène
+rT3|reverse T3 (triiodothyronine inverse)
+mmHg|millimètre de mercure (Hg = hydrargyrum)
+IL-1Ra|InterLeukin-1 Receptor antagonist (antagoniste du récepteur de l'interleukine 1)
+anti-H2|antagonistes des récepteurs H2 de l'Histamine
+post-CEC|après Circulation ExtraCorporelle
+mOsm|milliOsmole
+mOsm/kg|milliOsmoles par kilogramme d'eau
+mEq|milliÉquivalent

@@ -1,0 +1,140 @@
+2|parage|Avant toute suture, on nettoie la plaie (parage).
+2|détersion|On retire les tissus morts avant de fermer.
+2|peau|La chirurgie plastique répare surtout la peau et ses pertes de substance.
+2|derme|Le derme contient glandes et bulbes pileux, qui aident la plaie à se recouvrir.
+2|morsure|Une morsure humaine est plus infectante qu'une morsure animale.
+2|plaie chronique|Une plaie qui dépasse 6 semaines s'évalue avec TIME.
+2|TIME|Chaque lettre correspond à un problème et une action.
+2|cicatrisation|Un milieu humide accélère la cicatrisation d'environ 40 %.
+2|escarre|Correction : jaune = fibrine, noir = nécrose.
+2|AB|Correction : les antibiotiques locaux sont peu recommandés ; une infection vraie se traite par voie générale.
+2|MG|Le monofilament est moins inflammatoire.
+2|lignes de Langer|Inciser dans les plis naturels donne une cicatrice plus discrète.
+2|silicone|Traitements prouvés de la cicatrice : silicone, cortisone.
+3|cicatrisation|Une cicatrice met 12 à 18 mois à mûrir.
+3|chéloïde|La chéloïde déborde la plaie et récidive.
+3|cicatrice hypertrophique|L'hypertrophique reste dans les limites et s'améliore.
+3|hémostase|1re étape : arrêter le saignement.
+3|GF|Les plaquettes libèrent des facteurs de croissance qui activent les fibroblastes.
+3|macrophage|Les macrophages nettoient la plaie et pilotent la suite.
+3|granulation|Le tissu de granulation, riche en vaisseaux, comble la plaie.
+3|épidermisation|L'épiderme avance des bords vers le centre.
+3|myofibroblastes|Les myofibroblastes contractent la plaie.
+3|remodelage|Le collagène III est remplacé par du collagène I plus solide.
+3|peau|La cicatrice n'atteint que ≈ 80 % de la résistance de la peau saine.
+3|silicone|Chéloïde : corticoïdes, compression, silicone ; l'exérèse seule récidive dans 50 %.
+4|escarre|L'escarre naît d'une pression prolongée sur la peau.
+4|plaie chronique|C'est l'exemple type de plaie chronique.
+4|épiderme|Stade I : épiderme et derme superficiel (rougeur qui ne blanchit pas).
+4|derme|Stade II : ulcère du derme.
+4|lambeau|Si les soins échouent : lambeau local.
+4|greffe de peau|Greffe possible si le patient ne peut pas supporter un lambeau.
+4|détersion|Stade III : débridement chirurgical.
+4|cicatrisation|Après lambeau de grand fessier, 2–3 semaines pour cicatriser.
+4|granulation|Plaie rouge = granulation : on stimule.
+4|épidermisation|Plaie rose = épidermisation : on protège.
+4|VAC|La pression négative accélère le bourgeonnement.
+5|règle des 9|Le pronostic dépend d'abord de l'étendue.
+5|SCB|Grand brûlé au-delà d'une certaine surface brûlée.
+5|FV|Électrisation : risque de fibrillation ventriculaire (surveiller l'ECG).
+5|Diphotérine|Les brûlures chimiques par base sont les plus graves ; on rince à la Diphotérine.
+5|brûlure|Brûlures radiques : douleur intense.
+5|degrés|Classification par profondeur.
+5|épiderme|1er degré : seulement l'épiderme.
+5|phlyctène|1er degré : pas de cloque.
+5|Parkland|Ici « remplissage capillaire » ralenti : signe du 2e degré profond.
+5|derme|3e degré : tout le derme est détruit.
+5|greffe de peau|3e degré : pas de guérison spontanée, greffe.
+5|lambeau|4e degré (muscle, os) : lambeau.
+5|dermotomie|Brûlure circulaire profonde = effet garrot : on incise.
+5|choc hypovolémique|La fuite de plasma donne un choc.
+5|sulfadiazine d'argent|Pansement quotidien à la Flammazine.
+5|AINS|Engelures : réchauffer à 40 °C, antalgiques, AINS.
+6|carcinome basocellulaire|Le basocellulaire, le plus fréquent, ne métastase presque jamais.
+6|carcinome épidermoïde|Le spinocellulaire peut donner des métastases ganglionnaires.
+6|mélanome|Le mélanome est le plus grave.
+6|biopsie excisionnelle|1er temps : biopsie-exérèse complète pour le diagnostic.
+6|Breslow|2e temps : reprise avec marges selon le Breslow.
+6|brûlure|Le spinocellulaire peut naître sur une cicatrice de brûlure.
+6|RT|… ou de radiothérapie.
+6|ulcère de Marjolin|C'est l'ulcère de Marjolin.
+6|ABCDE|Mélanome : critères ABCDE.
+6|DD|Le basocellulaire pigmenté peut être confondu avec un mélanome.
+6|SSM|Le mélanome superficiel extensif a un meilleur pronostic que le nodulaire.
+6|lymphoscintigraphie|Ganglion sentinelle pour les mélanomes d'épaisseur intermédiaire.
+6|derme|Niveaux de Clark selon la couche du derme atteinte.
+6|CT|Le SPECT-CT localise le ganglion sentinelle.
+6|Darier-Ferrand|Tumeur agressive localement : marges larges.
+6|chéloïde|Elle peut ressembler à une chéloïde.
+6|greffe de peau|Après exérèse large, on couvre par greffe ou lambeau.
+7|MP|Articulations des doigts.
+7|camptodactylie|Camptodactylie = flexion congénitale du doigt.
+7|fléchisseurs|Chaque doigt long a 2 fléchisseurs.
+7|P2|Le superficiel s'insère sur P2, le profond sur P3.
+7|EPL|Les extenseurs sont moins urgents que les fléchisseurs.
+7|cicatrisation|Plaie de plus de 6 h : on la laisse cicatriser en seconde intention.
+7|WALANT|WALANT : le patient bouge les doigts pour tester la suture.
+7|Mallet finger|Mallet finger : attelle sur P3 en extension.
+7|microchirurgie|Un nerf coupé se suture au microscope ; il repousse d'≈ 1 mm/jour.
+7|kyste synovial|Tumeur de la main la plus fréquente.
+7|tumeur à cellules géantes|Dure, indolore, couleur chamois.
+7|doigt à ressaut|Nodule du fléchisseur sous la poulie.
+7|canal carpien|Pathologie de la main la plus fréquente.
+7|Phalen|Test de Phalen positif.
+7|Tinel|Signe de Tinel positif.
+7|EMG|L'EMG confirme.
+7|rhizarthrose|Arthrose de la base du pouce.
+7|STT|Parfois associée à l'arthrose STT.
+7|M1|Subluxation de la base de M1.
+7|Dupuytren|Touche l'aponévrose, pas les tendons.
+7|collagénase|La collagénase traite les formes débutantes.
+7|greffe de peau|Après fasciectomie, parfois une greffe de peau.
+7|syndactylie|Malformation la plus fréquente de la main.
+7|III-IV|Entre le 3e et le 4e doigt surtout.
+7|peau|Il manque de la peau pour séparer les doigts : greffe.
+8|greffe de peau|La greffe dépend de la vascularisation du lit receveur.
+8|lambeau|Le lambeau garde sa propre vascularisation.
+8|peau|Échelle de reconstruction : fermeture directe, greffe, lambeau.
+8|épiderme|Greffe fine : épiderme + derme superficiel.
+8|derme|Le site donneur cicatrise seul en quelques jours.
+8|cicatrisation|Plus la greffe est fine, plus elle se rétracte ensuite.
+8|Dupuytren|Près d'une articulation, greffe épaisse (moins de rétraction).
+8|DIEP|Le DIEP est un lambeau perforant (muscle préservé).
+9|reconstruction mammaire|La reconstruction sert l'image de soi, pas la survie.
+9|T4|T4 = envahit la peau : mauvais pronostic.
+9|peau|Envahissement de la peau.
+9|RT|Reconstruction différée si radiothérapie prévue.
+9|remodelage|Remodelage du sein après quadrantectomie.
+9|DIEP|TRAM pédiculé si embonpoint abdominal.
+9|PAM|On reconstruit la plaque aréolo-mamelonnaire en dernier.
+9|lambeau|Mamelon par lambeau local, puis tatouage.
+9|VRAM|VRAM = palette de peau verticale.
+9|IRM|Les prothèses se surveillent par IRM.
+9|cicatrice hypertrophique|Réduction mammaire : cicatrices variables selon la technique.
+9|greffe de peau|Greffe de la PAM chez la patiente âgée.
+9|cicatrisation|Complication la plus fréquente : retard de cicatrisation au carrefour des cicatrices.
+9|silicone|La plupart des prothèses sont en silicone cohésif.
+9|AG|Pose sous anesthésie générale.
+10|ORL|Reconstruction après cancer ORL.
+10|V2|Correction : le nerf facial sort par le foramen stylo-mastoïdien (le foramen rond = V2).
+10|lambeau|Réanimation faciale par lambeaux musculaires libres.
+10|RT|Après radiothérapie, débrider le tissu abîmé.
+10|peau|Dermochalasis : excès de peau des paupières.
+10|greffe de peau|Ectropion : greffe si échec.
+10|chéloïde|L'oreille est une zone à risque de chéloïde.
+10|AG|Rhinoplastie sous anesthésie générale.
+10|silicone|Greffon cartilagineux ou implant.
+11|peau|Le choix de la technique dépend de la qualité de la peau.
+11|AG|Lipoaspiration sous locale + sédation ou AG.
+11|cicatrisation|Complication fréquente : retard de cicatrisation.
+12|peau|Si la peau est trop épaisse et relâchée, il faut l'exciser.
+12|AG|Bras : AG en ambulatoire.
+12|cicatrice hypertrophique|Cicatrice du bras souvent hypertrophique.
+12|silicone|Traitement : silicone + corticoïdes.
+12|cicatrisation|Cuisse : macération dans le pli.
+13|ORL|Fente palatine : otites, d'où des drains.
+13|greffe de peau|Vers 10 ans, greffe osseuse de la gencive.
+13|PAM|Mamelon surnuméraire.
+13|IIa|Stades de la gynécomastie.
+13|remodelage|Seins tubéreux : remodelage.
+13|mélanome|Un grand nævus congénital a un risque de mélanome.

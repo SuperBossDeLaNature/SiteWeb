@@ -1,71 +1,197 @@
-SPECT|Tomographie par émission monophotonique : caméra gamma qui tourne autour du patient et reconstruit en 3D la répartition d'un traceur (99mTc).|Tomographie d'émission monophotonique
-PET|Tomographie par émission de positons : détecte les 2 photons de 511 keV émis à 180° après annihilation d'un positon.|Tomographie par émission de positons
-FDG;FDG-PET;18F-FDG|Fluorodésoxyglucose marqué au fluor 18 : glucose radioactif capté par les cellules qui consomment beaucoup de sucre (cancers, inflammation, cerveau).|Fludésoxyglucose (18F)
-CT|Scanner, souvent couplé à la caméra (SPECT-CT, PET-CT) pour localiser la fixation.|Tomodensitométrie
-PSMA|Antigène membranaire spécifique de la prostate : très exprimé par le cancer prostatique ; cible des traceurs PET et du 177Lu-PSMA.|Antigène membranaire spécifique de la prostate
-DOTATATE|Analogue de la somatostatine marqué (68Ga pour l'imagerie, 177Lu pour le traitement) des tumeurs neuroendocrines.|
-MIBG|Méta-iodobenzylguanidine : analogue de la noradrénaline, pour phéochromocytome, neuroblastome et innervation cardiaque.|Iobenguane
-ATTR|Amylose cardiaque à transthyrétine : fixe fortement les traceurs osseux (DPD, PYP) au cœur.|Amylose à transthyrétine
-SUV|Standardized uptake value : mesure de l'intensité de fixation du FDG, normalisée au poids et à la dose.|Standardized uptake value
-DAT;DaTSCAN|Scintigraphie des transporteurs de la dopamine : diminuée dans le Parkinson et les parkinsonismes dégénératifs.|
-DTPA|Traceur filtré par le glomérule, pour mesurer la fonction rénale (DFG) et la scintigraphie pulmonaire de ventilation.|
-HMPAO|Traceur de perfusion cérébrale ; sert aussi à marquer les leucocytes pour chercher une infection.|
-DMSA|Traceur fixé par le cortex rénal : montre les cicatrices de pyélonéphrite et la fonction relative de chaque rein.|
-MAG3|Traceur sécrété par les tubules rénaux : étudie le drainage des urines (obstacle ?) avec furosémide.|
-TNE|Tumeurs neuroendocrines : expriment des récepteurs de la somatostatine (SSTR).|Tumeur neuroendocrine
-SIRT;TARE;90Y|Radiothérapie interne sélective : microsphères d'yttrium-90 injectées dans l'artère hépatique pour irradier des tumeurs du foie.|Radiothérapie interne sélective
-TOF|Temps de vol : mesure de la petite différence d'arrivée des 2 photons en PET pour mieux localiser l'événement.|
-FAPI|Traceur qui cible la protéine d'activation des fibroblastes du stroma tumoral.|
-amyloïde;PET amyloïde|PET qui visualise les plaques amyloïdes du cerveau (maladie d'Alzheimer).|
-MUGA|Ventriculographie isotopique : mesure précise de la fraction d'éjection du cœur (globules rouges marqués).|Ventriculographie isotopique
-FFR|Réserve de flux fractionnaire : mesure la gravité d'une sténose coronaire en salle de cathétérisme (≥ 0,8 = non significative).|Réserve de flux fractionnaire
-DPD;PYP|Traceurs osseux (diphosphonates) qui se fixent aussi sur le cœur en cas d'amylose ATTR.|
-MAA|Macroagrégats d'albumine marqués : bloqués dans les capillaires du poumon, montrent la perfusion pulmonaire.|
-NIS;symporteur Na/I|Transporteur qui fait entrer l'iode dans les cellules thyroïdiennes ; base de la scintigraphie et du traitement par iode 131.|Symporteur sodium-iodure
-SSTR|Récepteurs de la somatostatine, très exprimés par les tumeurs neuroendocrines.|Récepteur de la somatostatine
-PRRT|Radiothérapie interne vectorisée par peptides (177Lu-DOTATATE) des tumeurs neuroendocrines.|
-TSH|Hormone qui stimule la thyroïde ; on la fait monter (≥ 30) avant l'iode 131 pour que les cellules captent mieux.|Thyréostimuline
-rhTSH|TSH recombinante injectée pour stimuler les cellules thyroïdiennes sans arrêter la lévothyroxine.|
-radiopharmaceutique;traceur|Médicament radioactif = vecteur (qui va à une cible) + marqueur radioactif (qui est détecté).|Radiopharmaceutique
-99mTc;technétium|Technétium 99m : isotope le plus utilisé en scintigraphie (photons gamma de 140 keV, demi-vie 6 h).|Technétium 99m
-générateur|Générateur molybdène-99 / technétium-99m : « vache à technétium » qui fournit le traceur à l'hôpital.|
-demi-vie|Temps au bout duquel la moitié des atomes radioactifs se sont désintégrés.|Demi-vie
-positon|Électron positif émis par certains isotopes (18F) ; il s'annihile avec un électron en 2 photons de 511 keV.|Positon
-gamma-caméra;collimateur|Caméra qui détecte les photons gamma ; le collimateur (plomb percé) ne laisse passer que ceux d'une direction.|Caméra gamma
-scintigraphie osseuse;MDP|Scintigraphie au 99mTc-MDP : se fixe là où l'os se renouvelle (fracture, métastase, infection).|Scintigraphie osseuse
-ostéoblastique|Activité des ostéoblastes (cellules qui fabriquent l'os), détectée par la scintigraphie osseuse.|Ostéoblaste
-3 phases|Scintigraphie osseuse en 3 temps (vasculaire, tissulaire, osseux) pour distinguer infection, algodystrophie, fracture.|
-superscan|Fixation osseuse diffuse et intense avec reins peu visibles : métastases diffuses ou maladie métabolique.|
-flare phenomenon|Augmentation transitoire des fixations osseuses après le début d'un traitement efficace (réparation), à ne pas confondre avec une progression.|
-SAPHO|Syndrome synovite-acné-pustulose-hyperostose-ostéite : fixation sterno-claviculaire typique en « tête de taureau ».|Syndrome SAPHO
-SDRC;algodystrophie|Syndrome douloureux régional complexe : douleur, œdème et troubles vasomoteurs après un traumatisme ; hyperfixation régionale.|Syndrome douloureux régional complexe
-Paget|Maladie de Paget : remodelage osseux anarchique d'un ou plusieurs os, très fixant.|Maladie osseuse de Paget
-ostéonécrose|Mort d'une zone d'os par manque de sang (tête fémorale) : d'abord froide (hypofixation) puis chaude.|Ostéonécrose
-Legg-Calvé-Perthes|Ostéonécrose de la tête fémorale de l'enfant de 4–8 ans.|Maladie de Legg-Calvé-Perthes
-fracture de fatigue|Fracture par contraintes répétées (marche, sport), visible plus tôt en scintigraphie qu'en radio.|Fracture de fatigue
-leucocytes marqués|Globules blancs du patient marqués et réinjectés ; ils s'accumulent dans les foyers d'infection.|
-Deauville|Échelle visuelle (1–5) de réponse des lymphomes au PET-FDG, en comparant au médiastin et au foie.|
-lymphome|Cancer des ganglions (Hodgkin ou non hodgkinien), suivi par PET-FDG.|Lymphome
-théophylline;caféine|Antagonistes de l'adénosine : interdits avant une scintigraphie de stress pharmacologique (ils l'annulent).|
-adénosine;régadénoson|Vasodilatateurs coronaires qui servent de « stress » pharmacologique en scintigraphie myocardique.|Adénosine
-perfusion myocardique|Scintigraphie du cœur au repos et à l'effort pour voir les zones mal irriguées (ischémie).|Scintigraphie myocardique
-ischémie|Manque d'apport sanguin à un tissu.|Ischémie
-viabilité|Muscle cardiaque vivant mais peu contractile, qui peut récupérer après revascularisation.|
-HFLC|Régime riche en graisses et pauvre en sucres avant un PET-FDG cardiaque, pour « éteindre » le cœur normal (sarcoïdose).|
-FUO;IUO|Fièvre (ou inflammation) d'origine inconnue : le PET-FDG aide à trouver la cause.|Fièvre d'origine inconnue
-furosémide|Diurétique injecté pendant la scintigraphie rénale (MAG3) pour distinguer obstacle vrai et simple dilatation.|Furosémide
-captopril|IEC donné avant une scintigraphie rénale pour démasquer une sténose de l'artère rénale.|Captopril
-cholécystite|Inflammation de la vésicule ; à la scintigraphie hépatobiliaire, la vésicule ne se remplit pas.|Cholécystite
-ganglion sentinelle|Premier ganglion qui draine une tumeur ; repéré par un traceur pour l'enlever et l'analyser.|Ganglion sentinelle
-iode 131;131I;I-131|Iode radioactif émetteur β : détruit le tissu thyroïdien (hyperthyroïdie, reliquats après cancer).|Iode 131
-123I|Iode 123 : isotope d'imagerie de la thyroïde, sans effet destructeur.|Iode 123
-parathyroïde;MIBI;tétrofosmine|Scintigraphie au 99mTc-MIBI ou tétrofosmine pour localiser un adénome parathyroïdien avant chirurgie.|Glande parathyroïde
-177Lu;lutétium|Lutétium 177 : émetteur β utilisé pour les radiothérapies internes vectorisées (DOTATATE, PSMA).|Lutécium 177
-223Ra;radium|Radium 223 : émetteur α qui se fixe sur l'os, traite les métastases osseuses du cancer de prostate.|Radium 223
-embolie pulmonaire|Caillot dans une artère pulmonaire ; la scintigraphie ventilation/perfusion montre un défaut de perfusion bien ventilé.|Embolie pulmonaire
-ventilation/perfusion;V/Q|Scintigraphie pulmonaire comparant l'air (ventilation) et le sang (perfusion).|Scintigraphie pulmonaire
-Alzheimer|Démence avec hypométabolisme temporo-pariétal en PET-FDG.|Maladie d'Alzheimer
-épilepsie|En PET-FDG, le foyer est hypométabolique entre les crises et hyperperfusé pendant la crise (SPECT ictal).|Épilepsie
-ALARA|Principe de dose aussi basse que raisonnablement possible.|ALARA
-blindage|Écran de plomb ou de tungstène qui arrête les rayonnements.|
-KI;iode stable|Comprimés d'iodure de potassium qui saturent la thyroïde et la protègent de l'iode radioactif en cas d'accident nucléaire.|Iodure de potassium
+MN|Médecine nucléaire : spécialité qui administre au patient des sources radioactives non scellées (radiopharmaceutiques) pour faire des images de fonction (scintigraphie, PET) ou pour traiter (iode 131, lutétium 177). Elle montre ce que fait un organe plus que sa forme.|Médecine nucléaire
+SPECT|Tomographie par émission monophotonique : une gamma-caméra tourne autour du patient et reconstruit en 3D la distribution d'un traceur émetteur gamma (technétium…). Moins résolutive que le PET mais plus disponible.|Tomographie par émission monophotonique
+PET|Tomographie par émission de positons : le traceur émet un positon qui s'annihile avec un électron en 2 photons de 511 keV partant dans des directions opposées ; une couronne de détecteurs les capte en coïncidence. Plus sensible et plus résolutive que le SPECT, quantitative (SUV).|Tomographie par émission de positons
+SPECT-CT;PET-CT;PET-MR;MR|Machines hybrides : la caméra fonctionnelle (SPECT ou PET) est couplée à un scanner (CT) ou une IRM (MR) dans la même séance. La fonction est superposée à l'anatomie : on sait exactement où est la fixation ; le CT sert aussi à corriger l'atténuation.|Tomographie par émission de positons
+FDG;FDG-PET;18F-FDG|Fluorodésoxyglucose marqué au fluor 18 : analogue du glucose, capté par les cellules qui consomment beaucoup de sucre (cancers, inflammation, cerveau, cœur) puis piégé dans la cellule. Traceur le plus utilisé en PET (bilan d'extension, réponse au traitement, infection).|Fludésoxyglucose (18F)
+FDG-6P|FDG-6-phosphate : forme du FDG après phosphorylation par l'hexokinase ; contrairement au glucose, il n'est pas dégradé et reste piégé dans la cellule, ce qui crée l'image.|Fludésoxyglucose (18F)
+CT|Scanner, couplé à la caméra (SPECT-CT, PET-CT) pour localiser la fixation et corriger l'atténuation.|Tomodensitométrie
+PSMA|Antigène membranaire spécifique de la prostate : protéine très exprimée par le cancer de prostate (surtout agressif ou métastatique). PET-PSMA (68Ga ou 18F) pour le bilan et la récidive ; 177Lu-PSMA pour traiter.|Antigène membranaire spécifique de la prostate
+DOTATATE;DOTA|Analogue de la somatostatine accroché à un chélateur (DOTA) : marqué au gallium 68 pour l'imagerie (PET) des tumeurs neuroendocrines, au lutétium 177 pour les traiter (PRRT).|DOTATATE
+MIBG|Méta-iodobenzylguanidine : analogue de la noradrénaline capté par les cellules sympathiques ; marquée à l'iode 123 (imagerie : phéochromocytome, neuroblastome, innervation cardiaque) ou 131 (traitement).|Iobenguane
+ATTR;ATTRm;ATTRwt|Amylose à transthyrétine : dépôts de transthyrétine mal repliée, surtout dans le cœur (cardiomyopathie infiltrante). Forme mutée héréditaire (ATTRm) ou sauvage liée à l'âge (ATTRwt). La scintigraphie aux traceurs osseux (DPD, PYP) la diagnostique sans biopsie.|Amylose à transthyrétine
+AL|Amylose AL : dépôts de chaînes légères d'immunoglobuline (gammapathie, myélome). Fixe peu ou pas les traceurs osseux cardiaques ; il faut l'exclure (sang, urines) avant de conclure à une ATTR.|Amylose AL
+SUV|Standardized uptake value : concentration du traceur dans une zone divisée par (dose injectée / poids). Permet de comparer les fixations d'un examen à l'autre, mais dépend de la glycémie, du délai, de la machine.|Standardized uptake value
+VOI;ROI|Volume (VOI) ou région (ROI) d'intérêt : zone dessinée sur l'image pour y mesurer la fixation (SUV, comptages).|Région d'intérêt
+DAT;DaTSCAN|Scintigraphie des transporteurs de la dopamine (ioflupane 123I) : les striatums fixent moins quand les neurones dopaminergiques meurent. Sépare Parkinson et parkinsonismes dégénératifs (diminué) du tremblement essentiel ou parkinsonisme médicamenteux (normal), et démence à corps de Lewy (diminué) d'Alzheimer (normal).|DaTSCAN
+DTPA;EDTA|Traceurs filtrés par le glomérule sans être sécrétés : mesurent précisément le DFG (et le DTPA en aérosol sert à la ventilation pulmonaire).|Acide diéthylène triamine penta-acétique
+HMPAO;ECD|Traceurs lipophiles qui passent la barrière hémato-encéphalique et restent piégés proportionnellement au débit sanguin : SPECT de perfusion cérébrale (épilepsie ictale, démences). Le HMPAO sert aussi à marquer les leucocytes.|Exametazime
+DMSA|Traceur fixé par les cellules du tube proximal (cortex rénal) : montre les cicatrices de pyélonéphrite chez l'enfant et la fonction relative de chaque rein.|Acide dimercaptosuccinique
+MAG3|Traceur filtré et surtout sécrété par le tube proximal : courbe d'élimination de chaque rein ; avec furosémide, distingue un vrai obstacle d'une simple dilatation.|Mertiatide
+TNE|Tumeurs neuroendocrines (intestin, pancréas, poumon) : expriment souvent les récepteurs de la somatostatine, d'où imagerie au 68Ga-DOTATATE et traitement au 177Lu-DOTATATE.|Tumeur neuroendocrine
+SIRT;TARE;90Y|Radiothérapie interne sélective : microsphères d'yttrium 90 (émetteur β) injectées dans l'artère hépatique, qui se bloquent dans les tumeurs du foie (très artérialisées) et les irradient de l'intérieur. Une scintigraphie au MAA prépare le geste (shunt pulmonaire).|Radioembolisation
+TOF|Temps de vol : en PET, mesure de la minuscule différence d'arrivée des 2 photons pour situer l'annihilation sur la ligne : meilleur rapport signal/bruit.|Temps de vol
+LOR|Ligne de réponse : ligne qui relie les deux détecteurs ayant capté en même temps les 2 photons d'une annihilation ; l'événement est quelque part sur cette ligne.|
+FAPI|Traceur qui cible la protéine d'activation des fibroblastes du stroma des tumeurs ; complète le FDG pour des cancers peu avides de glucose.|
+amyloïde;PET amyloïde|PET qui visualise les plaques de β-amyloïde du cerveau ; positif dans la maladie d'Alzheimer (mais aussi chez des âgés sans démence) ; un examen négatif exclut presque l'Alzheimer.|Imagerie amyloïde
+MUGA|Ventriculographie isotopique : globules rouges marqués, images synchronisées à l'ECG ; mesure très reproductible de la fraction d'éjection (suivi des chimiothérapies cardiotoxiques).|Ventriculographie isotopique
+FFR|Réserve de flux fractionnaire : rapport de pression de part et d'autre d'une sténose coronaire en coronarographie ; < 0,80 = sténose qui limite le flux.|Réserve de flux fractionnel
+DPD;PYP|Traceurs osseux (diphosphonates) qui se fixent aussi sur le cœur en cas d'amylose ATTR : fixation cardiaque ≥ celle des côtes (grade 2–3) = ATTR quasi certaine si pas de protéine monoclonale.|
+MAA|Macroagrégats d'albumine marqués au technétium : trop gros pour passer les capillaires pulmonaires, ils s'y bloquent et montrent la perfusion du poumon (embolie) ; servent aussi à préparer la radioembolisation hépatique.|Macroagrégats d'albumine
+NIS;symporteur Na/I|Transporteur sodium-iode qui fait entrer l'iode dans la cellule thyroïdienne : base de la scintigraphie (123I, 99mTc) et du traitement par iode 131 ; stimulé par la TSH.|Symporteur sodium-iodure
+SSTR|Récepteurs de la somatostatine, très exprimés par les tumeurs neuroendocrines ; cibles du DOTATATE et des analogues (octréotide).|Récepteur de la somatostatine
+PRRT|Radiothérapie interne vectorisée par peptides : 177Lu-DOTATATE injecté, il se fixe sur les récepteurs de la somatostatine et irradie la tumeur neuroendocrine de l'intérieur (4 cycles).|Radiothérapie interne vectorisée
+TSH|Hormone hypophysaire qui stimule la thyroïde (et le NIS) ; avant l'iode 131 on la fait monter (≥ 30 mUI/l) pour que les cellules restantes captent l'iode.|Thyréostimuline
+rhTSH|TSH recombinante (Thyrogen) : 2 injections qui stimulent les cellules thyroïdiennes sans arrêter la lévothyroxine (évite l'hypothyroïdie du sevrage).|Thyrotropine alfa
+radiopharmaceutique;traceur|Médicament radioactif = vecteur (molécule qui va à une cible : glucose, phosphonate, anticorps…) + marqueur radioactif (qui émet le signal ou l'irradiation). Donné en quantité infime (nano- à picomolaire), d'où la sensibilité et l'absence d'effet pharmacologique.|Radiopharmaceutique
+99mTc;technétium|Technétium 99m : isotope le plus utilisé en scintigraphie — photons gamma de 140 keV (idéals pour la caméra), demi-vie de 6 h, se lie à de nombreuses molécules ; produit sur place par un générateur.|Technétium 99m
+générateur|Générateur molybdène 99 / technétium 99m (« vache à technétium ») : le molybdène se désintègre en technétium qu'on « trait » chaque jour par élution.|Générateur de technétium 99m
+demi-vie;A0|Demi-vie : temps au bout duquel la moitié des atomes se sont désintégrés (activité A = A0·e^(−λt), A0 activité de départ). Demi-vie physique (isotope), biologique (élimination) et effective (combinaison des deux).|Demi-vie
+positon|Électron positif émis par certains isotopes (18F, 68Ga) ; après quelques millimètres, il rencontre un électron et s'annihile en 2 photons de 511 keV opposés, détectés par le PET.|Positron
+gamma-caméra;collimateur|Caméra qui détecte les photons gamma : le collimateur (plomb percé de trous) ne laisse passer que les photons perpendiculaires, ce qui forme l'image ; un cristal scintillant les transforme en lumière.|Caméra à scintillation
+NaI|Iodure de sodium dopé au thallium : cristal scintillant classique des gamma-caméras, qui transforme le photon gamma en flash lumineux.|Iodure de sodium
+scintigraphie osseuse;MDP|Scintigraphie au 99mTc-MDP (diphosphonate) : se fixe sur l'os en formation, proportionnellement à l'activité des ostéoblastes et au débit sanguin. Très sensible (fracture occulte, métastases, infection) mais peu spécifique.|Scintigraphie osseuse
+ostéoblastique|Activité des ostéoblastes (cellules qui fabriquent l'os) : c'est elle que voit la scintigraphie osseuse ; les métastases purement lytiques (myélome) peuvent être invisibles.|Ostéoblaste
+3 phases|Scintigraphie osseuse en 3 temps : vasculaire (flux artériel), tissulaire (pool sanguin, inflammation) et osseux tardif ; distingue infection, algodystrophie, fracture récente.|Scintigraphie osseuse
+superscan|Fixation osseuse diffuse et intense avec reins et vessie peu visibles (tout le traceur part dans l'os) : métastases diffuses (prostate, sein) ou maladie métabolique (hyperparathyroïdie, ostéomalacie).|Superscan
+flare phenomenon|Augmentation transitoire des fixations osseuses dans les premières semaines d'un traitement efficace (l'os répare) : ne pas la confondre avec une progression.|Flare phenomenon
+SAPHO|Syndrome synovite-acné-pustulose-hyperostose-ostéite : fixation sterno-costo-claviculaire typique en « tête de taureau ».|Syndrome SAPHO
+SDRC;algodystrophie|Syndrome douloureux régional complexe : douleur, œdème et troubles vasomoteurs après un traumatisme ou une chirurgie ; scintigraphie : hyperfixation diffuse des 3 phases sur toute la région (péri-articulaire).|Syndrome douloureux régional complexe
+Paget;PAL|Maladie de Paget : remodelage osseux anarchique d'un ou plusieurs os (os épaissi, déformé) ; très fixant en scintigraphie ; phosphatases alcalines (PAL) élevées ; dégénérescence en sarcome < 1 %.|Maladie osseuse de Paget
+ostéonécrose|Mort d'une zone d'os par manque de sang (tête fémorale, mandibule sous bisphosphonates) : d'abord hypofixante (froide), puis hyperfixante quand l'os répare.|Ostéonécrose
+Legg-Calvé-Perthes|Ostéonécrose de la tête fémorale de l'enfant de 4 à 8 ans (garçon) ; scintigraphie : tête froide dès le début.|Maladie de Legg-Calvé-Perthes
+fracture de fatigue|Fracture par contraintes répétées (marche, sport) : visible en scintigraphie (ou IRM) plusieurs semaines avant la radio.|Fracture de fatigue
+L5;L5-S1|Isthmolyse de L5 : fracture de fatigue de l'arc postérieur (sports en hyperextension), qui peut laisser glisser L5 sur S1 (spondylolisthésis).|Spondylolyse
+leucocytes marqués|Globules blancs du patient prélevés, marqués (99mTc-HMPAO ou 111In) et réinjectés : ils migrent vers les foyers d'infection (prothèse, ostéite, abcès).|Scintigraphie aux leucocytes marqués
+Deauville|Échelle visuelle (1–5) de réponse des lymphomes au PET-FDG : on compare la fixation résiduelle au médiastin et au foie ; 1–3 = réponse complète, 4–5 = maladie active.|Critères de Deauville
+lymphome|Cancer des ganglions (Hodgkin ou non hodgkinien), très avide de FDG : PET pour le bilan initial, la réponse en cours de traitement et la fin de traitement.|Lymphome
+théophylline;caféine|Antagonistes de l'adénosine : ils annulent l'effet du stress pharmacologique, donc interdits (café, thé, chocolat) 12–24 h avant une scintigraphie de stress à l'adénosine.|Théophylline
+adénosine;régadénoson|Vasodilatateurs coronaires utilisés comme « stress » pharmacologique quand le patient ne peut pas faire d'effort : les artères saines se dilatent, les sténosées non, d'où un défaut relatif de perfusion. Contre-indiqués en cas d'asthme sévère, BAV.|Adénosine
+perfusion myocardique|Scintigraphie du cœur à l'effort (ou sous stress) et au repos : un défaut à l'effort qui disparaît au repos = ischémie ; défaut fixe = nécrose (infarctus).|Scintigraphie myocardique
+ischémie|Manque d'apport sanguin à un tissu par rapport à ses besoins ; au cœur, réversible si on rouvre l'artère.|Ischémie
+viabilité|Muscle cardiaque vivant mais qui se contracte mal (hibernant) : il fixe encore le FDG ; il peut récupérer après revascularisation.|Myocarde hibernant
+FEVG|Fraction d'éjection du ventricule gauche : part du sang éjectée à chaque battement (normal > 50–55 %).|Fraction d'éjection
+HFLC|Régime riche en graisses et pauvre en sucres (12–24 h) avant un PET-FDG cardiaque : le cœur normal passe aux graisses et ne fixe plus le FDG, ce qui laisse voir l'inflammation (sarcoïdose, endocardite).|
+FUO;IUO|Fièvre ou inflammation d'origine inconnue : le PET-FDG trouve la cause (infection, vascularite, cancer) dans environ la moitié des cas.|Fièvre d'origine inconnue
+furosémide|Diurétique injecté pendant la scintigraphie rénale au MAG3 : si le traceur s'évacue après, la dilatation n'est pas obstructive ; s'il stagne, il y a un obstacle.|Furosémide
+captopril|IEC donné avant une scintigraphie rénale : dans une sténose de l'artère rénale, le rein dépend de l'angiotensine II ; la bloquer fait chuter sa fonction (asymétrie).|Captopril
+cholécystite|Inflammation de la vésicule : en scintigraphie hépatobiliaire (IDA), la vésicule ne se remplit pas (canal cystique bouché).|Cholécystite aiguë
+ganglion sentinelle|Premier ganglion qui draine une tumeur : un traceur injecté près de la tumeur le marque ; on l'enlève et l'analyse — s'il est sain, on évite le curage complet (sein, mélanome).|Ganglion sentinelle
+iode 131;131I;I-131|Iode 131 : émetteur β (et γ) capté par la thyroïde via le NIS ; détruit le tissu thyroïdien (hyperthyroïdie, reliquats et métastases de cancer différencié). Donné par la bouche ; précautions de radioprotection quelques jours.|Iode 131
+123I|Iode 123 : émetteur gamma pur de demi-vie 13 h, pour l'imagerie de la thyroïde (et le DaTSCAN, la MIBG) sans effet destructeur.|Iode 123
+parathyroïde;MIBI;tétrofosmine|Scintigraphie au 99mTc-MIBI ou tétrofosmine : l'adénome parathyroïdien, riche en mitochondries, garde le traceur plus longtemps que la thyroïde (double phase, ou soustraction avec l'iode 123).|Scintigraphie au sestamibi
+177Lu;lutétium|Lutétium 177 : émetteur β de courte portée (≈ 2 mm) et un peu γ (imagerie possible) ; traceur des radiothérapies internes vectorisées (DOTATATE, PSMA).|Lutétium 177
+223Ra;radium|Radium 223 : émetteur α qui se comporte comme le calcium et se fixe sur l'os en formation ; traite les métastases osseuses du cancer de prostate résistant à la castration (étude ALSYMPCA : survie prolongée).|Radium 223
+embolie pulmonaire;EP|Caillot dans une artère pulmonaire : en scintigraphie ventilation/perfusion, un défaut de perfusion là où la ventilation est normale (mismatch). Alternative à l'angio-CT chez la femme jeune, enceinte, ou si l'iode est contre-indiqué.|Embolie pulmonaire
+ventilation/perfusion;V/Q;V/P|Scintigraphie pulmonaire qui compare l'air (aérosol ou gaz marqué) et le sang (MAA) : en SPECT, très sensible et peu irradiante.|Scintigraphie pulmonaire de ventilation-perfusion
+AngioCT|Angio-scanner thoracique : référence pour l'embolie pulmonaire, plus irradiant pour les seins et avec iode.|Angiographie par tomodensitométrie
+HTAP|Hypertension artérielle pulmonaire : la scintigraphie V/P est l'examen de dépistage de sa forme thromboembolique chronique (opérable).|Hypertension artérielle pulmonaire
+Alzheimer;MA|Maladie d'Alzheimer : démence dégénérative avec plaques amyloïdes et dégénérescence neurofibrillaire (tau) ; PET-FDG : hypométabolisme temporo-pariétal et cingulaire postérieur ; PET amyloïde positif.|Maladie d'Alzheimer
+épilepsie|Épilepsie focale résistante : en PET-FDG, le foyer est hypométabolique entre les crises ; en SPECT ictal (traceur injecté pendant la crise), il est hyperperfusé. Aide à localiser avant chirurgie.|Épilepsie
+ALARA|Principe d'optimisation : dose aussi basse que raisonnablement possible, en gardant un examen utile.|ALARA
+blindage|Écran de plomb ou de tungstène (seringues, conteneurs, paravents) qui arrête les rayonnements ; avec le temps et la distance, l'un des 3 moyens de radioprotection.|
+KI;iode stable|Comprimés d'iodure de potassium : saturent la thyroïde en iode non radioactif et la protègent de l'iode radioactif (accident nucléaire) ; servent aussi à bloquer la thyroïde avant MIBG.|Iodure de potassium
+RI|Rayonnement ionisant : rayonnement assez énergétique pour arracher des électrons et casser l'ADN (gamma, X, β, α).|Rayonnement ionisant
+DL50;DL100|Dose létale pour 50 % (≈ 4 Sv) ou 100 % des personnes irradiées en une fois sur tout le corps, sans traitement.|Dose létale
+DD|Diagnostic différentiel : autres maladies qui peuvent donner la même image ou le même tableau.|Diagnostic différentiel
+AOMI|Artériopathie des membres inférieurs : peut donner des fixations osseuses ou des douleurs qui imitent une autre cause chez l'âgé.|Artériopathie oblitérante des membres inférieurs
+LED|Lupus érythémateux disséminé : une des causes d'ostéonécrose (corticoïdes, vascularite).|Lupus érythémateux disséminé
+IR|Insuffisance rénale : cause d'ostéomalacie et d'ostéodystrophie.|Insuffisance rénale
+PTH|Prothèse totale de hanche : fixation normale autour pendant 1–2 ans après la pose ; au-delà, une fixation diffuse fait craindre infection ou descellement.|Prothèse totale de hanche
+VPN|Valeur prédictive négative : probabilité d'être sain si l'examen est négatif (scintigraphie normale autour d'une prothèse = infection très peu probable).|Valeur prédictive négative
+MEOPA;N2O|MEOPA : mélange 50 % oxygène / 50 % protoxyde d'azote (N2O) inhalé, qui calme et soulage l'enfant pendant un examen sans l'endormir.|Mélange équimolaire oxygène-protoxyde d'azote
+ADO|Antidiabétiques oraux : ils peuvent modifier la fixation du FDG (la metformine augmente la fixation intestinale).|Antidiabétique
+SDHB|Gène SDHB : ses mutations donnent des paragangliomes souvent malins, bien vus au 68Ga-DOTATATE.|SDHB
+TIO;FGF23|Ostéomalacie oncogénique (TIO) : une petite tumeur mésenchymateuse sécrète du FGF23, qui fait fuir le phosphore ; on la trouve au 68Ga-DOTATATE.|Ostéomalacie oncogénique
+miTNM|Classification TNM « moléculaire » propre au PET-PSMA (mi = molecular imaging) pour le cancer de prostate.|
+PPR|Pseudo-polyarthrite rhizomélique : inflammation des épaules et hanches de l'âgé ; fixation FDG typique (épaules, hanches, épineuses) ; à chercher avec une maladie de Horton.|Pseudo-polyarthrite rhizomélique
+PMR|Polymyalgia rheumatica (= PPR) : le PET-FDG la montre avec les vascularites des gros vaisseaux.|Pseudo-polyarthrite rhizomélique
+PSA|Antigène prostatique spécifique : marqueur sanguin du cancer de prostate ; sa remontée après traitement déclenche un PET-PSMA.|Antigène prostatique spécifique
+BHE|Barrière hémato-encéphalique : les traceurs de perfusion cérébrale (HMPAO, ECD) sont lipophiles pour la traverser.|Barrière hémato-encéphalique
+FDOPA;MET;FET|Acides aminés radioactifs (18F-FDOPA, 11C-méthionine, 18F-FET) : captés par les gliomes alors que le cortex normal les fixe peu (meilleur contraste que le FDG) ; la FDOPA explore aussi la voie dopaminergique.|Fluorodopa
+SPM|Statistical parametric mapping : logiciel qui compare voxel par voxel le cerveau d'un patient à une base de sujets normaux pour repérer les zones anormales.|Statistical parametric mapping
+MEG|Magnétoencéphalographie : mesure les champs magnétiques de l'activité cérébrale ; excellente résolution temporelle, comme l'EEG.|Magnétoencéphalographie
+ATN|Classification biologique de l'Alzheimer : A = amyloïde, T = tau, N = neurodégénérescence (PET-FDG, IRM, LCR).|
+MCI|Trouble cognitif léger (mild cognitive impairment) : plainte et déficit objectivés sans perte d'autonomie ; peut évoluer vers une démence ; le PET aide à prédire la conversion.|Trouble cognitif léger
+APP|Aphasie primaire progressive : démence qui commence par le langage (non fluente, sémantique ou logopénique).|Aphasie primaire progressive
+PSP;DCB;AMS|Parkinsonismes atypiques : paralysie supranucléaire progressive (PSP), dégénérescence corticobasale (DCB), atrophie multisystématisée (AMS). DaTSCAN anormal comme dans le Parkinson, mais innervation cardiaque (MIBG) conservée.|Paralysie supranucléaire progressive
+bvFTD;DLFT;TDP-43|Dégénérescences lobaires fronto-temporales (DLFT) : variante comportementale (bvFTD) et aphasies ; lésions à protéine tau ou TDP-43 ; 2e cause de démence avant 65 ans, souvent héréditaire.|Démence frontotemporale
+DLB|Démence à corps de Lewy : démence fluctuante, hallucinations visuelles, parkinsonisme ; DaTSCAN anormal et MIBG cardiaque diminuée, contrairement à l'Alzheimer.|Démence à corps de Lewy
+IC|Insuffisance cardiaque.|Insuffisance cardiaque
+TV;BAV|Tachycardie ventriculaire (TV) et bloc auriculo-ventriculaire (BAV) : contre-indiquent l'épreuve d'effort ou l'adénosine.|Bloc atrioventriculaire
+β-oxydation|Dégradation des acides gras dans la mitochondrie : carburant principal du cœur à jeun ; d'où le régime HFLC avant un PET cardiaque.|Bêta-oxydation
+ESC|Société européenne de cardiologie : les critères de Duke modifiés par l'ESC 2023 intègrent le PET-FDG pour l'endocardite sur prothèse.|Société européenne de cardiologie
+BCG|BCG intravésical (traitement du cancer de vessie) : peut donner une infection à mycobactérie (anévrisme, spondylodiscite) cherchée au PET.|Bacille de Calmette et Guérin
+PNA;RVU|Pyélonéphrite aiguë et reflux vésico-urétéral de l'enfant : le DMSA montre les zones touchées et les cicatrices.|Pyélonéphrite
+TCP|Tube contourné proximal : il fixe le DMSA et sécrète le MAG3.|Tube contourné proximal
+IDA;GR|Traceurs digestifs : IDA (dérivés de l'acide iminodiacétique, excrétés dans la bile : vésicule, fuite biliaire) ; globules rouges (GR) marqués pour localiser un saignement digestif.|Scintigraphie hépatobiliaire
+RGO|Reflux gastro-œsophagien : scintigraphie au lait marqué chez l'enfant (« milk scan ») pour voir le reflux et une éventuelle inhalation.|Reflux gastro-œsophagien
+AP|Incidences antérieure (AP) et postérieure (PA) prises ensemble pour corriger l'atténuation (moyenne géométrique) dans la vidange gastrique.|
+VZV|Virus varicelle-zona : une infection peut ralentir la vidange gastrique.|Virus varicelle-zona
+ATB|Antibiotiques : faussent le test respiratoire à l'urée (Helicobacter) s'ils ont été pris moins de 4 semaines avant.|Antibiotique
+P450|Cytochrome P450 du foie : le test à l'aminopyrine marquée au 14C mesure son activité (fonction hépatique).|Cytochrome P450
+T3-T4|Hormones thyroïdiennes ; élevées avec TSH effondrée dans l'hyperthyroïdie.|Hormone thyroïdienne
+HPT|Hyperparathyroïdie primaire : on localise l'adénome par scintigraphie MIBI ou PET-fluorocholine avant une chirurgie ciblée.|Hyperparathyroïdie
+HTP|Hypertension pulmonaire thromboembolique chronique : la scintigraphie V/P la dépiste (défauts de perfusion persistants).|Hypertension pulmonaire thromboembolique chronique
+T1a;T1b;T2-T3;T4|Stades T du mélanome selon l'épaisseur (Breslow) : T1a < 0,8 mm sans ulcération, T1b 0,8–1 mm ou ulcéré, T2–T3 1–4 mm, T4 > 4 mm. Plus T est élevé, plus le ganglion sentinelle risque d'être atteint.|Mélanome
+TLE|Transfert linéique d'énergie : énergie déposée par unité de longueur ; très élevé pour les α (courte portée, très destructeurs), faible pour les β.|Transfert d'énergie linéique
+ROS|Espèces réactives de l'oxygène (radicaux libres) produites par la radiolyse de l'eau : effets indirects des rayonnements sur l'ADN.|Dérivé réactif de l'oxygène
+CTD|Cancer thyroïdien différencié (papillaire, folliculaire) : garde le NIS, donc capte l'iode 131 ; excellent pronostic.|Cancer de la thyroïde
+ATA|American Thyroid Association : classe le risque de récidive du cancer thyroïdien (faible, intermédiaire, élevé), qui décide de l'iode 131.|American Thyroid Association
+J1-J2;J2;J3;J4|Calendrier rhTSH : injections J1 et J2, dose traceuse J2, scintigraphie J3, traitement J4 (selon le protocole cité).|
+BRAF;V600E|Mutation BRAF V600E : fréquente dans le cancer papillaire de la thyroïde ; associée à une perte de captation de l'iode et ciblable par des inhibiteurs.|BRAF
+BECT|Imagerie de bremsstrahlung (rayonnement de freinage des β) en SPECT après traitement à l'yttrium 90.|
+NETTER-1;NETTER-2|Essais du 177Lu-DOTATATE dans les tumeurs neuroendocrines : NETTER-1 (tumeurs de l'intestin moyen, Ki-67 ≤ 20 %) et NETTER-2 (1re ligne, Ki-67 10–55 % : survie sans progression 22,8 vs 8,5 mois).|Essai clinique
+PFS;HR|Survie sans progression (PFS) et hazard ratio (HR 0,28 = 72 % de risque de progression en moins).|Survie sans progression
+VISION;ALSYMPCA|Essais de radiothérapie interne du cancer de prostate : VISION (177Lu-PSMA-617) et ALSYMPCA (radium 223), tous deux avec gain de survie.|Essai clinique
+PR;SVNP|Synoviorthèse (radioactif injecté dans l'articulation) : indiquée dans les synovites persistantes de polyarthrite rhumatoïde (PR), hémophilie, rhumatisme psoriasique, synovite villonodulaire (SVNP).|Synoviorthèse
+IA|Intelligence artificielle (détection automatique, quantification) ; radiomics = extraction de nombreux paramètres chiffrés des images.|Intelligence artificielle
+SPA|Spondylarthrite ankylosante : on cherche une sacro-iliite (scintigraphie peu spécifique, IRM préférée).|Spondylarthrite ankylosante
+99Mo|Molybdène 99 : isotope « père » du technétium 99m, produit en réacteur par fission de l'uranium 235. Il décroît (T½ 67 h) en 99mTc dans le générateur, que l'on élue chaque jour pendant environ une semaine : cela permet d'avoir du technétium sur place tous les jours.|Molybdène
+235U|Uranium 235 : isotope fissile de l'uranium ; sa fission dans les réacteurs de recherche produit le molybdène 99, d'où vient le technétium 99m.|Uranium 235
+18F|Fluor 18 : émetteur β+ de demi-vie 110 min, produit au cyclotron (en bombardant de l'eau enrichie en 18O). C'est l'isotope le plus utilisé en PET (FDG, FET, FDOPA, choline) ; sa demi-vie permet de le livrer à des hôpitaux sans cyclotron.|Fluor 18
+18O|Oxygène 18 : isotope stable de l'oxygène ; l'eau enrichie en 18O est la cible bombardée de protons au cyclotron pour produire le fluor 18.|Oxygène 18
+68Ga|Gallium 68 : émetteur β+ (T½ 68 min) obtenu d'un générateur (germanium 68), sans cyclotron. Il marque des peptides pour le PET : DOTATATE (tumeurs neuroendocrines), PSMA (prostate), FAPI.|Gallium
+11C;13N;15O|Carbone 11, azote 13 et oxygène 15 : émetteurs β+ de très courte demi-vie (20, 10 et 2 min), produits au cyclotron. Ils marquent des molécules naturelles (méthionine, ammoniac, eau) mais imposent un cyclotron sur place.|Carbone 11
+201Tl|Thallium 201 : émetteur γ (T½ 73 h) qui se comporte comme le potassium et entre dans les cellules myocardiques vivantes. Ancien traceur de perfusion myocardique en SPECT, assez irradiant, remplacé surtout par le sestamibi.|Thallium
+111In|Indium 111 : émetteur γ (T½ 67 h), produit au cyclotron, utilisé pour marquer les leucocytes (recherche d'infection) et certains peptides.|Indium
+124I|Iode 124 : isotope β+ de l'iode (PET), capté par la thyroïde via le NIS comme les autres iodes ; utile pour la dosimétrie avant un traitement à l'iode 131.|Iode
+225Ac|Actinium 225 : émetteur α (énergie élevée, portée de quelques cellules) utilisé en thérapie ciblée (225Ac-PSMA, 225Ac-DOTATOC). Très efficace sur les cellules visées, il épargne mieux les tissus voisins que les β.|Actinium
+89Sr;153Sm|Strontium 89 et samarium 153 : émetteurs β- qui se fixent sur l'os en formation, utilisés pour soulager les douleurs de métastases osseuses multiples (traitement palliatif) ; leur toxicité est surtout médullaire.|Strontium
+82Rb|Rubidium 82 : émetteur β+ de demi-vie 75 secondes, produit par un générateur, analogue du potassium. Traceur PET de perfusion myocardique (repos et stress pharmacologique).|Rubidium
+15O-eau;13N-ammoniac|Traceurs PET de perfusion myocardique : l'eau marquée à l'oxygène 15 est le traceur idéal (diffuse librement, extraction ≈ 100 %), l'ammoniac marqué à l'azote 13 est bien retenu dans le myocarde. Tous deux nécessitent un cyclotron proche.|Scintigraphie myocardique
+99mTc-MDP|Méthylène diphosphonate marqué au technétium : bisphosphonate qui se fixe sur l'hydroxyapatite de l'os en formation. Traceur de la scintigraphie osseuse : il reflète l'activité ostéoblastique (fractures, métastases, infections, Paget).|Scintigraphie osseuse
+99mTc-HMPAO;99mTc-ECD|Traceurs de perfusion cérébrale (HMPAO = exametazime, ECD = bicisate) marqués au technétium : lipophiles, ils passent la BHE et restent piégés selon le débit sanguin (démences, épilepsie, mort cérébrale). Le HMPAO sert aussi à marquer les leucocytes (infection de prothèse).|Exametazime
+68Ga-DOTATATE|DOTATATE marqué au gallium 68 : PET des récepteurs de la somatostatine. Examen de référence des tumeurs neuroendocrines bien différenciées et des paragangliomes, et sélection des patients pour la PRRT au 177Lu.|DOTATATE
+68Ga-PSMA|PSMA marqué au gallium 68 : PET du cancer de prostate (bilan initial à haut risque, récidive biologique avec PSA bas) ; sélectionne aussi les patients pour le 177Lu-PSMA.|Antigène membranaire spécifique de la prostate
+68Ga-FAPI|FAPI marqué au gallium 68 : PET qui cible les fibroblastes associés au cancer (stroma tumoral) ; traceur « pan-cancer » utile quand le FDG fixe peu ou que le bruit de fond est élevé.|
+11C-méthionine;18F-FET|Acides aminés radioactifs (méthionine au carbone 11, fluoro-éthyl-tyrosine au fluor 18) pour le PET des tumeurs cérébrales : le cortex normal les capte peu, d'où un bien meilleur contraste que le FDG pour les gliomes.|Méthionine
+18FLT|Fluorothymidine marquée au fluor 18 : analogue de la thymidine capté par les cellules qui se divisent ; marqueur PET de la prolifération tumorale.|
+18F-FES|Fluoro-œstradiol marqué au fluor 18 : PET qui montre les récepteurs aux œstrogènes, par exemple dans les métastases d'un cancer du sein hormono-dépendant.|
+11C-PIB|Composé B de Pittsburgh marqué au carbone 11 : traceur PET qui se fixe sur les plaques amyloïdes cérébrales ; des dérivés fluorés (plus pratiques) existent. Un examen négatif rend la maladie d'Alzheimer très improbable.|Imagerie amyloïde
+123I-MIBG|MIBG marquée à l'iode 123 : scintigraphie de l'innervation sympathique (phéochromocytome, neuroblastome, cœur). Une fixation cardiaque basse oriente vers la maladie de Parkinson ou la démence à corps de Lewy.|Iobenguane
+123I-ioflupane;DAT-scan|Ioflupane marqué à l'iode 123 (DaTSCAN) : SPECT des transporteurs de la dopamine dans le striatum. Une fixation diminuée signe une perte des neurones dopaminergiques (Parkinson, parkinsonismes atypiques, corps de Lewy) ; normale dans le tremblement essentiel.|DaTSCAN
+99mTc-sestamibi;99mTc-tétrofosmine|Traceurs lipophiles marqués au technétium, captés par les mitochondries : traceurs SPECT de perfusion myocardique (effort/repos) ; le sestamibi (MIBI) sert aussi à localiser les adénomes parathyroïdiens.|Scintigraphie au sestamibi
+99mTc-DPD;99mTc-PYP|Traceurs osseux (diphosphonate, pyrophosphate) marqués au technétium qui se fixent aussi sur le cœur dans l'amylose à transthyrétine (ATTR) ; une fixation cardiaque nette sans gammapathie suffit au diagnostic sans biopsie.|Amylose à transthyrétine
+51Cr-EDTA;99mTc-DTPA|Traceurs filtrés par le glomérule sans être sécrétés ni réabsorbés : la décroissance de leur activité sanguine donne une mesure précise du DFG (clairance isotopique).|Débit de filtration glomérulaire
+99mTc-DMSA|DMSA marqué au technétium : se fixe dans les cellules du tube proximal (cortex rénal). Scintigraphie statique de l'enfant : pyélonéphrite aiguë, cicatrices, fonction relative de chaque rein.|Acide dimercaptosuccinique
+99mTc-MAG3|MAG3 marqué au technétium : filtré et surtout sécrété par le tube proximal. Scintigraphie dynamique (rénogramme) : fonction de chaque rein, obstacle (test au furosémide), greffe.|Mertiatide
+99mTc-sulfure colloïdal;99mTc-sulfure|Sulfure colloïdal marqué au technétium : particules non absorbées par le tube digestif, mélangées au lait ou au repas. Il sert à étudier le transit œsophagien, le reflux (milk scan chez l'enfant) et la vidange gastrique.|
+99mTc-IDA|Dérivés de l'acide iminodiacétique (mébrofénine) marqués au technétium : captés par les hépatocytes et excrétés dans la bile. Scintigraphie hépatobiliaire : cholécystite (vésicule non visualisée), fuite biliaire, atrésie des voies biliaires.|Scintigraphie hépatobiliaire
+99mTc-pertechnétate|Pertechnétate : forme du technétium éluée du générateur ; il est capté par la thyroïde via le NIS (sans être organifié), les glandes salivaires et la muqueuse gastrique (diverticule de Meckel).|Technétium 99m
+99mTc-nanocolloïdes|Nanocolloïdes marqués au technétium : petites particules injectées près d'une tumeur (sein, mélanome) qui migrent par la lymphe vers le premier ganglion de drainage. Base de la technique du ganglion sentinelle.|Ganglion sentinelle
+99mTc-MAA|Macroagrégats d'albumine marqués au technétium : bloqués dans les premiers capillaires rencontrés. Par voie veineuse : scintigraphie de perfusion pulmonaire ; par l'artère hépatique : simulation d'une radioembolisation (shunt vers le poumon, dosimétrie).|Macroagrégats d'albumine
+90Y-PET|PET après radioembolisation à l'yttrium 90 : malgré très peu de positons émis, elle montre la distribution réelle des microsphères dans le foie et permet la dosimétrie post-traitement.|Radioembolisation
+90Y-ibritumomab|Ibritumomab tiuxétan marqué à l'yttrium 90 : anticorps anti-CD20 radioactif (radio-immunothérapie) pour les lymphomes non hodgkiniens B ; efficace mais abandonné pour raisons commerciales.|Ibritumomab tiuxétan
+anti-CD20|Anticorps dirigés contre CD20, protéine de surface des lymphocytes B (et des lymphomes B) ; ex. rituximab, ou ibritumomab marqué pour la radio-immunothérapie.|CD20
+177Lu-DOTATATE|DOTATATE marqué au lutétium 177 : PRRT des tumeurs neuroendocrines exprimant les récepteurs de la somatostatine (4 cycles toutes les 8 semaines). Les essais NETTER-1 et NETTER-2 ont montré un allongement de la survie sans progression.|Radiothérapie interne vectorisée
+177Lu-PSMA-617|PSMA-617 marqué au lutétium 177 : radiothérapie interne du cancer de prostate métastatique résistant à la castration et PSMA positif au PET (essai VISION) ; 1 injection toutes les 6 semaines, jusqu'à 6 cycles.|Lutétium 177
+225Ac-PSMA;225Ac-DOTATOC|Thérapies α en développement : PSMA ou DOTATOC (analogue de la somatostatine) marqués à l'actinium 225. Plus puissantes que le lutétium, elles visent les tumeurs devenues résistantes aux β.|Actinium
+Ki-67|Ki-67 : protéine présente dans les cellules en division ; le pourcentage de cellules marquées (index Ki-67) mesure la prolifération d'une tumeur neuroendocrine (grade) et guide le choix entre DOTATATE et FDG.|Ki-67
+G-CSF|Granulocyte Colony-Stimulating Factor : facteur de croissance qui stimule la moelle à produire des polynucléaires (après chimiothérapie). Il rend la moelle très fixante au FDG pendant environ 10 jours : on attend avant un PET.|
+FDG-avides|Lésions FDG-avides : qui fixent fortement le FDG. Certaines tumeurs le sont peu (TNE bien différenciées, rein à cellules claires, cancer thyroïdien différencié, prostate, tumeurs mucineuses) : un PET-FDG négatif ne les exclut pas.|Fludésoxyglucose (18F)
+Hand-Schüller-Christian|Maladie de Hand-Schüller-Christian : forme chronique multifocale de l'histiocytose langerhansienne avec la triade lésions osseuses lytiques (crâne), exophtalmie et diabète insipide.|Histiocytose langerhansienne
+Letterer-Siwe|Maladie de Letterer-Siwe : forme aiguë disséminée et agressive de l'histiocytose langerhansienne du nourrisson (peau, foie, rate, moelle, os).|Histiocytose langerhansienne
+Erdheim-Chester|Maladie d'Erdheim-Chester : histiocytose non langerhansienne de l'adulte, souvent liée à BRAF V600E ; elle donne des lésions osseuses symétriques condensantes des os longs (genoux), très fixantes en scintigraphie.|Maladie d'Erdheim-Chester
+Marie-Bamberger|Syndrome de Pierre Marie-Bamberger : ostéoarthropathie hypertrophiante pneumique, syndrome paranéoplasique (surtout cancer du poumon) avec hippocratisme digital, polyarthrite et périostite des os longs (fixation linéaire « en rails » en scintigraphie).|Hippocratisme digital
+Zollinger-Ellison|Syndrome de Zollinger-Ellison : tumeur sécrétant de la gastrine (gastrinome, pancréas ou duodénum) avec ulcères multiples ; l'hypersécrétion accélère la vidange gastrique.|Syndrome de Zollinger-Ellison
+Sv;mSv|Sievert (Sv) et millisievert (mSv) : unité de dose efficace, qui estime le risque stochastique d'une irradiation en tenant compte du rayonnement et des organes touchés. Repères : radio du thorax 0,02 mSv, limite annuelle du public 1 mSv, DL50 ≈ 4 Sv.|Sievert
+Gy|Gray : unité de dose absorbée (1 Gy = 1 joule déposé par kilo de tissu). En thérapie, on vise une dose élevée dans la tumeur (ex. ≥ 205 Gy en radioembolisation) en limitant la dose aux tissus sains.|Gray (unité)
+kBq|Kilobecquerel : 1 000 becquerels, le becquerel étant l'activité d'une source (1 désintégration par seconde). On injecte des MBq ; le SUV se calcule à partir d'une concentration en kBq/mL.|Becquerel
+T½|Demi-vie : temps au bout duquel la moitié des noyaux radioactifs s'est désintégrée (l'activité est divisée par 2). Elle doit être assez longue pour faire l'examen et assez courte pour limiter l'irradiation (6 h pour le 99mTc, 110 min pour le 18F).|Demi-vie
+ln2|Logarithme naturel (népérien) de 2 ≈ 0,693 : relie la demi-vie à la constante de désintégration (T½ = ln2 / k).|Logarithme naturel
+Tg|Thyroglobuline : protéine fabriquée seulement par les cellules thyroïdiennes. Après thyroïdectomie et iode 131, elle sert de marqueur de récidive du cancer thyroïdien différencié (elle devrait être indosable).|Thyroglobuline
+3D|Trois dimensions : SPECT et PET reconstruisent des images en volume (coupes dans tous les plans), contrairement à la scintigraphie planaire en 2D.|
+Se;Sp|Sensibilité (Se) : proportion de malades que l'examen détecte (peu de faux négatifs). Spécificité (Sp) : proportion de non-malades que l'examen classe négatifs (peu de faux positifs). Un examen très sensible sert à exclure, un examen très spécifique à confirmer.|Sensibilité et spécificité
+PA|Incidence postérieure (postéro-antérieure) : image prise par l'arrière, associée à l'antérieure (AP) pour faire la moyenne géométrique des comptages et corriger l'atténuation (vidange gastrique).|
+Berg|Niveaux de Berg : division des ganglions de l'aisselle en 3 niveaux selon leur position par rapport au muscle petit pectoral (I en dehors, II en arrière, III en dedans) ; utile pour décrire le drainage du ganglion sentinelle du sein.|
+Duke|Critères de Duke : critères majeurs et mineurs (hémocultures, imagerie, clinique) du diagnostic d'endocardite infectieuse ; la version ESC 2023 y ajoute le PET-FDG et la scintigraphie aux leucocytes marqués pour les prothèses.|Endocardite infectieuse

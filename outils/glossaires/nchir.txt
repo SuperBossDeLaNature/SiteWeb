@@ -1,94 +1,119 @@
-CT|Tomodensitométrie (scanner) : images en coupes par rayons X. Examen de première intention en urgence (sang, fractures).|Tomodensitométrie
-HTIC|Hypertension intracrânienne : pression dans le crâne > 20 mmHg. Céphalées, vomissements, œdème papillaire, puis troubles de conscience.|Hypertension intracrânienne
-PIC|Pression intracrânienne : pression du contenu du crâne, normalement 10–15 mmHg chez l'adulte.|Pression intracrânienne
-LCR|Liquide céphalo-rachidien : liquide qui baigne le cerveau et la moelle, fabriqué par les plexus choroïdes (≈ 500 ml/j).|Liquide cérébrospinal
-HSA|Hémorragie sous-arachnoïdienne : sang dans les espaces autour du cerveau, surtout par rupture d'anévrisme. Céphalée brutale en « coup de tonnerre ».|Hémorragie méningée
-TC|Traumatisme crânien.|Traumatisme crânien
-GCS|Glasgow Coma Scale : score de conscience de 3 à 15 (yeux, verbal, moteur). ≤ 8 = coma, il faut protéger les voies aériennes.|Échelle de Glasgow
-AVC|Accident vasculaire cérébral : ischémique (85 %) ou hémorragique.|Accident vasculaire cérébral
-TEV|Traitement endovasculaire : on passe par une artère (fémorale) avec un cathéter pour boucher un anévrisme (coils) ou retirer un caillot.|Neuroradiologie interventionnelle
-PL|Ponction lombaire : prélèvement de LCR entre L3-L4 ou L4-L5 avec une aiguille. Interdite en cas d'HTIC avec masse.|Ponction lombaire
-PPC|Pression de perfusion cérébrale = PAM − PIC. Doit rester ≥ 60–70 mmHg pour que le cerveau soit irrigué.|
-PAM|Pression artérielle moyenne ≈ (systolique + 2 × diastolique) / 3.|Pression artérielle moyenne
-HTA|Hypertension artérielle.|Hypertension artérielle
-T1;T2|Séquences d'IRM : en T1, l'eau est noire (bonne anatomie) ; en T2, l'eau est blanche (œdème, lésions).|
-BHE;barrière hémato-encéphalique|Barrière hémato-encéphalique : paroi étanche des capillaires du cerveau qui filtre ce qui y entre. Rompue par les tumeurs (prise de contraste).|Barrière hémato-encéphalique
-DVE|Dérivation ventriculaire externe : drain placé dans un ventricule pour évacuer le LCR et mesurer la PIC.|Dérivation ventriculaire externe
-DVP;dérivation ventriculo-péritonéale|Dérivation ventriculo-péritonéale : tuyau sous la peau qui conduit le LCR des ventricules vers le ventre. Traite l'hydrocéphalie.|Dérivation ventriculo-péritonéale
-NAA|N-acétylaspartate : marqueur des neurones en spectroscopie IRM. Il baisse dans les tumeurs.|
-PET|Tomographie par émission de positons : imagerie du métabolisme (glucose marqué).|Tomographie par émission de positons
-IDH1;IDH|Gène dont la mutation définit les gliomes de meilleur pronostic.|Isocitrate déshydrogénase
-MGMT|Enzyme de réparation de l'ADN. Si son gène est méthylé (inactif), le glioblastome répond mieux au témozolomide.|MGMT
-WFNS|Échelle clinique de gravité de l'HSA (I à V) basée sur le Glasgow et la présence d'un déficit.|
-DSA;angiographie|Angiographie numérisée : on injecte un contraste dans les artères par cathéter pour voir anévrismes et malformations. Examen de référence.|Angiographie
-HSD;hématome sous-dural|Hématome sous-dural : sang entre dure-mère et arachnoïde, en forme de croissant. Aigu après choc violent, chronique chez l'âgé.|Hématome sous-dural
-HED;hématome extradural|Hématome extradural : sang entre l'os et la dure-mère (artère méningée moyenne), en lentille ; intervalle libre typique.|Hématome extradural
-AINS|Anti-inflammatoires non stéroïdiens (ibuprofène…).|Anti-inflammatoire non stéroïdien
-KPS|Karnofsky Performance Status : autonomie du patient de 0 à 100 % ; guide les décisions en neuro-oncologie.|Indice de Karnofsky
-GH|Hormone de croissance. Un adénome qui en sécrète donne une acromégalie.|Hormone de croissance
-ACTH|Hormone hypophysaire qui stimule le cortisol. Un adénome qui en sécrète donne une maladie de Cushing.|Hormone adrénocorticotrope
-GDC|Guglielmi Detachable Coil : premier coil de platine à détachement contrôlé pour boucher les anévrismes.|
-ISAT|Grande étude (2002) : pour les anévrismes rompus, le traitement endovasculaire fait mieux que le clipping à 1 an.|
-ISUIA|Étude sur l'histoire naturelle et le traitement des anévrismes non rompus.|
-WEB|Woven EndoBridge : petite cage tressée placée dans un anévrisme à collet large.|
-MAV|Malformation artério-veineuse : nœud (nidus) de vaisseaux où artères et veines communiquent sans capillaires. Risque d'hémorragie et d'épilepsie.|Malformation artério-veineuse
-FAV|Fistule artério-veineuse : communication directe entre une artère et une veine (souvent durale), sans nidus.|Fistule artério-veineuse
-AIT|Accident ischémique transitoire : déficit neurologique bref qui régresse, sans lésion à l'IRM. Annonce souvent un AVC.|Accident ischémique transitoire
-NIHSS|Score de gravité de l'AVC (0 à 42) basé sur l'examen neurologique.|NIH Stroke Scale
-DAWN;DEFUSE;MR CLEAN|Grandes études qui ont prouvé l'efficacité de la thrombectomie dans l'AVC (MR CLEAN), y compris tardive avec imagerie de sélection (DAWN, DEFUSE 3).|
-FGFR|Récepteurs des facteurs de croissance des fibroblastes ; leurs mutations causent des craniosténoses syndromiques (Crouzon, Apert…).|
-LINAC|Accélérateur linéaire : machine de radiothérapie qui produit des rayons X de haute énergie (radiochirurgie possible).|Accélérateur linéaire
-FDG|Glucose radioactif (fluor 18) utilisé en PET.|Fludésoxyglucose (18F)
-Monro-Kellie;Monro|Doctrine de Monro-Kellie : le crâne est rigide, donc si un volume augmente (sang, tumeur), un autre (LCR, sang veineux) doit diminuer.|
-engagement|Hernie de cerveau à travers un orifice rigide (sous la faux, sous la tente, trou occipital) par excès de pression. Urgence vitale.|Engagement cérébral
-triade de Cushing;Cushing|Triade de Cushing : hypertension, bradycardie et respiration irrégulière ; signe tardif d'HTIC avant l'engagement.|Réflexe de Cushing
-œdème papillaire|Gonflement de la papille optique au fond d'œil, signe d'HTIC.|Œdème papillaire
-mannitol|Sucre osmotique injecté IV qui attire l'eau hors du cerveau et fait baisser la PIC.|Mannitol
-hydrocéphalie|Accumulation de LCR qui dilate les ventricules, par blocage (non communicante) ou défaut de résorption (communicante).|Hydrocéphalie
-plexus choroïdes|Tissu vascularisé dans les ventricules qui fabrique le LCR.|Plexus choroïde
-craniectomie|Retrait d'un volet d'os du crâne (sans le remettre tout de suite) pour laisser gonfler le cerveau.|Craniectomie
-craniotomie|Ouverture du crâne par un volet osseux qu'on remet en fin d'intervention.|Craniotomie
-intervalle libre|Période où le patient va bien après le choc, avant de s'aggraver : typique de l'hématome extradural.|
-mydriase|Pupille dilatée. Unilatérale et aréactive chez un traumatisé = compression du III par engagement.|Mydriase
-contusion|Lésion du cerveau par choc contre la boîte crânienne : petits foyers hémorragiques et œdème.|
-lésions axonales diffuses|Cisaillement des axones par accélération-décélération : coma avec un scanner presque normal.|Lésion axonale diffuse
-queue de cheval|Faisceau des racines lombaires et sacrées sous la moelle. Sa compression (urgence !) donne anesthésie en selle et troubles sphinctériens.|Syndrome de la queue de cheval
-névrite cervico-brachiale;névralgie cervico-brachiale|Douleur du cou irradiant dans le bras selon une racine (souvent hernie discale ou arthrose cervicale).|Névralgie cervico-brachiale
-hernie discale|Saillie du noyau du disque intervertébral à travers l'anneau fibreux, qui peut comprimer une racine.|Hernie discale
-myélopathie cervicarthrosique;myélopathie|Compression progressive de la moelle cervicale par l'arthrose : maladresse des mains, marche raide, réflexes vifs.|Myélopathie cervicarthrosique
-sciatique|Douleur dans le trajet du nerf sciatique (L5 ou S1), le plus souvent par hernie discale lombaire.|Sciatique
-spondylolisthésis|Glissement d'une vertèbre sur celle du dessous.|Spondylolisthésis
-canal lombaire étroit|Rétrécissement du canal rachidien lombaire (arthrose) : douleurs des jambes à la marche, soulagées en se penchant.|Sténose spinale
-laminectomie|Ablation de la lame vertébrale pour décomprimer la moelle ou les racines.|Laminectomie
-arthrodèse|Fusion chirurgicale de vertèbres (vis, tiges, greffe osseuse) pour les stabiliser.|Arthrodèse
-gliomes;gliome|Tumeurs développées à partir des cellules gliales, de bas grade à glioblastome.|Gliome
-glioblastome|Gliome le plus fréquent et le plus agressif (grade 4) ; survie médiane ≈ 15 mois malgré chirurgie + radio-chimiothérapie.|Glioblastome
-témozolomide|Chimiothérapie orale alkylante utilisée dans le glioblastome.|Témozolomide
-méningiome|Tumeur bénigne des méninges, à base d'implantation sur la dure-mère, souvent chez la femme.|Méningiome
-adénome hypophysaire;adénome|Tumeur bénigne de l'hypophyse, sécrétante (prolactine, GH, ACTH) ou non ; peut comprimer le chiasma optique.|Adénome hypophysaire
-hémianopsie bitemporale|Perte des deux moitiés externes du champ visuel, par compression du chiasma (adénome hypophysaire).|Hémianopsie bitemporale
-voie transsphénoïdale;transsphénoïdale|Accès à l'hypophyse par le nez et le sinus sphénoïdal, sans ouvrir le crâne.|
-métastases;métastase|Tumeurs cérébrales secondaires (poumon, sein, mélanome, rein) ; ce sont les tumeurs cérébrales les plus fréquentes.|Métastase (médecine)
-radiochirurgie;Gamma Knife|Irradiation à forte dose, très précise, d'une petite cible (< 3 cm) en une séance.|Radiochirurgie
-anévrisme;anévrysme|Dilatation localisée de la paroi d'une artère. Dans le cerveau, sa rupture donne une HSA.|Anévrisme intracrânien
-coils;coil|Petits ressorts de platine déposés dans l'anévrisme par cathéter pour le boucher.|
-clipping|Pose chirurgicale d'un clip métallique sur le collet d'un anévrisme, par craniotomie.|
-flow diverter|Stent à mailles serrées qui détourne le sang de l'anévrisme, lequel finit par thromboser.|
-vasospasme|Rétrécissement des artères cérébrales entre J4 et J14 après une HSA, avec risque d'ischémie retardée.|Vasospasme cérébral
-nimodipine|Inhibiteur calcique donné après une HSA pour prévenir les conséquences du vasospasme.|Nimodipine
-thrombectomie|Retrait mécanique du caillot d'une grosse artère cérébrale par cathéter, dans l'AVC ischémique.|Thrombectomie mécanique
-thrombolyse|Médicament IV (rtPA) qui dissout le caillot de l'AVC, dans les 4,5 premières heures.|Thrombolyse
-pénombre|Zone du cerveau mal perfusée mais encore sauvable autour du cœur de l'infarctus.|
-craniosténoses;craniosténose|Fermeture trop précoce d'une ou plusieurs sutures du crâne, qui déforme la tête et peut causer une HTIC.|Craniosynostose
-scaphocéphalie|Craniosténose la plus fréquente : fermeture de la suture sagittale, crâne long et étroit.|Scaphocéphalie
-plagiocéphalie|Crâne aplati d'un côté ; souvent positionnelle (bébé couché toujours du même côté), rarement par craniosténose.|Plagiocéphalie
-spina bifida|Défaut de fermeture du tube neural au niveau du rachis, de la forme cachée (occulta) à la myéloméningocèle.|Spina bifida
-myéloméningocèle|Forme grave de spina bifida : la moelle et les méninges sortent dans une poche au dos, avec paralysie sous la lésion.|Myéloméningocèle
-acide folique|Vitamine B9 : sa prise avant et en début de grossesse réduit le risque de spina bifida.|Acide folique
-médulloblastome|Tumeur maligne du cervelet chez l'enfant, la plus fréquente de la fosse postérieure maligne.|Médulloblastome
-craniopharyngiome|Tumeur bénigne près de l'hypophyse chez l'enfant : troubles visuels, endocriniens et HTIC.|Craniopharyngiome
-névralgie du trijumeau|Douleurs en décharges électriques brèves dans le visage (V2-V3), souvent par conflit avec une artère.|Névralgie du trijumeau
-carbamazépine|Antiépileptique, traitement de 1re ligne de la névralgie du trijumeau.|Carbamazépine
-stimulation cérébrale profonde|Électrodes implantées dans un noyau profond (sous-thalamique…) et reliées à un stimulateur ; traite Parkinson, tremblement, certaines épilepsies.|Stimulation cérébrale profonde
-spasticité|Raideur des muscles par atteinte de la voie pyramidale, qui augmente avec la vitesse d'étirement.|Spasticité
-baclofène|Agoniste GABA-B qui diminue la spasticité ; peut être délivré par pompe intrathécale.|Baclofène
+CT|Scanner (tomodensitométrie) : examen de 1re intention en urgence neurochirurgicale (sang frais blanc, fractures, effet de masse, hydrocéphalie), rapide et disponible ; moins bon que l'IRM pour les tumeurs et la fosse postérieure.|Tomodensitométrie
+AngioCT|Angio-scanner : scanner avec injection rapide d'iode au temps artériel, qui montre les artères (anévrisme, occlusion, dissection) ; 1er examen devant une HSA ou un AVC candidat à la thrombectomie.|Angiographie par tomodensitométrie
+HTIC|Hypertension intracrânienne : pression dans le crâne > 20 mmHg (masse, œdème, hydrocéphalie, hématome) ; céphalées matinales, vomissements en jet, œdème papillaire, puis troubles de la conscience et risque d'engagement.|Hypertension intracrânienne
+PIC|Pression intracrânienne : pression du contenu du crâne, normalement 10–15 mmHg chez l'adulte (plus bas chez le nourrisson) ; mesurée par un capteur ou une DVE chez le traumatisé grave.|Pression intracrânienne
+DSC|Débit sanguin cérébral : maintenu constant par l'autorégulation tant que la PPC reste dans les limites ; quand la PIC monte trop, il chute (ischémie).|Débit sanguin cérébral
+LCR|Liquide céphalo-rachidien : fabriqué par les plexus choroïdes (≈ 500 ml/j, renouvelé 3–4 fois par jour), il circule des ventricules vers les espaces autour du cerveau et est résorbé par les granulations arachnoïdiennes ; un blocage donne une hydrocéphalie.|Liquide cérébrospinal
+HSA|Hémorragie sous-arachnoïdienne : sang dans les espaces autour du cerveau, surtout par rupture d'anévrisme ; céphalée brutale « en coup de tonnerre », vomissements, raideur de nuque ; complications : resaignement, hydrocéphalie, vasospasme.|Hémorragie méningée
+TC|Traumatisme crânien : classé léger (GCS 13–15), modéré (9–12) ou grave (≤ 8) ; risques : hématomes, contusions, lésions axonales, HTIC.|Traumatisme crânien
+GCS|Glasgow Coma Scale : score de conscience de 3 à 15 (yeux, verbal, moteur) ; ≤ 8 = coma, il faut protéger les voies aériennes ; la composante motrice est la plus pronostique.|Échelle de Glasgow
+AVC|Accident vasculaire cérébral : ischémique (≈ 85 %) ou hémorragique ; le neurochirurgien intervient pour l'hématome cérébelleux, l'infarctus malin (craniectomie) et l'hydrocéphalie.|Accident vasculaire cérébral
+TEV|Traitement endovasculaire : on passe par l'artère fémorale (ou radiale) avec un cathéter jusqu'au cerveau pour boucher un anévrisme (coils, flow diverter), emboliser une malformation ou retirer un caillot.|Neuroradiologie interventionnelle
+PL;L4-L5|Ponction lombaire : aiguille entre deux vertèbres lombaires sous la fin de la moelle (L3-L4 ou L4-L5) pour prélever le LCR ou mesurer sa pression ; interdite s'il y a une masse avec HTIC (risque d'engagement).|Ponction lombaire
+PPC|Pression de perfusion cérébrale = PAM − PIC ; doit rester ≥ 60–70 mmHg pour que le cerveau soit irrigué : on agit soit en montant la tension, soit en baissant la PIC.|Pression de perfusion cérébrale
+PAM|Pression artérielle moyenne ≈ (systolique + 2 × diastolique) / 3 ; c'est elle qui pousse le sang dans le cerveau.|Pression artérielle moyenne
+PAS|Pression artérielle systolique : une hypotension (< 90 mmHg) chez le traumatisé crânien aggrave beaucoup le pronostic (ischémie secondaire).|Pression artérielle
+HTA|Hypertension artérielle : cause principale des hématomes cérébraux profonds ; dans l'HTIC, une HTA réflexe tente de maintenir la PPC (triade de Cushing).|Hypertension artérielle
+T1;T2|Séquences d'IRM : en T1 l'eau est noire (anatomie, prise de gadolinium des tumeurs) ; en T2 l'eau est blanche (œdème, lésions, LCR).|Imagerie par résonance magnétique
+BHE;barrière hémato-encéphalique|Barrière hémato-encéphalique : jonctions serrées des capillaires du cerveau qui filtrent ce qui entre ; rompue par une tumeur ou une inflammation (prise de contraste, œdème vasogénique).|Barrière hémato-encéphalique
+DVE|Dérivation ventriculaire externe : drain placé par un trou de trépan dans un ventricule, relié à une poche à l'extérieur ; évacue le LCR (hydrocéphalie aiguë, HSA) et mesure la PIC ; temporaire (risque d'infection).|Dérivation ventriculaire externe
+DVP;dérivation ventriculo-péritonéale|Dérivation ventriculo-péritonéale : tube sous la peau qui conduit le LCR d'un ventricule vers le péritoine, avec une valve réglable ; traitement définitif de l'hydrocéphalie ; complications : obstruction, infection, sur-drainage.|Dérivation ventriculo-péritonéale
+NAA|N-acétylaspartate : marqueur des neurones vivants en spectroscopie IRM ; il baisse dans les tumeurs (qui remplacent les neurones), tandis que la choline monte (prolifération).|N-acétylaspartate
+PET|Tomographie par émission de positons : imagerie du métabolisme (glucose marqué, acides aminés) ; aide à distinguer récidive tumorale et radionécrose.|Tomographie par émission de positons
+FDG|Glucose radioactif (fluor 18) utilisé en PET ; le cerveau normal en consomme beaucoup, ce qui limite son intérêt pour les tumeurs cérébrales.|Fludésoxyglucose (18F)
+IDH1;IDH|Gène de l'isocitrate déshydrogénase : sa mutation définit les astrocytomes et oligodendrogliomes de meilleur pronostic ; un gliome sans mutation IDH avec certaines anomalies est un glioblastome.|Isocitrate déshydrogénase
+MGMT|Enzyme qui répare l'ADN abîmé par les chimiothérapies alkylantes ; si son gène est méthylé (éteint), le glioblastome répond mieux au témozolomide (survie plus longue).|O6-méthylguanine-ADN méthyltransférase
+WFNS|Échelle clinique de gravité de l'HSA (I à V) fondée sur le Glasgow et la présence d'un déficit moteur ; elle prédit le pronostic.|Échelle WFNS
+DSA;angiographie|Angiographie numérique soustraite : injection d'iode dans les artères cérébrales par cathéter, avec soustraction de l'os ; examen de référence des anévrismes et malformations, qui permet de traiter dans la même séance.|Angiographie cérébrale
+HSD;hématome sous-dural|Hématome sous-dural : sang entre la dure-mère et le cerveau, par rupture de veines « en pont ». Aigu (trauma violent, croissant hyperdense, souvent avec contusions : mauvais pronostic) ou chronique (âgé, anticoagulé, chute banale ; confusion, troubles de la marche des semaines après ; drainage par trou de trépan).|Hématome sous-dural
+HED;hématome extradural|Hématome extradural : sang entre l'os et la dure-mère, par déchirure de l'artère méningée moyenne sous une fracture temporale ; lentille biconvexe au scanner ; souvent intervalle libre ; urgence chirurgicale, excellent pronostic si opéré vite.|Hématome extradural
+AINS|Anti-inflammatoires non stéroïdiens : traitement de la douleur radiculaire ; à éviter en cas d'hémorragie ou avant chirurgie.|Anti-inflammatoire non stéroïdien
+KPS|Karnofsky Performance Status : autonomie du patient de 0 à 100 % ; guide les décisions en neuro-oncologie (on traite plus agressivement un patient autonome).|Indice de Karnofsky
+GH|Hormone de croissance : un adénome hypophysaire qui en sécrète donne une acromégalie (gigantisme chez l'enfant) ; on dose l'IGF-1.|Hormone de croissance
+ACTH|Hormone hypophysaire qui stimule le cortisol : un adénome qui en sécrète donne une maladie de Cushing (souvent un microadénome).|Hormone adrénocorticotrope
+NEM|Néoplasie endocrinienne multiple de type 1 : peut comporter un adénome hypophysaire (avec parathyroïdes et pancréas).|Néoplasie endocrinienne multiple
+GDC|Guglielmi Detachable Coil : premier coil de platine à détachement électrique contrôlé (1991), qui a lancé le traitement endovasculaire des anévrismes.|Spirale de Guglielmi
+ISAT|Grand essai (2002) sur les anévrismes rompus : le traitement endovasculaire (coils) donne moins de décès et de dépendance à 1 an que le clipping, au prix d'un peu plus de récidives.|International Subarachnoid Aneurysm Trial
+ISUIA|Grande étude sur l'histoire naturelle des anévrismes non rompus : le risque de rupture dépend surtout de la taille et de la localisation (circulation postérieure plus à risque).|
+WEB|Woven EndoBridge : petite cage tressée placée à l'intérieur d'un anévrisme de bifurcation à collet large, qui le ferme sans stent dans l'artère.|
+MAV|Malformation artério-veineuse : nœud (nidus) de vaisseaux où artères et veines communiquent sans capillaires ; risque d'hémorragie (≈ 2–4 %/an) et d'épilepsie ; traitement : chirurgie, embolisation, radiochirurgie ou surveillance.|Malformation artério-veineuse cérébrale
+FAV|Fistule artério-veineuse durale : communication directe entre une artère et une veine (sinus) de la dure-mère, sans nidus ; souffle, acouphène pulsatile, ou hémorragie si drainage dans les veines corticales.|Fistule artérioveineuse durale
+AIT|Accident ischémique transitoire : déficit neurologique bref qui régresse sans lésion à l'IRM ; annonce souvent un AVC (bilan rapide, carotides).|Accident ischémique transitoire
+NIHSS|Score de gravité de l'AVC (0 à 42) fondé sur l'examen neurologique ; un score élevé fait penser à l'occlusion d'une grosse artère (thrombectomie).|NIH Stroke Scale
+rtPA|Activateur tissulaire du plasminogène recombinant (altéplase) : thrombolyse IV de l'AVC ischémique dans les 4,5 h.|Altéplase
+DAWN;DEFUSE;MR CLEAN;MR;CLEAN|Essais majeurs de la thrombectomie : MR CLEAN (2015, efficacité dans les 6 h), DAWN et DEFUSE-3 (jusqu'à 16–24 h si l'imagerie montre une pénombre à sauver).|Thrombectomie mécanique
+ARM|Angiographie par résonance magnétique : vaisseaux en IRM, sans iode ; suivi des anévrismes traités.|Angiographie par résonance magnétique
+FGFR;TWIST;ERF;TCF12|Gènes dont les mutations causent des craniosténoses syndromiques (FGFR : Crouzon, Apert, Pfeiffer ; TWIST : Saethre-Chotzen) ou non syndromiques.|Craniosynostose
+LINAC|Accélérateur linéaire : machine de radiothérapie qui produit des rayons X de haute énergie ; avec un guidage précis, il fait de la radiochirurgie comme le Gamma Knife.|Accélérateur linéaire
+ALA|Acide 5-aminolévulinique : bu avant l'opération, il rend les cellules de glioblastome fluorescentes en lumière bleue, pour en enlever le maximum.|Acide aminolévulinique
+TTFields|Tumor treating fields : champs électriques alternatifs appliqués par des électrodes sur le crâne rasé, qui gênent la division des cellules du glioblastome (gain de survie modeste).|Tumor treating fields
+Monro-Kellie;Monro|Doctrine de Monro-Kellie : le crâne est une boîte rigide contenant cerveau, sang et LCR ; si un volume augmente (masse), les autres doivent diminuer, sinon la PIC monte, d'abord peu puis très vite.|Doctrine de Monro-Kellie
+engagement|Hernie de cerveau sous la faux, à travers la tente (uncus : mydriase du même côté puis coma) ou par le trou occipital (amygdales cérébelleuses : arrêt respiratoire) quand la PIC devient trop haute ; urgence vitale.|Engagement cérébral
+triade de Cushing;Cushing|Triade de Cushing : HTA, bradycardie et respiration irrégulière ; signe tardif d'une HTIC grave avec engagement imminent.|Réflexe de Cushing
+œdème papillaire|Gonflement de la papille (tête du nerf optique) au fond d'œil, signe d'HTIC durable ; peut entraîner une baisse de vision.|Œdème papillaire
+mannitol|Soluté osmotique IV qui attire l'eau du cerveau vers le sang et baisse la PIC en urgence (comme le sérum salé hypertonique), le temps d'un traitement définitif.|Mannitol
+hydrocéphalie|Dilatation des ventricules par accumulation de LCR : obstructive (blocage de la circulation : tumeur, sténose de l'aqueduc) ou communicante (défaut de résorption : après HSA, méningite) ; traitement : DVE, DVP ou ventriculocisternostomie.|Hydrocéphalie
+plexus choroïdes|Structures vascularisées dans les ventricules qui fabriquent le LCR.|Plexus choroïde
+craniectomie|Ablation d'un volet osseux du crâne sans le remettre (gardé au congélateur ou sous la peau du ventre) pour laisser gonfler le cerveau (HTIC réfractaire, infarctus malin) ; l'os est reposé plus tard (cranioplastie).|Craniectomie
+craniotomie|Ouverture du crâne par un volet osseux qu'on remet en place à la fin de l'opération.|Craniotomie
+intervalle libre|Période de conscience normale entre le choc et l'aggravation : classique de l'hématome extradural (le sang s'accumule pendant ce temps).|
+mydriase|Pupille dilatée ; aréactive et d'un seul côté chez un patient comateux = compression du nerf III par un engagement temporal, urgence.|Mydriase
+contusion|Lésion « en bleu » du cerveau (hémorragie + œdème), souvent frontale et temporale, par choc contre l'os (coup et contrecoup) ; peut grossir les premiers jours.|Contusion cérébrale
+lésions axonales diffuses|Étirement et rupture des axones par accélération-décélération (accident de voiture) : coma profond avec scanner presque normal ; IRM (petits saignements) ; séquelles fréquentes.|Lésion axonale diffuse
+queue de cheval|Faisceau des racines nerveuses sous la fin de la moelle (L1-L2) ; sa compression (grosse hernie) donne anesthésie en selle, troubles urinaires et sexuels, déficit des jambes : urgence chirurgicale.|Syndrome de la queue de cheval
+névrite cervico-brachiale;névralgie cervico-brachiale|Douleur radiculaire du bras par compression d'une racine cervicale (hernie discale, arthrose) : douleur, fourmillements, faiblesse dans un territoire précis.|Radiculopathie cervicale
+hernie discale|Saillie du noyau du disque qui comprime une racine : sciatique ou névralgie cervico-brachiale ; 70–90 % guérissent avec un traitement médical en quelques semaines ; chirurgie si déficit, queue de cheval ou douleur rebelle.|Hernie discale
+myélopathie cervicarthrosique;myélopathie|Compression de la moelle cervicale par l'arthrose (disques, ostéophytes, ligaments épaissis) chez l'âgé : maladresse des mains, troubles de la marche, réflexes vifs ; décompression chirurgicale.|Myélopathie cervicale
+L4;L5;S1|Racines et dermatomes de la jambe : L4 (devant le genou), L5 (dessus du pied jusqu'au gros orteil, releveurs), S1 (plante et petits orteils, réflexe achilléen).|Racine nerveuse
+C1;C7|1re et 7e vertèbres cervicales : une radio du rachis cervical après trauma doit montrer de C1 à C7 (jusqu'au plateau de T1), sinon on fait un scanner.|Vertèbre cervicale
+sciatique|Douleur qui descend dans la jambe sous le genou, dans le territoire de L5 ou S1, presque toujours par hernie discale chez le jeune adulte.|Sciatique
+spondylolisthésis|Glissement d'une vertèbre sur la suivante (par lyse isthmique ou par arthrose), qui peut rétrécir le canal ou les foramens.|Spondylolisthésis
+canal lombaire étroit|Rétrécissement du canal lombaire chez l'âgé (arthrose, ligament jaune, disque) : douleurs et faiblesse des jambes à la marche, soulagées par la flexion ; décompression si invalidant.|Sténose du canal lombaire
+laminectomie|Ablation de la lame vertébrale (et du ligament jaune) pour élargir le canal et libérer la moelle ou les racines.|Laminectomie
+arthrodèse|Fusion de deux vertèbres ou plus (vis, tiges, greffe) pour stabiliser le rachis (glissement, instabilité, fracture).|Arthrodèse
+TB|Tuberculose : peut atteindre la colonne (mal de Pott, spondylodiscite), surtout en réactivation.|Tuberculose
+gliomes;gliome|Tumeurs nées des cellules gliales (astrocytes, oligodendrocytes) : de bas grade (évolution lente, jeune, épilepsie) à haut grade (glioblastome) ; on les classe aujourd'hui par la biologie moléculaire (IDH, 1p/19q).|Gliome
+glioblastome|Gliome le plus fréquent et le plus agressif de l'adulte (sans mutation IDH) : prise de contraste en anneau, nécrose ; chirurgie maximale, radiothérapie + témozolomide (protocole de Stupp) ; survie médiane ≈ 15–20 mois.|Glioblastome
+témozolomide|Chimiothérapie orale (agent alkylant) donnée avec et après la radiothérapie du glioblastome ; plus efficace si MGMT est méthylé.|Témozolomide
+méningiome|Tumeur, presque toujours bénigne, des méninges (femme, 40–60 ans) ; souvent découverte par hasard ; prise de contraste homogène avec « queue durale » ; surveillance, chirurgie ou radiochirurgie.|Méningiome
+adénome hypophysaire;adénome|Tumeur bénigne de l'hypophyse (≈ 15 % des tumeurs intracrâniennes) : sécrétante (prolactine, GH, ACTH) ou non ; un macroadénome comprime le chiasma (hémianopsie bitemporale) et l'hypophyse saine.|Adénome hypophysaire
+hémianopsie bitemporale|Perte des deux champs visuels temporaux (vision « en œillères ») par compression du chiasma optique par en dessous (adénome hypophysaire, craniopharyngiome).|Hémianopsie bitemporale
+voie transsphénoïdale;transsphénoïdale|Accès à l'hypophyse par le nez et le sinus sphénoïdal (souvent sous endoscope), sans ouvrir le crâne ; voie habituelle de l'adénome.|Chirurgie transsphénoïdale
+métastases;métastase|Tumeurs secondaires dans le cerveau (poumon, sein, mélanome, rein) : les tumeurs cérébrales les plus fréquentes de l'adulte ; souvent multiples, à la jonction substance grise-blanche, avec beaucoup d'œdème ; chirurgie si unique et accessible, radiochirurgie, radiothérapie.|Métastase cérébrale
+radiochirurgie;Gamma Knife|Irradiation à très forte dose, en une ou quelques séances, d'une cible de petite taille avec une précision millimétrique (Gamma Knife, LINAC) : métastases, neurinomes, MAV, névralgie du trijumeau.|Radiochirurgie
+anévrisme;anévrysme|Dilatation en sac de la paroi d'une artère cérébrale (bifurcations du polygone de Willis) ; sa rupture cause la plupart des HSA ; traitement par coils, flow diverter ou clipping.|Anévrisme intracrânien
+coils;coil|Petits ressorts de platine poussés par cathéter dans un anévrisme pour le remplir et le faire coaguler (traitement endovasculaire).|Embolisation par spires
+clipping|Pose chirurgicale (craniotomie) d'un clip métallique sur le collet de l'anévrisme pour l'exclure de la circulation.|Clippage chirurgical
+flow diverter|Stent à mailles très serrées placé dans l'artère devant l'anévrisme : il dévie le flux, l'anévrisme thrombose peu à peu ; impose des antiagrégants.|Stent diverteur de flux
+vasospasme|Rétrécissement des artères cérébrales 4–14 jours après une HSA (le sang irrite les artères) : risque d'ischémie retardée ; surveillance Doppler, nimodipine.|Vasospasme cérébral
+J7-J14|Fenêtre du vasospasme après une HSA (entre le 7e et le 14e jour environ).|
+nimodipine|Inhibiteur calcique donné 21 jours après une HSA : améliore le pronostic (moins d'ischémie retardée).|Nimodipine
+thrombectomie|Retrait mécanique du caillot par cathéter (stent retriever, aspiration) dans une grosse artère cérébrale bouchée ; jusqu'à 24 h selon l'imagerie ; le traitement le plus efficace de l'AVC grave.|Thrombectomie mécanique
+thrombolyse|Médicament IV qui dissout le caillot de l'AVC ischémique (rtPA), dans les 4,5 h ; associé à la thrombectomie pour les grosses artères.|Thrombolyse
+pénombre|Zone de cerveau mal perfusée mais encore vivante autour du cœur de l'infarctus ; c'est elle qu'on cherche à sauver en rouvrant l'artère.|Pénombre ischémique
+craniosténoses;craniosténose|Fermeture prématurée d'une ou plusieurs sutures du crâne de l'enfant : déformation (forme selon la suture), parfois HTIC ; chirurgie de remodelage dans la 1re année ; 20 % syndromiques.|Craniosynostose
+scaphocéphalie|Crâne long et étroit (en coque de bateau) par fermeture précoce de la suture sagittale : la craniosténose la plus fréquente.|Scaphocéphalie
+plagiocéphalie|Crâne asymétrique ; le plus souvent positionnelle (bébé couché toujours du même côté : bénigne, kiné, changer de position), rarement par fermeture d'une suture coronale.|Plagiocéphalie
+spina bifida|Défaut de fermeture du tube neural au niveau du rachis : occulta (bénin), méningocèle ou myéloméningocèle (moelle à l'air : paralysie, troubles sphinctériens, hydrocéphalie).|Spina bifida
+myéloméningocèle|Forme grave de spina bifida : la moelle et les racines sortent dans une poche ouverte au dos ; fermeture chirurgicale rapide (parfois in utero).|Myéloméningocèle
+acide folique|Vitamine B9 prise avant la conception et en début de grossesse : réduit fortement le risque de spina bifida.|Acide folique
+médulloblastome|Tumeur maligne du cervelet de l'enfant (vermis), qui peut essaimer par le LCR ; hydrocéphalie, ataxie ; chirurgie, radiothérapie de tout l'axe, chimiothérapie.|Médulloblastome
+craniopharyngiome|Tumeur bénigne mais difficile, au-dessus de la selle turcique, chez l'enfant ou l'adulte : troubles visuels, insuffisance hypophysaire, retard de croissance ; kystique et calcifiée.|Craniopharyngiome
+névralgie du trijumeau|Décharges électriques très brèves dans le visage (V2-V3), déclenchées par l'effleurement ; souvent un vaisseau comprime le nerf ; carbamazépine, puis décompression microvasculaire ou radiochirurgie.|Névralgie du trijumeau
+V2-V3|Branches maxillaire (V2) et mandibulaire (V3) du trijumeau, les plus touchées par la névralgie.|Nerf trijumeau
+carbamazépine|Antiépileptique, traitement médical de 1re ligne de la névralgie du trijumeau.|Carbamazépine
+stimulation cérébrale profonde|Électrodes implantées dans un noyau profond (sous-thalamique, pallidum, thalamus) reliées à un stimulateur : traite Parkinson évolué, tremblement, dystonie.|Stimulation cérébrale profonde
+spasticité|Raideur des muscles qui augmente avec la vitesse d'étirement (réflexe myotatique trop excitable) après une lésion de la voie pyramidale : AVC, SEP, paralysie cérébrale, lésion médullaire.|Spasticité
+baclofène|Myorelaxant qui active les récepteurs GABA-B : par la bouche ou par pompe dans le LCR (intrathécal) dans les spasticités sévères.|Baclofène
+DREZotomie|Section chirurgicale de la zone d'entrée des racines dorsales dans la moelle (DREZ) : traite certaines douleurs ou spasticités rebelles.|
+mmHg;cmH2O|Unités de pression : le millimètre de mercure (mmHg) et le centimètre d'eau (cmH2O). On les utilise pour la pression intracrânienne et la pression artérielle ; 1 mmHg vaut environ 1,36 cmH2O. Une PIC normale de l'adulte est de 10 à 15 mmHg.|Millimètre de mercure
+VI|Sixième nerf crânien (nerf abducens) : il fait tourner l'œil vers l'extérieur. Sa paralysie donne un strabisme convergent et une vision double (diplopie) ; c'est un signe classique, mais peu localisateur, d'hypertension intracrânienne.|Nerf abducens
+VII|Septième nerf crânien (nerf facial) : il commande les muscles de la mimique du visage. On cherche à le préserver lors de l'opération d'un neurinome de l'acoustique ; son irritation donne l'hémispasme facial.|Nerf facial
+Glasgow-Liège|Échelle de Glasgow-Liège : score de Glasgow complété par 5 réflexes du tronc cérébral (fronto-orbiculaire, oculocéphalique vertical, photomoteur, oculocéphalique horizontal, oculocardiaque). Elle sert à suivre la profondeur du coma, notamment chez le patient intubé dont on ne peut pas évaluer la réponse verbale.|Échelle de Glasgow
+post-TC|Après un traumatisme crânien. L'hypertension intracrânienne post-traumatique est la première cause de complications et de décès après un TC grave ; elle est due à l'œdème, aux contusions et aux hématomes.|Traumatisme crânien
+Spectro-IRM|Spectroscopie par résonance magnétique : séquence d'IRM qui mesure la quantité de certaines molécules dans une zone du cerveau (NAA, choline, créatine, lactate). Dans une tumeur, la choline monte (membranes qui se renouvellent) et le NAA baisse (neurones détruits) : un rapport Cho/NAA élevé oriente vers une tumeur.|Imagerie par résonance magnétique
+angioCT|Angio-scanner : scanner avec injection rapide de produit de contraste iodé au temps artériel, qui montre les artères du cerveau. Devant une hémorragie sous-arachnoïdienne, on le fait après le CT simple pour chercher l'anévrisme qui a saigné.|Angiographie par tomodensitométrie
+Ehlers-Danlos|Syndrome d'Ehlers-Danlos : maladie génétique du tissu conjonctif (collagène), avec peau hyperélastique et articulations trop souples. Le type IV (vasculaire) fragilise la paroi des artères et augmente le risque d'anévrismes intracrâniens et de dissections.|Syndrome d'Ehlers-Danlos
+Rendu-Osler|Maladie de Rendu-Osler : maladie génétique des vaisseaux (télangiectasies hémorragiques héréditaires) avec petites dilatations vasculaires de la peau et des muqueuses. Elle donne des saignements de nez répétés et rebelles, et des malformations artério-veineuses (poumon, foie, cerveau), qu'on peut traiter par embolisation.|Maladie de Rendu-Osler
+Saethre-Chotzen|Syndrome de Saethre-Chotzen : craniosténose syndromique génétique (gène TWIST), souvent avec fermeture prématurée de la suture coronale. On y trouve aussi une asymétrie du visage, une ptose des paupières et des anomalies des doigts.|Syndrome de Saethre-Chotzen
+3H|Thérapie « triple H » : hypertension, hypervolémie et hémodilution, utilisée pour traiter le vasospasme après une hémorragie sous-arachnoïdienne. Elle vise à améliorer le débit sanguin dans les artères rétrécies ; si le vasospasme y résiste, on passe à un traitement endovasculaire (angioplastie ou vasodilatateur intra-artériel).|

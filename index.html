@@ -10,34 +10,41 @@
 </head>
 <body>
 <main id="app">
+  <!-- Barre de son unique, déplacée dans l'écran actif par show() -->
+  <div class="sndbar" id="sndbar">
+    <button class="snd" id="snd-main" aria-label="Activer ou couper le son">🔊</button>
+    <input type="range" class="vol" min="0" max="100" step="1" aria-label="Volume des bruitages">
+  </div>
+
 
   <!-- ACCUEIL -->
   <section id="s-home" class="screen active">
-    <button class="snd" id="snd-home" aria-label="Activer ou couper le son">🔊</button>
     <img class="logo-img" src="img/logo.png" alt="">
     <div class="logo">Supa <b>BossuDeLaNaturu</b></div>
     <p class="tag">Révise en duel, en direct.</p>
 
-    <label class="field">
-      <span>Ton pseudo</span>
-      <input id="name" maxlength="14" autocomplete="off" placeholder="ex. Haris">
-    </label>
+    <div class="home-row">
+      <button class="btn primary" id="btn-rev">📚 Révision</button>
+      <a class="btn btn-dl" href="anki/Master_Medecine_ma1.apkg" download="Master Médecine ma1.apkg">📥 Anki <small>1,7 Mo</small></a>
+    </div>
 
-    <button class="btn primary" id="btn-find">Trouver un adversaire</button>
-    <p class="mm-count" id="mm-count" hidden></p>
-    <button class="btn" id="btn-create">Défier un ami avec un code</button>
-
-    <div class="join">
-      <input id="code" maxlength="4" placeholder="CODE" autocapitalize="characters" autocomplete="off" spellcheck="false">
-      <button class="btn" id="btn-join">Rejoindre</button>
+    <div class="group">
+      <h3 class="group-t">⚔️ Multijoueur</h3>
+      <label class="field">
+        <span>Ton pseudo</span>
+        <input id="name" maxlength="14" autocomplete="off" placeholder="ex. Haris">
+      </label>
+      <button class="btn primary" id="btn-find">Trouver un adversaire</button>
+      <p class="mm-count" id="mm-count" hidden></p>
+      <button class="btn" id="btn-create">Défier un ami avec un code</button>
+      <div class="join">
+        <input id="code" maxlength="4" placeholder="CODE" autocapitalize="characters" autocomplete="off" spellcheck="false">
+        <button class="btn" id="btn-join">Rejoindre</button>
+      </div>
+      <button class="btn" id="btn-board">🏆 Scores</button>
     </div>
 
     <button class="btn ghost" id="btn-solo">Entraînement contre un bot</button>
-    <div class="home-row">
-      <button class="btn" id="btn-board">🏆 Scores</button>
-      <button class="btn" id="btn-rev">📚 Révision</button>
-    </div>
-    <label class="volrow"><span>🔈</span><input type="range" class="vol" min="0" max="100" step="1" aria-label="Volume des bruitages"><span>🔊</span></label>
     <p class="note" id="net-note"></p>
   </section>
 
@@ -63,10 +70,6 @@
     <div class="panel">
       <div class="lbl-row"><span>Nombre de questions</span><span class="hint" id="pool-hint"></span></div>
       <div class="pills" id="n-chips"></div>
-    </div>
-    <div class="panel">
-      <div class="lbl-row"><span>Volume des bruitages</span></div>
-      <label class="volrow"><span>🔈</span><input type="range" class="vol" min="0" max="100" step="1" aria-label="Volume des bruitages"><span>🔊</span></label>
     </div>
     <button class="btn primary" id="setup-go">Lancer</button>
   </section>
@@ -131,7 +134,7 @@
       </div>
       <div class="mid">
         <div id="qn">1/7</div>
-        <button class="snd" id="snd-game" aria-label="Activer ou couper le son">🔊</button>
+        <div class="snd-slot"></div>
         <button class="quit" id="btn-quit" aria-label="Quitter le duel">Quitter</button>
       </div>
       <div class="pl r">
@@ -211,7 +214,9 @@
 <div id="gl-pop" class="gl-pop" role="dialog" aria-live="polite" hidden>
   <button class="gl-x" id="gl-x" aria-label="Fermer">×</button>
   <div class="gl-n" id="gl-n"></div>
+  <div class="gl-x2" id="gl-xp" hidden></div>
   <div class="gl-d" id="gl-d"></div>
+  <div class="gl-ctx" id="gl-ctx" hidden></div>
   <div class="gl-img" id="gl-img"></div>
   <a class="gl-src" id="gl-src" target="_blank" rel="noopener" hidden>Images : Wikipédia ↗</a>
 </div>

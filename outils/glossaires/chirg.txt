@@ -1,83 +1,138 @@
-ACTH|Hormone hypophysaire qui stimule le cortisol, très augmentée après une agression chirurgicale.|Hormone adrénocorticotrope
-ASA|Score de l'American Society of Anesthesiologists (1 à 6) : état de santé du patient avant l'anesthésie.|Score ASA
-AVK|Antivitamines K (warfarine) : anticoagulants, à arrêter et relayer avant une chirurgie.|Antivitamine K
-ANF|Facteur natriurétique auriculaire : hormone du cœur qui fait éliminer le sel et l'eau.|Facteur natriurétique auriculaire
-SRAA|Système rénine-angiotensine-aldostérone : retient le sel et l'eau après l'agression.|Système rénine-angiotensine-aldostérone
-IL-1;IL-6;TNF|Cytokines pro-inflammatoires libérées après une blessure : fièvre, CRP, catabolisme.|Cytokine
-SIRS|Syndrome de réponse inflammatoire systémique : fièvre ou hypothermie, tachycardie, polypnée, globules blancs anormaux.|Syndrome de réponse inflammatoire systémique
-MOF;défaillance multiviscérale|Défaillance de plusieurs organes (rein, poumon, foie…) après une agression grave.|Syndrome de défaillance multiviscérale
-HBPM|Héparines de bas poids moléculaire : préviennent la thrombose veineuse après chirurgie.|Héparine de bas poids moléculaire
-MTEV|Maladie thromboembolique veineuse : thrombose veineuse profonde et embolie pulmonaire.|Thrombose veineuse profonde
-EVAR|Réparation endovasculaire d'un anévrisme de l'aorte par endoprothèse.|
-CEC|Circulation extracorporelle : machine cœur-poumon qui permet d'opérer le cœur arrêté.|Circulation extracorporelle
-CIVD|Coagulation intravasculaire disséminée : la coagulation s'emballe puis s'épuise (thromboses et saignements).|Coagulation intravasculaire disséminée
-CARS|Compensatory anti-inflammatory response : phase anti-inflammatoire qui suit le SIRS et expose aux infections.|
-PICS|Persistent inflammation, immunosuppression and catabolism : état chronique du patient de réanimation qui ne récupère pas.|
-DAMP;PAMP;PRR|Signaux de danger : molécules des cellules lésées (DAMP) ou des microbes (PAMP), reconnues par des récepteurs (PRR) qui déclenchent l'inflammation.|Motif moléculaire associé aux dégâts
-ARDS;SDRA|Syndrome de détresse respiratoire aiguë : œdème pulmonaire lésionnel bilatéral.|Syndrome de détresse respiratoire aiguë
-CRASH|Grands essais en traumatologie : CRASH-2 a montré l'intérêt de l'acide tranexamique contre l'hémorragie.|
-AINS|Anti-inflammatoires non stéroïdiens.|Anti-inflammatoire non stéroïdien
-NOAC;AOD|Anticoagulants oraux directs (apixaban, rivaroxaban, dabigatran).|Anticoagulant oral direct
-FA|Fibrillation auriculaire.|Fibrillation atriale
-PEG|Polyéthylène glycol : laxatif osmotique utilisé pour préparer le côlon.|Polyéthylène glycol
-PACU|Post-anesthesia care unit : salle de réveil.|Salle de réveil
-CHA2DS2;CHA2DS2-VASc|Score du risque d'AVC en cas de fibrillation auriculaire ; aide à décider du relais de l'anticoagulation.|Score CHA2DS2-VASc
-BPCO|Bronchopneumopathie chronique obstructive.|Bronchopneumopathie chronique obstructive
-VEMS|Volume expiré maximal en 1 seconde : mesure le souffle (spirométrie).|Volume expiratoire maximal par seconde
-SILS|Single incision laparoscopic surgery : cœlioscopie par une seule incision (nombril).|
-PFC|Plasma frais congelé : apporte les facteurs de coagulation.|Plasma frais congelé
-CRP|Protéine C réactive : marqueur d'inflammation, augmente après toute chirurgie.|Protéine C réactive
-réaction à l'agression|Ensemble des réponses du corps à un traumatisme ou une opération : hormones de stress, inflammation, catabolisme.|
-catabolisme|Phase où le corps dégrade ses réserves (muscle, graisse) pour fournir de l'énergie après l'agression.|Catabolisme
-anabolisme|Phase de reconstruction (muscle, tissus) pendant la convalescence.|Anabolisme
-néoglucogenèse|Fabrication de glucose par le foie à partir des acides aminés (muscles), très active après une opération.|Néoglucogenèse
-insulinorésistance|Les tissus répondent moins à l'insuline après le stress : hyperglycémie.|Résistance à l'insuline
-cortisol|Hormone du stress : augmente le glucose et la dégradation des protéines.|Cortisol
-catécholamines|Adrénaline et noradrénaline : accélèrent le cœur, augmentent glucose et tension.|Catécholamine
-hyperglycémie|Glycémie trop élevée.|Hyperglycémie
-consentement éclairé|Accord du patient après information claire sur l'opération, les risques et les alternatives.|Consentement éclairé
-Caprini|Score du risque de thrombose veineuse après chirurgie, qui guide la prévention.|
-thromboprophylaxie|Prévention des caillots : héparine, bas de contention, lever précoce.|
-bas de contention|Bas élastiques qui accélèrent le retour veineux et préviennent la thrombose.|Bas de contention
-embolie pulmonaire|Caillot qui migre dans les artères des poumons.|Embolie pulmonaire
-thrombose veineuse profonde;TVP|Caillot dans une veine profonde de la jambe.|Thrombose veineuse profonde
-classe de contamination;contamination|Classification des opérations (propre, propre-contaminée, contaminée, sale) selon le risque d'infection du site.|
-infection du site opératoire|Infection de la plaie ou de la région opérée dans les 30 jours (90 si prothèse).|Infection du site opératoire
-antibioprophylaxie|Antibiotique unique donné juste avant l'incision pour prévenir l'infection.|Antibioprophylaxie
-lignes de Langer|Lignes de tension de la peau : inciser parallèlement donne une plus belle cicatrice.|Lignes de Langer
-laparotomie|Ouverture chirurgicale de l'abdomen.|Laparotomie
-cœlioscopie;laparoscopie|Chirurgie du ventre par petites incisions avec une caméra, après avoir gonflé l'abdomen au CO2.|Cœlioscopie
-pneumopéritoine|Insufflation de CO2 dans l'abdomen pour créer l'espace de travail en cœlioscopie.|Pneumopéritoine
-robot|Chirurgie robot-assistée : le chirurgien commande à distance des bras articulés (vision 3D, précision).|Chirurgie robotique
-bistouri électrique;électrochirurgie|Courant électrique qui coupe ou coagule les tissus.|Électrochirurgie
-monopolaire|Électrochirurgie où le courant traverse le patient jusqu'à une plaque ; risque de brûlure à distance.|
-bipolaire|Électrochirurgie où le courant passe seulement entre les deux mors de la pince : plus sûre.|
-sutures;fil|Fils pour rapprocher les tissus : résorbables ou non, tressés ou monobrins.|Suture chirurgicale
-monobrins|Fils faits d'un seul brin : glissent mieux et retiennent moins les bactéries.|
-tressés|Fils faits de plusieurs brins tressés : se nouent bien mais gardent plus les bactéries.|
-agrafes|Agrafes métalliques pour fermer la peau ou faire des anastomoses digestives.|
-anastomose|Raccordement de deux segments (intestin, vaisseau) après une résection.|Anastomose
-drain|Tube qui évacue sang, liquide ou air hors d'une cavité après l'opération.|Drain chirurgical
-Cell-Saver|Machine qui récupère le sang perdu pendant l'opération, le lave et le retransfuse au patient.|Autotransfusion
-hémostase|Arrêt du saignement (naturel ou chirurgical : pince, ligature, électrocoagulation).|Hémostase
-Fast-Track;ERAS|Récupération améliorée après chirurgie : jeûne court, analgésie sans morphine, lever et alimentation précoces.|Réhabilitation améliorée après chirurgie
-iléus|Arrêt transitoire du transit intestinal après une opération abdominale.|Iléus
-cicatrisation|Réparation d'une plaie en 3 phases : inflammation, prolifération (bourgeon), remodelage.|Cicatrisation
-première intention|Cicatrisation d'une plaie aux bords rapprochés (suturée), rapide et fine.|
-seconde intention|Cicatrisation d'une plaie laissée ouverte, qui se comble par un bourgeon charnu.|
-fibroblastes|Cellules qui fabriquent le collagène de la cicatrice.|Fibroblaste
-collagène|Protéine de soutien qui donne sa résistance à la cicatrice.|Collagène
-chéloïde|Cicatrice qui déborde de la plaie et continue de grossir.|Chéloïde
-déhiscence|Réouverture d'une plaie ou d'une anastomose.|Déhiscence
-éventration|Hernie à travers une cicatrice de la paroi abdominale.|Éventration
-compartiments|Secteurs liquidiens du corps : intracellulaire (2/3) et extracellulaire (plasma + interstitiel).|Compartiment liquidien
-osmolalité|Concentration en particules d'un liquide ; elle fait bouger l'eau entre les compartiments.|Osmolalité
-Ringer lactate|Soluté cristalloïde équilibré proche du plasma.|Ringer lactate
-cristalloïdes|Solutés d'eau et de sels (NaCl 0,9 %, Ringer) pour remplir les vaisseaux.|Cristalloïde
-colloïdes|Solutés contenant de grosses molécules (albumine, gélatines) qui restent plus longtemps dans les vaisseaux.|Colloïde
-choc|Défaillance circulatoire : les organes ne reçoivent plus assez d'oxygène (hémorragique, septique…).|État de choc
-sepsis|Infection avec dysfonction d'organes due à une réponse dérégulée de l'hôte.|Sepsis
-hypothermie|Température < 36 °C ; au bloc, elle augmente saignement et infections.|Hypothermie
-acide tranexamique|Antifibrinolytique qui réduit le saignement (traumatisme, chirurgie).|Acide tranexamique
-damage control|Stratégie en traumatologie grave : opération courte pour arrêter saignement et fuite, réanimation, puis chirurgie définitive plus tard.|
-triade létale|Hypothermie + acidose + coagulopathie : cercle vicieux mortel du patient qui saigne.|
+ACTH|Hormone de l'hypophyse qui commande la sécrétion de cortisol par les surrénales ; elle monte fortement dans les heures qui suivent une chirurgie ou un traumatisme (axe du stress).|Hormone adrénocorticotrope
+CRF;CRH|Corticolibérine : hormone de l'hypothalamus qui déclenche l'ACTH ; libérée par la douleur, la peur, les cytokines.|Corticolibérine
+POMC|Pro-opiomélanocortine : grande protéine précurseur découpée en ACTH, MSH et endorphines (d'où antalgie naturelle au stress).|Pro-opiomélanocortine
+VIP|Peptide vasoactif intestinal : neuropeptide qui stimule aussi l'axe du stress.|Peptide vasoactif intestinal
+ASA|Score de l'American Society of Anesthesiologists (1 à 6) : 1 = sain, 2 = maladie systémique légère (HTA contrôlée), 3 = sévère, 4 = menace vitale permanente, 5 = moribond, 6 = donneur d'organes. Prédit le risque opératoire avec la complexité de l'acte.|Score ASA
+AVK|Antivitamines K (warfarine) : anticoagulants à arrêter ≈ 5 jours avant une chirurgie (INR < 1,5), avec relais par héparine si risque thrombotique élevé (valve mécanique).|Antivitamine K
+ANF|Facteur natriurétique auriculaire : hormone sécrétée par l'oreillette distendue qui fait éliminer sel et eau ; s'oppose au SRAA.|Facteur natriurétique auriculaire
+SRAA;RAA|Système rénine-angiotensine-aldostérone : activé par la baisse de pression et le stress, il retient sel et eau et resserre les vaisseaux (oligurie post-opératoire). Ne pas confondre avec RAA = rhumatisme articulaire aigu.|Système rénine-angiotensine-aldostérone
+AT1|Récepteur de type 1 de l'angiotensine II : il porte la vasoconstriction, la soif, la sécrétion d'aldostérone ; bloqué par les sartans.|Récepteur de l'angiotensine II
+ADH|Hormone antidiurétique : libérée par la douleur, les opiacés, l'hypovolémie ; retient l'eau → hyponatrémie post-opératoire possible si on perfuse trop de solutés pauvres en sel.|Hormone antidiurétique
+IL-1;IL-6;TNF;IL|Cytokines pro-inflammatoires libérées par les tissus lésés : fièvre, CRP, fonte musculaire, anorexie. L'IL-6 lance la réponse de phase aiguë du foie ; son taux est proportionnel à l'agression.|Cytokine
+IL-4;IL-10;TGF|Cytokines anti-inflammatoires (IL-4, IL-10, TGF-β, IL-1Ra) de la phase CARS : elles calment l'inflammation mais affaiblissent l'immunité (infections secondaires).|Interleukine 10
+α-macroglobulines|Protéines de la phase aiguë fabriquées par le foie (avec CRP, fibrinogène, haptoglobine) ; à l'inverse, albumine et transferrine baissent.|Réaction de phase aiguë
+SIRS|Syndrome de réponse inflammatoire systémique : au moins 2 critères parmi température > 38 ou < 36 °C, pouls > 90, respiration > 20 (ou PaCO2 < 32 mmHg), globules blancs > 12 000 ou < 4 000. Réaction normale à une grosse agression, avec ou sans infection.|Syndrome de réponse inflammatoire systémique
+PaCO2|Pression partielle de CO2 dans le sang artériel ; < 32 mmHg = hyperventilation (critère du SIRS).|Pression partielle de dioxyde de carbone
+MOF;défaillance multiviscérale|Défaillance de plusieurs organes (poumon, rein, foie, coagulation, cerveau) après une agression majeure ou un sepsis ; mortalité élevée, d'autant plus que le nombre d'organes augmente.|Syndrome de défaillance multiviscérale
+HBPM|Héparines de bas poids moléculaire (énoxaparine…) : injection sous-cutanée 1×/j pour prévenir la thrombose après chirurgie ; préférées à l'héparine standard ; s'accumulent en insuffisance rénale.|Héparine de bas poids moléculaire
+HNF|Héparine non fractionnée : IV ou SC, effet court et réversible (protamine) ; utilisée si insuffisance rénale sévère ou besoin d'arrêt rapide.|Héparine
+MTEV|Maladie thromboembolique veineuse : thrombose veineuse profonde et embolie pulmonaire ; risque majeur après chirurgie (immobilité, stase, lésion vasculaire, hypercoagulabilité).|Thrombose veineuse
+EVAR|Réparation endovasculaire d'un anévrisme de l'aorte : endoprothèse posée par les artères fémorales, sans ouvrir le ventre.|Réparation endovasculaire d'anévrisme
+CEC|Circulation extracorporelle : machine cœur-poumon qui oxygène et fait circuler le sang pendant qu'on opère le cœur arrêté.|Circulation extracorporelle
+CIVD|Coagulation intravasculaire disséminée : la coagulation s'active partout (sepsis, trauma, choc), consomme plaquettes et facteurs, d'où à la fois thromboses et saignements.|Coagulation intravasculaire disséminée
+CARS|Compensatory anti-inflammatory response syndrome : phase anti-inflammatoire qui suit (ou accompagne) le SIRS ; elle protège des dégâts de l'inflammation mais expose aux infections.|
+PICS|Persistent inflammation, immunosuppression and catabolism syndrome : état chronique de certains patients de réanimation qui ne récupèrent pas (inflammation, infections à répétition, fonte musculaire).|
+DAMP;PAMP;PRR|Signaux de danger : molécules des cellules lésées (DAMP, « alarmines » : ADN, protéines de choc thermique) ou des microbes (PAMP : LPS…), reconnues par les récepteurs de l'immunité innée (PRR, comme les TLR). Ils déclenchent l'inflammation même sans infection.|Motif moléculaire associé aux dégâts
+LPS|Lipopolysaccharide : composant de la paroi des bactéries Gram négatif (endotoxine), puissant déclencheur de l'inflammation et du choc septique.|Lipopolysaccharide
+CPA|Cellules présentatrices d'antigène (cellules dendritiques, macrophages) : elles mûrissent sous l'effet des DAMP et activent les lymphocytes.|Cellule présentatrice d'antigène
+C3a;C5a|Fragments du complément (anaphylatoxines) : attirent les neutrophiles, dilatent les vaisseaux, augmentent la perméabilité.|Anaphylatoxine
+ARDS;SDRA|Syndrome de détresse respiratoire aiguë : œdème pulmonaire lésionnel bilatéral (non cardiaque) après sepsis, trauma ou transfusion massive ; hypoxémie sévère, ventilation protectrice.|Syndrome de détresse respiratoire aiguë
+CRASH|Grands essais de traumatologie : CRASH-1 (corticoïdes dans le traumatisme crânien = plus de décès), CRASH-2 (acide tranexamique précoce = moins de décès par hémorragie).|
+AINS|Anti-inflammatoires non stéroïdiens : antalgiques utiles de l'analgésie multimodale, mais risque rénal, digestif et hémorragique.|Anti-inflammatoire non stéroïdien
+NOAC;AOD|Anticoagulants oraux directs (apixaban, rivaroxaban, dabigatran) : arrêt 1 à 3 jours avant une chirurgie selon le risque hémorragique et la fonction rénale, en général sans relais.|Anticoagulant oral direct
+FA|Fibrillation auriculaire : arythmie fréquente qui impose souvent un anticoagulant (risque d'AVC) à gérer autour de l'opération.|Fibrillation atriale
+PEG|Polyéthylène glycol : laxatif osmotique de préparation colique.|Polyéthylène glycol
+PACU|Post-anesthesia care unit : salle de réveil où l'on surveille le patient jusqu'à la récupération des fonctions vitales.|Salle de réveil
+CHA2DS2;CHA2DS2-VASc|Score du risque d'AVC dans la fibrillation auriculaire (insuffisance cardiaque, HTA, âge, diabète, AVC, vasculaire, sexe) ; il décide de l'anticoagulation et du relais péri-opératoire.|Score CHA2DS2-VASc
+BPCO|Bronchopneumopathie chronique obstructive : augmente le risque de complications respiratoires après chirurgie (pneumonie, atélectasie).|Bronchopneumopathie chronique obstructive
+VEMS;CV;EFR|Spirométrie (EFR) : VEMS = volume expiré en 1 seconde, CV = capacité vitale ; avant une chirurgie thoracique, ils prédisent la tolérance à l'ablation de poumon.|Volume expiratoire maximal par seconde
+SILS|Single incision laparoscopic surgery : cœlioscopie par une seule incision, souvent par le nombril.|
+PFC|Plasma frais congelé : apporte tous les facteurs de coagulation ; transfusé en cas d'hémorragie massive (ratio avec les globules rouges).|Plasma frais congelé
+CE|Concentrés érythrocytaires (culots de globules rouges) ; plus de 10 transfusés = transfusion massive.|Concentré de globules rouges
+CRP|Protéine C réactive : marqueur d'inflammation fabriqué par le foie sous l'effet de l'IL-6 ; elle monte après toute chirurgie (pic J2–J3) ; une remontée tardive fait chercher une complication.|Protéine C réactive
+réaction à l'agression|Ensemble des réponses du corps à un traumatisme ou une opération : hormones de stress, inflammation, rétention d'eau et de sel, catabolisme. Utile à court terme (survie), nuisible si intense ou prolongée.|Réponse au stress
+catabolisme|Phase de dégradation des réserves (muscle surtout, graisse) pour fournir énergie et acides aminés à la cicatrisation et à l'immunité ; dure quelques jours (plus si sepsis ou brûlure).|Catabolisme
+anabolisme|Phase de reconstruction (muscle, poids, force) pendant la convalescence, après la « phase d'inversion » : plusieurs semaines.|Anabolisme
+néoglucogenèse|Fabrication de glucose par le foie à partir des acides aminés (muscle), du lactate et du glycérol ; très active après l'agression (cortisol, glucagon).|Néoglucogenèse
+insulinorésistance|Après le stress, les tissus répondent moins à l'insuline : hyperglycémie même chez le non-diabétique ; le jeûne préopératoire long l'aggrave (d'où les boissons sucrées avant l'opération en ERAS).|Résistance à l'insuline
+cortisol|Hormone du stress : augmente le glucose, dégrade les protéines, freine l'inflammation, retient le sel ; monte en quelques heures après l'incision.|Cortisol
+catécholamines|Adrénaline et noradrénaline : accélèrent le cœur, resserrent les vaisseaux, libèrent glucose et graisses ; premier niveau de la réponse au stress.|Catécholamine
+hyperglycémie|Glycémie trop élevée ; après chirurgie, elle augmente les infections et retarde la cicatrisation : on la contrôle.|Hyperglycémie
+euthyroid sick syndrome;T3;T4;T4L;TRH|Syndrome de basse T3 : après une agression, la T4 est moins convertie en T3 (active) et plus en rT3 (inactive) ; TSH et T4 libre normales. Adaptation qui économise l'énergie ; ne se traite pas.|Syndrome de basse T3
+DHEA|Déhydroépiandrostérone : androgène surrénalien qui baisse après l'agression ; un rapport cortisol/DHEA élevé reflète une immunosuppression.|Déhydroépiandrostérone
+PAS|Pression artérielle systolique : en hémorragie non contrôlée, on vise 80–90 mmHg (hypotension permissive) en attendant l'hémostase.|Pression artérielle
+J0;J1-J4;J2-J5;J4-J21;J7;J10;J21;J30|Jours après l'opération (J0 = jour de l'intervention).|
+IIa;IIb|Classes de recommandation : I = indiqué, IIa = doit être envisagé, IIb = peut être envisagé, III = non recommandé.|Recommandation
+BMI|Indice de masse corporelle ; un BMI élevé fait partie des facteurs de l'ASA 2–3.|Indice de masse corporelle
+KCE|Centre fédéral d'expertise des soins de santé (Belgique) : recommandations sur le bilan préopératoire (outil preop.kce.be).|Centre fédéral d'expertise des soins de santé
+FDR|Facteurs de risque (cardiaques : cardiopathie ischémique, insuffisance cardiaque, AVC, diabète sous insuline, insuffisance rénale).|
+METs|Équivalents métaboliques : mesure de la capacité d'effort ; < 4 METs (incapable de monter 2 étages) = capacité faible, bilan cardiaque à discuter avant chirurgie lourde.|Équivalent métabolique
+β-bloquants|Bêtabloquants : à continuer autour de l'opération (l'arrêt brutal donne un rebond) ; ne pas en débuter juste avant.|Bêta-bloquant
+ARA2;IEC|IEC et sartans : on les arrête souvent le matin de l'opération (risque d'hypotension à l'induction) et on les reprend dans les 48 h.|Antagoniste des récepteurs de l'angiotensine II
+α-2|Agonistes α-2 (clonidine) : antihypertenseurs à ne pas arrêter brutalement (rebond hypertensif).|Agoniste alpha-2
+SCA|Syndrome coronarien aigu ; un SCA récent ou un stent coronaire impose de garder l'aspirine (et souvent de reporter la chirurgie non urgente).|Syndrome coronarien aigu
+THS|Traitement hormonal substitutif et contraceptifs œstrogéniques : à arrêter ≈ 4 semaines avant une chirurgie à risque thrombotique.|Traitement hormonal substitutif
+CV|Cardiovasculaire (dans ce contexte : capacité vitale pour la BPCO).|
+BE|Base excess (excès de base) : un BE < −14 mmol/l témoigne d'une acidose métabolique profonde (choc) ; critère de damage control.|Excès de base
+DCS|Damage control surgery : chirurgie écourtée en trauma grave — arrêter l'hémorragie et la contamination, fermer temporairement, réanimer, puis réparer définitivement 24–48 h plus tard.|Chirurgie de contrôle des dommages
+consentement éclairé|Accord du patient donné après une information claire, loyale et compréhensible sur l'opération, ses bénéfices, ses risques (fréquents et graves) et les alternatives ; il peut être retiré à tout moment.|Consentement éclairé
+Caprini|Score du risque de thrombose veineuse après chirurgie (âge, type d'opération, cancer, antécédents, obésité…) : il guide la prévention (mécanique, médicamenteuse, durée).|
+thromboprophylaxie|Prévention des caillots après chirurgie : lever précoce, bas ou compression pneumatique, HBPM selon le risque (et jusqu'à 4 semaines après chirurgie du cancer ou orthopédique).|Thromboprophylaxie
+bas de contention|Bas élastiques à pression dégressive qui accélèrent le retour veineux et réduisent la stase ; associés aux anticoagulants chez le patient à risque.|Bas de contention
+embolie pulmonaire|Caillot (souvent venu des jambes) qui bloque une artère pulmonaire : essoufflement, douleur thoracique, parfois mort subite ; principale cause de décès évitable après chirurgie.|Embolie pulmonaire
+thrombose veineuse profonde;TVP|Caillot dans une veine profonde de la jambe (mollet, cuisse) : jambe gonflée, douloureuse ; diagnostic par écho-Doppler.|Thrombose veineuse profonde
+classe de contamination;contamination|Classification d'Altemeier : propre (pas d'ouverture du tube digestif/respiratoire/urinaire), propre-contaminée (ouverture contrôlée), contaminée (fuite, plaie récente), sale (pus, perforation). Le risque d'infection monte de 2 % à 40 %.|Classification d'Altemeier
+infection du site opératoire|Infection de la plaie ou de l'organe opéré dans les 30 jours (90 jours si prothèse) : rougeur, écoulement, fièvre ; facteurs : contamination, durée, diabète, tabac, obésité, hypothermie.|Infection du site opératoire
+antibioprophylaxie|Antibiotique (souvent céfazoline) injecté 30–60 min avant l'incision, à forte dose, pour que les tissus en contiennent au moment de la contamination ; dose unique (ou répétée si opération longue), jamais prolongée.|Antibioprophylaxie
+lignes de Langer|Lignes de tension de la peau : une incision parallèle à elles s'écarte peu et laisse une cicatrice fine.|Lignes de Langer
+laparotomie|Ouverture chirurgicale de l'abdomen (médiane, sous-costale, transversale) ; plus douloureuse et plus d'éventrations que la cœlioscopie.|Laparotomie
+cœlioscopie;laparoscopie|Chirurgie abdominale par petites incisions (trocarts) avec une caméra, après avoir gonflé le ventre au CO2 : moins de douleur, récupération plus rapide, moins d'infections de paroi.|Laparoscopie
+pneumopéritoine|Ici : insufflation de CO2 dans l'abdomen pour créer l'espace de travail ; la pression gêne le retour veineux et la respiration, et le CO2 absorbé acidifie le sang.|Pneumopéritoine
+robot|Chirurgie robot-assistée : le chirurgien, à une console, commande des bras articulés (vision 3D, filtrage du tremblement, instruments qui pivotent) ; utile en pelvis et espaces étroits.|Chirurgie robotique
+bistouri électrique;électrochirurgie|Courant électrique à haute fréquence qui chauffe les tissus pour couper (forte densité) ou coaguler (vaisseaux) ; risques : brûlures, fumée, interférence avec les pacemakers.|Électrochirurgie
+monopolaire|Électrochirurgie où le courant part de l'instrument, traverse le patient et sort par une plaque collée sur la peau ; risque de brûlure à distance et d'interférence.|Électrochirurgie
+bipolaire|Électrochirurgie où le courant passe seulement entre les deux mors de la pince : plus sûre près des nerfs et chez le porteur de pacemaker.|Électrochirurgie
+VOO|Mode asynchrone du pacemaker (stimulation fixe, sans détection) : on le programme ou on pose un aimant avant d'utiliser le bistouri monopolaire, qui pourrait être pris pour une activité cardiaque.|Stimulateur cardiaque
+LigaSure|Pince de scellement vasculaire bipolaire « intelligente » : elle fusionne la paroi des vaisseaux jusqu'à 7 mm en mesurant l'impédance.|
+sutures;fil|Fils pour rapprocher les tissus : résorbables (digestif, sous-cutané) ou non (peau, tendons, vaisseaux), tressés ou monobrins, de calibre adapté (USP).|Suture chirurgicale
+USP|Calibre des fils selon l'United States Pharmacopeia : plus il y a de zéros, plus le fil est fin (6-0 pour le visage, 0 pour la paroi).|Suture chirurgicale
+monobrins|Fils faits d'un seul brin : glissent bien dans les tissus et retiennent peu les bactéries, mais nœuds moins sûrs.|
+tressés|Fils faits de plusieurs brins tressés : se nouent facilement et tiennent bien, mais les bactéries s'y logent (capillarité).|
+agrafes|Agrafes métalliques pour fermer la peau ou faire des anastomoses digestives (agrafeuses linéaires ou circulaires).|Agrafeuse chirurgicale
+anastomose|Raccordement de deux segments (intestin, vaisseau, voie biliaire) après une résection ; sa complication redoutée est la fuite (fistule anastomotique).|Anastomose
+drain|Tube qui évacue sang, liquide, bile ou air hors d'une cavité ; utile dans certaines situations, mais le drainage systématique n'apporte pas de bénéfice et peut nuire.|Drain chirurgical
+Cell-Saver|Machine qui aspire le sang perdu pendant l'opération, le lave et retransfuse les globules rouges au patient (épargne de sang de donneur).|Récupération peropératoire de sang
+TachoSil;BioGlue;Tissucol|Produits hémostatiques et colles chirurgicales : d'origine humaine (Tissucol : colle de fibrine), animale (TachoSil : éponge de collagène + fibrinogène/thrombine) ou synthétique (BioGlue pour les dissections aortiques).|Colle chirurgicale
+GRF|Colle gélatine-résorcine-formol, utilisée autrefois dans les dissections aortiques, retirée.|
+hémostase|Arrêt du saignement : naturel (vasoconstriction, plaquettes, coagulation) ou chirurgical (compression, ligature, clip, électrocoagulation, agents hémostatiques).|Hémostase
+ADP|Adénosine diphosphate libérée par les plaquettes activées, qui recrute d'autres plaquettes (cible du clopidogrel).|Adénosine diphosphate
+Fast-Track;ERAS|Récupération améliorée après chirurgie : ensemble de mesures (information, jeûne court avec boisson sucrée, analgésie sans morphine, pas de sonde ni drain systématiques, réalimentation et lever dès J0–J1) qui réduisent complications et durée d'hospitalisation.|Réhabilitation améliorée après chirurgie
+iléus|Arrêt transitoire du transit après une chirurgie abdominale (ballonnement, pas de gaz) ; aggravé par les opiacés et la surcharge en liquides ; la reprise des gaz signe sa fin.|Iléus
+cicatrisation|Réparation d'une plaie en phases qui se chevauchent : hémostase, inflammation (J1–J4), prolifération (bourgeon, collagène, J4–J21), remodelage (des mois). La cicatrice n'atteint qu'≈ 80 % de la résistance de la peau saine.|Cicatrisation
+première intention|Cicatrisation d'une plaie propre aux bords rapprochés (suturée) : rapide, cicatrice fine.|
+seconde intention|Cicatrisation d'une plaie laissée ouverte (infectée, perte de substance) : elle se comble par un bourgeon charnu et se rétracte ; plus long, cicatrice plus large.|
+EGF;FGF|Facteurs de croissance épidermique (EGF) et des fibroblastes (FGF) libérés dans la plaie : stimulent la multiplication cellulaire et les vaisseaux.|Facteur de croissance
+fibroblastes|Cellules qui fabriquent le collagène et contractent la plaie (myofibroblastes).|Fibroblaste
+collagène|Protéine de soutien qui donne sa résistance à la cicatrice ; d'abord désorganisé (type III), remplacé par du collagène plus solide (type I) pendant le remodelage.|Collagène
+chéloïde|Cicatrice qui déborde de la plaie initiale et continue de grossir (peaux foncées, lobule de l'oreille, thorax) ; différente de la cicatrice hypertrophique qui reste dans les limites et s'améliore.|Chéloïde
+déhiscence|Réouverture d'une plaie (éviscération si c'est la paroi abdominale) ou d'une anastomose, vers J5–J10 ; favorisée par infection, dénutrition, corticoïdes, toux.|Déhiscence
+éventration|Hernie à travers une cicatrice de la paroi abdominale ; fréquente après laparotomie (10–20 %).|Éventration
+compartiments|Secteurs liquidiens : eau totale ≈ 60 % du poids, dont 2/3 intracellulaire et 1/3 extracellulaire (interstitiel 15 %, plasma 5 %).|Liquide extracellulaire
+Mg2|Magnésium : principal cation intracellulaire avec le potassium.|Magnésium
+osmolalité|Concentration en particules dissoutes d'un liquide (≈ 285–295 mOsm/kg) ; l'eau passe vers le compartiment le plus concentré.|Osmolalité
+Ringer lactate|Soluté cristalloïde « équilibré » proche du plasma (sodium, potassium, calcium, lactate transformé en bicarbonate) ; donne moins d'acidose que le NaCl 0,9 %.|Ringer lactate
+cristalloïdes|Solutés d'eau et de sels (NaCl 0,9 %, Ringer) : bon marché, mais seul ≈ 1/4 reste dans les vaisseaux (le reste part dans les tissus : œdèmes si excès).|Cristalloïde
+colloïdes|Solutés contenant de grosses molécules (albumine, gélatines, amidons) qui restent plus longtemps dans les vaisseaux ; les amidons sont nocifs pour le rein.|Colloïde
+choc|Défaillance circulatoire : les organes ne reçoivent plus assez d'oxygène (hypotension, lactates, oligurie, marbrures). Hypovolémique (hémorragie), septique, cardiogénique, obstructif.|Choc circulatoire
+sepsis|Infection avec dysfonction d'organes due à une réponse dérégulée de l'hôte (score SOFA) ; choc septique si vasopresseurs et lactates > 2 malgré le remplissage.|Sepsis
+hypothermie|Température < 36 °C ; au bloc (anesthésie, ventre ouvert, perfusions froides), elle augmente saignement, infections et problèmes cardiaques : on réchauffe activement.|Hypothermie
+acide tranexamique|Antifibrinolytique qui empêche la dissolution des caillots : réduit le saignement et la mortalité en traumatologie s'il est donné dans les 3 premières heures.|Acide tranexamique
+damage control|Stratégie en traumatologie grave : opération courte pour arrêter saignement et fuite digestive, réanimation pour corriger la triade létale, réparation définitive plus tard.|Chirurgie de contrôle des dommages
+triade létale|Hypothermie + acidose + coagulopathie : chacune aggrave les deux autres ; cercle vicieux mortel du patient qui saigne.|Triade létale
+ABO|Groupes sanguins A, B, AB, O découverts par Landsteiner ; base de la compatibilité transfusionnelle.|Système ABO
+McLean|Jay McLean, étudiant qui a découvert l'héparine (1916), indispensable à la chirurgie vasculaire et cardiaque.|Héparine
+TP|Temps de Quick (taux de prothrombine) : explore la voie extrinsèque de la coagulation ; allongé sous AVK.|Temps de Quick
+IBM|IBM a aidé Gibbon à construire la première machine cœur-poumon (CEC).|
+AO|Arbeitsgemeinschaft für Osteosynthesefragen : groupe suisse qui a codifié l'ostéosynthèse (plaques, vis) et classé les fractures.|AO Foundation
+MyTest|Outil belge d'évaluation en ligne (ici, prévention des brûlures).|
+PGE2|Prostaglandine E2 : médiateur de la fièvre, produite dans l'hypothalamus sous l'effet de l'IL-1.|Prostaglandine E2
+Saint-Côme;confrérie Saint-Côme|Confrérie de Saint-Côme : corporation des chirurgiens parisiens du Moyen Âge, dits « de robe longue » car lettrés et formés au latin, par opposition aux barbiers-chirurgiens « de robe courte ». Elle marque le début de la reconnaissance de la chirurgie comme métier savant.|Collège de Saint-Côme
+Blalock-Taussig|Anastomose de Blalock-Taussig (1944) : branchement d'une artère sous-clavière sur une artère pulmonaire pour mieux oxygéner le sang des « bébés bleus » (tétralogie de Fallot). C'est l'une des premières opérations de chirurgie cardiaque, faite à cœur fermé, avant l'arrivée de la CEC.|Anastomose de Blalock-Taussig
+rT3|T3 inverse (reverse T3) : forme inactive de l'hormone thyroïdienne, fabriquée à partir de la T4. Après une agression ou en réanimation, la conversion de T4 bascule vers la rT3 : T3 basse, rT3 haute, TSH normale (euthyroid sick syndrome) ; il ne faut pas traiter.|Triiodothyronine inverse
+mmHg|Millimètre de mercure : unité de pression des tensions artérielles et des gaz du sang. Dans le cours : critère SIRS PaCO₂ < 32 mmHg, PAS cible 80–90 mmHg dans l'hémorragie non contrôlée, pression du pneumopéritoine.|Millimètre de mercure
+IL-1Ra|Antagoniste du récepteur de l'IL-1 : protéine anti-inflammatoire qui occupe le récepteur sans l'activer et freine l'IL-1. Elle participe à la phase CARS qui suit l'agression et, en excès, à l'immunodépression post-opératoire.|Antagoniste du récepteur de l'interleukine 1
+anti-H2|Antihistaminiques H2 (ranitidine, famotidine) : ils diminuent la sécrétion d'acide de l'estomac. Utilisés comme les IPP en prémédication pour réduire le risque d'inhalation acide, en évitant chez la personne âgée ou confuse (effets cognitifs).|Antihistaminique H2
+post-CEC|Après une circulation extracorporelle (chirurgie cardiaque) : période où surviennent des complications typiques, comme la fibrillation auriculaire (≈ 40 % des patients), le saignement et la réaction inflammatoire liée au contact du sang avec la machine.|Circulation extracorporelle
+Gibbs-Donnan;équilibre de Gibbs-Donnan|Équilibre de Gibbs-Donnan : les protéines du plasma, chargées négativement et trop grosses pour traverser la paroi des capillaires, retiennent des cations et repoussent des anions. Résultat : l'interstitium est un peu plus riche en Cl⁻ et le plasma un peu plus osmotique.|Équilibre de Donnan
+mOsm;mOsm/kg|Milliosmole : unité qui compte les particules dissoutes dans un liquide ; par kg d'eau, c'est l'osmolalité (≈ 290 mOsm/kg dans le plasma et les cellules). L'eau se déplace entre compartiments vers le côté le plus concentré, d'où l'importance de ce chiffre dans le choix des solutés.|Osmole (unité)
+mEq|Milliéquivalent : quantité d'un ion exprimée selon sa charge (pour Na⁺ ou K⁺, 1 mEq = 1 mmol ; pour Ca²⁺ ou Mg²⁺, 1 mmol = 2 mEq). Sert à calculer les apports : ≈ 100 mEq de sodium et 60 mEq de potassium par jour dans l'alimentation.|Équivalent (chimie)

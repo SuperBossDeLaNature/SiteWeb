@@ -1,0 +1,163 @@
+1|uroscanner|Après un traumatisme du rein traité sans opération, on refait un uroscanner à 6 mois pour vérifier la cicatrisation et l'absence de fuite d'urine ou de rein détruit.
+1|TA|Après un traumatisme rénal, on surveille la tension sur le long terme : un rein abîmé peut déclencher une HTA (par excès de rénine).
+1|hématurie|Dans le traumatisme de la vessie, du sang dans les urines est présent dans 80 % des cas : c'est le signe d'appel principal.
+1|TDM|Le scanner (avec opacification de la vessie) est l'examen de référence pour voir si la vessie est rompue et où (dans ou hors du péritoine).
+1|RUA|Dans la rupture de l'urètre postérieur, le blessé ne peut plus uriner : c'est un des 3 signes de la triade (avec le sang au méat et l'hématome périnéal).
+1|cystocath|Si l'urètre est rompu, une sonde par l'urètre pourrait aggraver la déchirure : on draine donc la vessie par le ventre (cathéter sus-pubien sous échographie).
+1|PNA|Ici, la pyélonéphrite est une urgence urologique quand elle s'accompagne d'un obstacle : l'urine infectée sous pression peut entraîner un choc septique.
+1|JJ|Si une PNA s'accompagne d'un obstacle (calcul), on draine le rein en urgence en posant une sonde double J (ou une néphrostomie), en plus des antibiotiques.
+1|prostatite|Prostatite aiguë : chez l'homme, toute infection urinaire avec fièvre doit être traitée comme une prostatite (antibiotiques plus longs, 3–6 semaines).
+1|IU|Chez l'homme, une infection urinaire (fébrile) est une prostatite jusqu'à preuve du contraire : la prostate est presque toujours touchée.
+1|TR|Dans la prostatite, le toucher rectal est très douloureux ; on le fait doucement et sans masser la prostate (risque de diffuser les bactéries dans le sang).
+1|ATB|Les antibiotiques doivent durer 3 à 6 semaines dans la prostatite, car ils pénètrent mal dans la prostate (on choisit souvent une fluoroquinolone).
+1|PSA|Le PSA monte beaucoup pendant une prostatite : le doser ne sert à rien et pourrait faire croire à tort à un cancer.
+1|torsion|Torsion du testicule : urgence chirurgicale typique de l'adolescent (16 ans en moyenne), avec réflexe crémastérien aboli. On opère dans les 6 h, même en cas de doute.
+1|O2|Dans la gangrène de Fournier, l'oxygène hyperbare (en caisson sous pression) aide à combattre les bactéries anaérobies, en plus de la chirurgie et des antibiotiques.
+1|CH|Taille de la sonde à poser en cas de rétention : 14–16 Ch chez la femme, 16–18 Ch chez l'homme.
+1|colique néphrétique|Ici présentée comme l'urgence urologique la plus fréquente ; elle récidive chez la moitié des patients dans les 5 ans.
+1|lithiase|Un calcul de moins de 5 mm passe le plus souvent tout seul dans la vessie : on traite la douleur et on attend.
+1|IRA|Un calcul qui bloque le seul rein qui fonctionne (ou les deux) donne une insuffisance rénale aiguë : il faut drainer en urgence.
+1|priapisme|Priapisme veineux (bas débit) : le sang stagne dans les corps caverneux, devient acide et sans oxygène ; après 4–6 h les lésions commencent, d'où l'urgence.
+1|AINS|Pendant la grossesse, on évite les AINS (toxiques pour le fœtus, surtout au 3e trimestre) pour traiter une colique néphrétique.
+2|hématurie|Message clé : qu'elle soit visible ou microscopique, une hématurie a la même valeur et impose le même bilan complet.
+2|GR|Seuils : on voit le sang à l'œil au-delà de 500 000 globules rouges par ml ; l'hématurie microscopique commence vers 10 000/ml (10/mm³).
+2|ECBU|La bandelette donne beaucoup de faux positifs : il faut toujours confirmer l'hématurie au microscope par un ECBU (qui élimine aussi une infection).
+2|lithiase|Contexte d'une hématurie d'origine urologique : un calcul fait partie des causes, avec le tabac et l'âge (cancers) et les traumatismes.
+2|ORL|Contexte d'une hématurie d'origine néphrologique : une angine récente oriente vers une glomérulonéphrite (Berger ou post-streptococcique).
+2|HTA|HTA + œdèmes + hématurie chez un adulte jeune évoquent une maladie du glomérule (cause néphrologique) plutôt qu'urologique.
+2|uroscanner|L'uroscanner en 3 phases est l'examen de référence du bilan d'une hématurie : il voit les calculs, les tumeurs du rein et des voies urinaires.
+2|cystoscopie|Le scanner voit mal l'intérieur de la vessie : la cystoscopie est indispensable après 40 ans ou s'il y a des facteurs de risque (tabac).
+2|CIS|La cytologie urinaire est surtout utile pour le carcinome in situ, qui est plat et difficile à voir à la cystoscopie.
+2|INR|Sous anticoagulant, on vérifie que l'INR n'est pas trop élevé, mais on fait quand même tout le bilan : l'anticoagulant révèle souvent une lésion qui saigne.
+2|cystocath|En cas d'hématurie avec caillots, on évite le cathéter sus-pubien (qui ne permet pas de laver la vessie) : on met une grosse sonde urétrale à double courant.
+2|HBPM|Patient sous anticoagulant oral : on peut relayer par une HBPM pendant qu'on fait le bilan en ambulatoire.
+2|PSA|Dans le bilan d'une hématurie chez l'homme de plus de 50 ans, on dose aussi le PSA (cancer de prostate).
+2|IgA|Néphropathie à IgA (maladie de Berger) : hématurie souvent visible quelques jours après une infection ORL ; c'est une cause néphrologique.
+3|TCP|Le tube proximal réabsorbe la majorité de ce qui est filtré (eau, sel, glucose) : il fait le « gros du travail ».
+3|TCD|Le tube distal ajuste finement l'urine selon les besoins (sous l'effet des hormones) : c'est le « réglage fin ».
+3|détrusor|Le détrusor est fait de 3 couches de muscle lisse ; c'est lui qui se contracte pour vider la vessie.
+3|sphincter|Deux sphincters : l'interne (involontaire) assure la continence au repos, l'externe (volontaire) permet de se retenir en cas d'urgence.
+3|T10|Le centre sympathique de la vessie est dans la moelle de T10 à L2 ; il favorise le remplissage (stockage).
+3|β3|Le sympathique relâche le détrusor par les récepteurs β3 : la vessie se laisse remplir.
+3|α1a|Le sympathique ferme le col de la vessie et la prostate via les récepteurs α1a : c'est la phase de stockage (et ce que bloquent les alpha-bloquants).
+3|S2|Le centre parasympathique de la miction est dans la moelle sacrée S2–S4 ; il fait contracter le détrusor par le nerf pelvien.
+3|M2|C'est le récepteur M3 qui fait contracter le détrusor quand l'acétylcholine est libérée : il déclenche la vidange.
+3|α-bloquant|Conséquence pratique : en bloquant les récepteurs α1 du col, on relâche la sortie de la vessie et on améliore la vidange (HBP).
+3|énurésie|Chez l'enfant, le pipi au lit peut s'expliquer par un manque d'ADH la nuit (trop d'urine produite).
+3|ADH|La nuit, l'ADH augmente normalement pour réduire la production d'urine ; si elle manque, l'enfant produit trop d'urine et fait pipi au lit.
+4|IUE|L'incontinence d'effort est la forme la plus fréquente chez la femme ; le traitement dépend du type, d'où l'importance de l'interrogatoire.
+4|IUU|L'incontinence par urgenturie est la moins fréquente des trois formes (après effort et mixte).
+4|hyperactivité vésicale|Tableau comparatif : l'incontinence par urgenturie correspond à une hyperactivité de la vessie.
+4|nycturie|Dans l'incontinence d'effort, pas de lever nocturne : la nycturie oriente plutôt vers une vessie hyperactive.
+4|pollakiurie|Uriner plus de 8 fois par 24 h est typique de l'hyperactivité vésicale.
+4|lithiase|Avant de conclure à une vessie hyperactive « idiopathique », on cherche ce qui irrite la vessie, par exemple un calcul.
+4|HBP|Chez l'homme, une HBP peut irriter la vessie et donner des urgences : à exclure avant de traiter une hyperactivité.
+4|SEP|Une maladie neurologique (comme la sclérose en plaques) peut donner une vessie hyperactive : on la cherche avant de parler d'idiopathique.
+4|AVC|Un AVC peut supprimer le contrôle du cerveau sur la vessie et donner une hyperactivité vésicale.
+4|anticholinergiques|Les médicaments ne servent qu'à l'incontinence par urgenturie (aucun pour l'incontinence d'effort).
+4|β3-mimétiques|Alternative aux anticholinergiques dans l'urgenturie, mieux tolérée chez la personne âgée.
+4|TVT|En cas d'échec de la rééducation pour l'incontinence d'effort, on pose une bandelette sous-urétrale ; environ 80 % de patientes satisfaites.
+4|CI|La neuromodulation sacrée n'est pas possible chez un patient paraplégique : il faut que les voies nerveuses soient en partie fonctionnelles.
+4|RPM|Les anticholinergiques peuvent faire retenir l'urine : on mesure le résidu avant et pendant le traitement pour vérifier que la vessie se vide encore bien.
+4|HTA|Les β3-mimétiques peuvent augmenter la tension : à ne pas donner si l'HTA est sévère et mal contrôlée.
+4|hématurie|Du sang dans les urines chez un patient incontinent est un signe d'alarme qui impose d'adresser au spécialiste (tumeur, calcul).
+4|IU|Des infections urinaires à répétition chez un patient incontinent doivent faire consulter un spécialiste (vidange incomplète, anomalie).
+4|ATCD|Une irradiation ou une chirurgie du bassin dans le passé peut avoir abîmé la vessie ou les nerfs : signe d'alarme qui demande un avis spécialisé.
+5|DE|Ici, la dysfonction érectile est présentée comme un « symptôme sentinelle » : elle annonce souvent un infarctus 2–3 ans plus tard, car les petites artères du pénis souffrent en premier.
+5|NO|Point de départ de l'érection : le NO libéré lors de l'excitation déclenche la cascade qui relâche les corps caverneux.
+5|GMPc|Le GMPc est le messager qui relâche le muscle lisse des corps caverneux ; les iPDE5 agissent en empêchant sa destruction.
+5|AMPc|Les prostaglandines (injectées dans le pénis) utilisent une autre voie, l'AMPc : elles marchent même si la voie du NO est déficiente.
+5|CV|La dysfonction érectile partage le même mécanisme (endothélium malade) que les maladies du cœur et des artères.
+5|HTA|L'HTA abîme l'endothélium des artères du pénis comme celles du cœur : c'est un facteur de risque commun.
+5|TA|1re étape du traitement : contrôler les facteurs de risque, dont la tension, avant tout médicament.
+5|PDE5|2e étape : les iPDE5 bloquent la PDE5, donc le GMPc reste plus longtemps et l'érection est facilitée.
+5|CI|La seule contre-indication absolue des iPDE5 : les dérivés nitrés (risque de chute de tension grave).
+5|nitrés|Un patient sous trinitrine (angor) ne doit jamais prendre de sildénafil ou tadalafil : les deux effets s'additionnent et la tension s'effondre.
+6|orchidectomie|Devant une masse du testicule, on fait une orchidectomie par l'aine et jamais par le scrotum, pour ne pas ouvrir de nouvelle voie de dissémination lymphatique.
+6|colique néphrétique|Piège : de gros ganglions lombo-aortiques (métastases d'un cancer du testicule) peuvent comprimer l'uretère et faire croire à une colique néphrétique chez un jeune.
+6|CIS|Ici, le CIS est celui du testicule (néoplasie germinale in situ) : il devient un cancer invasif dans la moitié des cas.
+6|séminome|Le séminome touche des hommes un peu plus âgés (> 30 ans) et représente 30–40 % des tumeurs germinales.
+6|βHCG|Le séminome peut parfois sécréter un peu d'hCG (5–10 % des cas), mais jamais beaucoup.
+6|AFP|Le séminome pur ne fabrique jamais d'AFP : une AFP élevée signifie qu'il y a une composante non séminomateuse.
+6|LDH|La LDH n'est pas spécifique, mais elle reflète la masse tumorale et sert au pronostic.
+6|TDM|Le bilan d'extension se fait au scanner du thorax et de l'abdomen pour chercher les ganglions lombo-aortiques et les métastases pulmonaires.
+6|J8|Après l'orchidectomie, on redose les marqueurs à J8 et J30 pour vérifier qu'ils baissent selon leur demi-vie (sinon il reste de la tumeur).
+6|varicocèle|Diagnostic différentiel d'une grosse bourse : une varicocèle est presque toujours à gauche et peut causer une infertilité.
+7|HBP|Ici : l'HBP est normale avec l'âge ; on ne la traite que si elle gêne (IPSS) ou se complique, quel que soit le volume.
+7|IPSS|C'est le score de gêne (IPSS + qualité de vie) qui décide du traitement de l'HBP, pas la taille de la prostate.
+7|PSA|La zone transitionnelle (celle de l'HBP) fabrique la plus grande partie du PSA : une grosse HBP fait donc monter le PSA sans cancer.
+7|pollakiurie|Symptômes de stockage (irritatifs) de l'HBP : uriner souvent, se lever la nuit, envies pressantes.
+7|nycturie|Se lever la nuit pour uriner fait partie des symptômes irritatifs de l'HBP.
+7|détrusor|La vessie lutte contre l'obstacle : le détrusor s'épaissit (vessie de lutte), puis se fibrose et finit par ne plus se contracter assez (décompensation).
+7|lithiase|Complication de l'HBP : l'urine qui stagne dans la vessie (ou dans un diverticule) favorise la formation de calculs.
+7|RUA|Risque de rétention aiguë sans traitement : 2,5 % par an ; après un 1er épisode, plus de la moitié récidivent dans les 6 mois.
+7|IR|Complication grave de l'HBP : l'obstacle chronique remonte vers les reins et les abîme (insuffisance rénale) ; c'est une indication à opérer.
+7|TR|Le toucher rectal évalue la taille, la consistance et la surface de la prostate (une zone dure fait suspecter un cancer).
+7|Qmax|Un débit maximal > 15 ml/s est normal ; un débit bas confirme que la vidange est gênée.
+7|α-bloquant|Les alpha-bloquants agissent sur la composante « dynamique » (tonus du col et de la prostate) : effet en 1 semaine à 1 mois. Les prendre au coucher (vertiges).
+7|DE|Effet indésirable des ARI : troubles de l'érection et baisse de libido (par baisse de la DHT).
+7|β3|Si les symptômes sont surtout irritatifs, on peut ajouter un anticholinergique ou un β3-mimétique, en surveillant le résidu.
+7|RPM|Avant de donner un médicament qui relâche la vessie à un homme avec HBP, on vérifie le résidu (risque de rétention).
+7|PDE5|Le tadalafil quotidien améliore aussi les symptômes urinaires légers (effet relaxant sur le muscle lisse) : utile si HBP + dysfonction érectile.
+7|TUBA|Le tadalafil est indiqué pour des troubles urinaires légers, surtout s'il y a aussi une dysfonction érectile.
+7|CI|Comme toujours pour un iPDE5, contre-indication absolue avec les dérivés nitrés.
+7|nitrés|Pas de tadalafil chez un patient qui prend des dérivés nitrés pour le cœur.
+7|TURP|La résection par l'urètre reste la référence pour les adénomes de moins de 80 ml.
+7|prostatectomie|Attention : l'adénomectomie de l'HBP ne retire que l'adénome central, alors que la prostatectomie radicale du cancer retire toute la prostate.
+7|HoLEP|Le laser holmium est une alternative à la résection classique, notamment pour les grosses prostates.
+7|hématurie|Une hématurie qui ne s'arrête pas malgré le traitement médical est une indication absolue d'opérer l'HBP.
+7|ATCD|Le PSA se discute à partir de 50 ans, plus tôt s'il y a des cancers de prostate dans la famille (risque plus élevé).
+8|ATCD|Facteur de risque : des cancers de prostate, du sein ou de l'ovaire dans la famille font suspecter une mutation héréditaire.
+8|cancer de la prostate|Avoir un parent proche atteint d'un cancer de la prostate double environ le risque.
+8|BRCA|Si la famille compte des cancers de prostate, du sein ou de l'ovaire, on cherche une mutation BRCA (surtout BRCA2), qui donne des cancers plus agressifs.
+8|PSA|Le PSA est spécifique de la prostate, pas du cancer : au-delà de 4 ng/ml, le risque de cancer augmente (≈ 25–30 % entre 4 et 10, ≈ 60 % au-delà de 10).
+8|IRM|Si la densité de PSA (PSA divisé par le volume de la prostate) dépasse 0,15, on fait une IRM pour chercher une lésion.
+8|TR|1re étape du dépistage : le toucher rectal associé au PSA.
+8|PI-RADS|On ne fait des biopsies que si l'IRM montre une lésion PI-RADS 4–5 (3 au cas par cas) ; si l'IRM est normale, pas de biopsie.
+8|biopsies|Les biopsies sont ciblées sur la lésion vue à l'IRM et faites par le périnée (moins d'infections que par le rectum).
+8|Gleason|Un score de Gleason ≥ 7 signifie un cancer agressif qui mérite d'être traité.
+8|ISUP|ISUP 1–2 = cancer peu agressif, on peut le surveiller ; ISUP 3–5 = on traite.
+8|Ta|T2a = tumeur limitée à moins de la moitié d'un lobe de la prostate : fait partie des critères de faible risque.
+8|prostatectomie|Pour un risque intermédiaire, la prostatectomie radicale est le traitement de 1re intention (ou la radiothérapie).
+8|N0M0|M1 = cancer métastatique (souvent aux os) : on ne peut plus guérir, on contrôle la maladie par hormonothérapie.
+8|hormonothérapie|Au stade métastatique, on prive la tumeur de testostérone (souvent en combinant 2 traitements hormonaux) ; survie de 2–3 ans en moyenne.
+8|DE|Après prostatectomie, incontinence et dysfonction érectile apparaissent tout de suite ; après radiothérapie, les troubles arrivent plus tard.
+8|curiethérapie|La curiethérapie (grains d'iode) est réservée aux petites prostates (< 50 g) avec cancer de faible risque ; le patient est légèrement radioactif quelques mois.
+8|PET-PSMA|Si le PSA redevient détectable après une prostatectomie (récidive biologique), on fait un PET-PSMA pour localiser où le cancer est revenu.
+9|hématurie|Une hématurie sans douleur chez un fumeur doit faire chercher un cancer de vessie en priorité.
+9|Ta|Le pronostic dépend surtout du stade T2 : la tumeur a-t-elle envahi le muscle de la vessie ?
+9|CIS|Le carcinome in situ est une des trois formes du cancer de vessie : plat, agressif, difficile à voir.
+9|cystoscopie|Le CIS est souvent invisible à la cystoscopie en lumière blanche ; la lumière bleue (fluorescence) aide à le voir.
+9|hyperactivité vésicale|Le CIS peut se révéler par des urgences mictionnelles qui ne s'améliorent pas : une « vessie hyperactive » résistante doit faire chercher un CIS.
+9|anticholinergiques|Signe d'alarme : une hyperactivité vésicale qui ne répond pas aux anticholinergiques doit faire penser à un CIS.
+9|TDM|Le scanner thoraco-abdomino-pelvien sert au bilan d'extension (ganglions, métastases) une fois le cancer prouvé.
+9|RTUV|La résection endoscopique est le 1er geste : elle confirme le diagnostic, donne le stade (muscle envahi ?) et traite les tumeurs superficielles.
+9|TVNIM|Les tumeurs superficielles sont classées en risque faible, intermédiaire ou élevé, ce qui décide des instillations.
+9|BCG|Pour les tumeurs de risque intermédiaire (et surtout élevé), on fait des instillations de BCG dans la vessie pour éviter les récidives.
+9|N0M0|Tumeur qui envahit le muscle (≥ pT2) sans ganglion ni métastase : traitement à visée curative par chimiothérapie puis cystectomie.
+9|cystectomie|Pour une tumeur qui infiltre le muscle, on enlève toute la vessie (avec la prostate chez l'homme) après une chimiothérapie au platine.
+9|prostatectomie|Chez l'homme, la cystectomie se fait en même temps que l'ablation de la prostate (cysto-prostatectomie).
+9|Bricker|Le Bricker est la dérivation la plus fréquente après cystectomie : l'urine sort en continu dans une poche sur le ventre.
+10|ITK|Le cancer du rein métastatique ne répond pas à la chimiothérapie classique : on utilise l'immunothérapie et les ITK.
+10|Bosniak|La classification de Bosniak décide de la conduite devant un kyste du rein : 1–2 on surveille, 3 (≈ 50 % de cancers) et 4 on opère.
+10|biopsies|On ne fait pas de biopsie d'un kyste du rein (risque de disséminer des cellules) : c'est l'imagerie (Bosniak) qui décide.
+10|JJ|Si un kyste comprime les voies urinaires, on draine par une sonde double J plutôt que par néphrostomie.
+10|hématurie|Le cancer du rein ne donne une hématurie que dans 20 % des cas : il est le plus souvent découvert par hasard.
+10|VS|Le cancer du rein peut donner des signes généraux (syndrome paranéoplasique) dont une VS élevée.
+10|varicocèle|Une varicocèle gauche récente peut révéler un cancer du rein qui bloque la veine rénale gauche (où se jette la veine spermatique gauche).
+10|TDM|Le scanner abdominal injecté montre la tumeur, son extension dans les veines (veine rénale, veine cave) et les ganglions.
+10|VCI|Il faut savoir si la tumeur a poussé un thrombus dans la veine cave : cela change l'opération.
+10|TNM|Le pronostic dépend du stade TNM et du grade : 90 % de survie à 5 ans au stade I, très faible au stade IV.
+10|IR|Si le patient a déjà une insuffisance rénale (ou un seul rein), on préfère surveiller une petite tumeur plutôt qu'enlever du rein.
+10|néphrectomie|Pour une tumeur de moins de 7 cm, on enlève seulement la tumeur (néphrectomie partielle) pour garder le maximum de rein.
+10|Ta|T2 = tumeur de plus de 7 cm, limitée au rein : on enlève tout le rein.
+10|Heng|Le score de Heng classe le pronostic du cancer du rein métastatique (bon, intermédiaire, mauvais) et guide le choix du traitement.
+11|priapisme|Contradiction entre le cours et les recommandations européennes sur le délai qui définit le priapisme (6 h vs 4 h).
+11|EAU|Les recommandations européennes (EAU) retiennent 4 h pour parler de priapisme.
+11|PDE5|Le cours dit pas d'interaction, mais en réalité l'association iPDE5 + alpha-bloquant peut faire baisser la tension (prudence, doses espacées).
+11|βHCG|La fiche contient une erreur de demi-vie : l'hCG diminue de moitié en 1–2 jours, pas en 1–2 semaines.
+11|HBP|Pour interpréter une débitmétrie, il faut uriner un volume suffisant (≥ 150 ml selon les recommandations).
+11|Gleason|En pratique, le score de Gleason rapporté va de 6 à 10 (les grades 1–2 ne sont plus utilisés).
+11|ATCD|Le dépistage commence plus tôt (45 ans, voire 40) en cas de cancer de prostate dans la famille.
+11|Bosniak|La classification de Bosniak officielle va de I à IV, avec une catégorie IIF à surveiller.
+11|IIF|IIF = kyste « à suivre » : un peu plus complexe qu'un kyste bénin, il est surveillé par imagerie.

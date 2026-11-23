@@ -1,87 +1,209 @@
-CT|Tomodensitométrie (scanner) : des rayons X tournent autour du patient et un ordinateur reconstruit des coupes.|Tomodensitométrie
-IRM|Imagerie par résonance magnétique : utilise un aimant et des ondes radio, pas de rayons X. Excellente pour les tissus mous.|Imagerie par résonance magnétique
-RX|Rayons X : rayonnement ionisant utilisé en radiographie et au scanner.|Rayon X
-T1;T2|Séquences d'IRM : en T1 l'eau est noire et la graisse blanche (anatomie) ; en T2 l'eau est blanche (œdème, liquides).|Imagerie par résonance magnétique
-UH|Unités Hounsfield : échelle de densité au scanner (eau 0, air −1000, os +1000, graisse ≈ −100).|Échelle de Hounsfield
-CBCT;cone beam|Cone beam CT : scanner à faisceau conique, faible dose, pour dents, sinus, petites articulations.|Tomographie volumique à faisceau conique
-MIP|Maximum intensity projection : reconstruction qui garde les pixels les plus denses (vaisseaux, nodules).|
-TVP|Thrombose veineuse profonde : caillot dans une veine des jambes ; diagnostic par écho-Doppler.|Thrombose veineuse profonde
-DWI;diffusion|IRM de diffusion : mesure le mouvement de l'eau ; l'AVC ischémique y est blanc dès les premières minutes.|Imagerie de diffusion
-ADC|Coefficient de diffusion apparent : carte associée à la diffusion ; noir quand la diffusion est vraiment restreinte (AVC aigu).|
-FLAIR|Séquence T2 où le LCR est rendu noir, pour bien voir les lésions près des ventricules (SEP).|
-STIR|Séquence qui efface la graisse ; montre l'œdème osseux et musculaire.|
-OAP|Œdème aigu du poumon : liquide dans les alvéoles (insuffisance cardiaque).|Œdème aigu du poumon
-AAA|Anévrisme de l'aorte abdominale : dilatation ≥ 3 cm ; opérer à partir de 5,5 cm (homme).|Anévrisme de l'aorte abdominale
-ALARA|As Low As Reasonably Achievable : principe d'utiliser la dose de rayons la plus faible possible.|ALARA
-ASP|Abdomen sans préparation : radiographie simple du ventre (pneumopéritoine, occlusion).|
-CPRM|Cholangio-pancréatographie par IRM : image des voies biliaires sans injection.|
-AOMI|Artériopathie oblitérante des membres inférieurs : artères des jambes rétrécies par l'athérome.|Artériopathie oblitérante des membres inférieurs
-PET-FDG|Imagerie du métabolisme du glucose, très utile en cancérologie.|Tomographie par émission de positons
-MLO|Incidence médio-latérale oblique de la mammographie (avec l'incidence de face).|
-GEU|Grossesse extra-utérine : œuf implanté hors de l'utérus (trompe) ; urgence.|Grossesse extra-utérine
-PNA|Pyélonéphrite aiguë.|Pyélonéphrite
-DLP|Produit dose-longueur : indicateur de la dose délivrée lors d'un scanner.|
-SAR|Taux d'absorption spécifique : chaleur déposée dans les tissus par les ondes de l'IRM.|Débit d'absorption spécifique
-CI-AKI|Insuffisance rénale aiguë après produit de contraste iodé (rare, surtout si DFG bas).|Néphropathie induite par les produits de contraste
-CPPD;chondrocalcinose|Dépôts de pyrophosphate de calcium dans les cartilages (ménisques), visibles en radio.|Chondrocalcinose
-HLA-B27|Marqueur génétique associé aux spondylarthrites.|HLA-B27
-LI-RADS|Classification du risque de carcinome hépatocellulaire au scanner/IRM chez le cirrhotique.|
-BI-RADS|Classification des images du sein (0 à 6) qui fixe la conduite à tenir (surveillance, biopsie).|BI-RADS
-EU-TIRADS|Classification échographique des nodules thyroïdiens.|
-FAST|Échographie rapide au déchocage pour chercher du sang dans le ventre ou autour du cœur.|Focused assessment with sonography for trauma
-CHC|Carcinome hépatocellulaire : cancer primitif du foie, souvent sur cirrhose ; se rehausse au temps artériel et se lave au temps portal.|Carcinome hépatocellulaire
-MICI|Maladies inflammatoires chroniques de l'intestin (Crohn, rectocolite).|Maladie inflammatoire chronique de l'intestin
-SDRA|Syndrome de détresse respiratoire aiguë : poumons blancs bilatéraux, œdème non cardiaque.|Syndrome de détresse respiratoire aiguë
-HTAP|Hypertension artérielle pulmonaire.|Hypertension artérielle pulmonaire
-HSA|Hémorragie sous-arachnoïdienne : sang dans les citernes au scanner.|Hémorragie méningée
-MAV|Malformation artério-veineuse.|Malformation artério-veineuse
-TAVI|Remplacement de la valve aortique par cathéter.|TAVI
-radioprotection|Ensemble des règles pour limiter l'exposition aux rayons (justification, optimisation, limitation).|Radioprotection
-sievert;mSv|Unité de dose efficace de rayonnement ; on reçoit ≈ 2–3 mSv par an naturellement.|Sievert
-effets déterministes|Effets des rayons qui apparaissent au-dessus d'un seuil, avec gravité proportionnelle à la dose (brûlure, cataracte).|
-effets stochastiques|Effets des rayons sans seuil, dont seule la probabilité augmente avec la dose (cancer).|
-signe de la silhouette|Deux structures de même densité qui se touchent perdent leur contour commun : localise une opacité pulmonaire.|Signe de la silhouette
-opacité|Zone plus blanche à la radio (plus dense, moins de rayons passent).|
-clarté|Zone plus noire à la radio (air, graisse).|
-fenêtrage|Réglage du contraste au scanner (fenêtre os, poumon, parties molles…).|
-artefacts|Images fausses créées par la technique (mouvement, métal…).|Artéfact (imagerie)
-échographie|Imagerie par ultrasons : sans danger, en temps réel, mais dépend de l'opérateur et bloquée par l'air et l'os.|Échographie
-Doppler|Technique d'échographie qui mesure la vitesse et le sens du sang dans les vaisseaux.|Effet Doppler
-anéchogène|Noir à l'échographie : liquide (kyste, vessie).|
-hyperéchogène|Blanc à l'échographie (graisse, calcification, os).|
-cône d'ombre|Bande noire derrière un calcul ou un os à l'échographie, car les ultrasons ne passent pas.|
-hypersignal|Zone plus blanche que la normale en IRM.|
-gadolinium|Produit de contraste de l'IRM ; contre-indiqué si insuffisance rénale sévère (fibrose systémique néphrogénique).|Gadolinium
-produits de contraste iodés;iodés|Produits injectés au scanner pour rendre les vaisseaux et organes plus blancs ; risque allergique et rénal.|Produit de contraste iodé
-baryum|Produit de contraste digestif (bouillie) pour les examens opacifiés du tube digestif.|Sulfate de baryum
-microbulles|Produit de contraste de l'échographie (bulles de gaz).|
-fracture|Rupture de l'os ; lisérés clairs à la radio.|Fracture osseuse
-arthrose|Usure du cartilage : pincement localisé, ostéophytes, sclérose, géodes.|Arthrose
-arthrite|Inflammation de l'articulation : pincement global, déminéralisation, érosions.|Arthrite
-ostéophytes|Excroissances osseuses au bord des articulations arthrosiques (« becs de perroquet »).|Ostéophyte
-radiologie interventionnelle|Gestes thérapeutiques guidés par l'imagerie (embolisation, drainage, biopsie, radiofréquence).|Radiologie interventionnelle
-embolisation|Boucher un vaisseau par cathéter (coils, particules, colle) pour arrêter un saignement ou dévasculariser une tumeur.|Embolisation
-radiofréquence|Destruction d'une tumeur par la chaleur avec une aiguille placée sous imagerie.|Ablation par radiofréquence
-Seldinger|Technique d'accès aux vaisseaux : ponction, guide, puis introducteur.|Technique de Seldinger
-pneumopéritoine|Air libre dans le ventre : perforation d'un organe creux. Croissant clair sous les coupoles.|Pneumopéritoine
-occlusion|Arrêt du transit : anses dilatées avec niveaux hydro-aériques.|Occlusion intestinale
-appendicite|Inflammation de l'appendice ; écho chez l'enfant, scanner chez l'adulte.|Appendicite
-diverticulite|Inflammation d'un diverticule du côlon (souvent sigmoïde).|Diverticulite
-pénombre|Tissu cérébral en souffrance mais encore sauvable autour de l'infarctus.|
-dissection aortique;syndrome aortique aigu|Déchirure de la paroi de l'aorte avec faux chenal ; douleur thoracique brutale.|Dissection aortique
-embolie pulmonaire|Caillot dans une artère pulmonaire ; angio-scanner thoracique.|Embolie pulmonaire
-mammographie|Radiographie des seins à faible dose ; dépistage du cancer du sein de 50 à 69 ans.|Mammographie
-microcalcifications|Petits points blancs en mammographie ; groupés et irréguliers, ils peuvent révéler un cancer.|
-bronchogramme aérique|Bronches remplies d'air visibles dans une opacité alvéolaire (pneumonie).|Bronchogramme aérien
-atélectasie|Affaissement d'une partie du poumon (bronche bouchée), avec rétraction.|Atélectasie
-pneumothorax|Air entre poumon et paroi : liseré pleural visible, sans vaisseaux au-delà.|Pneumothorax
-épanchement pleural|Liquide dans la plèvre : opacité déclive avec ligne de Damoiseau.|Épanchement pleural
-nodule|Opacité arrondie < 3 cm dans le poumon ; au-delà on parle de masse.|Nodule pulmonaire
-syndrome interstitiel|Atteinte du tissu de soutien du poumon : opacités en lignes, réticulations, verre dépoli.|Pneumopathie interstitielle
-verre dépoli|Voile gris au scanner du poumon qui laisse voir les vaisseaux.|Opacité en verre dépoli
-hydronéphrose|Dilatation des cavités du rein en amont d'un obstacle.|Hydronéphrose
-Bosniak|Classification des kystes du rein selon le risque de cancer.|
-invagination|Télescopage d'un segment d'intestin dans le suivant, chez le nourrisson ; image en cocarde à l'écho.|Invagination intestinale aiguë
-sténose du pylore|Épaississement du muscle du pylore du nourrisson (vomissements en jet) ; diagnostic par écho.|Sténose du pylore
-maltraitance;enfant battu|Fractures d'âges différents, fractures métaphysaires en coin, fractures de côtes postérieures : évoquer la maltraitance.|Syndrome de Silverman
-Salter-Harris|Classification des fractures touchant le cartilage de croissance de l'enfant (I à V).|Classification de Salter-Harris
+CT|Tomodensitométrie (scanner) : un tube à rayons X tourne autour du patient, des détecteurs mesurent l'atténuation et l'ordinateur reconstruit des coupes en densités (unités Hounsfield). Rapide, disponible, excellent pour l'os, le poumon et l'urgence ; mais irradiant (≈ 2–10 mSv) et souvent avec produit iodé.|Tomodensitométrie
+IRM|Imagerie par résonance magnétique : un aimant puissant aligne les protons de l'eau, des ondes radio les excitent, et leur retour à l'équilibre donne le signal. Pas de rayons X ; meilleur contraste des tissus mous (cerveau, moelle, articulations, pelvis). Limites : durée, coût, claustrophobie, implants métalliques.|Imagerie par résonance magnétique
+RX|Rayons X : rayonnement ionisant produit par un tube ; plus un tissu est dense (os), plus il arrête les rayons et apparaît blanc sur l'image. Base de la radiographie, du scanner et de la fluoroscopie.|Rayon X
+T1;T2|Pondérations de l'IRM. En T1, l'eau est noire et la graisse blanche : image « anatomique », et c'est en T1 qu'on voit la prise de gadolinium. En T2, l'eau est blanche : on voit œdème, liquides, inflammation.|Imagerie par résonance magnétique
+UH|Unités Hounsfield : échelle de densité du scanner calée sur l'eau (0) et l'air (−1000) ; graisse ≈ −100, tissus mous +20 à +60, sang frais +60 à +80, os > +400. Mesurer les UH aide à caractériser une lésion (graisse = bénin dans un adénome surrénalien).|Échelle de Hounsfield
+CBCT;cone beam|Cone beam CT : scanner à faisceau conique et capteur plan, de faible dose et très haute résolution pour l'os ; utilisé pour les dents, les sinus, le rocher, les petites articulations.|Tomographie volumique à faisceau conique
+MIP;MPR|Reconstructions du scanner : MPR = coupes refaites dans n'importe quel plan (sagittal, coronal) ; MIP = projection qui garde les pixels les plus denses (pratique pour suivre vaisseaux et nodules).|Reconstruction multiplanaire
+TVP|Thrombose veineuse profonde : caillot dans une veine profonde (souvent de la jambe) ; diagnostic par écho de compression (la veine ne s'écrase plus sous la sonde). Risque : embolie pulmonaire.|Thrombose veineuse profonde
+DWI;diffusion|IRM de diffusion : mesure les petits mouvements des molécules d'eau. Quand les cellules gonflent (AVC aigu) ou sont très serrées (abcès, lymphome), l'eau bouge moins : la zone est blanche, dès les premières minutes de l'AVC.|Imagerie de diffusion
+ADC|Carte du coefficient de diffusion apparent : on la lit avec la diffusion ; une restriction vraie est blanche en diffusion ET noire en ADC (sinon c'est un effet T2, « T2 shine-through »).|
+FLAIR|Séquence T2 où le signal du LCR est effacé (noir) : les lésions au contact des ventricules et des sillons (SEP, œdème, hémorragie méningée subaiguë) ressortent bien.|Fluid-attenuated inversion recovery
+STIR|Séquence qui efface la graisse ; tout ce qui contient de l'eau en excès (œdème osseux d'une fracture de fatigue, myosite) devient très blanc.|Short-TI inversion recovery
+OAP|Œdème aigu du poumon : liquide dans les alvéoles, souvent cardiaque ; radio : cardiomégalie, redistribution vasculaire vers les sommets, lignes de Kerley, opacités en ailes de papillon, épanchements.|Œdème aigu du poumon
+AAA;AA|Anévrisme de l'aorte (abdominale ≥ 3 cm) : dilatation qui grossit lentement puis peut se rompre. Dépistage par écho ; suivi selon la taille ; réparation à partir de ≈ 5,5 cm (homme) ou si croissance rapide. Rupture = urgence (CT si stable).|Anévrisme de l'aorte abdominale
+ALARA|As Low As Reasonably Achievable : principe d'optimisation — utiliser la plus petite dose de rayons qui donne une image utile (adapter les paramètres, limiter les phases, préférer écho ou IRM quand c'est possible).|ALARA
+ASP|Abdomen sans préparation : radiographie simple du ventre ; utilité limitée aujourd'hui (corps étrangers, calculs calcifiés, sondes, occlusion grossière), largement remplacée par le scanner.|Abdomen sans préparation
+CPRM|Cholangio-pancréatographie par IRM : séquence très T2 qui montre les voies biliaires et le canal pancréatique sans injection ; recherche de calcul du cholédoque, sténose.|Cholangio-pancréatographie par résonance magnétique
+AOMI|Artériopathie oblitérante des membres inférieurs : rétrécissement des artères des jambes par l'athérome ; douleur à la marche (claudication), puis au repos, puis plaies. Bilan : écho-Doppler, puis angio-CT ou angio-IRM avant revascularisation.|Artériopathie oblitérante des membres inférieurs
+IIa;IIb|Stades de Leriche-Fontaine de l'AOMI : II = claudication (IIa si on marche plus de 200 m, IIb moins de 200 m), III = douleur au repos, IV = troubles trophiques.|Classification de Leriche et Fontaine
+PET-FDG|Tomographie par émission de positons au FDG (glucose radioactif) : les cellules qui consomment beaucoup de glucose (cancers, inflammation) fixent le traceur ; bilan d'extension et réponse au traitement.|Tomographie par émission de positons
+MLO;CC|Les deux incidences standard de la mammographie : cranio-caudale (CC, de haut en bas) et médio-latérale oblique (MLO, qui inclut le creux axillaire).|Mammographie
+GEU|Grossesse extra-utérine : œuf implanté hors de l'utérus (trompe surtout). Suspectée devant une douleur pelvienne et un test de grossesse positif sans sac intra-utérin à l'écho ; risque de rupture et d'hémorragie.|Grossesse extra-utérine
+PNA|Pyélonéphrite aiguë : infection du rein ; au scanner, zones triangulaires moins rehaussées (rein strié) ; imagerie surtout pour chercher un obstacle ou un abcès.|Pyélonéphrite
+DLP;CTDIvol;CTDIw|Indicateurs de dose du scanner : CTDIvol = dose moyenne dans le volume exploré (mGy), DLP = CTDIvol × longueur (mGy·cm), à partir duquel on estime la dose efficace. CTDIw = moyenne pondérée d'une coupe, divisée par le pitch pour obtenir le CTDIvol.|Indice de dose de scanographie
+PDS|Produit dose × surface (Gy·cm²) : indicateur de dose en radiographie et en fluoroscopie.|Produit dose surface
+WR;WT|Facteurs de pondération : WR selon le type de rayonnement (1 pour les rayons X) et WT selon l'organe irradié (sensibilité au cancer) ; ils transforment la dose absorbée en dose équivalente puis efficace.|Dose efficace
+SAR|Taux d'absorption spécifique (W/kg) : chaleur déposée dans les tissus par les ondes radio de l'IRM ; limité pour éviter l'échauffement.|Débit d'absorption spécifique
+CI-AKI;CA-AKI|Insuffisance rénale aiguë après produit de contraste iodé : CA-AKI = survenant dans les 48 h (lien temporel), CI-AKI = réellement causée par le produit (rare). Risque surtout si DFG < 30 ; prévention : hydratation, éviter les néphrotoxiques.|Néphropathie induite par les produits de contraste
+CPPD;chondrocalcinose|Chondrocalcinose : dépôts de pyrophosphate de calcium dans les cartilages (ménisques, ligament triangulaire du poignet, symphyse), visibles en radio ; peut donner des crises de pseudo-goutte.|Chondrocalcinose
+HLA-B27|Marqueur génétique associé aux spondylarthrites (sacro-iliite, enthésites).|HLA-B27
+LI-RADS|Classification du risque de carcinome hépatocellulaire au scanner/IRM chez le cirrhotique (LR-1 bénin à LR-5 CHC certain) : un LR-5 se traite sans biopsie.|LI-RADS
+BI-RADS|Classification des images du sein (ACR) : 0 incomplet, 1 normal, 2 bénin, 3 probablement bénin (< 2 % : contrôle à 6 mois), 4 suspect (biopsie), 5 très suspect (> 95 %), 6 cancer prouvé.|BI-RADS
+EU-TIRADS|Classification échographique européenne des nodules thyroïdiens (2 à 5) ; elle fixe la taille à partir de laquelle on ponctionne.|
+FAST|Échographie rapide au déchocage chez le polytraumatisé : cherche du sang dans le ventre (Morison, Douglas, rate) et autour du cœur. Positive chez un patient instable = bloc.|Focused assessment with sonography for trauma
+CHC|Carcinome hépatocellulaire : cancer primitif du foie, presque toujours sur cirrhose. Signature : rehaussement au temps artériel puis lavage (wash-out) au temps portal. Dépistage du cirrhotique : écho + αFP tous les 6 mois.|Carcinome hépatocellulaire
+MICI;RCUH|Maladies inflammatoires chroniques de l'intestin : Crohn (tout le tube digestif, segmentaire, fistules ; entéro-IRM) et rectocolite hémorragique (RCUH : rectum et côlon en continu, côlon « tuyau de pipe »).|Maladie inflammatoire chronique de l'intestin
+SDRA|Syndrome de détresse respiratoire aiguë : œdème pulmonaire non cardiaque (sepsis, pneumonie, trauma) ; opacités bilatérales, cœur normal.|Syndrome de détresse respiratoire aiguë
+HTAP|Hypertension artérielle pulmonaire : artères pulmonaires centrales dilatées, cœur droit dilaté.|Hypertension artérielle pulmonaire
+HSA|Hémorragie sous-arachnoïdienne : sang dans les citernes et sillons ; scanner sans injection très sensible les premières heures ; ponction lombaire si scanner négatif ; angio-CT pour l'anévrisme.|Hémorragie méningée
+MAV|Malformation artério-veineuse : communication anormale artères-veines sans capillaire ; risque d'hémorragie cérébrale.|Malformation artério-veineuse
+TAVI|Remplacement de la valve aortique par cathéter : le scanner mesure l'anneau aortique et les axes artériels avant le geste.|TAVI
+radioprotection|Règles pour limiter l'exposition : justification (l'examen est-il utile ?), optimisation (ALARA), limitation des doses (travailleurs, public). Protection : temps, distance, écrans.|Radioprotection
+sievert;mSv|Sievert : unité de dose efficace (risque de cancer). Irradiation naturelle ≈ 2–3 mSv/an ; radio thorax ≈ 0,02 mSv ; scanner abdominal ≈ 5–10 mSv.|Sievert
+effets déterministes|Effets des rayons qui n'apparaissent qu'au-dessus d'un seuil, avec gravité croissante avec la dose : brûlure cutanée, chute de cheveux, cataracte, stérilité. Concernent surtout la radiologie interventionnelle longue.|
+effets stochastiques|Effets aléatoires sans seuil : la probabilité (pas la gravité) augmente avec la dose — cancers, effets génétiques. Base du principe ALARA.|
+signe de la silhouette|Deux structures de même densité au contact l'une de l'autre perdent leur contour commun : une opacité qui efface le bord du cœur est antérieure (lobe moyen, lingula) ; si le bord reste net, elle est postérieure.|Signe de la silhouette
+opacité|Zone plus blanche que la normale à la radio : quelque chose de dense (liquide, tissu, calcium) remplace l'air ou s'ajoute.|
+clarté|Zone plus noire à la radio : air ou graisse (pneumothorax, emphysème).|
+fenêtrage|Réglage du contraste au scanner (largeur et niveau de fenêtre) pour bien voir un tissu : fenêtre poumon, médiastinale, os, cerveau.|
+artefacts|Fausses images dues à la technique (mouvement, métal, durcissement du faisceau…).|Artéfact (imagerie)
+échographie|Imagerie par ultrasons : sans danger, au lit, en temps réel, dynamique (Doppler) ; mais elle dépend de l'opérateur et ne traverse ni l'air ni l'os. 1re imagerie de l'enfant, de la femme enceinte, de la vésicule, du rein, de la thyroïde.|Échographie
+Doppler|Échographie qui mesure la vitesse et le sens du sang grâce au décalage de fréquence des ultrasons renvoyés par les globules rouges ; rouge = vers la sonde, bleu = s'éloigne (ce n'est pas artère/veine).|Effet Doppler
+anéchogène|Noir à l'échographie : liquide pur (kyste simple, vessie, vésicule), avec renforcement postérieur.|
+hyperéchogène|Blanc à l'échographie : interface qui renvoie beaucoup d'ultrasons (graisse, calcification, os, gaz).|
+cône d'ombre|Bande noire derrière un calcul ou un os à l'échographie : les ultrasons sont arrêtés, rien ne passe derrière.|
+hypersignal|Zone plus blanche que le tissu de référence en IRM (dans une séquence donnée).|
+gadolinium|Produit de contraste de l'IRM : rehausse les zones vascularisées ou où la barrière est rompue (tumeur, inflammation). Prudence si DFG < 30 (fibrose néphrogénique systémique avec les anciens produits) ; dépôts cérébraux possibles.|Gadolinium
+produits de contraste iodés;iodés;PC|Produits de contraste iodés injectés au scanner et en angiographie pour rendre vaisseaux et organes plus denses. Risques : réactions d'hypersensibilité (antécédent de réaction = 1er facteur de risque), atteinte rénale chez le patient fragile, hyperthyroïdie.|Produit de contraste
+baryum|Produit de contraste digestif opaque (bouillie) pour les transits ; à ne pas utiliser si perforation suspectée (péritonite barytée) : on prend alors un produit iodé hydrosoluble.|Sulfate de baryum
+microbulles|Produit de contraste de l'échographie (bulles de gaz entourées d'une coque), sans toxicité rénale ; caractérise les lésions du foie et du rein.|
+fracture|Rupture de l'os : trait clair, décalage des corticales ; toujours 2 incidences et articulations sus- et sous-jacentes.|Fracture osseuse
+arthrose|Usure du cartilage : pincement localisé de l'interligne (zone d'appui), ostéophytes, sclérose sous-chondrale, géodes. Pas d'IRM nécessaire en routine.|Arthrose
+arthrite|Inflammation articulaire : pincement global, déminéralisation autour de l'articulation, érosions (polyarthrite rhumatoïde) ; écho et IRM voient l'inflammation avant la radio.|Arthrite
+ostéophytes|Excroissances osseuses au bord des articulations arthrosiques (« becs de perroquet » au rachis).|Ostéophyte
+radiologie interventionnelle|Gestes de traitement ou de diagnostic guidés par l'imagerie, à travers la peau ou les vaisseaux : biopsies, drainages, embolisations, angioplasties, destructions de tumeurs (radiofréquence, micro-ondes).|Radiologie interventionnelle
+embolisation|Boucher volontairement un vaisseau par un cathéter (coils, particules, colle, gélatine) : arrêter un saignement (post-partum, trauma), dévasculariser une tumeur, traiter un fibrome ou une hypertrophie de prostate.|Embolisation
+radiofréquence|Destruction d'une tumeur (foie, rein, os) par la chaleur d'une aiguille placée sous écho ou scanner.|Ablation par radiofréquence
+Seldinger|Technique d'accès aux vaisseaux : ponction à l'aiguille, passage d'un guide souple, retrait de l'aiguille puis glissement d'un introducteur ou d'un cathéter sur le guide.|Technique de Seldinger
+pneumopéritoine|Air libre dans la cavité péritonéale : perforation d'un organe creux (ulcère, diverticule) ; croissant clair sous les coupoles en radio debout, mieux vu au scanner.|Pneumopéritoine
+occlusion|Arrêt du transit : anses dilatées en amont, plates en aval, niveaux hydro-aériques ; le scanner trouve l'endroit (zone de transition), la cause et les signes de souffrance.|Occlusion intestinale
+appendicite|Inflammation de l'appendice : diamètre > 6 mm, non compressible, infiltration de la graisse ; écho chez l'enfant et la femme jeune, scanner chez l'adulte.|Appendicite
+diverticulite|Inflammation d'un diverticule du côlon (souvent sigmoïde) : épaississement, infiltration de la graisse ; le scanner cherche abcès et perforation.|Diverticulite
+pénombre|Tissu cérébral en souffrance autour du cœur de l'infarctus, encore sauvable si on rouvre l'artère ; à la perfusion : temps allongés mais volume sanguin conservé.|Pénombre ischémique
+dissection aortique;syndrome aortique aigu|Déchirure de l'intima de l'aorte avec un faux chenal ; douleur thoracique brutale migratrice. Angio-CT en urgence. Type A (aorte ascendante) = chirurgie ; type B = souvent médical.|Dissection aortique
+embolie pulmonaire|Caillot dans une artère pulmonaire : défaut d'opacification à l'angio-CT thoracique ; scintigraphie de ventilation-perfusion si contre-indication à l'iode ou grossesse.|Embolie pulmonaire
+mammographie|Radiographie des seins à faible dose (2 incidences par sein) ; dépistage organisé de 50 à 69 ans tous les 2 ans ; réduit la mortalité du cancer du sein d'environ 20 %.|Mammographie
+microcalcifications|Petits points blancs en mammographie ; groupés, fins, irréguliers ou en lignes (canalaires), ils peuvent révéler un cancer in situ.|
+bronchogramme aérique|Bronches remplies d'air rendues visibles au sein d'une opacité alvéolaire (pneumonie) : prouve que l'opacité est dans le poumon et que la bronche est libre.|Bronchogramme aérien
+atélectasie|Affaissement d'une partie du poumon (bronche bouchée par un bouchon, une tumeur) : opacité avec perte de volume (scissure, médiastin ou coupole attirés).|Atélectasie
+pneumothorax|Air entre poumon et paroi : liseré pleural fin, sans vaisseaux au-delà ; compressif si le médiastin est refoulé (urgence).|Pneumothorax
+épanchement pleural|Liquide dans la plèvre : opacité déclive effaçant le cul-de-sac, à bord supérieur concave (ligne de Damoiseau) ; l'écho le voit dès quelques ml et guide la ponction.|Épanchement pleural
+nodule|Opacité arrondie < 3 cm dans le poumon (au-delà : masse). Le suivi dépend de la taille, de l'aspect (solide, verre dépoli) et du terrain (tabac).|Nodule pulmonaire
+syndrome interstitiel|Atteinte du tissu de soutien du poumon : réticulations, verre dépoli, rayon de miel ; scanner haute résolution pour le caractériser (fibrose, œdème, infection).|Pneumopathie interstitielle
+verre dépoli|Voile gris au scanner du poumon qui laisse voir les vaisseaux : alvéoles partiellement remplies ou parois épaissies (infection virale, œdème, hémorragie, début de fibrose).|Opacité en verre dépoli
+hydronéphrose|Dilatation des cavités du rein (bassinet, calices) en amont d'un obstacle (calcul, tumeur, prostate) ; vue à l'échographie.|Hydronéphrose
+Bosniak|Classification des kystes du rein au scanner : I–II bénins, IIF à surveiller, III ≈ 50 % de malignité, IV ≈ 90 % (portion charnue qui prend le contraste).|Classification de Bosniak
+IIF|Bosniak IIF : kyste avec plusieurs cloisons fines ou calcifications épaisses : suivi par imagerie (F = follow-up).|Classification de Bosniak
+invagination|Télescopage d'un segment d'intestin dans le suivant (iléo-colique), chez le nourrisson de 3 mois à 2 ans : pleurs par crises, pâleur ; image en cocarde à l'écho ; réduction par lavement sous contrôle.|Invagination intestinale aiguë
+sténose du pylore|Épaississement du muscle du pylore chez le nourrisson de 2 à 8 semaines : vomissements en jet après les biberons ; écho : muscle > 3–4 mm, canal > 15–17 mm.|Sténose du pylore
+maltraitance;enfant battu|Signes radiologiques évocateurs : fractures d'âges différents, fractures métaphysaires « en coin », fractures des côtes postérieures, hématomes sous-duraux ; bilan squelettique complet chez l'enfant < 2 ans.|Syndrome de l'enfant battu
+Salter-Harris|Classification des fractures touchant le cartilage de croissance de l'enfant (I à V) ; plus le numéro est élevé, plus le risque de trouble de croissance est grand.|Classification de Salter-Harris
+AP|Incidence antéro-postérieure (rayons de l'avant vers l'arrière) : au lit, le cœur loin du détecteur paraît agrandi, contrairement à l'incidence PA debout.|Radiographie du thorax
+UIV;OED|Anciens examens opacifiés : urographie intraveineuse (UIV), remplacée par l'uro-scanner ; œso-gastro-duodénal (OED), encore utile pour chercher une fuite ou une perforation.|Urographie intraveineuse
+FOV|Field of view : taille du champ reconstruit ; plus il est petit (à matrice égale), plus les pixels sont petits et l'image fine.|Champ de vue
+J4;J7;J9;J10;J14|Jours après un événement (J4 = 4e jour).|
+IVG|Interruption volontaire de grossesse : proposée si la dose reçue par l'embryon dépasse ≈ 0,2 Gy pendant l'organogenèse.|Interruption volontaire de grossesse
+MHz;TGC;PRF|Réglages de l'échographie : fréquence en MHz (haute = fin mais superficiel ; basse = profond mais moins net), TGC = compensation de gain en profondeur, PRF = fréquence de répétition des impulsions en Doppler (élevée pour les vitesses rapides).|Échographie
+IR|Index de résistance en Doppler = (vitesse systolique − diastolique) / systolique : élevé quand l'aval résiste (rein obstrué, rejet de greffe).|Indice de résistance
+T3|Ici 3e trimestre de grossesse (échographie de croissance).|Grossesse
+B0;RF|B0 = champ magnétique principal de l'IRM (1,5–3 teslas) ; RF = onde radiofréquence qui bascule l'aimantation des protons.|Imagerie par résonance magnétique
+TR;TE|Paramètres d'une séquence IRM : TR (temps de répétition) et TE (temps d'écho). TR et TE courts = T1 ; TR et TE longs = T2.|Imagerie par résonance magnétique
+DTI;IRMf;BOLD|Techniques IRM avancées : DTI (tenseur de diffusion) dessine les faisceaux de substance blanche (tractographie) ; IRMf (signal BOLD, lié à l'oxygénation du sang) montre les zones cérébrales qui s'activent (langage, motricité) avant une chirurgie.|Imagerie par résonance magnétique fonctionnelle
+KDIGO;eGFR|KDIGO : définition internationale de l'IRA. eGFR = DFG estimé à partir de la créatinine ; < 30 ml/min = risque rénal à prendre en compte avant iode.|Débit de filtration glomérulaire
+TP|Travaux pratiques.|
+AEG|Altération de l'état général : fatigue, perte d'appétit, amaigrissement ; « drapeau rouge » devant une lombalgie.|
+C1-C2|Articulation entre les deux premières vertèbres cervicales (atlas-axis) ; la chondrocalcinose peut calcifier le ligament transverse (« dent couronnée »).|Atlas (vertèbre)
+PR|Polyarthrite rhumatoïde : arthrite inflammatoire des mains et des pieds ; écho et radio cherchent synovite et érosions.|Polyarthrite rhumatoïde
+DSA|Angiographie numérique soustraite : on soustrait l'image sans contraste pour ne garder que les vaisseaux opacifiés ; référence pour l'artériographie.|Angiographie numérique par soustraction
+PVA|Particules d'alcool polyvinylique : agents d'embolisation non résorbables (fibromes, prostate).|
+HBP|Hypertrophie bénigne de la prostate : peut être embolisée par voie artérielle.|Hypertrophie bénigne de la prostate
+HTP|Hypertension portale : veine porte dilatée, splénomégalie, circulation collatérale, ascite.|Hypertension portale
+HNF|Hyperplasie nodulaire focale : lésion bénigne du foie de la femme jeune, avec cicatrice centrale ; se rehausse fort au temps artériel sans wash-out.|Hyperplasie nodulaire focale
+αFP|Alpha-fœtoprotéine : marqueur sanguin du CHC, dosé avec l'écho pour le dépistage du cirrhotique.|Alpha-fœtoprotéine
+CTSI;WON|Pancréatite : score CTSI (Balthazar + nécrose) au scanner, idéalement après 48–72 h ; WON = nécrose organisée enkystée (collection de nécrose après 4 semaines).|Pancréatite aiguë
+NF1;NF2|Neurofibromatoses de type 1 (taches café au lait, neurofibromes, gliomes optiques) et de type 2 (schwannomes vestibulaires bilatéraux, méningiomes).|Neurofibromatose
+ACM|Artère cérébrale moyenne : la plus touchée par l'AVC ; au scanner, elle peut apparaître spontanément dense (caillot).|Artère cérébrale moyenne
+MTT;TTP;CBF;CBV|Paramètres de perfusion cérébrale : temps (MTT = transit moyen, TTP = temps au pic) allongés dans toute la zone mal perfusée ; débit (CBF) et volume (CBV) sanguins effondrés dans le cœur de l'infarctus. Zone de temps allongés avec CBV conservé = pénombre à sauver.|Perfusion cérébrale
+PL|Ponction lombaire : si le scanner est négatif et la suspicion d'hémorragie méningée forte (pigments du sang dans le LCR).|Ponction lombaire
+VCS|Veine cave supérieure.|Veine cave supérieure
+FC|Fréquence cardiaque : pour un coroscanner, on la ralentit (bêtabloquant) pour des images nettes.|Fréquence cardiaque
+VPN;VPP|Valeurs prédictives : VPN = probabilité d'être sain si le test est négatif (un coroscanner normal exclut presque sûrement une sténose) ; VPP = probabilité d'être malade si le test est positif.|Valeur prédictive
+STEMI|Infarctus avec sus-décalage du ST : on va directement en coronarographie, pas au coroscanner.|Infarctus du myocarde
+FA;OG|Fibrillation atriale ; avant son ablation, le scanner cartographie l'oreillette gauche (OG) et les veines pulmonaires.|Fibrillation atriale
+BRCA1|Gènes BRCA1/2 : mutations héréditaires (dominantes) qui augmentent fortement le risque de cancer du sein et de l'ovaire ; dépistage renforcé par IRM dès 30 ans.|Gène BRCA1
+ACR|American College of Radiology : il définit le BI-RADS et les 4 classes de densité mammaire (A à D) ; un sein dense masque les lésions.|American College of Radiology
+C1;C5;B5|Classes de résultat des prélèvements du sein : cytoponction C1 (non contributive) à C5 (malin) ; microbiopsie B1 à B5 (malin).|Biopsie
+J5;J15|Jours 5 à 15 du cycle : moment idéal pour l'IRM mammaire (moins de prise de contraste hormonale).|
+THS|Traitement hormonal substitutif de la ménopause : à arrêter quelques semaines avant une IRM mammaire (rend le sein plus « bruyant »).|Traitement hormonal substitutif
+PID;IST|Infection génitale haute (PID : salpingite, abcès tubo-ovarien), souvent par infection sexuellement transmissible (IST) qui remonte.|Infection génitale haute
+DIU|Dispositif intra-utérin (stérilet) : le DIU au cuivre est compatible avec l'IRM.|Dispositif intra-utérin
+SA;CRL|SA = semaines d'aménorrhée (âge de la grossesse). CRL = longueur crânio-caudale de l'embryon, mesurée entre 11 et 14 SA : meilleure méthode de datation.|Longueur crânio-caudale
+βhCG|Hormone de grossesse dosée dans le sang ; au-delà d'environ 1500–2000 UI/l, un sac intra-utérin devrait être visible à l'écho endovaginale (sinon penser à une GEU).|Gonadotrophine chorionique humaine
+MRKH|Syndrome de Mayer-Rokitansky-Küster-Hauser : absence d'utérus et de la partie haute du vagin, ovaires normaux.|Syndrome de Mayer-Rokitansky-Küster-Hauser
+IIB|Stade FIGO IIB du cancer du col : extension aux paramètres ; traitement par radiochimiothérapie (plus de chirurgie). L'IRM fait ce bilan.|Cancer du col de l'utérus
+JJ|Sonde JJ (double J) : tube posé entre rein et vessie pour drainer l'urine ; visible en radio.|Sonde double J
+ATM|Articulation temporo-mandibulaire : l'IRM est l'examen de référence (disque articulaire).|Articulation temporo-mandibulaire
+HR|Haute résolution : scanner à coupes très fines (rocher, poumon).|
+EMU|Examen microscopique des urines.|
+SHU|Syndrome hémolytique et urémique : cause d'urgence abdominale du jeune enfant.|Syndrome hémolytique et urémique
+TABC|Tronc artériel brachio-céphalique : chez l'âgé, il peut paraître sinueux (« en chandelier ») et simuler une masse.|Tronc brachiocéphalique
+CIPR|Commission internationale de protection radiologique : fixe les recommandations de dose ; elle a abaissé le seuil de cataracte à ≈ 0,5 Gy.|Commission internationale de protection radiologique
+minIP|Minimum Intensity Projection (projection d'intensité minimale) : reconstruction du scanner qui, sur une épaisseur de coupes, ne garde que les voxels les moins denses. Elle fait ressortir l'air et les zones peu denses : bronches, emphysème, verre dépoli. C'est l'inverse du MIP, qui garde les voxels les plus denses (vaisseaux opacifiés).|
+kV|Kilovolt : tension appliquée au tube à rayons X, qui règle l'énergie des photons. Un kV bas (≈ 70 kV) donne plus de contraste (os, iode qui paraît plus dense en angio-CT) mais plus de bruit ; un kV haut (≈ 120 kV) traverse mieux et donne moins de contraste (poumon).|Volt
+mA|Milliampère : intensité du courant dans le tube à rayons X, qui règle la quantité de photons produits. Trop de mA → image noire (surexposée) et dose inutile ; pas assez → image claire et bruitée.|Ampère
+mAs|Milliampère-seconde : produit de l'intensité du tube (mA) par le temps d'exposition (s), donc la quantité totale de photons émis. La dose reçue est proportionnelle aux mAs : les baisser est un moyen direct de radioprotection.|
+Gy;mGy|Gray (Gy) et milligray (mGy) : unité de dose absorbée, c'est-à-dire l'énergie déposée par les rayonnements dans un kilo de matière (1 Gy = 1 J/kg). Elle sert pour les effets déterministes (seuils en Gy : érythème > 5 Gy, IVG discutée > 0,2 Gy) et pour les indicateurs du scanner (CTDIvol en mGy).|Gray (unité)
+Sv|Sievert : unité de dose équivalente et de dose efficace (dose absorbée pondérée par le type de rayonnement et la sensibilité des organes). Elle estime le risque stochastique (cancer) ; on parle surtout en millisieverts (mSv) en imagerie.|Sievert
+angio-CT;Angio-CT|Angio-scanner : scanner avec injection rapide d'iode, acquis au moment où les artères sont les plus opacifiées. C'est l'examen pivot des vaisseaux (embolie pulmonaire, dissection, AVC, anévrisme) car il est rapide et donne une cartographie précise ; ses limites sont l'iode et les calcifications.|Angiographie par tomodensitométrie
+Angio-IRM;angio-IRM|Angiographie par IRM : imagerie des vaisseaux sans rayons X, avec ou sans gadolinium. Elle n'est pas gênée par le calcium mais elle est plus lente et un stent y apparaît comme un vide de signal (fausse sténose).|Angiographie par résonance magnétique
+entéro-CT;entéro-IRM|Entéro-scanner / entéro-IRM : scanner ou IRM de l'intestin grêle après l'avoir distendu par un liquide bu (ou par sonde). Ils remplacent l'ancien transit du grêle ; l'entéro-IRM, non irradiante, est préférée chez le jeune (maladie de Crohn suivie souvent).|
+colo-CT;Colo-CT|Colo-scanner (coloscopie virtuelle) : scanner du côlon après préparation colique et distension au CO₂, sans iode. Il remplace le lavement baryté et sert surtout quand la coloscopie est incomplète ou impossible.|Coloscopie virtuelle
+uro-CT;Uro-CT|Uro-scanner : scanner des reins et des voies urinaires en plusieurs temps (sans contraste, néphrographique, excrétoire). Il a remplacé l'UIV pour chercher une tumeur des voies excrétrices ou explorer une hématurie.|
+Uro-IRM;uro-IRM|Uro-IRM : IRM des voies urinaires (séquences très T2 et/ou excrétoires) sans rayons X. Utile pour les tumeurs urothéliales et les malformations ; elle ne voit pas les calculs.|
+Coro-CT;coro-CT|Coroscanner : angio-scanner des artères coronaires synchronisé à l'ECG et acquis en diastole (on ralentit le cœur par bêtabloquant). Indiqué pour une douleur thoracique atypique à risque bas ou intermédiaire : sa grande VPN permet d'exclure une sténose. Pas en cas de STEMI.|
+arthro-CT;arthro-IRM|Arthro-scanner / arthro-IRM : scanner ou IRM après injection de produit de contraste directement dans l'articulation. Ils montrent finement le cartilage, les ménisques, le labrum et les ligaments intra-articulaires ; ce sont des examens programmés, jamais faits en urgence.|Arthrographie
+cholangio-IRM|Cholangio-IRM (= CPRM) : séquences IRM très pondérées T2 qui montrent la bile et le liquide pancréatique en blanc, sans injection. Examen de choix pour un calcul du cholédoque ; le jus d'ananas ou de myrtille bu avant éteint le signal de l'estomac et du duodénum.|Cholangio-pancréatographie par résonance magnétique
+oxyHb;désoxyHb;métHb|Formes successives de l'hémoglobine dans un hématome : oxyhémoglobine (sang frais), puis désoxyhémoglobine (heures), puis méthémoglobine (jours, hypersignal T1), enfin hémosidérine (hyposignal T1 et T2). Leurs propriétés magnétiques différentes permettent à l'IRM de dater un saignement.|Méthémoglobine
+Swan-Ganz|Cathéter de Swan-Ganz : sonde introduite par une veine jusque dans l'artère pulmonaire pour mesurer les pressions cardiaques. Il contient un fil conducteur : il est incompatible avec l'IRM (risque de brûlure et de déplacement).|Cathéter de Swan-Ganz
+Dandy-Walker|Malformation de Dandy-Walker : défaut de développement du cervelet (vermis absent ou trop petit) avec une grande fosse postérieure kystique communiquant avec le 4e ventricule. Diagnostic par IRM (ou écho prénatale).|Syndrome de Dandy-Walker
+Von Hippel-Lindau;Hippel-Lindau|Maladie de von Hippel-Lindau : phacomatose héréditaire (dominante) donnant des hémangioblastomes (cervelet, moelle, rétine), des kystes et cancers du rein, des phéochromocytomes. Elle impose un suivi par IRM répété.|Maladie de von Hippel-Lindau
+Sturge-Weber|Syndrome de Sturge-Weber : phacomatose non héréditaire avec angiome facial « lie-de-vin » et angiome des méninges du même côté, responsable d'épilepsie. Les calcifications corticales gyriformes se voient au scanner.|Syndrome de Sturge-Weber
+Fitz-Hugh-Curtis|Syndrome de Fitz-Hugh-Curtis : périhépatite (inflammation de la capsule du foie) compliquant une infection génitale haute (chlamydia, gonocoque). Elle donne une douleur de l'hypochondre droit ; au scanner, rehaussement de la capsule hépatique en phase artérielle.|Syndrome de Fitz-Hugh-Curtis
+Legg-Calvé-Perthes|Maladie de Legg-Calvé-Perthes : ostéonécrose de la tête fémorale de l'enfant (surtout garçon de 4 à 8 ans). À évoquer devant une boiterie qui persiste après 8–10 jours : on fait alors une radio du bassin, et l'IRM au besoin.|Maladie de Legg-Calvé-Perthes
+3D|Trois dimensions : reconstruction en volume à partir des coupes fines du scanner ou de l'IRM (rendu de surface ou de volume). Elle donne une vue d'ensemble utile au chirurgien, mais le diagnostic se fait sur les coupes.|
+5P|Les 5 « P » de l'ischémie aiguë d'un membre (Pain, Pallor, Pulselessness, Paresthesia, Paralysis : douleur, pâleur, absence de pouls, paresthésies, paralysie). Leur présence signe une urgence vasculaire.|Ischémie aiguë des membres
+14G;8G|Gauge (G) : calibre des aiguilles, d'autant plus gros que le chiffre est petit. Microbiopsie du sein en 14G (sans arrêter les anticoagulants), macrobiopsie en 7–8G (plus de tissu, arrêt des anticoagulants obligatoire).|
+Fr|French (Fr, ou Charrière) : unité de calibre des cathéters et des sondes ; 1 Fr ≈ 0,33 mm de diamètre extérieur.|Échelle de Charrière
+T2*|T2 étoile : pondération obtenue en écho de gradient, qui ajoute au T2 les inhomogénéités du champ magnétique. Très sensible au fer et au métal : elle repère l'hémosidérine (micro-saignements, cavernome) et la surcharge en fer.|
+Fat Sat;fat sat|Fat Saturation (saturation de la graisse) : technique IRM qui éteint sélectivement le signal de la graisse. Une lésion qui reste en hypersignal T1 en fat sat contient du sang (endométriome) ; si elle s'éteint, c'est de la graisse (tératome).|
+Dixon|Méthode de Dixon : technique IRM qui sépare l'eau et la graisse grâce à leur décalage de fréquence, en produisant 4 jeux d'images (en phase, opposition de phase, eau seule, graisse seule). Utile pour la stéatose et pour une suppression de graisse homogène.|
+SF₆|Hexafluorure de soufre : gaz des microbulles de contraste échographique. Éliminé par les poumons en ≈ 15 min, il n'est pas néphrotoxique et peut être utilisé en insuffisance rénale.|Hexafluorure de soufre
+CO₂|Dioxyde de carbone : gaz utilisé comme contraste négatif, par exemple pour distendre le côlon au colo-CT ; il est vite résorbé et mieux toléré que l'air.|Dioxyde de carbone
+W/kg|Watt par kilogramme : unité du SAR, la puissance des ondes radio de l'IRM absorbée par les tissus. Le SAR augmente avec le carré du champ B0 ; on le limite pour que la température ne monte pas de plus de 1 °C.|Débit d'absorption spécifique
+Se;Sp|Sensibilité (Se) : proportion de malades que l'examen détecte (peu de faux négatifs). Spécificité (Sp) : proportion de non-malades que l'examen classe négatifs (peu de faux positifs). Un examen très sensible sert à exclure, un examen très spécifique à confirmer.|Sensibilité et spécificité
+PA|Postéro-antérieur : incidence où les rayons traversent le patient de l'arrière vers l'avant, le cœur contre le détecteur ; c'est l'incidence standard du thorax debout car le cœur n'est pas agrandi. Attention : dans la partie abdominale, PA désigne la pancréatite aiguë.|Radiographie du thorax
+B1|Classe B1 des microbiopsies du sein : tissu normal ou prélèvement non interprétable (B1 à B5, de normal à malin). Un B1 discordant avec l'imagerie impose de refaire le prélèvement.|Biopsie
+C+;C−|Avec (C+) ou sans (C−) injection de produit de contraste. Toute caractérisation d'une lésion commence par un temps sans contraste, pour mesurer ensuite le rehaussement.|Produit de contraste
+Mz;Mxy|Composantes de l'aimantation en IRM : Mz est l'aimantation longitudinale (dans l'axe de B0), Mxy l'aimantation transversale. L'onde RF bascule Mz vers Mxy ; ensuite Mz repousse (relaxation T1) et Mxy disparaît (relaxation T2).|
+Bremsstrahlung|Rayonnement de freinage : rayons X produits quand les électrons sont freinés par les noyaux de l'anode du tube. C'est la source principale des rayons X en radiologie ; seulement ≈ 1 % de l'énergie devient des RX, le reste est de la chaleur.|Rayonnement de freinage
+Larmor|Fréquence de Larmor : fréquence de rotation (précession) des protons dans le champ B0, proportionnelle à ce champ (ω₀ = γ·B0). L'onde RF doit avoir exactement cette fréquence pour basculer l'aimantation (résonance).|Précession de Larmor
+effet Compton;Compton|Effet Compton : interaction où un photon X de haute énergie cède une partie de son énergie à un électron et repart dévié. Il produit le rayonnement diffusé, qui dégrade l'image et irradie le personnel : le patient devient une source.|Diffusion Compton
+effet photoélectrique|Effet photoélectrique : le photon X est entièrement absorbé par un électron. Il domine aux basses énergies et dépend fortement du numéro atomique (Z) : c'est lui qui crée le contraste entre os, iode et tissus mous.|Effet photoélectrique
+Modic|Classification de Modic : modifications IRM des plateaux vertébraux près d'un disque dégénératif. Modic I = œdème inflammatoire (hypo T1, hyper T2), II = graisse, III = sclérose.|
+Chiari|Malformation de Chiari : descente des amygdales cérébelleuses sous le trou occipital ; peut s'associer à une syringomyélie. Diagnostic par IRM sagittale.|Malformation de Chiari
+Joubert|Syndrome de Joubert : malformation du cervelet (vermis hypoplasique) et du tronc donnant à l'IRM le signe de la « dent molaire » sur les coupes axiales.|Syndrome de Joubert
+Fisher|Échelle de Fisher : classe l'hémorragie sous-arachnoïdienne selon la quantité de sang au scanner ; plus il y a de sang, plus le risque de vasospasme est élevé.|
+Agatston|Score d'Agatston (score calcique) : quantité de calcium dans les coronaires mesurée sur un scanner sans contraste. Plus il est élevé, plus le risque d'événement coronaire est grand.|
+Kerley|Lignes de Kerley : petites lignes horizontales en périphérie des bases pulmonaires sur la radio, dues à l'épaississement des septa interlobulaires (œdème interstitiel, lymphangite).|
+Le Fort|Classification de Le Fort des fractures du massif facial : I = fracture horizontale au-dessus des dents (« moustache », palais flottant), II = pyramidale passant par le nez, III = disjonction cranio-faciale (« lunettes »).|
+Bezold|Abcès de Bezold : abcès du cou issu d'une mastoïdite qui a percé la pointe de la mastoïde et fusé sous le muscle sterno-cléido-mastoïdien. Diagnostic par scanner injecté.|
+Lemierre|Syndrome de Lemierre : angine compliquée de thrombophlébite septique de la veine jugulaire interne (Fusobacterium) avec emboles septiques pulmonaires. Diagnostic par scanner cervico-thoracique injecté.|Syndrome de Lemierre
+Ottawa|Règles d'Ottawa : critères cliniques (douleur osseuse à des points précis, impossibilité de faire 4 pas) qui disent quand une radio de cheville ou de genou est utile après un traumatisme ; elles évitent beaucoup de radios inutiles.|
+Murphy|Signe de Murphy : douleur qui bloque l'inspiration quand on appuie sous le rebord costal droit ; « Murphy échographique » quand c'est la sonde qui la provoque sur la vésicule. Évocateur de cholécystite aiguë.|Signe de Murphy
+Balthazar|Classification de Balthazar : grade (A à E) de l'inflammation du pancréas et des coulées autour, au scanner ; combinée à l'étendue de la nécrose, elle donne le score CTSI de gravité de la pancréatite aiguë.|
+Valsalva|Manœuvre de Valsalva : expiration forcée bouche et nez fermés, qui augmente la pression dans le thorax et l'abdomen. Elle dilate une varicocèle à l'écho et distend le larynx/hypopharynx au scanner.|Manœuvre de Valsalva
+Primovist|Primovist (gadoxétate) : gadolinium hépato-spécifique, capté par les hépatocytes puis excrété dans la bile. Une HNF le capte en phase tardive, un adénome non : il aide à les distinguer.|Acide gadoxétique
+Mammotest|Mammotest : programme belge organisé de dépistage du cancer du sein, mammographie gratuite tous les 2 ans entre 50 et 69 ans avec double lecture.|
+Luftsichel|Signe de Luftsichel (« croissant d'air ») : bande claire le long de l'aorte, sur la radio de face, dans l'atélectasie du lobe supérieur gauche ; c'est le segment apical du lobe inférieur qui s'interpose.|
+S de Golden|S de Golden : bord de la scissure en forme de S inversé dans une atélectasie du lobe supérieur droit ; la bosse centrale correspond à une masse hilaire, souvent un cancer bronchique.|
+Coolidge|Tube de Coolidge : tube à rayons X sous vide où un filament chauffé (cathode) émet des électrons, accélérés vers une anode en tungstène où ils produisent les rayons X. C'est encore le principe des tubes actuels.|Tube de Coolidge
+Leriche|Syndrome de Leriche : occlusion de la fin de l'aorte et des artères iliaques, qui donne une claudication des fesses et des cuisses et une impuissance. Bilan par angio-CT.|Syndrome de Leriche
+Lipiodol|Lipiodol : huile iodée radio-opaque utilisée pour emboliser des petits vaisseaux distaux ou les lymphatiques, et pour la chimio-embolisation du foie (elle reste dans la tumeur).|Lipiodol
+Gelfoam|Gelfoam : éponge de gélatine résorbable utilisée en embolisation temporaire (quelques semaines), par exemple pour arrêter une hémorragie du post-partum en gardant l'utérus.|
+écho de spin;écho de gradient|Deux familles de séquences IRM. L'écho de spin (90° puis 180°) donne un vrai T2, est peu sensible au métal mais lent (version turbo). L'écho de gradient est rapide mais sensible aux inhomogénéités (T2*) : il repère l'hémosidérine et le métal.|Écho de spin
+espace K|Espace K : tableau où l'IRM range les données brutes (fréquences spatiales) avant la transformation de Fourier qui produit l'image. Le centre porte le contraste, la périphérie les détails fins.|
+quench|Quench : évaporation brutale de l'hélium liquide qui refroidit l'aimant, déclenchée en urgence pour supprimer le champ magnétique (personne coincée par un objet ferromagnétique). Coûteux et dangereux (gaz froid).|
+wash-out;wash-in|Wash-in : prise rapide de contraste par une lésion à la phase précoce ; wash-out : lavage du contraste aux temps tardifs (la lésion devient moins dense ou moins intense que le tissu voisin). Le couple wash-in rapide + wash-out évoque une tumeur maligne (CHC, cancer du sein en IRM) ; un wash-out rapide d'une lésion surrénalienne évoque au contraire un adénome.|
+low-dose|Scanner basse dose (low-dose) : scanner à mAs et kV réduits. Sans contraste, c'est l'examen de référence de la lithiase urinaire (Se/Sp ≈ 97–98 %) pour une dose proche de quelques radios.|
+crazy paving|Crazy paving (« dallage fou ») : aspect au scanner de verre dépoli associé à des septa épaissis, comme un dallage irrégulier. Il n'est pas spécifique : COVID, protéinose alvéolaire, SDRA, œdème.|

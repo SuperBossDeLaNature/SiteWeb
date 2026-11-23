@@ -89,3 +89,4 @@ attention soutenue|Capacité à traiter un flux rapide et continu d'informations
 attention divisée|Capacité à répartir son attention sur plusieurs tâches à la fois.|Attention divisée
 attention sélective|Capacité à se concentrer sur une information en ignorant les distracteurs.|Attention sélective
 FDG|Fluorodésoxyglucose marqué au fluor 18 : glucose radioactif utilisé en PET pour voir l'activité des régions du cerveau.|Fludésoxyglucose (18F)
+MC|Initiales d'un patient du cours (hématome sous-dural frontal) qui illustre un syndrome dysexécutif avec persévérations.|

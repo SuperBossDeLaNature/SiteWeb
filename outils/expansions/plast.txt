@@ -1,0 +1,44 @@
+AB|AntiBiotique
+ABCDE|Asymétrie, Bords, Couleur, Diamètre, Évolution
+AG|Anesthésie Générale
+AINS|Anti-Inflammatoires Non Stéroïdiens
+CT|Computed Tomography (tomodensitométrie, scanner)
+DD|Diagnostic Différentiel
+DIEP|Deep Inferior Epigastric Perforator (lambeau perforant épigastrique inférieur profond)
+Darier-Ferrand|Ferdinand-Jean Darier et Marcel Ferrand (dermatologues français)
+EMG|ÉlectroMyoGramme
+EPB|Extensor Pollicis Brevis (court extenseur du pouce)
+EPL|Extensor Pollicis Longus (long extenseur du pouce)
+FV|Fibrillation Ventriculaire
+GF|Growth Factors (facteurs de croissance)
+III-IV|3e et 4e espaces / rayons de la main
+IIa|Stade 2a de Simon (gynécomastie moyenne sans excès cutané)
+IIb|Stade 2b de Simon (gynécomastie moyenne avec excès cutané)
+IP|InterPhalangienne
+IPD|InterPhalangienne Distale
+IPP|InterPhalangienne Proximale
+IRM|Imagerie par Résonance Magnétique
+M1|1er métacarpien
+MG|Médecine Générale
+MP|MétacarpoPhalangienne
+ORL|Oto-Rhino-Laryngologie
+P2|2e phalange (phalange moyenne)
+P3|3e phalange (phalange distale)
+PAM|Plaque Aréolo-Mamelonnaire
+RT|RadioThérapie
+SCB|Surface Corporelle Brûlée
+SSM|Superficial Spreading Melanoma (mélanome superficiel extensif)
+STT|Scapho-Trapézo-Trapézoïdienne
+T4|Tumeur de stade 4 (classification TNM)
+TIME|Tissue, Infection/Inflammation, Moisture, Edge (tissu, infection, humidité, bords)
+TM|Trapézo-Métacarpienne
+TRAM|Transverse Rectus Abdominis Myocutaneous (lambeau musculocutané transverse du grand droit)
+V2|2e branche du trijumeau (nerf maxillaire)
+VAC|Vacuum Assisted Closure (fermeture assistée par le vide)
+VRAM|Vertical Rectus Abdominis Myocutaneous (lambeau musculocutané vertical du grand droit)
+WALANT|Wide Awake Local Anesthesia No Tourniquet (anesthésie locale patient éveillé, sans garrot)
+Op-Site|Nom commercial d'un film adhésif transparent en polyuréthane
+V-Y|Incision en V refermée en Y (plastie d'avancement)
+Y-V|Incision en Y refermée en V (plastie d'avancement inverse)
+Lassus-Lejour|Claude Lassus et Madeleine Lejour (chirurgiens plasticiens français et belge)
+Treacher-Collins|Edward Treacher Collins (ophtalmologue britannique)

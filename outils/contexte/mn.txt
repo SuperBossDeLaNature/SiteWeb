@@ -1,0 +1,251 @@
+1|MN|Les sources sont « non scellées » : elles peuvent se disperser, d'où un risque de contamination (pas seulement d'irradiation).
+1|radiopharmaceutique|On image un processus biologique grâce à un traceur.
+1|RX|Les rayons X (Röntgen, 1895) ont précédé la découverte de la radioactivité.
+1|99mTc|Repère historique : découverte des isotopes, puis production artificielle (technétium).
+1|SPECT|Les caméras SPECT sont venues plus tard dans l'histoire.
+1|PET|Le PET est le développement le plus récent.
+1|CT|Le scanner et l'IRM montrent mieux l'anatomie…
+1|IRM|… avec une meilleure résolution spatiale.
+1|SPECT-CT|Les machines hybrides réunissent la fonction (médecine nucléaire) et l'anatomie (CT/IRM).
+1|MeV|Le positon s'annihile en 2 photons de 511 keV.
+1|demi-vie|Loi de décroissance : l'activité diminue de moitié à chaque demi-vie.
+1|RI|Avantage de la grande sensibilité ; inconvénients : bruit de fond et irradiation.
+1|générateur|Le technétium est produit à l'hôpital par un générateur au molybdène 99.
+1|FDG|Le fluor 18 du FDG (110 min) est produit par un cyclotron.
+1|DOTATATE|Le gallium 68 marque le DOTATATE…
+1|PSMA|… et le PSMA.
+1|123I|L'iode 123 sert à l'imagerie de la thyroïde.
+1|iode 131|L'iode 131 (8 jours) émet des β pour traiter et des γ pour imager.
+1|MIBG|L'iode 131 marque aussi la MIBG.
+1|SIRT|L'yttrium 90 sert à la radioembolisation hépatique.
+1|177Lu|Le lutétium 177 marque DOTATATE et PSMA pour la thérapie.
+1|DL50|Dose létale : ≈ 4 Sv tuent la moitié des personnes irradiées sur tout le corps.
+1|blindage|3 moyens de protection : distance, temps, blindage.
+1|KI|L'iode stable ne protège que la thyroïde, pas des autres isotopes (césium).
+2|SPECT|Le SPECT détecte des photons isolés grâce à un collimateur.
+2|gamma-caméra|Le collimateur en plomb sélectionne la direction des photons.
+2|PET|Le PET détecte 2 photons de 511 keV en coïncidence, sans collimateur.
+2|MeV|Les photons d'annihilation ont 511 keV.
+2|NaI|Le cristal scintillant transforme le photon gamma en lumière.
+2|TOF|Le temps de vol précise où, sur la ligne, a eu lieu l'annihilation.
+2|LOR|La ligne de réponse relie les deux détecteurs touchés.
+2|SPECT-CT|PET-IRM : la meilleure information anatomique (tissus mous).
+3|scintigraphie osseuse|Le MDP se fixe sur l'os qui se renouvelle.
+3|99mTc|Le technétium 99m marque le MDP.
+3|ostéoblastique|La fixation reflète le travail des ostéoblastes.
+3|3 phases|Les 3 phases distinguent ce qui est vasculaire, inflammatoire ou osseux.
+3|SDRC|L'algodystrophie est une indication des 3 phases.
+3|SPA|Spondylarthrite : on cherche des lésions actives (sacro-iliaques, enthèses).
+3|SAPHO|SAPHO de l'adulte : fixation sterno-costo-claviculaire.
+3|SPECT|Le SPECT-CT localise précisément la fixation.
+3|CT|Le CT associé distingue métastase et simple enthésopathie.
+3|DD|Diagnostic différentiel de l'algodystrophie.
+3|AOMI|Chez l'âgé, une AOMI peut ressembler à une algodystrophie.
+3|ostéonécrose|L'IRM est l'examen de référence de l'ostéonécrose.
+3|IRM|Scintigraphie seulement pour chercher d'autres sites.
+3|LED|Le lupus est une cause d'ostéonécrose.
+3|Paget|Le Paget touche plusieurs os dans 2/3 des cas ; très fixant.
+3|fracture de fatigue|Les fractures de fatigue touchent surtout les jambes des coureurs.
+3|L5|L'isthmolyse de L5 peut faire glisser L5 sur S1.
+3|IR|L'ostéomalacie vient d'un manque de vitamine D ou d'une insuffisance rénale.
+3|PTH|Ici PTH = prothèse totale de hanche : fixation normale jusqu'à 12 mois (cimentée) ou 24 mois (non cimentée).
+3|VPN|Une scintigraphie négative autour d'une prothèse rend une infection très peu probable.
+3|leucocytes marqués|Les leucocytes marqués sont la référence pour l'infection de prothèse.
+3|FDG|Le PET-FDG distingue mal infection et inflammation post-opératoire.
+3|Legg-Calvé-Perthes|La scintigraphie montre la tête froide avant la radio.
+3|ALARA|Chez l'enfant, on réduit l'activité injectée (ALARA).
+3|MEOPA|Le MEOPA calme l'enfant sans anesthésie.
+3|O2|50 % d'oxygène dans le MEOPA.
+4|FDG|Les cellules cancéreuses consomment beaucoup de glucose (effet Warburg) et piègent le FDG.
+4|FDG-6P|Le FDG phosphorylé ne peut plus ressortir de la cellule.
+4|SUV|Le SUV mesure l'intensité de la fixation.
+4|TNE|Les TNE bien différenciées captent peu le FDG (on utilise le DOTATATE).
+4|ALARA|Après l'examen, éviter les enfants et les femmes enceintes pendant 12 h.
+4|CT|Chez la femme enceinte, on réduit la dose du CT associé.
+4|ADO|Les diabétiques sous antidiabétiques oraux passent en fin de matinée, à jeun 4–6 h.
+4|VOI|Le SUV se mesure dans un volume d'intérêt dessiné sur la lésion.
+4|PET|Le PET change fortement la probabilité de cancer d'un nodule (raisonnement bayésien).
+4|TNM|Le PET sert surtout au bilan des ganglions (N) et des métastases (M).
+4|lymphome|La réponse des lymphomes se lit avec l'échelle de Deauville.
+4|Deauville|On compare la fixation au médiastin et au foie.
+4|radiopharmaceutique|Tableau des autres traceurs PET et de leurs cibles.
+4|SDHB|Les paragangliomes SDHB se voient bien au DOTATATE.
+4|TIO|Le DOTATATE localise la petite tumeur de l'ostéomalacie oncogénique.
+4|PSMA|Le PET-PSMA est l'examen du cancer de prostate.
+4|miTNM|Le PET-PSMA a sa propre classification (miTNM).
+4|ostéoblastique|La scintigraphie osseuse voit bien les métastases ostéoblastiques (prostate).
+4|223Ra|La scintigraphie osseuse sélectionne les patients pour le radium 223.
+4|SDRC|Une algodystrophie peut être paranéoplasique.
+4|PPR|Une PPR peut aussi être paranéoplasique.
+4|superscan|Métastases osseuses diffuses : superscan.
+4|PSA|On refait une scintigraphie si le PSA monte.
+4|Paget|Ici PAL = phosphatases alcalines, qui montent en cas de métastases osseuses.
+4|flare phenomenon|Au début d'un traitement efficace, les fixations peuvent augmenter : on réévalue plus tard.
+4|ostéonécrose|Les bisphosphonates peuvent donner une ostéonécrose de la mâchoire.
+5|FDG|En neurologie, le PET-FDG sert surtout à départager les démences.
+5|DAT|Le DAT-scan sert aux syndromes parkinsoniens.
+5|SPECT|Le SPECT de perfusion sert surtout à l'épilepsie.
+5|radiopharmaceutique|Tableau des traceurs du cerveau.
+5|99mTc|HMPAO et ECD marqués au technétium mesurent la perfusion cérébrale.
+5|BHE|Ils traversent la barrière hémato-encéphalique puis restent piégés.
+5|épilepsie|On les injecte pendant la crise pour localiser le foyer.
+5|123I|Le DAT-scan utilise l'ioflupane marqué à l'iode 123.
+5|PET|Le FDG explore le métabolisme du glucose en PET.
+5|FDOPA|Les acides aminés marqués explorent les tumeurs cérébrales.
+5|amyloïde|Le PIB et ses dérivés montrent les plaques amyloïdes.
+5|VOI|Analyse relative : on compare à une région de référence.
+5|SPM|Le SPM compare voxel par voxel à des sujets normaux.
+5|EEG|L'EEG est bien meilleur pour suivre l'activité dans le temps.
+5|MEG|La MEG aussi.
+5|ATN|L'Alzheimer se définit par la biologie : amyloïde, tau, neurodégénérescence.
+5|IRM|L'IRM montre l'atrophie de l'hippocampe tôt.
+5|MCI|Le PET prédit l'évolution d'un trouble cognitif léger vers l'Alzheimer.
+5|DD|Il aide au diagnostic différentiel des démences.
+5|Alzheimer|Le PET amyloïde change un tiers des diagnostics.
+5|APP|Une forme atypique d'Alzheimer commence par une aphasie logopénique.
+5|PSP|Les DLFT font partie d'un spectre incluant la PSP…
+5|SLA|… et la SLA.
+5|bvFTD|Variante comportementale : le PET-FDG (hypométabolisme frontal) aide à la rendre « probable ».
+5|DLB|Le DAT-scan distingue l'Alzheimer (normal) de la démence à corps de Lewy (anormal).
+5|MIBG|La MIBG cardiaque baisse dans le Parkinson et la DLB, pas dans l'AMS ni la PSP.
+5|HMPAO|SPECT ictal : traceur injecté pendant la crise.
+6|MN|La médecine nucléaire du cœur répond à 3 questions : ischémie, viabilité, fonction.
+6|ischémie|Perfusion à l'effort et au repos pour chercher une ischémie.
+6|FDG|Le FDG évalue la viabilité.
+6|SPECT|Le gated SPECT mesure la fonction.
+6|MUGA|La MUGA mesure la fraction d'éjection.
+6|MIBG|La MIBG explore l'innervation du cœur.
+6|ATTR|Les traceurs osseux cherchent l'amylose ATTR.
+6|FFR|La FFR invasive est la référence de la gravité d'une sténose.
+6|ECG|Si la probabilité est très basse, on fait juste une épreuve d'effort à l'ECG.
+6|O2|L'effort augmente la demande en oxygène du cœur.
+6|théophylline|La théophylline est l'antidote du dipyridamole.
+6|CI|Contre-indications du stress au dipyridamole.
+6|adénosine|L'adénosine est contre-indiquée chez l'asthmatique.
+6|IDM|Un infarctus récent contre-indique l'épreuve d'effort.
+6|IC|Une insuffisance cardiaque sévère aussi.
+6|TV|Les tachycardies ventriculaires aussi.
+6|HTA|Une HTA non contrôlée aussi.
+6|radiopharmaceutique|Propriétés du traceur idéal de perfusion.
+6|MeV|L'énergie idéale est de 100–200 keV pour la gamma-caméra.
+6|99mTc|Le sestamibi et la tétrofosmine au technétium sont les traceurs SPECT courants.
+6|PET|En PET : eau 15O, ammoniac 13N, rubidium 82.
+6|FEVG|Le gated SPECT donne aussi la fraction d'éjection.
+6|β-oxydation|En ischémie, le cœur abandonne les graisses pour le glucose.
+6|amyloïde|Les traceurs osseux se fixent sur le cœur en cas d'amylose ATTR.
+6|AL|Pas de fixation chez un patient amyloïde = plutôt une amylose AL.
+7|FDG|Le PET-FDG trouve l'endocardite sur prothèse et ses complications.
+7|CT|Le CT associé localise l'infection.
+7|leucocytes marqués|Les leucocytes marqués sont plus spécifiques.
+7|MN|3 rôles : diagnostic, lésions à distance, suivi.
+7|VPN|Leucocytes négatifs = infection peu probable.
+7|HFLC|Le régime gras éteint le cœur normal pour voir l'infection.
+7|viabilité|À l'inverse de la viabilité, où l'on veut que le cœur capte le FDG.
+7|FUO|Le PET-FDG trouve la cause d'une fièvre inexpliquée bien plus souvent que le scanner.
+7|BCG|Le BCG intravésical peut donner une infection à mycobactérie à distance.
+8|radiopharmaceutique|En néphrologie, chaque traceur répond à une question.
+8|DTPA|EDTA et DTPA mesurent la filtration (DFG).
+8|DMSA|Le DMSA montre les cicatrices du rein.
+8|MAG3|Le MAG3 suit l'écoulement de l'urine.
+8|HTA|Le MAG3 sert aussi à chercher une cause rénale d'HTA.
+8|99mTc|Le DTPA est marqué au technétium.
+8|DFG|La clairance isotopique mesure le DFG précisément.
+8|PNA|Le DMSA montre les zones touchées par la pyélonéphrite de l'enfant.
+8|TCP|Le MAG3 est sécrété par le tube proximal.
+8|furosémide|Avec furosémide : une dilatation qui se vide n'est pas un obstacle.
+8|captopril|Le captopril démasque une sténose de l'artère rénale.
+8|IEC|Le captopril est un IEC.
+9|radiopharmaceutique|En digestif, chaque traceur suit une fonction.
+9|IDA|Les dérivés IDA suivent la bile.
+9|99mTc|Le pertechnétate marque les glandes salivaires.
+9|RGO|Le milk scan cherche un reflux chez l'enfant.
+9|DTPA|Le DTPA marqué à l'indium suit la vidange des liquides.
+9|AP|On prend des images de face et de dos pour corriger l'atténuation.
+9|TA|Vidange normale : demi-temps de vidange ≈ 70–113 min.
+9|cholécystite|Dans la cholécystite, la vésicule ne se remplit pas.
+9|DPD|On injecte d'abord du PYP non radioactif pour marquer les globules rouges.
+9|SPECT|Le SPECT-CT localise le saignement.
+9|CT|Le CT associé précise le site du saignement.
+9|EBV|Certaines infections virales ralentissent la vidange gastrique.
+9|VZV|Le zona aussi.
+9|SEP|La SEP peut ralentir la vidange.
+9|AVC|L'AVC aussi.
+9|IPP|Les IPP pris < 2 semaines avant faussent le test respiratoire (faux négatif).
+9|ATB|Les antibiotiques < 4 semaines aussi.
+9|P450|Le test à l'aminopyrine mesure le cytochrome P450 du foie.
+10|NIS|La thyroïde capte l'iode via le NIS.
+10|parathyroïde|Les parathyroïdes se cherchent avec deux traceurs (soustraction).
+10|radiopharmaceutique|Double traceur : MIBI + iode 123.
+10|SPECT|Le SPECT-CT localise les parathyroïdes ectopiques.
+10|CT|Le CT associé guide le chirurgien.
+10|123I|L'iode 123 sert à l'imagerie.
+10|iode 131|L'iode 131 sert à traiter.
+10|99mTc|Le pertechnétate est capté par le NIS (comme l'iode) mais pas incorporé.
+10|FDG|Le FDG sert pour les cancers qui ne captent plus l'iode.
+10|TSH|Basedow : TSH effondrée.
+10|T3-T4|Basedow : T3-T4 élevées, fixation diffuse.
+10|SSTR|Le cancer médullaire exprime les récepteurs de la somatostatine.
+10|DOTATATE|Le DOTATATE localise le cancer médullaire.
+10|PET|Le PET au DOTATATE.
+10|PTH|Ici PTH = parathormone (pas la prothèse de hanche).
+10|IR|L'hyperparathyroïdie peut abîmer le rein.
+10|HPT|Primaire = adénome unique ; secondaire = hyperplasie des 4 glandes.
+11|ventilation/perfusion|La scintigraphie V/P en SPECT diagnostique l'embolie aussi bien que l'angio-CT.
+11|SPECT|En SPECT, elle est plus sensible qu'en planaire.
+11|CT|Le CT associé aide à interpréter.
+11|embolie pulmonaire|Moins d'irradiation qu'avec l'angio-CT.
+11|HTAP|5 % des embolies évoluent vers une HTAP.
+11|99mTc|La perfusion utilise les MAA au technétium.
+11|MAA|Les MAA se bloquent dans les capillaires pulmonaires.
+11|AngioCT|L'angio-CT a des performances proches, avec plus de dose.
+11|HTP|La V/P dépiste l'HTP thromboembolique chronique.
+12|FDG|Le PET-FDG montre les vascularites des gros vaisseaux.
+12|PMR|Il montre aussi la PPR.
+12|PET|Les vascularites des petits vaisseaux sont invisibles au PET.
+13|ganglion sentinelle|La scintigraphie repère le ganglion sentinelle (sein, mélanome).
+13|radiopharmaceutique|Le traceur est un colloïde marqué.
+13|99mTc|Nanocolloïdes au technétium.
+13|SPECT|Le SPECT-CT localise le ganglion.
+13|CT|Le CT associé guide le chirurgien.
+13|T1a|Mélanome T1a ulcéré ou T1b : ganglion sentinelle recommandé.
+13|3 phases|Examen en 3 phases.
+13|PET|Même molécule pour l'image (PET) et le traitement : « théranostique ».
+13|177Lu|Le lutétium 177 (β) traite.
+13|223Ra|Le radium 223 est un émetteur α.
+13|SIRT|L'yttrium 90 est un émetteur β.
+13|iode 131|L'iode 131 est un émetteur β.
+13|MeV|Les α ont beaucoup d'énergie.
+13|TLE|Les α déposent beaucoup d'énergie sur une courte distance : très destructeurs.
+13|ADN|Il suffit de 1–4 impacts α pour tuer une cellule.
+13|ROS|Les β agissent surtout indirectement via les radicaux libres.
+13|CTD|Le cancer thyroïdien différencié capte l'iode 131.
+13|ATA|Le risque ATA décide de l'iode 131.
+13|CI|Grossesse et allaitement contre-indiquent l'iode 131.
+13|TSH|Il faut une TSH ≥ 30 pour que les cellules captent l'iode.
+13|mUI|TSH ≥ 30 mUI/l.
+13|rhTSH|La rhTSH évite d'arrêter la lévothyroxine.
+13|J1-J2|Injections de rhTSH à J1 et J2.
+13|BRAF|BRAF V600E est une cible thérapeutique.
+13|FDG|Le PET-FDG précise le diagnostic.
+13|BECT|Après yttrium 90, on vérifie la distribution par imagerie.
+13|ALARA|Radioprotection en thérapie.
+13|lymphome|La radio-immunothérapie des lymphomes a été un échec commercial.
+13|PRRT|Le 177Lu-DOTATATE traite les TNE.
+13|TNE|Les TNE avec récepteurs de la somatostatine.
+13|SSTR|On vérifie d'abord la présence des récepteurs.
+13|DOTATATE|Sélection au PET 68Ga-DOTA.
+13|NETTER-1|NETTER-1 et NETTER-2 ont montré l'efficacité.
+13|PFS|NETTER-2 : survie sans progression 22,8 vs 8,5 mois.
+13|PSMA|Le 177Lu-PSMA traite le cancer de prostate PSMA+.
+13|VISION|L'étude VISION a montré le gain de survie.
+13|PR|La synoviorthèse traite les synovites persistantes.
+13|FAPI|Le FAPI est un nouveau traceur pan-cancer.
+13|IA|L'IA aide à détecter et quantifier.
+14|MeV|Correction : 0,64 MeV est l'énergie maximale du positon du 18F.
+14|scintigraphie osseuse|Les deux valeurs de dose existent selon l'activité injectée.
+14|gamma-caméra|Correction : le collimateur pinhole donne une meilleure résolution, pas une meilleure sensibilité.
+14|FDG|Correction : pour la viabilité, on charge en glucose.
+14|viabilité|Pour la viabilité, on veut que le cœur capte.
+14|ATTR|Correction : ATTR mutée et sauvage.
+14|NEJM|Exemple d'une publication du NEJM.
+14|IgA|Il s'agit probablement de la maladie à IgG4.

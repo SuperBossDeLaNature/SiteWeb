@@ -1,0 +1,84 @@
+1|SEP|Même démarche que chez l'adulte (la SEP existe aussi chez l'enfant).
+1|encéphalopathie|On distingue lésion focale, diffuse (encéphalopathie), aiguë ou chronique.
+1|plasticité|Le cerveau de l'enfant compense mieux une lésion précoce.
+1|AVC|L'AVC de l'enfant a d'autres causes que chez l'adulte (cœur, artériopathie, infection).
+1|HTA|L'HTA est une cause rare chez l'enfant.
+2|SG|Semaines de grossesse.
+2|zone épendymaire|Les neurones naissent près des ventricules.
+2|microcéphalie|Prolifération insuffisante = petite tête.
+2|fibres gliales radiaires|Les neurones migrent le long de ces fibres.
+2|lissencéphalie|Sans gyration, le cerveau reste lisse.
+2|synaptogenèse|Les synapses se multiplient surtout les 2 premières années.
+2|élagage|Les synapses inutilisées disparaissent.
+2|cataracte|Une cataracte non opérée tôt prive le cortex visuel de stimulation : amblyopie définitive.
+2|myélinisation|La myélinisation se poursuit jusqu'à l'âge adulte.
+2|oligodendrocytes|Ce sont eux qui fabriquent la myéline.
+3|COL4|Parfois une cause génétique (collagène IV).
+3|voie pyramidale|La voie pyramidale se myélinise tard : pas de signe avant ≈ 4 mois.
+3|SG|De 32 semaines de grossesse à 2 ans.
+3|Moro|Au début, la motricité est réflexe (Moro).
+3|grasping|… et grasping.
+3|aphasie|Le langage est encore dans les deux hémisphères : pas d'aphasie.
+3|QI|≈ 30 % de retard mental.
+3|crowding effect|L'hémisphère sain prend en charge le langage au détriment d'autres fonctions.
+3|QV|Le QI verbal est privilégié au détriment du QI de performance.
+4|État de mal convulsif|Urgence : on traite dès 5 minutes.
+4|hippocampe|L'état de mal tue des neurones de l'hippocampe.
+4|phénobarbital|Effets cognitifs démontrés.
+4|phénytoïne|Effets cognitifs aussi.
+4|topiramate|Le plus à risque pour le langage.
+4|monothérapie|Un seul médicament, à la plus petite dose efficace.
+4|syndrome de West|Épilepsie grave du nourrisson.
+4|POCS|Épilepsie avec pointes-ondes pendant le sommeil (régression).
+4|spasmes en flexion|Spasmes en salves dans le West.
+4|EEG|EEG de sommeil pour les POCS.
+4|hypsarythmie|EEG très désorganisé typique du West.
+4|Sclérose tubéreuse de Bourneville|Cause fréquente de West.
+4|IRM|IRM pour chercher une lésion.
+4|taches achromiques|Taches blanches dès la naissance.
+4|hamartomes|Les hamartomes corticaux causent l'épilepsie.
+4|angiofibromes|Apparaissent plus tard au visage.
+4|nodules sous-épendymaires|Se calcifient (visibles au scanner).
+5|SA|Grand prématuré : < 32 semaines.
+5|IMC|IMC dans 5–10 % des cas.
+5|leucomalacie périventriculaire|Lésion typique du grand prématuré.
+5|chorioamniotite|L'infection maternelle la favorise.
+5|diplégie spastique|Les jambes plus atteintes que les bras.
+5|spasticité|Spasticité des adducteurs.
+5|signe des ciseaux|Les jambes se croisent.
+5|pied en équin|Spasticité du mollet : pied en équin.
+5|syndrome pyramidal|Signes pyramidaux.
+5|triple flexion|Marche accroupie.
+5|LIS1|Une malformation génétique peut aussi causer une IMC.
+5|CMV|Le CMV congénital aussi (vérifier l'audition).
+5|dyskinétique|Forme dyskinétique après asphyxie ou ictère.
+5|noyaux gris centraux|Atteinte des noyaux gris.
+5|choréo-athétose|Mouvements involontaires.
+5|ictère nucléaire|L'ictère nucléaire touche les noyaux gris.
+5|ataxique|Forme ataxique, souvent génétique.
+5|toxine botulique|Spasticité : toxine botulique.
+5|monothérapie|Épilepsie : monothérapie.
+5|logopédie|Troubles du langage : logopédie.
+6|arylsulfatase A|Leucodystrophie métachromatique : déficit en arylsulfatase A.
+6|sphingolipides|Les sphingolipides s'accumulent.
+6|lysosomes|… dans les lysosomes.
+6|démyélinisation|Résultat : destruction de la myéline.
+6|IMC|Contrairement à l'IMC, l'enfant régresse.
+6|VCN|Conduction nerveuse ralentie (nerfs touchés).
+6|IRM|IRM : substance blanche en papillon.
+6|T2|Hypersignal T2 de la substance blanche.
+6|cellules souches hématopoïétiques|Greffe tôt, avant les symptômes graves.
+7|DMD|Gène DMD sur l'X : touche les garçons.
+7|dystrophine|Dystrophine absente.
+7|myopathie|Faiblesse proximale sans trouble sensitif = myopathie.
+7|hyperlordose|Marche dandinante, cambrure.
+7|pseudo-hypertrophie|Gros mollets (graisse et fibrose).
+7|Gowers|L'enfant se relève en grimpant sur ses jambes.
+7|scoliose|Scoliose après la perte de la marche.
+7|cardiomyopathie|Cause majeure de décès.
+7|CK|CK très élevées dès la naissance.
+7|EMG|EMG myogène, peu utilisé.
+7|Duchenne|Biopsie pour distinguer Duchenne et Becker.
+7|Becker|Becker : dystrophine présente mais anormale.
+7|immunohistochimie|On marque la dystrophine dans le muscle.
+7|thérapie génique|Objectif : transformer un Duchenne en Becker.

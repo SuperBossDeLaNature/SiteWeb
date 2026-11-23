@@ -1,0 +1,81 @@
+ACTH|Adrenocorticotropic Hormone (hormone corticotrope)
+AINS|Anti-Inflammatoires Non Stéroïdiens
+AIT|Accident Ischémique Transitoire
+ALA|Acide 5-Amino-Lévulinique
+ARM|Angiographie par Résonance Magnétique
+AVC|Accident Vasculaire Cérébral
+AngioCT|Angio-Computed Tomography (angio-scanner)
+angioCT|Angio-Computed Tomography (angio-scanner)
+B12|Vitamine B12 (cobalamine)
+BHE|Barrière Hémato-Encéphalique
+C1|1re vertèbre cervicale (atlas)
+C7|7e vertèbre cervicale
+CLEAN|Clinical trial of Endovascular treatment for Acute ischemic stroke in the Netherlands (essai néerlandais de traitement endovasculaire de l'AVC)
+CO2|Dioxyde de carbone
+CT|Computed Tomography (tomodensitométrie, scanner)
+DAWN|DWI or CTP Assessment with Clinical Mismatch in the Triage of Wake-Up and Late Presenting Strokes Undergoing Neurointervention with Trevo (essai de thrombectomie tardive, 6-24 h)
+DEFUSE|Diffusion and Perfusion Imaging Evaluation for Understanding Stroke Evolution (essai de thrombectomie guidée par l'imagerie de perfusion)
+DREZotomie|Dorsal Root Entry Zone + -tomie (section de la zone d'entrée des racines dorsales)
+DSA|Digital Subtraction Angiography (angiographie numérique soustraite)
+DSC|Débit Sanguin Cérébral
+DVE|Dérivation Ventriculaire Externe
+ERF|ETS2 Repressor Factor (facteur répresseur d'ETS2)
+FAV|Fistule Artério-Veineuse
+FDG|FluoroDésoxyGlucose (marqué au fluor 18)
+FGFR|Fibroblast Growth Factor Receptor (récepteur du facteur de croissance des fibroblastes)
+GCS|Glasgow Coma Scale (échelle de coma de Glasgow)
+GDC|Guglielmi Detachable Coil (coil détachable de Guglielmi)
+GH|Growth Hormone (hormone de croissance)
+HIV|Human Immunodeficiency Virus (virus de l'immunodéficience humaine, VIH)
+HSA|Hémorragie Sous-Arachnoïdienne
+HSD|Hématome Sous-Dural
+HTA|HyperTension Artérielle
+HTIC|HyperTension IntraCrânienne
+IDH1|Isocitrate DésHydrogénase 1
+IRM|Imagerie par Résonance Magnétique
+ISAT|International Subarachnoid Aneurysm Trial (essai international sur les anévrismes rompus)
+ISUIA|International Study of Unruptured Intracranial Aneurysms (étude internationale sur les anévrismes intracrâniens non rompus)
+J7-J14|Du 7e au 14e jour (après l'hémorragie)
+KPS|Karnofsky Performance Status (indice de performance de Karnofsky)
+L4|4e vertèbre (ou racine) lombaire
+L4-L5|Espace (disque) entre la 4e et la 5e vertèbre lombaire
+L5|5e vertèbre (ou racine) lombaire
+LCR|Liquide Céphalo-Rachidien
+LINAC|LINear ACcelerator (accélérateur linéaire)
+MAV|Malformation Artério-Veineuse
+MGMT|O6-MéthylGuanine-ADN MéthylTransférase
+MR|Multicenter Randomized (essai MR CLEAN : multicentrique randomisé)
+NAA|N-AcétylAspartate
+NEM|Néoplasie Endocrinienne Multiple
+NIHSS|National Institutes of Health Stroke Scale (échelle de gravité de l'AVC du NIH)
+O2|Dioxygène
+PAM|Pression Artérielle Moyenne
+PAS|Pression Artérielle Systolique
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PIC|Pression IntraCrânienne
+PL|Ponction Lombaire
+PPC|Pression de Perfusion Cérébrale
+S1|1re vertèbre (ou racine) sacrée
+SEP|Sclérose En Plaques
+SLA|Sclérose Latérale Amyotrophique
+SNC|Système Nerveux Central
+T1|Pondération T1 en IRM (temps de relaxation longitudinale)
+T2|Pondération T2 en IRM (temps de relaxation transversale)
+TA|Tension Artérielle
+TB|TuBerculose
+TC|Traumatisme Crânien
+TCF12|Transcription Factor 12 (facteur de transcription 12)
+TEV|Traitement EndoVasculaire
+TTFields|Tumor Treating Fields (champs électriques antitumoraux)
+TWIST|Gène TWIST1 (nommé d'après le mutant « twist » de la drosophile)
+V2-V3|Branches maxillaire (V2) et mandibulaire (V3) du nerf trijumeau (V)
+WEB|Woven EndoBridge (pont endovasculaire tressé)
+WFNS|World Federation of Neurosurgical Societies (Fédération mondiale des sociétés de neurochirurgie)
+rtPA|recombinant tissue Plasminogen Activator (activateur tissulaire du plasminogène recombinant)
+mmHg|Millimètre de mercure
+cmH2O|Centimètre d'eau
+VI|6e nerf crânien (nerf abducens)
+VII|7e nerf crânien (nerf facial)
+post-TC|Après un Traumatisme Crânien
+Spectro-IRM|Spectroscopie par Imagerie par Résonance Magnétique
+3H|Hypertension, Hypervolémie, Hémodilution (thérapie « triple H »)

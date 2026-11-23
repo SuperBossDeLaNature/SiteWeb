@@ -1,0 +1,333 @@
+0|ULB|Ces fiches suivent ton paquet Anki de néphro (cours de l'ULB).
+1|néphron|On naît avec un nombre fixe de néphrons : on ne peut pas en refaire, seulement en perdre.
+1|HTA|L'HTA est une des agressions qui usent les néphrons restants.
+1|IRC|Moins on a de néphrons au départ, plus vite on arrive à l'insuffisance rénale chronique.
+1|glomérule|Le sang passe par le glomérule (filtre) entre deux artérioles, afférente et efférente.
+1|TCP|L'urine suit : capsule de Bowman → tube proximal → anse de Henlé → tube distal → collecteur.
+1|TCD|Le tube distal vient après l'anse de Henlé.
+1|AINS|Les AINS ferment l'artériole d'entrée : moins de pression dans le glomérule, donc moins de filtration (surtout si déshydraté).
+1|IEC|IEC et sartans ouvrent l'artériole de sortie : la pression dans le glomérule baisse, d'où moins de protéinurie.
+1|créatinine|Sous IEC, la créatinine monte un peu au début : c'est attendu, pas une toxicité.
+1|MBG|La membrane basale est la couche centrale du filtre glomérulaire.
+1|podocytes|Les podocytes forment la dernière barrière ; ils sont chargés négativement et repoussent l'albumine.
+1|protéinurie|De l'albumine dans l'urine signifie que la barrière du glomérule est abîmée.
+1|macula densa|La macula densa du tube distal mesure le sel qui arrive et ajuste la filtration.
+1|NaCl|La macula densa détecte le chlorure de sodium.
+1|ADH|Le tube collecteur est la cible de l'ADH : il peut concentrer l'urine jusqu'à 1200 mOsm/kg.
+1|SRAA|Le rein fabrique la rénine, point de départ du système qui monte la tension.
+1|EPO|Le rein fabrique l'EPO : l'IRC donne une anémie.
+1|DFG|Le DFG classe le stade de la maladie rénale.
+1|GxAy|On note l'IRC « GxAy » : G pour le DFG, A pour l'albuminurie.
+1|albuminurie|L'albuminurie prédit le risque d'aggravation rénale et cardiovasculaire.
+1|iSGLT2|Du glucose dans les urines avec une glycémie normale : atteinte du tube proximal (Fanconi) ou médicament iSGLT2.
+1|pH|Le pH urinaire oriente : < 6 si acidose ou régime riche en viande ; > 7 si acidose tubulaire, végétarien ou infection à germe uréasique.
+1|acidose métabolique|En acidose métabolique, le rein élimine l'acide : urine acide.
+1|ATR|Dans l'acidose tubulaire distale, le rein n'arrive pas à acidifier l'urine (pH > 5,5).
+1|hématurie|Une urine rouge-brun n'est pas forcément du sang : hémoglobine, myoglobine, betterave.
+1|EPP|Après 45 ans, devant une protéinurie, on cherche un myélome par électrophorèse sang/urines.
+1|PTH|Le bilan de 1re ligne de l'IRC inclut la PTH et la vitamine D.
+1|CT|Devant une hématurie : échographie ou uro-scanner.
+1|IRM|Pour une HTA, on cherche une sténose des artères rénales par Doppler, angio-CT ou angio-IRM.
+1|transplantation|La scintigraphie MAG3 vérifie l'écoulement et cherche une fuite urinaire après greffe.
+1|scintigraphie|DMSA pour les cicatrices, MAG3 pour l'écoulement.
+1|GN|Une GN chronique donne deux petits reins.
+1|NIC|La néphrite interstitielle chronique donne aussi de petits reins.
+1|néphroangiosclérose|L'HTA ancienne donne deux petits reins.
+1|HIVAN|La néphropathie du VIH donne au contraire de gros reins.
+1|PNA|Au scanner, la pyélonéphrite donne un rein strié ou tacheté.
+1|Bosniak|Les kystes du rein se classent par Bosniak selon le risque de cancer.
+1|IIF|Bosniak IIF = kyste à surveiller.
+1|PRO-PKD|Ces scores prédisent l'évolution de la polykystose et décident du tolvaptan.
+1|SN|Un syndrome néphrotique chez l'adulte est une indication de biopsie.
+1|IRA|Une IRA inexpliquée (pas de déshydratation ni d'obstacle) justifie une biopsie.
+1|lupus|Un lupus avec atteinte rénale demande une biopsie pour choisir le traitement.
+1|ANCA|Une vascularite à ANCA avec atteinte rénale justifie une biopsie.
+1|TA|Avant une biopsie, la tension doit être < 140/90 (risque de saignement).
+1|CI|Une tension > 160/95 contre-indique la biopsie.
+1|INR|La coagulation (INR, TCA) doit être normale avant de piquer le rein.
+2|hypernatrémie|Le sodium sanguin reflète l'eau : une hypernatrémie = manque d'eau.
+2|volémie|C'est le stock de sel qui fixe la volémie ; la natrémie, elle, reflète l'eau.
+2|V2|L'ADH agit sur le récepteur V2 du tube collecteur.
+2|AQP2|L'ADH fait insérer des aquaporines 2 pour réabsorber l'eau.
+2|ADH|Quand le volume baisse fortement, l'ADH est libérée même si le sang est dilué (le volume prime sur l'osmolalité).
+2|TA|Une chute de tension stimule aussi l'ADH.
+2|DI|Diabète insipide : perte d'eau pure, urines très diluées (< 150 mOsm/kg).
+2|DDAVP|Le diabète insipide central se traite par desmopressine.
+2|AR|Forme autosomique récessive, par mutation de l'aquaporine 2.
+2|hypokaliémie|L'hypokaliémie empêche le rein de concentrer l'urine.
+2|hypercalcémie|L'hypercalcémie aussi rend le rein insensible à l'ADH.
+2|PKD1|La polykystose abîme la médullaire et empêche de concentrer l'urine.
+2|ADTKD|L'ADTKD fait aussi partie des causes de diabète insipide néphrogénique.
+2|IRC|L'IRC diminue la capacité de concentration.
+2|thiazides|Paradoxe : les thiazides réduisent les urines dans le diabète insipide néphrogénique.
+2|G5|Si on ne peut pas boire, on donne de l'eau par voie veineuse sous forme de glucosé 5 % ou 2,5 % (jamais d'eau pure : hémolyse).
+2|NaCl|… ou du sérum salé hypotonique (4,5 ‰).
+2|hyponatrémie|1re étape : éliminer une fausse hyponatrémie (osmolalité normale ou haute).
+2|CSW|La perte de sel cérébrale donne une hyponatrémie avec déshydratation : il faut du sel.
+2|SRAA|Dans l'insuffisance cardiaque et la cirrhose, l'ADH et le SRAA retiennent de l'eau : hyponatrémie avec œdèmes.
+2|SIADH|La SIADH est un trouble pur de l'ADH avec volémie normale.
+2|PO|L'urée par la bouche fait éliminer de l'eau (diurèse osmotique).
+2|TBC|La tuberculose fait partie des causes pulmonaires de SIADH.
+2|SNC|Toute atteinte du cerveau (trauma, AVC, méningite) peut provoquer une SIADH.
+2|AVC|L'AVC est une cause cérébrale de SIADH.
+2|ISRS|Les antidépresseurs ISRS sont une cause médicamenteuse classique.
+2|AINS|Les AINS potentialisent l'effet de l'ADH.
+2|myélinolyse|Correction trop rapide d'une hyponatrémie chronique = risque de myélinolyse.
+2|pH|L'acidose fait sortir le potassium des cellules ; l'alcalose le fait rentrer.
+2|TCD|Le potassium est réglé finement dans le tube distal et le collecteur.
+2|ROMK|ROMK est le canal qui sécrète le potassium dans l'urine.
+2|Bartter|Bartter = perte rénale de potassium.
+2|Gitelman|Gitelman = perte rénale de potassium (et de magnésium).
+2|NIC|Une hypokaliémie chronique abîme l'interstitium rénal.
+2|ECG|ECG de l'hypokaliémie : T plate, ST abaissé, onde U.
+2|ST|Le segment ST s'abaisse en hypokaliémie.
+2|QT|Le QT s'allonge, d'où le risque de torsade.
+2|torsade de pointes|L'hypokaliémie favorise les torsades de pointes.
+2|KCl|On corrige par KCl ; par voie veineuse, pas plus d'≈ 1 g par heure.
+2|hyperkaliémie|Vérifier d'abord que ce n'est pas un artefact (prélèvement hémolysé).
+2|IEC|Les IEC diminuent l'élimination du potassium.
+2|ARA2|Les sartans aussi.
+2|IR|L'insuffisance rénale diminue l'élimination du potassium.
+2|β-bloquants|Les bêtabloquants empêchent le potassium de rentrer dans les cellules.
+2|ATR|Chez le diabétique, l'acidose tubulaire de type 4 (manque d'aldostérone) donne une hyperkaliémie.
+2|QRS|Signes ECG progressifs : T pointues, PR long, P disparaît, QRS larges, puis arrêt.
+2|hémodialyse|Si rien ne marche, l'hémodialyse élimine le potassium.
+2|IRA|L'IRA est une cause fréquente d'hyperkaliémie grave.
+3|PTH|La PTH est la principale hormone qui règle le calcium.
+3|CaSR|Le CaSR mesure le calcium ionisé.
+3|hypocalcémie|Le rein active la vitamine D : quand il est malade, le calcium baisse.
+3|IRC|Dans l'IRC : calcium bas et PTH haute (hyperparathyroïdie secondaire).
+3|hypercalcémie|Définition : calcium total > 2,60 mmol/l.
+3|FGF23|Le FGF23 freine l'activation de la vitamine D par le rein.
+3|DI|L'hypercalcémie donne un diabète insipide néphrogénique, donc une déshydratation.
+3|HPT|L'hyperparathyroïdie primaire peut détruire l'os (ostéite fibreuse kystique).
+3|PTHrp|PTH basse + PTHrp haute = hypercalcémie due à un cancer.
+3|CBPC|Correction de la fiche : la PTHrp vient surtout des cancers épidermoïdes, pas du petites cellules.
+3|DiGeorge|Le syndrome de DiGeorge donne une hypoparathyroïdie (PTH basse).
+3|QT|L'hypocalcémie allonge le QT.
+3|gluconate|En urgence, on donne du gluconate de calcium en IV lente.
+3|ROMK|Sans magnésium, ROMK laisse fuir le potassium : il faut corriger le Mg pour corriger le K.
+4|pH|1re étape : regarder le pH (acidémie ou alcalémie).
+4|trou anionique|3e étape : calculer le trou anionique.
+4|acidose métabolique|En acidose métabolique, HCO3 baisse et la PCO2 baisse en compensation.
+4|alcalose métabolique|En alcalose métabolique, HCO3 monte et la PCO2 monte en compensation.
+4|Winter|Astuce : la PCO2 attendue ≈ les 2 derniers chiffres du pH.
+4|TA|Ici TA = trou anionique ; il baisse si l'albumine est basse, ce qui peut masquer un acide.
+4|ATR|Trou anionique normal : perte de bicarbonate (diarrhée, acidose tubulaire proximale).
+4|IRC|IRC avancée : le rein n'élimine plus les acides.
+4|lupus|Le lupus et le Sjögren peuvent donner une acidose tubulaire distale.
+4|IEC|IEC et sartans donnent une acidose de type 4 (moins d'aldostérone).
+4|ARA2|Les sartans aussi.
+4|OAP|Le bicarbonate de sodium apporte du sel : risque de surcharge et d'OAP.
+4|IRA|Si l'acidose est sévère avec IRA, on dialyse.
+4|DFG|Une baisse du DFG entretient l'alcalose (le rein élimine moins de bicarbonate).
+4|hypokaliémie|L'hypokaliémie entretient l'alcalose.
+4|Bartter|Chlore urinaire élevé : diurétiques ou Bartter.
+4|Gitelman|… ou Gitelman.
+4|HTA|Alcalose + HTA : chercher un hyperaldostéronisme.
+4|SAOS|Les apnées du sommeil peuvent causer une acidose respiratoire.
+4|BPCO|La BPCO est la cause pulmonaire classique d'acidose respiratoire.
+5|DFG|Le DFG ne se mesure pas directement : on mesure la clairance d'un marqueur filtré.
+5|clairance|Clairance = (concentration urinaire × débit urinaire) / concentration plasmatique.
+5|créatinine|La créatinine dépend de la masse musculaire : un âgé maigre a une créatinine « normale » avec un DFG bas.
+5|CKD-EPI|CKD-EPI estime le DFG ; la version 2021 n'utilise plus l'origine ethnique.
+5|IRA|Les formules ne marchent pas quand la créatinine change vite (IRA).
+5|hyperfiltration|Après un don de rein, le rein restant augmente sa filtration.
+5|AKD|Entre 7 jours et 3 mois, on parle d'AKD.
+5|IRC|Au-delà de 3 mois, c'est une maladie rénale chronique.
+5|albuminurie|Une albuminurie suffit pour parler de MRC même avec un DFG normal.
+5|hématurie|Une hématurie persistante suffit aussi.
+5|RAC|L'albuminurie s'exprime en rapport albumine/créatinine (mg/g).
+5|GxAy|Stades G (DFG) et A (albuminurie) de la classification KDIGO.
+5|G5|G5 = DFG < 15 : insuffisance rénale terminale.
+5|HTA|L'HTA et les maladies vasculaires sont la 2e cause d'IRT.
+5|GN|Les glomérulonéphrites chroniques causent ≈ 11 % des IRT.
+5|EPO|Dans la polykystose, les kystes produisent de l'EPO : souvent pas d'anémie.
+5|hypocalcémie|L'IRC donne une hypocalcémie (sauf dans certaines causes particulières).
+5|IDM|Les calcifications de l'intima (athérome) donnent infarctus…
+5|AVC|… et AVC.
+5|TA|Cible tensionnelle < 130/80 si albuminurie.
+5|HbA1c|Chez le diabétique avec IRC, on vise une HbA1c adaptée.
+5|IEC|En cas de déshydratation ou de chirurgie, on suspend IEC, sartans, diurétiques, AINS (règle « sick day »).
+5|ARA2|Les sartans font partie des médicaments à suspendre.
+5|AINS|Les AINS sont à éviter en cas de risque d'IRA.
+5|PEG|Pour une coloscopie chez l'insuffisant rénal : préparation au PEG, pas au phosphate.
+6|HTA|Les seuils d'HTA sont plus bas en automesure et en MAPA qu'au cabinet.
+6|MAPA|MAPA : HTA si moyenne sur 24 h ≥ 130/80.
+6|IEC|Sous IEC/ARA2, une forte hausse de créatinine (> 30 %) fait chercher une sténose de l'artère rénale.
+6|ARA2|Même règle sous sartan.
+6|créatinine|Une petite hausse de créatinine sous IEC est normale ; plus de 30 % ne l'est pas.
+6|DFG|En cas de sténose, c'est l'angiotensine II qui maintient le DFG : la bloquer le fait chuter.
+6|ONTARGET|ONTARGET : associer IEC et ARA2 augmente les insuffisances rénales sans bénéfice.
+6|IRC|En IRC, les inhibiteurs calciques ne demandent pas d'adapter la dose.
+6|thiazides|Les thiazides marchent moins bien quand le DFG est bas (sauf la chlortalidone).
+6|volémie|Urgence hypertensive : corriger d'abord la volémie, sinon l'IEC fait chuter la tension.
+6|néphroangiosclérose|L'HTA abîme les artérioles du rein : ischémie puis fibrose des glomérules.
+6|protéinurie|La protéinurie de la néphroangiosclérose est faible.
+6|hyperfiltration|Diabète : d'abord une hyperfiltration (le rein filtre trop).
+6|GxAy|Après des années silencieuses apparaît l'albuminurie, puis le DFG baisse.
+6|albuminurie|On dépiste l'albuminurie chaque année chez le diabétique.
+6|DT1|Chez le DT1, le dépistage commence après 5 ans de diabète.
+6|hématurie|Avant de conclure à une albuminurie, éliminer infection et hématurie.
+6|MBG|Lésions du diabète : membrane basale épaissie, mésangium élargi.
+6|iSGLT2|Les iSGLT2 baissent l'albuminurie et ralentissent fortement la perte de fonction.
+6|CV|STENO-2 : contrôler tous les facteurs de risque réduit de moitié les événements cardiovasculaires.
+6|pré-éclampsie|Pré-éclampsie : HTA après 20 semaines + protéinurie, due au placenta.
+6|SA|20 SA = 20 semaines depuis les dernières règles.
+6|HELLP|Forme grave : HELLP (hémolyse, foie, plaquettes basses).
+6|SHU|La pré-éclampsie peut ressembler à un SHU.
+6|PTT|… ou à un PTT : penser à doser ADAMTS13.
+7|glomérule|Si l'IRA est organique, on cherche quel compartiment est touché : tubule, interstitium, glomérule ou vaisseaux.
+7|créatinine|Les stades de l'IRA reposent sur la hausse de créatinine et la baisse de diurèse.
+7|IRC|Une IRC sous-jacente est le 1er facteur de risque d'IRA.
+7|IRA|Dans l'IRA fonctionnelle, le tubule est sain : il garde le sel et l'eau.
+7|nécrose tubulaire aiguë|Dans la NTA, le tubule abîmé laisse fuir le sodium.
+7|FE|FENa < 1 % = fonctionnelle ; > 1 % = NTA.
+7|volémie|Dans le cardio-rénal, le patient peut être en surcharge mais avec un volume « efficace » bas.
+7|AINS|Les AINS ferment l'artériole d'entrée (IRA fonctionnelle).
+7|IEC|Les IEC dilatent l'artériole de sortie (IRA fonctionnelle).
+7|ARA2|Même effet pour les sartans.
+7|protéinurie|Dans la NTA, la protéinurie est faible (< 1 g/24 h).
+7|PBR|Si la NTA ne récupère pas en 4 semaines, on biopsie.
+7|PDC|Les produits de contraste iodés sont une cause toxique de NTA.
+7|IPP|Les IPP sont une cause fréquente de néphrite interstitielle allergique.
+7|β-lactamines|Les bêtalactamines aussi.
+7|hématurie|Une IRA avec hématurie et protéinurie oriente vers le glomérule.
+7|MAT|Une IRA avec anémie hémolytique et plaquettes basses oriente vers une microangiopathie thrombotique.
+7|NIA|Les AINS peuvent donner une néphrite interstitielle…
+7|GEM|… ou une glomérulopathie extramembraneuse.
+7|EER|Si l'OAP résiste aux diurétiques, on dialyse.
+7|OAP|L'OAP de surcharge est une indication d'épuration.
+7|IgA|La sarcoïdose peut atteindre le rein (granulomes, hypercalcémie).
+8|SN|Syndrome néphrotique : la barrière fuit, protéinurie massive.
+8|MBG|Le syndrome néphrotique vient d'une atteinte du podocyte ou de la membrane basale.
+8|protéinurie|Protéinurie massive = syndrome néphrotique.
+8|syndrome néphritique|Syndrome néphritique : inflammation du glomérule.
+8|hématurie|L'hématurie domine le syndrome néphritique.
+8|HTA|Le syndrome néphritique donne une HTA.
+8|IR|… et une insuffisance rénale.
+8|MO|La biopsie (microscope optique, immunofluorescence, électronique) donne le nom de la maladie.
+8|PBR|On biopsie si la protéinurie dépasse 3 g/g.
+8|RPC|RPC > 3 g/g = protéinurie de type glomérulaire.
+8|GR|Globules rouges déformés + cylindres = origine glomérulaire ; sinon urologique.
+8|lésions glomérulaires minimes|80 % des syndromes néphrotiques de l'enfant.
+8|podocytes|Seule anomalie : effacement des pédicelles des podocytes, visible au microscope électronique.
+8|AINS|Les AINS peuvent donner des lésions glomérulaires minimes.
+8|FSGS|La FSGS cause 35 % des syndromes néphrotiques de l'adulte, souvent impurs.
+8|VIH|Le VIH est une cause secondaire de FSGS.
+8|lupus|Le lupus peut donner une FSGS.
+8|B19|Le parvovirus B19 aussi.
+8|COVID|Le COVID aussi (forme collapsante).
+8|transplantation|La FSGS primitive peut récidiver sur le greffon.
+8|GEM|La GEM est la 1re cause de syndrome néphrotique de l'adulte.
+8|extramembraneuse|Dépôts sous les podocytes, sans prolifération.
+8|IgA|Les dépôts de la GEM sont surtout des IgG4.
+8|C3|Avec du complément C3.
+8|VHB|L'hépatite B est une cause secondaire de GEM.
+8|IRC|Un tiers évolue vers l'insuffisance rénale chronique.
+8|GNMP|La GNMP donne un tableau mixte néphrotique et néphritique.
+8|CFH|Une anomalie du facteur H du complément peut causer une GNMP.
+8|AL|L'amylose AL vient d'un myélome ou d'une gammapathie.
+8|néphropathie à IgA|La maladie de Berger est la 1re glomérulonéphrite primitive au monde.
+8|GN|Berger est la GN la plus fréquente.
+8|ORL|La macro-hématurie survient pendant une infection ORL.
+8|IgA1|Point de départ : IgA1 mal fabriquées, reconnues par des anticorps.
+8|Goodpasture|Goodpasture : anticorps contre la membrane basale du rein et du poumon.
+8|GNRP|Le rein perd sa fonction en quelques jours à semaines.
+8|ANCA|Les vascularites à ANCA donnent des GNRP.
+8|PAM|PAM : anti-MPO, sans granulome.
+8|EGPA|EGPA : asthme + éosinophiles.
+8|PTU|Certains médicaments (PTU, hydralazine) peuvent induire une vascularite à ANCA.
+8|glomérule|Classe III lupique si moins de 50 % des glomérules sont touchés, IV si plus.
+8|PTT|PTT : déficit en ADAMTS13, atteinte surtout du cerveau.
+8|SHU|SHU typique : toxine de E. coli, atteinte surtout du rein.
+8|ADAMTS13|Le PTT est dû à un déficit en ADAMTS13.
+8|O157|Le SHU typique est dû à E. coli O157:H7.
+8|IRA|Le SHU est la 1re cause d'IRA de l'enfant.
+8|RAC|Ici PCR = test génétique (amplification) qui cherche la shigatoxine dans les selles, pas le rapport protéines/créatinine.
+9|IRC|Chez l'enfant, la maladie rénale chronique vient surtout de malformations.
+9|CAKUT|Les malformations des reins et voies urinaires sont la 1re cause d'IRC de l'enfant.
+9|HTA|Contrairement à l'adulte, l'HTA et le diabète sont des causes rares chez l'enfant.
+9|hyperfiltration|Avec peu de néphrons, chacun hyperfiltre et s'use plus vite.
+9|SA|Le fœtus urine dès 10 semaines ; son urine forme le liquide amniotique.
+9|scintigraphie|La scintigraphie MAG3 mesure si la dilatation gêne vraiment l'écoulement.
+9|reflux vésico-urétéral|La plupart des reflux sont de bas grade et se surveillent.
+9|PNA|Des pyélonéphrites répétées laissent des cicatrices (néphropathie de reflux).
+9|valves de l'urètre postérieur|Les valves ne touchent que les garçons : vessie distendue, peu de liquide amniotique.
+9|DS|Des reins < −2 écarts-types des deux côtés donnent une IRC dès la naissance.
+9|TA|Chez l'enfant avec maladie rénale : tension mesurée chaque année dès 3 ans.
+9|AINS|On évite les AINS chez l'enfant avec IRC.
+9|FAV|On préserve les veines du bras non dominant pour une future fistule.
+9|transplantation|On corrige nutrition, acidose et anémie avant la greffe.
+9|EBV|Avant la greffe, on vérifie les infections (EBV, CMV) et les vaccins.
+9|SN|Un syndrome néphrotique de l'enfant résistant aux corticoïdes fait penser à une FSGS ou une cause génétique.
+9|FSGS|FSGS = forme cortico-résistante typique.
+9|NPHS1|Un syndrome néphrotique avant 3 mois est souvent génétique (néphrine).
+10|IRC|En IRC, on dialyse quand le patient a des symptômes et un DFG < 15.
+10|DFG|On ne dialyse pas pour un chiffre de DFG seul.
+10|OAP|Une surcharge ou un OAP qui ne répond plus aux diurétiques impose la dialyse.
+10|pH|Une acidose sévère (pH < 7,2) résistante est une indication.
+10|IRA|En IRA, on dialyse si urée très haute, oligurie qui dure ou créatinine triplée.
+10|créatinine|Créatinine ×3 = IRA sévère.
+10|AEIOU|Correction de la fiche : E = électrolytes (potassium), O = overload (surcharge).
+10|hémodialyse|Le sang et le liquide de dialyse circulent en sens inverse de part et d'autre d'une membrane.
+10|FAV|La fistule est créée au bras non dominant.
+10|HNF|On anticoagule le circuit avec de l'héparine.
+10|β2-microglobuline|Chez le dialysé ancien, la β2-microglobuline s'accumule en amylose.
+10|dialyse péritonéale|Le péritoine sert de membrane ; elle préserve plus longtemps la fonction rénale résiduelle.
+10|DPCA|Manuelle (DPCA) ou automatisée la nuit (DPA).
+10|PNN|Liquide trouble avec > 100 leucocytes dont > 50 % PNN = péritonite.
+10|CVVHF|Les techniques continues sont mieux tolérées par les patients instables.
+10|IC|La SCUF retire de l'eau chez un insuffisant cardiaque sans insuffisance rénale.
+10|IR|… quand les reins fonctionnent encore.
+10|plasmaphérèse|Correction : la plasmaphérèse retire le plasma (anticorps), pas les cellules.
+10|Goodpasture|Goodpasture est une indication de plasmaphérèse (retirer les anti-MBG).
+10|PTT|Le PTT est l'indication majeure (on apporte aussi l'ADAMTS13 du plasma donné).
+10|SHU|Le SHU atypique peut aussi en bénéficier.
+11|CI|Contre-indications relatives à la greffe.
+11|BPCO|Une BPCO sévère augmente le risque de l'anesthésie et de l'immunosuppression.
+11|VHB|Les hépatites B et C doivent être traitées avant la greffe.
+11|IR|Le donneur vivant doit avoir des reins normaux.
+11|ABO|Une greffe ABO-incompatible n'est possible qu'avec un donneur vivant (on prépare le receveur).
+11|plasmaphérèse|On retire les anticorps anti-groupe sanguin avant la greffe.
+11|transplantation|Grossesses, transfusions et greffes antérieures immunisent contre les HLA.
+11|rejet|Deux types : cellulaire et humoral.
+11|LT|Le rejet cellulaire est fait par les lymphocytes T.
+11|DSA|Le rejet humoral est dû à des anticorps contre les HLA du donneur.
+11|C4d|Le C4d dans les capillaires signe le rejet humoral.
+11|FDR|Facteurs de risque de rejet : ischémie froide longue, incompatibilité HLA-DR, immunisation.
+11|HLA|L'incompatibilité HLA-DR augmente le risque de rejet.
+11|tacrolimus|Le tacrolimus bloque le 1er signal d'activation des lymphocytes T.
+11|CD28|Le bélatacept bloque le 2e signal (CD28).
+11|CYP3A4|Attention aux interactions : les médicaments qui modifient le CYP3A4 changent le taux de tacrolimus.
+11|IRA|Causes d'IRA chez le greffé.
+11|PNA|La pyélonéphrite du greffon est fréquente.
+11|BK|Le virus BK se réactive sous immunosuppression et abîme le greffon.
+11|ECBU|On fait un ECBU devant toute IRA du greffé.
+11|CV|Les décès avec greffon fonctionnel sont surtout cardiovasculaires.
+11|CNI|Les anticalcineurines sont toxiques pour le rein à long terme.
+12|SNCR|Un syndrome néphrotique cortico-résistant de l'enfant est souvent génétique.
+12|FSGS|… comme une partie des FSGS.
+12|PKD1|PKD1 et PKD2 font partie des 6 gènes qui expliquent la plupart des diagnostics.
+12|Alport|Les gènes du collagène IV (Alport) aussi.
+12|ADTKD|UMOD (ADTKD) aussi.
+12|APOL1|Les variants APOL1 augmentent le risque de FSGS chez les personnes d'ascendance africaine.
+12|IRT|APOL1 augmente le risque d'insuffisance rénale terminale.
+12|AR|La polykystose est autosomique dominante.
+12|hématurie|La polykystose peut donner des hématuries (kystes qui saignent).
+12|IEC|On contrôle la tension par IEC…
+12|ARA2|… ou sartan.
+12|A4|Forme autosomique récessive d'Alport (COL4A3/A4), sévère.
+12|IRC|La maladie de Fabry atteint le rein (IRC), le cœur et les nerfs.
+12|HNF1B|HNF1B est un des gènes de l'ADTKD.
+12|VHL|VHL : risque de cancer du rein.
+12|CAKUT|Seuls ≈ 20 % des CAKUT ont une cause génétique trouvée.
+12|TCP|Fanconi = atteinte du tube proximal.
+12|Bartter|Bartter = atteinte de l'anse.
+12|furosémide|Bartter reproduit les effets du furosémide.
+12|Gitelman|Gitelman = atteinte du tube distal.
+12|TCD|Gitelman reproduit les effets d'un thiazide.
+12|DI|Diabète insipide néphrogénique héréditaire.
+12|V2|Mutation du récepteur V2…
+12|AQP2|… ou de l'aquaporine 2.
+12|SIADH|À l'inverse, une mutation activatrice de V2 donne une « SIADH néphrogénique ».

@@ -1,0 +1,204 @@
+11βHSD-1|11β-HydroxyStéroïde Déshydrogénase de type 1
+ABCA1|ATP-Binding Cassette transporter A1 (transporteur ABC A1)
+ABCC8|ATP-Binding Cassette sous-famille C membre 8 (gène de SUR1)
+ACAC|ACéto-ACétate
+ACCORD|Action to Control Cardiovascular Risk in Diabetes (essai sur le contrôle du risque cardiovasculaire dans le diabète)
+AD|Autosomique Dominant
+ADH|Alcool DésHydrogénase
+ADO|AntiDiabétiques Oraux
+ADOPT|A Diabetes Outcome Progression Trial (essai sur la progression du diabète)
+ADP|Adénosine DiPhosphate
+AG|Acides Gras
+AGEs|Advanced Glycation End-products (produits de glycation avancée)
+AGL|Acides Gras Libres
+AGS|Acides Gras Saturés
+AI|Apolipoprotéine A-I
+AIM-HIGH|Atherothrombosis Intervention in Metabolic Syndrome with Low HDL/High Triglycerides: Impact on Global Health Outcomes (essai sur la niacine dans le syndrome métabolique avec HDL bas)
+ALDH|ALdéhyde DésHydrogénase
+AMPc|Adénosine MonoPhosphate cyclique
+ANGPTL3|ANGioPoieTin-Like protein 3 (protéine 3 apparentée à l'angiopoïétine)
+APOB|APOlipoprotéine B (gène)
+AR|Autosomique Récessif
+ARN|Acide RiboNucléique
+ASCVD|AtheroSclerotic CardioVascular Disease (maladie cardiovasculaire athéroscléreuse)
+ATCD|AnTéCéDents
+ATP|Adénosine TriPhosphate
+AVC|Accident Vasculaire Cérébral
+AVK|AntiVitamines K
+ApoB|Apolipoprotéine B
+B1|vitamine B1 (thiamine)
+B100|apolipoprotéine B100
+B12|vitamine B12 (cobalamine)
+B6|vitamine B6 (pyridoxine)
+BAT|Brown Adipose Tissue (tissu adipeux brun)
+BMI|Body Mass Index (indice de masse corporelle)
+CD8|Cluster of Differentiation 8 (marqueur des lymphocytes T cytotoxiques)
+CETP|Cholesteryl Ester Transfer Protein (protéine de transfert des esters de cholestérol)
+CG|Charge Glycémique
+CGM|Continuous Glucose Monitoring (mesure continue du glucose)
+CI|Contre-Indication
+CII|apolipoprotéine C-II
+CIII|apolipoprotéine C-III
+CK|Créatine Kinase
+CT|Computed Tomography (tomodensitométrie, scanner)
+CV|CardioVasculaire
+CYP2E1|CYtochrome P450 famille 2 sous-famille E membre 1
+CYP3A|CYtochrome P450 famille 3 sous-famille A
+DAG|DiAcylGlycérol
+DCCT|Diabetes Control and Complications Trial (essai sur le contrôle du diabète et ses complications)
+DEXA|Dual-Energy X-ray Absorptiometry (absorptiométrie biphotonique à rayons X)
+DFG|Débit de Filtration Glomérulaire
+DHA|DocosaHexaenoic Acid (acide docosahexaénoïque)
+DLCN|Dutch Lipid Clinic Network (réseau néerlandais des cliniques des lipides)
+DPP|Diabetes Prevention Program (programme américain de prévention du diabète)
+DPP-4|DiPeptidyl Peptidase 4
+DPS|Diabetes Prevention Study (étude finlandaise de prévention du diabète)
+DT1|Diabète de Type 1
+DT2|Diabète de Type 2
+E2|allèle E2 de l'apolipoprotéine E
+EEG|ÉlectroEncéphaloGramme
+EMG|ÉlectroMyoGramme
+EPA|EicosaPentaenoic Acid (acide eicosapentaénoïque)
+ESC|European Society of Cardiology (Société européenne de cardiologie)
+FDG|FluoroDésoxyGlucose (au fluor 18)
+FR|Facteurs de Risque
+FRCV|Facteurs de Risque CardioVasculaire
+FTO|Fat mass and ObesiTy-associated gene (gène associé à la masse grasse et à l'obésité)
+GAD65|Glutamic Acid Decarboxylase 65 kDa (décarboxylase de l'acide glutamique de 65 kDa)
+GADA|Glutamic Acid Decarboxylase Antibodies (anticorps anti-décarboxylase de l'acide glutamique)
+GAPDH|GlycérAldéhyde-3-Phosphate DésHydrogénase
+GCK|GlucoKinase
+GH|Growth Hormone (hormone de croissance)
+GIANT|Genetic Investigation of ANthropometric Traits (consortium d'étude génétique des caractères anthropométriques)
+GIP|Glucose-dependent Insulinotropic Polypeptide (polypeptide insulinotrope dépendant du glucose)
+GLP|Glucagon-Like Peptide (peptide apparenté au glucagon)
+GLP-1|Glucagon-Like Peptide 1 (peptide 1 apparenté au glucagon)
+HC|Hydrates de Carbone
+HDL|High-Density Lipoproteins (lipoprotéines de haute densité)
+HF|Hypercholestérolémie Familiale
+HGPO|HyperGlycémie Provoquée par voie Orale
+HLA|Human Leukocyte Antigen (antigènes leucocytaires humains)
+HMG|HydroxyMéthylGlutaryl (HMG-CoA réductase)
+HNF1A|Hepatocyte Nuclear Factor 1 Alpha (facteur nucléaire hépatocytaire 1α)
+HNF1B|Hepatocyte Nuclear Factor 1 Beta (facteur nucléaire hépatocytaire 1β)
+HNF4A|Hepatocyte Nuclear Factor 4 Alpha (facteur nucléaire hépatocytaire 4α)
+HPS2|Heart Protection Study 2 (étude de protection cardiaque 2)
+HR|Hazard Ratio (rapport de risques instantanés)
+HTA|HyperTension Artérielle
+HTAP|HyperTension Artérielle Pulmonaire
+HbA1c|Hémoglobine A1c (glyquée)
+IA-2A|Insulinoma-Associated antigen 2 Antibodies (anticorps anti-IA-2, antigène associé à l'insulinome)
+IAA|Insulin AutoAntibodies (auto-anticorps anti-insuline)
+IC|Insuffisance Cardiaque
+ICA|Islet Cell Antibodies (anticorps anti-îlots)
+IDL|Intermediate-Density Lipoproteins (lipoprotéines de densité intermédiaire)
+IDM|Infarctus Du Myocarde
+IEC|Inhibiteurs de l'Enzyme de Conversion
+IFG|Impaired Fasting Glucose (glycémie à jeun anormale)
+IG|Index Glycémique
+IGF-2|Insulin-like Growth Factor 2 (facteur de croissance analogue à l'insuline de type 2)
+IGT|Impaired Glucose Tolerance (intolérance au glucose)
+IH|Insuffisance Hépatique
+IIa|type IIa de la classification de Fredrickson
+IIb|type IIb de la classification de Fredrickson
+IL-6|InterLeukine 6
+IM|IntraMusculaire
+IMPROVE-IT|IMProved Reduction of Outcomes: Vytorin Efficacy International Trial (essai international sur l'ézétimibe associé à la simvastatine)
+IMT|Intima-Media Thickness (épaisseur intima-média)
+INS|gène de l'INSuline
+INSPIRE|INternational Study of Prediction of Intra-abdominal adiposity and its RElationships with cardiometabolic risk (étude internationale sur la graisse intra-abdominale et le risque cardiométabolique ; INSPIRE ME)
+INTERHEART|étude cas-témoins INTERnationale sur les facteurs de risque de l'infarctus (HEART = cœur)
+IR|Insuffisance Rénale
+IRM|Imagerie par Résonance Magnétique
+IRT|Insuffisance Rénale Terminale
+IResp|Insuffisance Respiratoire
+KCNJ11|Potassium (K) Channel, inwardly rectifying, sous-famille J membre 11 (gène de Kir6.2)
+KCl|Chlorure de potassium (K = potassium, Cl = chlore)
+LCAT|Lécithine-Cholestérol AcylTransférase
+LDL|Low-Density Lipoproteins (lipoprotéines de basse densité)
+LDLR|Low-Density Lipoprotein Receptor (récepteur du LDL)
+LPL|LipoProtéine Lipase
+LT|Lymphocytes T
+MACE|Major Adverse Cardiovascular Events (événements cardiovasculaires majeurs)
+MB|Membrane Basale
+MCT|Medium-Chain Triglycerides (triglycérides à chaîne moyenne)
+MEOS|Microsomal Ethanol-Oxidizing System (système microsomal d'oxydation de l'éthanol)
+MODY|Maturity-Onset Diabetes of the Young (diabète de type adulte survenant chez le jeune)
+MRFIT|Multiple Risk Factor Intervention Trial (essai d'intervention sur les facteurs de risque multiples)
+NAD|Nicotinamide Adénine Dinucléotide (forme oxydée)
+NADH|Nicotinamide Adénine Dinucléotide, forme réduite (H = hydrogène)
+NAFLD|Non-Alcoholic Fatty Liver Disease (stéatose hépatique non alcoolique)
+NCEP-ATP|National Cholesterol Education Program – Adult Treatment Panel (programme national américain d'éducation sur le cholestérol, panel de traitement de l'adulte)
+NEM1|Néoplasie Endocrinienne Multiple de type 1
+NPC1L1|Niemann-Pick C1-Like 1 (protéine apparentée à Niemann-Pick C1)
+NPH|Neutral Protamine Hagedorn (insuline isophane à la protamine)
+NS|Non Significatif
+NaCl|Chlorure de sodium (Na = sodium, Cl = chlore)
+NovoRapid|nom commercial de l'insuline asparte (analogue rapide, laboratoire Novo Nordisk)
+OCT|Optical Coherence Tomography (tomographie en cohérence optique)
+OMS|Organisation Mondiale de la Santé
+PA|Pression Artérielle
+PAI-1|Plasminogen Activator Inhibitor 1 (inhibiteur de l'activateur du plasminogène de type 1)
+PAS|Pression Artérielle Systolique
+PCSK9|Proprotein Convertase Subtilisin/Kexin type 9 (proprotéine convertase subtilisine/kexine de type 9)
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PKC|Protéine Kinase C
+PREDIMED|PREvención con DIeta MEDiterránea (prévention par le régime méditerranéen)
+PROactive|PROspective pioglitAzone Clinical Trial In macroVascular Events (essai prospectif de la pioglitazone sur les événements macrovasculaires)
+PTPN22|Protein Tyrosine Phosphatase Non-receptor type 22 (protéine tyrosine phosphatase non-récepteur de type 22)
+RBP4|Retinol-Binding Protein 4 (protéine 4 de liaison du rétinol)
+REDUCE-IT|Reduction of Cardiovascular Events with Icosapent Ethyl–Intervention Trial (essai de réduction des événements cardiovasculaires par l'icosapent éthyl)
+SAOS|Syndrome d'Apnées Obstructives du Sommeil
+SC|Sous-Cutané
+SCORE2|Systematic COronary Risk Evaluation 2 (évaluation systématique du risque coronarien, version 2)
+SLCO1B1|Solute Carrier Organic anion transporter family member 1B1 (transporteur d'anions organiques OATP1B1)
+SNC|Système Nerveux Central
+SOPK|Syndrome des Ovaires PolyKystiques
+SOS|Swedish Obese Subjects (étude suédoise sur les sujets obèses)
+SPE|Sciatique Poplité Externe (nerf)
+SU|SulfonylUrées
+SUR1|SulfonylUrea Receptor 1 (récepteur des sulfonylurées de type 1)
+T3|Triiodothyronine (3 atomes d'iode)
+TA|Tension Artérielle
+TEP|Tomographie par Émission de Positons
+TG|TriGlycérides
+THRIVE|Treatment of HDL to Reduce the Incidence of Vascular Events (traitement du HDL pour réduire les événements vasculaires)
+THS|Traitement Hormonal Substitutif
+TNF|Tumor Necrosis Factor (facteur de nécrose tumorale)
+TRIGR|Trial to Reduce IDDM in the Genetically at Risk (essai de réduction du diabète insulinodépendant chez les sujets génétiquement à risque)
+UCP1|UnCoupling Protein 1 (protéine découplante 1, thermogénine)
+UKPDS|United Kingdom Prospective Diabetes Study (étude prospective britannique sur le diabète)
+USA|United States of America (États-Unis d'Amérique)
+VEGF|Vascular Endothelial Growth Factor (facteur de croissance de l'endothélium vasculaire)
+VLDL|Very Low-Density Lipoproteins (lipoprotéines de très basse densité)
+VX-880|code de développement (laboratoire Vertex) de cellules d'îlots dérivées de cellules souches
+WHI|Women's Health Initiative (initiative pour la santé des femmes)
+XENDOS|XENical in the prevention of Diabetes in Obese Subjects (orlistat dans la prévention du diabète chez les sujets obèses)
+ZnT8A|Zinc Transporter 8 Antibodies (anticorps anti-transporteur du zinc 8)
+aGLP-1|agonistes du Glucagon-Like Peptide 1
+anti-GAD|anticorps anti-Glutamic Acid Decarboxylase (anti-décarboxylase de l'acide glutamique)
+iDPP-4|inhibiteurs de la DiPeptidyl Peptidase 4
+iPCSK9|inhibiteurs de PCSK9 (Proprotein Convertase Subtilisin/Kexin type 9)
+iSGLT2|inhibiteurs du Sodium-GLucose coTransporter 2 (cotransporteur sodium-glucose de type 2)
+pH|potentiel Hydrogène
+siRNA|small interfering RNA (petit ARN interférent)
+β-OHB|bêta-HydroxyButyrate
+Roux-en-Y|anse en Y de Roux (montage du bypass gastrique, du chirurgien César Roux)
+IV|IntraVeineux
+anti-CD3|anticorps anti-Cluster of Differentiation 3 (anti-CD3, molécule des lymphocytes T)
+anti-CD20|anticorps anti-Cluster of Differentiation 20 (anti-CD20, molécule des lymphocytes B)
+K-ATP|canal potassique (K) sensible à l'ATP (Adénosine TriPhosphate)
+Steno-2|2e essai du Steno Diabetes Center (Copenhague)
+mM|milliMolaire (mmol/L)
+anti-VEGF|anti-Vascular Endothelial Growth Factor (anti-facteur de croissance de l'endothélium vasculaire)
+kPa|kiloPascal
+A-I|apolipoprotéine A-I
+apo A-I|apolipoprotéine A-I
+apoA1|apolipoprotéine A1 (A-I)
+apoB|apolipoprotéine B
+apo B|apolipoprotéine B
+Acétyl-CoA|Acétyl-Coenzyme A
+Wernicke-Korsakoff|syndrome de Wernicke-Korsakoff (encéphalopathie de Wernicke et syndrome amnésique de Korsakoff)
+non-HDL|cholestérol non-HDL (non High-Density Lipoproteins)
+post-IDM|après un Infarctus Du Myocarde
+HMG-CoA|HydroxyMéthylGlutaryl-Coenzyme A

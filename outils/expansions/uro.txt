@@ -1,0 +1,91 @@
+ADH|AntiDiuretic Hormone (hormone antidiurétique)
+AFP|Alpha-FœtoProtéine
+AINS|Anti-Inflammatoires Non Stéroïdiens
+AMPc|Adénosine MonoPhosphate cyclique
+ATB|AntiBiotiques
+ATCD|AnTéCéDents
+AVC|Accident Vasculaire Cérébral
+BCG|Bacille de Calmette et Guérin
+BRCA|BReast CAncer gene (gène du cancer du sein)
+CH|CHarrière (unité de calibre des sondes)
+CI|Contre-Indication
+CIS|Carcinome In Situ
+CT|Computed Tomography (tomodensitométrie, scanner)
+CV|CardioVasculaire
+DE|Dysfonction Érectile
+EAU|European Association of Urology (Association européenne d'urologie)
+ECBU|Examen CytoBactériologique des Urines
+GMPc|Guanosine MonoPhosphate cyclique
+GR|Globules Rouges
+HBP|Hypertrophie Bénigne de la Prostate
+HBPM|Héparine de Bas Poids Moléculaire
+HTA|HyperTension Artérielle
+HoLEP|Holmium Laser Enucleation of the Prostate (énucléation de la prostate au laser holmium)
+IIF|catégorie II-F de Bosniak (F = Follow-up, surveillance)
+INR|International Normalized Ratio (rapport normalisé international)
+IPSS|International Prostate Symptom Score (score international des symptômes prostatiques)
+IR|Insuffisance Rénale
+IRA|Insuffisance Rénale Aiguë
+IRM|Imagerie par Résonance Magnétique
+ISUP|International Society of Urological Pathology (Société internationale de pathologie urologique)
+ITK|Inhibiteurs de Tyrosine Kinase
+IU|Infection Urinaire
+IUE|Incontinence Urinaire d'Effort
+IUU|Incontinence Urinaire par Urgenturie
+IgA|Immunoglobuline A
+J30|Jour 30 (après l'opération)
+J8|Jour 8 (après l'opération)
+JJ|sonde double J (une boucle en forme de J à chaque bout)
+L2|2e segment Lombaire de la moelle
+LDH|Lactate DésHydrogénase
+M1|Métastases à distance présentes (TNM)
+M2|récepteur Muscarinique de type 2
+M3|récepteur Muscarinique de type 3
+N0M0|pas de ganglion envahi (Node 0) ni de Métastase (M0) (TNM)
+NO|Nitric Oxide (monoxyde d'azote)
+O2|dioxygène (Oxygène)
+ORL|Oto-Rhino-Laryngologie
+PDE5|PhosphoDiEstérase de type 5
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PET-PSMA|PET au Prostate-Specific Membrane Antigen (TEP ciblant l'antigène membranaire spécifique de la prostate)
+PI-RADS|Prostate Imaging–Reporting And Data System (système de compte rendu et de données en imagerie prostatique)
+PNA|PyéloNéphrite Aiguë
+PSA|Prostate-Specific Antigen (antigène prostatique spécifique)
+RPM|Résidu Post-Mictionnel
+RTUV|Résection TransUrétrale de Vessie
+RUA|Rétention Urinaire Aiguë
+S2|2e segment Sacré de la moelle
+S2–S4|segments Sacrés 2 à 4 de la moelle
+S4|4e segment Sacré de la moelle
+SEP|Sclérose En Plaques
+T1|Tumeur stade 1 (envahit le chorion sans atteindre le muscle, TNM)
+T10|10e segment Thoracique de la moelle
+T10–L2|segments de la moelle du 10e Thoracique au 2e Lombaire
+T1G3|Tumeur stade T1 de Grade 3 (haut grade)
+T2|Tumeur stade 2 (TNM)
+T2a|Tumeur stade 2a (TNM)
+T2b|Tumeur stade 2b (TNM)
+T3|Tumeur stade 3 (TNM)
+T3a|Tumeur stade 3a (TNM)
+T4|Tumeur stade 4 (TNM)
+TA|Tension Artérielle
+TCD|Tube Contourné Distal
+TCP|Tube Contourné Proximal
+TDM|TomoDensitoMétrie
+TNM|Tumor, Node, Metastasis (tumeur, ganglion, métastase)
+TOT|TransObturator Tape (bandelette trans-obturatrice)
+TR|Toucher Rectal
+TUBA|Troubles Urinaires du Bas Appareil
+TURP|TransUrethral Resection of the Prostate (résection transurétrale de la prostate)
+TVNIM|Tumeur de Vessie N'Infiltrant pas le Muscle
+TVT|Tension-free Vaginal Tape (bandelette vaginale sans tension)
+VCI|Veine Cave Inférieure
+VS|Vitesse de Sédimentation
+iPDE5|inhibiteurs de la PhosphoDiEstérase de type 5
+βHCG|sous-unité bêta de l'Hormone Chorionique Gonadotrope (human Chorionic Gonadotropin)
+mL|milliLitre
+uroCT|uro-Computed Tomography (uroscanner)
+uro-CT|uro-Computed Tomography (uroscanner)
+5-ARI|5-Alpha-Reductase Inhibitors (inhibiteurs de la 5-alpha-réductase)
+pT2|stade T2 pathologique (p = établi sur la pièce opératoire)
+pT|stade T pathologique (p = établi sur la pièce opératoire)

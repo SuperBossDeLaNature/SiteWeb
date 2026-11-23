@@ -1,0 +1,236 @@
+123I|Iode 123 (isotope de masse 123)
+131I|Iode 131 (isotope de masse 131)
+177Lu|Lutétium 177
+18F-FDG|FluoroDésoxyGlucose marqué au Fluor 18
+223Ra|Radium 223
+90Y|Yttrium 90
+99mTc|Technétium 99 métastable (m = état excité métastable)
+A0|Activité initiale (au temps zéro)
+ADN|Acide DésoxyriboNucléique
+ADO|AntiDiabétiques Oraux
+AL|Amylose à chaînes Légères (Light chains) d'immunoglobuline
+ALARA|As Low As Reasonably Achievable (aussi bas que raisonnablement possible)
+ALSYMPCA|ALpharadin in SYMptomatic Prostate CAncer (essai du radium 223 dans le cancer de prostate symptomatique)
+AMS|Atrophie Multi-Systématisée
+AOMI|Artériopathie Oblitérante des Membres Inférieurs
+AP|Antéro-Postérieure (incidence antérieure)
+APP|Aphasie Primaire Progressive
+ATA|American Thyroid Association (Association américaine de la thyroïde)
+ATB|AntiBiotique(s)
+ATN|Amyloïde, Tau, Neurodégénérescence
+ATTR|Amylose à TransThyRétine (Amyloid TransThyRetin)
+ATTRm|Amylose à TransThyRétine mutée (héréditaire)
+ATTRwt|Amylose à TransThyRétine wild-type (sauvage, sénile)
+AVC|Accident Vasculaire Cérébral
+AngioCT|Angio-Computed Tomography (angio-scanner)
+BAV|Bloc Atrio-Ventriculaire
+BCG|Bacille de Calmette et Guérin
+BECT|Bremsstrahlung Emission Computed Tomography (tomographie du rayonnement de freinage)
+BHE|Barrière Hémato-Encéphalique
+BRAF|v-Raf murine sarcoma viral oncogene homolog B (gène B-RAF, Rapidly Accelerated Fibrosarcoma)
+CI|Contre-Indication
+CT|Computed Tomography (tomodensitométrie, scanner)
+CTD|Cancer Thyroïdien Différencié
+DAT|DopAmine Transporter (transporteur de la dopamine)
+DCB|Dégénérescence Cortico-Basale
+DD|Diagnostic Différentiel
+DFG|Débit de Filtration Glomérulaire
+DL100|Dose Létale 100 % (tue toutes les personnes exposées)
+DL50|Dose Létale 50 % (tue la moitié des personnes exposées)
+DLB|Dementia with Lewy Bodies (démence à corps de Lewy)
+DLFT|Dégénérescence Lobaire Fronto-Temporale
+DMSA|DiMercaptoSuccinic Acid (acide dimercaptosuccinique)
+DOTA|acide tétraazacycloDOdécane-TétraAcétique (chélateur)
+DOTATATE|DOTA-(Tyr3)-octréoTATE (analogue de la somatostatine couplé au chélateur DOTA)
+DTPA|DiethyleneTriamine PentaAcetic acid (acide diéthylène-triamine-penta-acétique)
+EBV|Epstein-Barr Virus (virus d'Epstein-Barr)
+ECD|Ethyl Cysteinate Dimer (dimère d'éthylcystéinate, bicisate)
+ECG|ÉlectroCardioGramme
+EDTA|EthyleneDiamine TetraAcetic acid (acide éthylène-diamine-tétra-acétique)
+EEG|ÉlectroEncéphaloGramme
+EP|Embolie Pulmonaire
+ESC|European Society of Cardiology (Société européenne de cardiologie)
+FAPI|Fibroblast Activation Protein Inhibitor (inhibiteur de la protéine d'activation des fibroblastes)
+FDG|FluoroDésoxyGlucose
+FDG-6P|FluoroDésoxyGlucose-6-Phosphate
+FDG-PET|Positron Emission Tomography au FluoroDésoxyGlucose (TEP au FDG)
+FDOPA|FluoroDOPA (fluoro-DihydrOxyPhénylAlanine)
+FET|Fluoro-Éthyl-Tyrosine
+FEVG|Fraction d'Éjection du Ventricule Gauche
+FFR|Fractional Flow Reserve (réserve de flux fractionnaire)
+FGF23|Fibroblast Growth Factor 23 (facteur de croissance des fibroblastes 23)
+FUO|Fever of Unknown Origin (fièvre d'origine inconnue)
+GR|Globules Rouges
+HFLC|High-Fat Low-Carbohydrate (riche en graisses, pauvre en glucides)
+HMPAO|HexaMethylPropylène Amine Oxime (exametazime)
+HPT|HyperParaThyroïdie
+HR|Hazard Ratio (rapport des risques instantanés)
+HTA|HyperTension Artérielle
+HTAP|HyperTension Artérielle Pulmonaire
+HTP|HyperTension Pulmonaire (thromboembolique chronique)
+IA|Intelligence Artificielle
+IC|Insuffisance Cardiaque
+IDA|IminoDiacetic Acid (acide iminodiacétique)
+IDM|Infarctus Du Myocarde
+IEC|Inhibiteur de l'Enzyme de Conversion
+IPP|Inhibiteur de la Pompe à Protons
+IR|Insuffisance Rénale
+IRM|Imagerie par Résonance Magnétique
+IUO|Inflammation of Unknown Origin (inflammation d'origine inconnue)
+IgG4|Immunoglobuline G de sous-classe 4
+J1-J2|Jours 1 et 2
+J2|Jour 2
+J3|Jour 3
+J4|Jour 4
+KI|Iodure de potassium (K = kalium/potassium, I = iode)
+L5|5e vertèbre Lombaire
+L5-S1|Niveau entre la 5e vertèbre Lombaire et la 1re vertèbre Sacrée
+LED|Lupus Érythémateux Disséminé
+LOR|Line Of Response (ligne de réponse)
+Legg-Calvé-Perthes|Maladie de Legg-Calvé-Perthes (Arthur Legg, Jacques Calvé, Georg Perthes)
+MA|Maladie d'Alzheimer
+MAA|MacroAgrégats d'Albumine
+MAG3|MercaptoAcétylTriGlycine (mertiatide)
+MCI|Mild Cognitive Impairment (trouble cognitif léger)
+MEG|MagnétoEncéphaloGraphie
+MEOPA|Mélange Équimolaire Oxygène-Protoxyde d'Azote
+MET|MÉThionine (11C-méthionine)
+MIBG|Méta-IodoBenzylGuanidine
+MN|Médecine Nucléaire
+MR|Magnetic Resonance (résonance magnétique, IRM)
+MUGA|MUltiple-Gated Acquisition (ventriculographie isotopique synchronisée à l'ECG)
+MeV|Méga-électronvolt (million d'électronvolts)
+N2O|Protoxyde d'azote (2 atomes d'azote, 1 d'oxygène)
+NEJM|New England Journal of Medicine
+NETTER-1|NEuroendocrine Tumors TherapEutic Radiopeptide trial 1 (essai 1 du 177Lu-DOTATATE)
+NETTER-2|NEuroendocrine Tumors TherapEutic Radiopeptide trial 2 (essai 2 du 177Lu-DOTATATE)
+NIS|Natrium (sodium)-Iodide Symporter (symporteur sodium-iodure)
+NaI|Iodure de sodium (Natrium Iodide)
+O2|Dioxygène
+P450|cytochrome P450 (Pigment absorbant à 450 nm)
+PA|Postéro-Antérieure (incidence postérieure)
+PAL|Phosphatases ALcalines
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PET-CT|Positron Emission Tomography couplée à la Computed Tomography (TEP-scanner)
+PET-MR|Positron Emission Tomography couplée à la Magnetic Resonance (TEP-IRM)
+PFS|Progression-Free Survival (survie sans progression)
+PMR|PolyMyalgia Rheumatica (pseudo-polyarthrite rhizomélique)
+PNA|PyéloNéphrite Aiguë
+PPR|Pseudo-Polyarthrite Rhizomélique
+PR|Polyarthrite Rhumatoïde
+PRRT|Peptide Receptor Radionuclide Therapy (radiothérapie interne vectorisée par peptides)
+PSA|Prostate-Specific Antigen (antigène prostatique spécifique)
+PSMA|Prostate-Specific Membrane Antigen (antigène membranaire spécifique de la prostate)
+PSP|Paralysie Supranucléaire Progressive
+PTH|Prothèse Totale de Hanche
+PYP|PYroPhosphate
+RGO|Reflux Gastro-Œsophagien
+RI|Rayonnement Ionisant
+ROI|Region Of Interest (région d'intérêt)
+ROS|Reactive Oxygen Species (espèces réactives de l'oxygène)
+RVU|Reflux Vésico-Urétéral
+RX|Rayons X
+SAPHO|Synovite, Acné, Pustulose, Hyperostose, Ostéite
+SDHB|Succinate DésHydrogénase sous-unité B
+SDRC|Syndrome Douloureux Régional Complexe
+SEP|Sclérose En Plaques
+SIRT|Selective Internal Radiation Therapy (radiothérapie interne sélective)
+SLA|Sclérose Latérale Amyotrophique
+SPA|SPondylarthrite Ankylosante
+SPECT|Single Photon Emission Computed Tomography (tomographie par émission monophotonique)
+SPECT-CT|Single Photon Emission Computed Tomography couplée à la Computed Tomography (TEMP-scanner)
+SPM|Statistical Parametric Mapping (cartographie statistique paramétrique)
+SSTR|SomatoSTatin Receptor (récepteur de la somatostatine)
+SUV|Standardized Uptake Value (valeur de fixation normalisée)
+SVNP|Synovite VilloNodulaire Pigmentée
+T1a|Stade T1a (Tumeur primitive) du mélanome : < 0,8 mm sans ulcération
+T1b|Stade T1b (Tumeur primitive) du mélanome : 0,8–1 mm ou ulcéré
+T2-T3|Stades T2 à T3 (Tumeur primitive) du mélanome
+T3-T4|Triiodothyronine (T3) et Thyroxine / tétraiodothyronine (T4)
+T4|Stade T4 (Tumeur primitive) du mélanome : > 4 mm
+TARE|TransArterial RadioEmbolization (radioembolisation transartérielle)
+TCP|Tube Contourné Proximal
+TDP-43|TAR DNA-binding Protein 43 (protéine de liaison à l'ADN TAR de 43 kDa)
+TIO|Tumor-Induced Osteomalacia (ostéomalacie induite par une tumeur)
+TLE|Transfert Linéique d'Énergie
+TNE|Tumeur NeuroEndocrine
+TNM|Tumor, Node, Metastasis (tumeur, ganglion, métastase)
+TOF|Time Of Flight (temps de vol)
+TSH|Thyroid-Stimulating Hormone (thyréostimuline)
+TV|Tachycardie Ventriculaire
+V/P|Ventilation / Perfusion (scintigraphie pulmonaire)
+V600E|substitution de la Valine (V) en position 600 par un acide glutamique (E)
+VISION|Nom de l'essai de phase 3 du 177Lu-PSMA-617 (pas un sigle)
+VOI|Volume Of Interest (volume d'intérêt)
+VPN|Valeur Prédictive Négative
+VZV|Varicella-Zoster Virus (virus varicelle-zona)
+bvFTD|behavioural variant FrontoTemporal Dementia (variante comportementale de la démence frontotemporale)
+keV|kiloélectronvolt (millier d'électronvolts)
+mUI|milli-Unités Internationales
+miTNM|molecular imaging TNM (classification TNM en imagerie moléculaire)
+rhTSH|recombinant human TSH (thyréostimuline humaine recombinante)
+99Mo|Molybdène 99
+235U|Uranium 235
+18F|Fluor 18
+18O|Oxygène 18
+68Ga|Gallium 68
+11C|Carbone 11
+13N|Azote 13
+15O|Oxygène 15
+201Tl|Thallium 201
+111In|Indium 111
+124I|Iode 124
+225Ac|Actinium 225
+89Sr|Strontium 89
+153Sm|Samarium 153
+82Rb|Rubidium 82
+15O-eau|Eau marquée à l'Oxygène 15
+13N-ammoniac|Ammoniac marqué à l'azote 13
+99mTc-MDP|Méthylène DiPhosphonate marqué au technétium 99m
+99mTc-HMPAO|HexaMethylPropylène Amine Oxime marquée au technétium 99m
+99mTc-ECD|Ethyl Cysteinate Dimer marqué au technétium 99m
+68Ga-DOTATATE|DOTATATE marqué au Gallium 68
+68Ga-PSMA|Prostate-Specific Membrane Antigen ligand marqué au Gallium 68
+68Ga-FAPI|Fibroblast Activation Protein Inhibitor marqué au Gallium 68
+11C-méthionine|Méthionine marquée au Carbone 11
+18F-FET|Fluoro-Éthyl-Tyrosine marquée au Fluor 18
+18FLT|3'-désoxy-3'-Fluoro-L-Thymidine marquée au Fluor 18 (FLT)
+18F-FES|Fluoro-ŒStradiol marqué au Fluor 18 (FES)
+11C-PIB|Pittsburgh compound B (composé B de Pittsburgh) marqué au Carbone 11
+123I-MIBG|Méta-IodoBenzylGuanidine marquée à l'Iode 123
+123I-ioflupane|Ioflupane marqué à l'Iode 123 (DaTSCAN)
+DAT-scan|DopAmine Transporter scan (scintigraphie des transporteurs de la dopamine)
+99mTc-sestamibi|Sestamibi (MIBI : MéthoxyIsoButylIsonitrile) marqué au technétium 99m
+99mTc-tétrofosmine|Tétrofosmine marquée au technétium 99m
+99mTc-DPD|DiPhosphono-propanoDicarboxylic acid (acide 3,3-diphosphono-1,2-propanodicarboxylique) marqué au technétium 99m
+99mTc-PYP|PYroPhosphate marqué au technétium 99m
+51Cr-EDTA|EthyleneDiamine TetraAcetic acid marqué au Chrome 51
+99mTc-DTPA|DiethyleneTriamine PentaAcetic acid marqué au technétium 99m
+99mTc-DMSA|DiMercaptoSuccinic Acid marqué au technétium 99m
+99mTc-MAG3|MercaptoAcétylTriGlycine marquée au technétium 99m
+99mTc-sulfure colloïdal|Sulfure colloïdal marqué au technétium 99m
+99mTc-sulfure|Sulfure colloïdal marqué au technétium 99m
+99mTc-IDA|IminoDiacetic Acid (acide iminodiacétique, mébrofénine) marqué au technétium 99m
+99mTc-pertechnétate|Pertechnétate (ion TcO₄⁻) de technétium 99m
+99mTc-nanocolloïdes|Nanocolloïdes (d'albumine) marqués au technétium 99m
+99mTc-MAA|MacroAgrégats d'Albumine marqués au technétium 99m
+90Y-PET|Positron Emission Tomography après traitement à l'Yttrium 90
+90Y-ibritumomab|Ibritumomab tiuxétan marqué à l'Yttrium 90
+anti-CD20|anticorps anti-Cluster of Differentiation 20 (classe de différenciation 20)
+177Lu-DOTATATE|DOTATATE marqué au Lutétium 177
+177Lu-PSMA-617|ligand PSMA-617 (Prostate-Specific Membrane Antigen) marqué au Lutétium 177
+225Ac-PSMA|Prostate-Specific Membrane Antigen ligand marqué à l'Actinium 225
+225Ac-DOTATOC|DOTA-(Tyr3)-OCtréotide marqué à l'Actinium 225
+Ki-67|antigène Kiel 67 (marqueur de prolifération, clone découvert à Kiel)
+G-CSF|Granulocyte Colony-Stimulating Factor (facteur de croissance des granulocytes)
+FDG-avides|avides de FluoroDésoxyGlucose (fixant fortement le FDG)
+Sv|Sievert
+mSv|milliSievert (millième de sievert)
+Gy|Gray (unité de dose absorbée, 1 Gy = 1 J/kg)
+kBq|kiloBecquerel (1 000 désintégrations par seconde)
+T½|Temps de demi-vie (T un demi)
+ln2|logarithme naturel (népérien) de 2 ≈ 0,693
+Tg|Thyroglobuline
+3D|Trois Dimensions
+Se|Sensibilité
+Sp|Spécificité

@@ -1,0 +1,228 @@
+2|bras de levier|Les bras de levier multiplient les charges qui passent dans les articulations.
+2|remodelage osseux|Le squelette se renouvelle en permanence.
+2|ostéoclastes|Les ostéoclastes détruisent l'os ancien.
+2|ostéoblastes|Les ostéoblastes reconstruisent ; ≈ 5 % du squelette renouvelé chaque année.
+2|cartilage|L'os grandit en longueur par le cartilage de croissance.
+2|moment d'inertie|Un os large et creux résiste mieux à la flexion.
+2|ostéoporose|L'ostéoporose enlève d'abord l'os peu sollicité, au centre (col du fémur).
+2|Trendelenburg|Le patient penche le tronc vers la hanche malade pour soulager des fessiers faibles.
+2|bassin|Le bassin bascule du côté opposé à l'appui.
+3|arthrose|La douleur de l'arthrose apparaît à l'activité, pas la nuit.
+3|coxarthrose|Une dysplasie de hanche mène à la coxarthrose.
+3|gonarthrose|On mesure la fonte du quadriceps (fréquente dans la gonarthrose).
+3|MRC|La force se cote de 0 à 5.
+3|IRM|L'IRM montre bien les liquides, sans rayons.
+3|INAMI|En Belgique, l'accès à l'IRM est encadré par l'INAMI.
+3|ostéoblastes|La scintigraphie osseuse voit le travail des ostéoblastes.
+3|algodystrophie|Elle est très sensible : fracture occulte, algodystrophie…
+3|métastases|… métastases.
+3|canal carpien|Un ralentissement de conduction entre 2 points localise une compression.
+3|EMG|Des fibrillations au repos = muscle dénervé.
+3|AINS|Le paracétamol est préféré aux AINS pour la douleur chronique.
+4|cartilage|L'arthrose est l'usure du cartilage, maladie articulaire la plus fréquente.
+4|liquide synovial|Le liquide synovial nourrit le cartilage.
+4|synoviale|La synoviale sécrète l'acide hyaluronique du liquide.
+4|arthrose|L'âge seul ne suffit pas à causer l'arthrose.
+4|ostéophytes|Les ostéophytes sont une réaction de défense de l'os.
+4|géodes|Les géodes sont des cavités sous le cartilage.
+4|pincement|Le pincement est le signe radio de base de l'arthrose.
+4|IPD|À la main, l'arthrose touche les IPD (nodules d'Heberden).
+4|AINS|Traitement symptomatique : AINS en poussée.
+4|coxarthrose|Chirurgie de la coxarthrose : prothèse.
+4|Trendelenburg|Marche avec boiterie de Trendelenburg dans la coxarthrose.
+4|PTH|La prothèse totale de hanche.
+4|J1|Le drain recueille 200–300 ml le premier jour.
+4|HBPM|HBPM pendant 1 mois après prothèse de hanche.
+4|luxation|La luxation est la 1re complication précoce (flexion + rotation interne).
+4|WC|Rehausseur de WC pour éviter de trop plier la hanche.
+4|PE|Le polyéthylène s'use d'environ 0,1 mm par an.
+4|gonarthrose|L'arthrose du genou.
+4|ostéotomie|Chez le jeune en varus, l'ostéotomie tibiale fait gagner une dizaine d'années.
+4|arthrodèse|À la cheville, l'arthrodèse est préférée à la prothèse.
+5|cartilage|La tête fémorale est la plus touchée par l'ostéonécrose.
+5|VIH|Le VIH est une des causes d'ostéonécrose.
+5|IRM|L'IRM détecte l'ostéonécrose avant la radio.
+5|T1|Liseré noir en T1 et en T2 : signe de l'ostéonécrose.
+5|ostéotomie|Traitement : décharge, arthroscopie, ostéotomie selon le cas.
+5|entorse|Une lésion du talus peut apparaître 2–3 mois après une entorse.
+5|M1|Nécrose de la tête de M2 (maladie de Freiberg) chez l'adolescente.
+6|PR|La PR détruit les petites articulations des mains et pieds, des deux côtés.
+6|SA|La spondylarthrite touche surtout le rachis et les sacro-iliaques.
+6|sacro-iliaques|Les sacro-iliaques sont respectées dans la PR, touchées dans la SA.
+6|HLA-DR1|Terrain génétique de la PR.
+6|HLA-B27|HLA-B27 chez 90 % des SA, mais aussi chez des sujets sains.
+6|synoviale|PR : la synoviale enflammée forme un pannus qui ronge l'os.
+6|MCP|PR : MCP, IPP, poignets, pieds, de façon symétrique.
+6|IPD|Les IPD sont épargnées dans la PR (contrairement à l'arthrose).
+6|C1|Le rachis est épargné dans la PR, sauf C1-C2 (risque d'instabilité).
+6|ostéoporose|La SA donne une ostéoporose du rachis.
+6|VS|PR : marqueurs inflammatoires élevés.
+6|CCP|Les anti-CCP sont plus spécifiques que le facteur rhumatoïde.
+6|M1|Le 1er signe radio de la PR est l'érosion de la tête de M5.
+6|pincement|Le pincement est tardif dans la PR (global).
+6|géodes|Géodes et érosions viennent ensuite.
+6|AINS|Les AINS sont le traitement de référence de la SA.
+6|TNF|Les anti-TNF traitent les formes résistantes.
+6|arthrodèse|Chirurgie des destructions de la PR : prothèses ou arthrodèses.
+6|CD4|Correction : lymphocytes B (avec les T CD4), pas « P ».
+7|lombalgie|La lombalgie est une cause majeure d'arrêt de travail.
+7|lordose|La lordose cervicale apparaît quand le bébé se met à 4 pattes.
+7|cyphose|Cyphose dorsale normale.
+7|T11|Le centre de gravité est juste devant T11.
+7|hernie discale|La hernie discale comprime une racine.
+7|C5-C6|Étages les plus touchés.
+7|C5|C6 : la douleur descend jusqu'au pouce.
+7|Lasègue|Lasègue positif entre 20 et 70°.
+7|AINS|80 % des hernies guérissent avec un traitement médical.
+7|J1|Après chirurgie, lever dès le lendemain.
+7|arthrodèse|La chirurgie de référence de la lombalgie chronique est l'arthrodèse (indications limitées).
+7|red flags|Les drapeaux rouges imposent un bilan (inflammation, cancer, fracture, infection).
+8|scoliose|La scoliose évolue pendant la croissance.
+8|Cobb|On la suit avec l'angle de Cobb.
+8|bassin|Une jambe plus courte fait basculer le bassin (fausse scoliose).
+8|gibbosité|La gibbosité à la flexion signe une vraie scoliose.
+8|corset|Corset 23 h/24 si > 25–30° évolutive ; il freine sans corriger.
+8|cyphose|Cyphose du dos.
+8|Scheuermann|Le Scheuermann donne une cyphose rigide.
+9|scoliose|Une scoliose n'est pas douloureuse : un enfant qui a mal au dos a autre chose.
+9|spondylolyse|La spondylolyse est une cause fréquente de douleur du dos chez l'ado sportif.
+9|ostéome ostéoïde|Douleur nocturne calmée par l'aspirine.
+9|AINS|Calmée par les AINS (aspirine).
+9|hernie discale|La hernie discale est rare chez l'enfant.
+9|red flags|Drapeaux rouges chez l'enfant : douleur nocturne, fièvre, déficit, < 4 ans.
+9|IRM|L'IRM est l'examen de choix.
+9|C5|Ici L5 : la spondylolyse touche L5 dans 90 % des cas.
+9|lombalgie|Un tiers des lombalgies de l'ado.
+9|SPECT-CT|Si la radio est douteuse, SPECT-CT.
+9|corset|Parfois un corset pour soulager.
+9|spondylolisthésis|La spondylolyse peut évoluer vers un glissement.
+9|arthrodèse|Arthrodèse si le glissement s'aggrave.
+10|ostéoporose|Après 50 ans, sans signe de métastase, penser à l'ostéoporose.
+10|arthrose|… ou à l'arthrose.
+10|métastases|Une douleur du dos nocturne après 50 ans fait d'abord chercher une métastase.
+10|AINS|Tassement : antalgiques, AINS…
+10|TENS|… et TENS.
+10|discarthrose|Arthrose des facettes et des disques.
+10|lordose|La station debout (lordose) comprime les facettes : douleur aggravée.
+10|pincement|Discarthrose : pincement…
+10|ostéophytes|… et ostéophytes ; un ostéophyte du foramen peut mimer une hernie.
+10|SA|Correction : on parle d'ostéophytose (les syndesmophytes sont ceux de la SA).
+10|arthrodèse|L'arthrodèse améliore ≈ 70 % des patients.
+10|canal lombaire étroit|Canal lombaire étroit.
+10|C5-C6|La moelle se termine en L1-L2 : en dessous, ce sont des racines.
+10|claudication neurogène|La douleur cède en s'asseyant ou en se penchant.
+10|DD|Autres diagnostics à évoquer.
+10|coxarthrose|La coxarthrose donne une douleur de l'aine.
+10|IRM|L'IRM mesure le canal.
+10|AP|Diamètre antéro-postérieur < 10 mm = canal étroit.
+10|EMG|L'EMG aide si doute avec une neuropathie.
+10|corset|Corset en légère flexion.
+10|laminectomie|Chirurgie (décompression) si gêne persistante ou déficit.
+10|spondylolisthésis|Glissement par arthrose des articulaires.
+10|C5|Ici L4 : le glissement de L4 est la cause la plus fréquente de canal étroit chez l'âgé.
+10|myélopathie cervicale|Compression de la moelle du cou par l'arthrose.
+10|SLA|La SLA ressemble mais sans troubles sensitifs.
+10|PEM|Les PEM sont plus sensibles que les PES.
+10|JOA|Le score JOA mesure la gravité.
+11|HV|Hallux valgus : déformation surtout féminine, récidive fréquente après chirurgie.
+11|hallux rigidus|L'hallux rigidus est une arthrose.
+11|arthrose|… arthrose du gros orteil.
+11|MTP1|Arthrose de la MTP1.
+11|M1|Forme juvénile : transmise par la mère.
+11|ostéochondrome|Ici « exostose » = saillie osseuse de la tête de M1, pas une tumeur.
+11|ostéotomie|Toutes les chirurgies visent à réaxer (souvent par ostéotomie).
+11|ostéophytes|L'ostéophyte dorsal bloque la flexion du gros orteil.
+11|pincement|Radio : pincement…
+11|géodes|… géodes.
+11|AINS|Traitement médical d'abord.
+11|arthrodèse|Arthrodèse de la MTP1 en dernier recours.
+11|PR|La PR peut donner des orteils en griffe.
+11|luxation|Au dernier stade, l'orteil se luxe.
+11|IPD|Correction : l'œil de perdrix est un cor entre les orteils.
+11|DD|Talalgie : l'« épine calcanéenne » n'est pas la cause.
+11|rupture du tendon d'Achille|Rupture du tendon d'Achille.
+11|Thompson|Test de Thompson positif = rupture totale.
+12|canal carpien|Les 3 pathologies fréquentes de la main.
+12|IPD|Signes de l'atteinte du nerf ulnaire.
+12|PR|La PR peut causer un canal carpien.
+12|EMG|L'EMG confirme le canal carpien.
+12|DD|Diagnostic différentiel : radiculopathie C6.
+12|C5|C6 touche aussi le dos des 2 premiers doigts.
+12|aponévrotomie|Dupuytren : on sectionne l'aponévrose rétractée.
+12|A1|Le doigt à ressort bloque dans la poulie A1.
+12|AINS|Compression au canal de Guyon.
+13|fracture ouverte|La fracture ouverte est une urgence.
+13|syndrome des loges|Le syndrome des loges aussi.
+13|arthrose|Une fracture articulaire mène à l'arthrose.
+13|cal|Fracture de fatigue : radio normale au début, cal visible après quelques semaines.
+13|ostéoporose|Fracture pathologique : os fragilisé (ostéoporose, tumeur).
+13|consolidation|Consolidation.
+13|pseudarthrose|Pseudarthrose au-delà de 6 mois : chirurgie + greffe.
+13|ostéosynthèse|Traitement chirurgical par ostéosynthèse.
+13|fixateur externe|Différents moyens d'ostéosynthèse.
+13|Gustilo|Classification des fractures ouvertes.
+13|bassin|Les fractures du fémur et du bassin saignent beaucoup.
+13|embolie graisseuse|L'embolie graisseuse suit les fractures des os longs.
+13|enclouage|Le syndrome des loges touche jambe et avant-bras.
+13|cal vicieux|Consolidation en mauvaise position.
+13|ostéotomie|On corrige par ostéotomie.
+14|scaphoïde|Chaque fracture a son nerf menacé et son piège (scaphoïde).
+14|SCM|Le SCM soulève le fragment interne de la clavicule.
+14|luxation|Luxation acromio-claviculaire : stades selon les ligaments rompus.
+14|AG|Luxation de l'épaule : réduction urgente, sous AG au 1er épisode si besoin.
+14|IRM|Coiffe des rotateurs : écho ou arthroscanner, IRM.
+14|nerf radial|Fracture de la diaphyse humérale : vérifier le nerf radial.
+14|EMG|Paralysie radiale : on la suit par EMG.
+14|supracondylienne|Fracture de l'enfant avec risque pour l'artère humérale.
+14|cal vicieux|Risque de cal vicieux (cubitus varus).
+14|syndrome des loges|Risque de syndrome des loges (Volkmann).
+14|olécrâne|Olécrâne déplacé : haubanage.
+14|J1|Rééducation dès le lendemain.
+14|Pouteau-Colles|Fracture du poignet la plus fréquente.
+14|fixateur externe|Moyens de fixation du radius distal.
+14|canal carpien|Complication : compression du médian.
+14|algodystrophie|Complication : algodystrophie.
+14|tabatière anatomique|Douleur de la tabatière = fracture du scaphoïde.
+14|M1|Plâtre jusqu'à P1 du pouce.
+14|pseudarthrose|Le scaphoïde fait souvent des pseudarthroses.
+14|MCP|Fracture du boxeur : MCP immobilisée en flexion.
+14|IPD|Position d'immobilisation des doigts.
+14|entorse|Entorse du pouce (ligament collatéral ulnaire).
+15|Garden|Le traitement dépend du stade de Garden.
+15|fracture de hanche|Fracture de hanche.
+15|luxation|Luxation postérieure : flexion, adduction, rotation interne.
+15|coxarthrose|La prothèse permet l'appui immédiat.
+15|consolidation|Fracture extracapsulaire : consolide mieux.
+15|J1|Lever dès le lendemain.
+15|cal vicieux|Risque de cal vicieux.
+15|luxation de hanche|Luxation de hanche : urgence (nécrose).
+15|AG|Réduction sous anesthésie générale au bloc.
+15|sciatique|Vérifier le nerf sciatique.
+15|IRM|IRM pour voir le cartilage et la tête.
+15|embolie graisseuse|Fracture du fémur : risque d'embolie graisseuse.
+15|ostéosynthèse|L'ostéosynthèse précoce la prévient.
+15|enclouage|Traitement : enclouage.
+15|arthrose|Enlever tout le ménisque mène à l'arthrose.
+15|McMurray|Tests méniscaux.
+15|entorse|L'entorse du LLI est la plus fréquente.
+15|LLI|Triade : LLI + ménisque + LCA.
+15|LCA|Le LCA fait partie de la triade.
+15|plateau tibial|Le choc en valgus casse le plateau externe.
+15|fixateur externe|Fractures de jambe : clou, plaque ou fixateur.
+15|bassin|Fractures du pied et du bassin.
+16|pH|L'ossification ectopique est favorisée par le pH local, les prostaglandines.
+16|BMP|… et les BMP.
+16|POAN|Après lésion neurologique : POAN.
+16|AINS|Prévention par AINS.
+16|SA|La SA est un facteur de risque d'ossification autour d'une prothèse.
+16|DD|Diagnostic différentiel : sarcome.
+16|biopsie|Pas de biopsie trop tôt (images trompeuses).
+16|ACVR1|Mutation ACVR1 du récepteur des BMP.
+17|biopsie|Biopsie dans un centre spécialisé.
+17|ostéome ostéoïde|Douleur nocturne calmée par l'aspirine.
+17|ostéochondrome|Saillie osseuse près des articulations.
+17|IRM|L'IRM précise l'extension locale.
+17|ostéosarcome|Tumeur maligne la plus fréquente de l'ado, autour du genou.
+17|Ewing|Diaphyse et bassin.
+17|bassin|Le bassin est une localisation fréquente de l'Ewing.
+17|métastases|Après 50 ans, une lésion osseuse est d'abord une métastase ou un myélome.

@@ -1,0 +1,70 @@
+HTA|HyperTension Artérielle
+IRM|Imagerie par Résonance Magnétique
+AVC|Accident Vasculaire Cérébral
+AIT|Accident Ischémique Transitoire
+IDM|Infarctus Du Myocarde
+ECG|ÉlectroCardioGramme
+EEG|ÉlectroEncéphaloGramme
+EMG|ÉlectroMyoGramme
+SNC|Système Nerveux Central
+LCR|Liquide Céphalo-Rachidien
+SEP|Sclérose En Plaques
+SLA|Sclérose Latérale Amyotrophique
+BPCO|BronchoPneumopathie Chronique Obstructive
+ORL|Oto-Rhino-Laryngologie
+USI|Unité de Soins Intensifs
+ATCD|AnTéCéDents
+VIH|Virus de l'Immunodéficience Humaine
+HIV|Human Immunodeficiency Virus (virus de l'immunodéficience humaine)
+EBV|Epstein-Barr Virus (virus d'Epstein-Barr)
+COVID|COronaVIrus Disease (maladie à coronavirus)
+COVID-19|COronaVIrus Disease 2019 (maladie à coronavirus 2019)
+OMS|Organisation Mondiale de la Santé
+ULB|Université Libre de Bruxelles
+NEJM|New England Journal of Medicine
+pH|Potentiel Hydrogène
+O2|Dioxygène
+CO2|Dioxyde de carbone
+NaCl|Chlorure de sodium
+KCl|Chlorure de potassium
+HCO3|Ion bicarbonate (hydrogénocarbonate, HCO3−)
+ATP|Adénosine TriPhosphate
+ADN|Acide DésoxyriboNucléique
+AINS|Anti-Inflammatoires Non Stéroïdiens
+IEC|Inhibiteurs de l'Enzyme de Conversion
+IPP|Inhibiteurs de la Pompe à Protons
+DFG|Débit de Filtration Glomérulaire
+IRC|Insuffisance Rénale Chronique
+IRA|Insuffisance Rénale Aiguë
+DT1|Diabète de Type 1
+DT2|Diabète de Type 2
+HbA1c|Hémoglobine glyquée A1c
+TSH|Thyroid-Stimulating Hormone (thyréostimuline)
+GH|Growth Hormone (hormone de croissance)
+CK|Créatine Kinase
+IgA|Immunoglobuline A
+IgG|Immunoglobuline G
+IgM|Immunoglobuline M
+IgE|Immunoglobuline E
+IgG4|Immunoglobuline G de sous-classe 4
+IL-6|InterLeukine 6
+IL-1|InterLeukine 1
+HLA|Human Leukocyte Antigen (antigènes des leucocytes humains)
+QT|Intervalle entre le début de l'onde Q et la fin de l'onde T (ECG)
+QRS|Complexe des ondes Q, R et S (ECG)
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PET-FDG|Positron Emission Tomography au FluoroDésoxyGlucose (TEP au FDG)
+PET-CT|Positron Emission Tomography couplée à la Computed Tomography (TEP-scanner)
+TNM|Tumor, Nodes, Metastasis (tumeur, ganglions, métastases)
+mUI|Milli-Unités Internationales
+UVB|UltraViolets B
+B12|Vitamine B12 (cobalamine)
+B1|Vitamine B1 (thiamine)
+RX|Rayons X (radiographie)
+MeV|Méga-électronvolt
+keV|Kilo-électronvolt
+IM|IntraMusculaire
+SC|Sous-Cutané
+TA|Tension Artérielle
+PA|Pression Artérielle
+CI|Contre-Indication

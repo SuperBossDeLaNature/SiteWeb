@@ -1,0 +1,299 @@
+0|hirsutisme|Ici, simple mention du plan : l'hirsutisme et le SOPK sont traités dans le chapitre « Gonades ».
+0|SOPK|Le SOPK est rangé dans le chapitre « Gonades », comme dans tes paquets Anki.
+0|TSH|L'adénome hypophysaire qui sécrète de la TSH (très rare) est traité dans le chapitre « Hypophyse ».
+1|TSH|Règle de base : pour dépister un problème de thyroïde, on dose d'abord la TSH seule, c'est le test le plus sensible.
+1|T4|Si la TSH est anormale, on dose la FT4 pour mesurer la sévérité et savoir si l'atteinte est thyroïdienne (TSH et FT4 en sens inverse) ou hypophysaire (même sens).
+1|T3|La FT3 n'est utile que dans certains cas d'hyperthyroïdie (formes à T3) ; elle ne sert pas à suivre une hypothyroïdie.
+1|HT|Avant 12–14 semaines, le fœtus ne fabrique pas ses hormones : il dépend entièrement des hormones thyroïdiennes de sa mère (d'où l'importance de bien traiter une mère hypothyroïdienne).
+1|ATS|Les antithyroïdiens pris par la mère passent le placenta et peuvent freiner la thyroïde du fœtus (goitre, hypothyroïdie fœtale).
+1|TRAb|Les TRAb d'une mère qui a (ou a eu) un Basedow passent le placenta et peuvent stimuler la thyroïde du fœtus.
+1|goitre|Définition chiffrée : on parle de goitre au-delà de 18 ml chez la femme et 20 ml chez l'homme (volume mesuré à l'échographie).
+1|NIS|1re étape de la fabrication des hormones : le NIS fait entrer l'iode dans la cellule thyroïdienne (concentration ×40).
+1|TPO|2e étape : la TPO oxyde l'iode et le fixe sur la thyroglobuline.
+1|thyroglobuline|La thyroglobuline est le « support » sur lequel les hormones sont fabriquées puis stockées dans la colloïde.
+1|MIT|Assemblage : MIT + DIT donne la T3, DIT + DIT donne la T4.
+1|TBG|75 % des hormones thyroïdiennes voyagent accrochées à la TBG ; seule une infime fraction est libre (et active).
+1|DIO1|Les désiodinases DIO1 et DIO2 transforment la T4 (réserve) en T3 (active) dans les tissus.
+1|rT3|La DIO3 fabrique la rT3, une forme inactive : c'est une façon de « freiner » l'effet des hormones.
+1|hypothyroïdie|En carence en iode, la thyroïde grossit pour capter plus (goitre) et peut finir par ne plus produire assez d'hormones.
+1|Wolff-Chaikoff|Un excès d'iode bloque transitoirement la synthèse (effet Wolff-Chaikoff) ; normalement la thyroïde « s'échappe » de ce blocage, sinon hypothyroïdie.
+1|hyperthyroïdie|Sur une thyroïde qui a des zones autonomes, un apport massif d'iode (scanner injecté, amiodarone) les « nourrit » : hyperthyroïdie (effet Jod-Basedow).
+1|I-131|À faible dose, l'iode 131 irradie la thyroïde sans tuer les cellules : il peut favoriser nodules et cancers (comme après Tchernobyl).
+1|nodule|Conséquence d'une irradiation faible de la thyroïde : apparition de nodules et de cancers des années plus tard.
+1|KI|En cas d'accident nucléaire, on donne de l'iodure de potassium pour saturer la thyroïde, qui ne capte alors plus l'iode radioactif.
+1|L-T4|Une patiente sous lévothyroxine qui débute une grossesse ou la pilule a besoin d'augmenter sa dose (la TBG augmente et retient plus d'hormone).
+1|USI|Chez un patient de soins intensifs, les tests thyroïdiens sont faussés par la maladie (T3 basse) : on ne les fait pas.
+1|hypopituitarisme|Une TSH basse sans hyperthyroïdie peut venir d'une hypophyse qui ne fonctionne plus (ou de médicaments comme les corticoïdes).
+1|amiodarone|Devant des tests incohérents, on pense d'abord aux causes simples : prise de lévothyroxine, amiodarone, interférence de dosage.
+1|Basedow|Les TSI (anticorps stimulants) sont spécifiques de la maladie de Basedow.
+1|hCG|Au 1er trimestre, l'hCG très élevée stimule le récepteur de la TSH : la thyroïde produit un peu plus et la TSH baisse (normal).
+1|T1|Ici, T1/T2/T3 = trimestres de grossesse : les normes de TSH sont plus basses au 1er trimestre.
+1|mUI|Les normes de TSH de la femme enceinte sont exprimées en mUI/l (plus basses qu'en dehors de la grossesse).
+1|SA|Une TSH basse à 11 semaines d'aménorrhée chez une femme sans antécédent est due à l'hCG : on ne traite pas.
+1|EU-TIRADS|L'échographie est le 1er examen d'imagerie ; chaque nodule y reçoit un score EU-TIRADS.
+1|Tc99m|La scintigraphie (technétium ou iode 123) sert à trouver la cause d'une hyperthyroïdie ; jamais pendant la grossesse.
+1|VCS|Un gros goitre peut comprimer la veine cave supérieure (visage et cou gonflés) : c'est un des risques de compression.
+1|FA|La fibrillation auriculaire est un signe classique d'hyperthyroïdie, surtout chez l'âgé (parfois le seul).
+1|ostéoporose|L'excès d'hormones thyroïdiennes accélère le remodelage osseux : ostéoporose à long terme.
+1|orbitopathie|L'atteinte des yeux est spécifique du Basedow : elle le distingue des autres hyperthyroïdies.
+1|GMN|Goitre multinodulaire toxique : cause fréquente d'hyperthyroïdie chez la personne âgée, souvent déclenchée par un apport d'iode.
+1|TSHR|Les nodules chauds portent souvent une mutation qui active en permanence le récepteur de la TSH.
+1|De Quervain|Thyroïdite de De Quervain : la thyroïde enflammée « lâche » ses hormones stockées ; scintigraphie blanche (pas de captation).
+1|CRP|La CRP très élevée oriente vers la thyroïdite de De Quervain (inflammatoire).
+1|AINS|De Quervain se traite contre l'inflammation (AINS, parfois corticoïdes) et pas par antithyroïdiens (la thyroïde ne fabrique pas trop, elle se vide).
+1|β-bloquant|Le bêtabloquant calme les symptômes (cœur rapide, tremblements) pendant la phase hyperthyroïdienne.
+1|CI|Dans l'hyperthyroïdie gestationnelle, les antithyroïdiens sont contre-indiqués : elle guérit seule au 2e trimestre.
+1|OR|Le tabac multiplie par 8 environ le risque d'orbitopathie : l'arrêt du tabac fait partie du traitement.
+1|PTU|Le méthimazole est le 1er choix ; le PTU est réservé au 1er trimestre de grossesse et à la crise aiguë, car il est toxique pour le foie.
+1|thyroïdectomie|Même après ablation de la thyroïde, les TRAb peuvent persister chez la mère et stimuler la thyroïde du fœtus.
+1|Hashimoto|Rare : au début d'un Hashimoto, des TRAb peuvent donner une hyperthyroïdie passagère (« hashitoxicose »).
+1|THRB|Résistance aux hormones : le récepteur muté répond mal, donc FT4 haute avec TSH non freinée (comme dans l'adénome à TSH).
+1|CV|Crise thyrotoxique : les signes cardiovasculaires (tachycardie, insuffisance cardiaque) font la gravité.
+1|AR|Dans l'hypothyroïdie congénitale par défaut de fabrication des hormones (dyshormonogenèse), la transmission est autosomique récessive.
+1|J3|Le dépistage néonatal (Guthrie) mesure la TSH à J3–J5 ; on traite avant J17 pour éviter le retard mental.
+1|CPK|Dans l'hypothyroïdie, les muscles souffrent et les CPK montent : à ne pas confondre avec une myopathie.
+1|HAS|Recommandation récente : chez l'âgé, une TSH un peu haute est normale (limite haute ≈ âge/10), on traite moins.
+1|SIADH|Dans le coma myxœdémateux, l'hyponatrémie sévère est due à une rétention d'eau de type SIADH.
+1|hydrocortisone|Dans le coma myxœdémateux, on donne de l'hydrocortisone avec la lévothyroxine, car une insuffisance surrénalienne associée peut décompenser.
+2|nodule|Idée clé : les nodules sont très fréquents ; le bilan vise à trouver les rares cancers sans opérer tout le monde.
+2|CMT|Un parent avec cancer médullaire ou NEM2 augmente le risque : facteur de suspicion pour un nodule.
+2|NEM|Antécédent familial de NEM2 = risque de cancer médullaire héréditaire.
+2|ADP|Un ganglion cervical anormal associé à un nodule est un signe suspect de cancer.
+2|TSH|2e étape du bilan d'un nodule : si la TSH est basse, on fait une scintigraphie pour voir si le nodule est « chaud » (presque toujours bénin).
+2|calcitonine|On ne dose la calcitonine que si le nodule est suspect et opérable ou s'il y a un antécédent de cancer médullaire.
+2|thyroglobuline|La thyroglobuline ne sert pas au diagnostic d'un nodule (elle sert au suivi après cancer).
+2|EU-TIRADS|3e étape : l'échographie classe le nodule selon le score EU-TIRADS.
+2|cytoponction|4e étape : la cytoponction, sans anesthésie, analyse les cellules du nodule.
+2|Bethesda|Le résultat de la ponction est rendu selon la classification de Bethesda (I à VI).
+2|NGS|Pour les résultats indéterminés (Bethesda III–IV), l'analyse génétique du prélèvement aide à décider s'il faut opérer.
+2|BRAF|Une mutation BRAF dans le prélèvement signe presque à coup sûr un cancer papillaire.
+2|TERT|Une mutation TERT indique un cancer plus agressif.
+2|RET|Fusion RET/PTC : anomalie génétique typique du cancer papillaire.
+2|PTC|PTC = carcinome papillaire de la thyroïde (dans « RET/PTC », fusion de gènes du cancer papillaire).
+2|NTRK|Fusion NTRK : anomalie rare mais ciblable par des médicaments.
+2|I-131|Un nodule chaud gênant peut être traité par iode 131 sans chirurgie.
+2|L-T4|On ne donne plus de lévothyroxine pour faire diminuer un nodule : l'effet est faible et les risques (cœur, os) réels.
+2|FA|Freiner la TSH avec de la lévothyroxine expose à la fibrillation auriculaire.
+2|ostéoporose|Freiner la TSH au long cours fragilise les os (ostéoporose), surtout après la ménopause.
+2|thyroïdectomie|Si le nodule est malin, on retire toute la thyroïde (± les ganglions) ; s'il est seulement suspect, un lobe peut suffire.
+2|ACE|Dans le cancer médullaire, on suit la calcitonine et l'ACE pour détecter une récidive.
+2|ITK|Pour le médullaire, qui ne capte pas l'iode, on utilise des ITK ciblant RET ou VEGF.
+2|VEGF|Bloquer le VEGF prive la tumeur de nouveaux vaisseaux.
+2|TNM|Le stade T du cancer thyroïdien dépend surtout de la taille de la tumeur.
+2|T4|Attention : ici « T4 » est le stade TNM (tumeur qui envahit les tissus autour), pas la thyroxine.
+2|HT|Pour que l'iode 131 soit capté, la TSH doit être haute : soit on arrête les hormones thyroïdiennes 4–5 semaines, soit on injecte de la TSH recombinante.
+2|CT|Si la thyroglobuline monte mais que la scintigraphie à l'iode ne montre rien, le cancer a perdu sa capacité à capter l'iode : on le cherche au scanner.
+2|PET|Un cancer qui fixe le FDG au PET est plus agressif et ne répondra pas à l'iode : mauvais pronostic.
+3|ADH|La post-hypophyse ne fabrique rien : elle stocke l'ADH et l'ocytocine produites par l'hypothalamus.
+3|IRM|À l'IRM, la post-hypophyse normale apparaît blanche spontanément (« tache blanche ») grâce aux hormones stockées ; elle disparaît dans le diabète insipide central.
+3|T1|Séquence T1 de l'IRM, où la post-hypophyse normale est spontanément en hypersignal.
+3|CRH|Axe corticotrope : la CRH de l'hypothalamus stimule l'ACTH de l'hypophyse.
+3|ACTH|L'ACTH commande les surrénales, qui fabriquent le cortisol.
+3|cortisol|Le cortisol est l'hormone finale de l'axe corticotrope ; il freine en retour CRH et ACTH.
+3|TRH|Axe thyréotrope : la TRH stimule la TSH, la somatostatine la freine.
+3|TSH|La TSH commande la thyroïde, qui fabrique T4 et T3.
+3|T4|La T4 est l'hormone finale de l'axe thyréotrope (avec la T3) ; elle freine en retour la TSH.
+3|T3|La T3 est la forme active de l'hormone thyroïdienne en bout d'axe.
+3|GnRH|Axe gonadotrope : la GnRH, sécrétée par pulses, stimule LH et FSH.
+3|LH|LH et FSH commandent les gonades, qui fabriquent les stéroïdes sexuels (testostérone, œstradiol).
+3|GHRH|Axe somatotrope : la GHRH stimule la GH, la somatostatine la freine.
+3|GH|La GH agit surtout en faisant produire de l'IGF-1 par le foie.
+3|IGF-1|L'IGF-1 est le médiateur des effets de la GH (croissance) et freine en retour la GH.
+3|PRL|Axe lactotrope : la prolactine est la seule hormone surtout freinée (par la dopamine) ; si la tige hypophysaire est coupée, elle monte.
+3|D2|Le dérèglement de l'horloge biologique (travail de nuit, écrans le soir) favorise obésité, diabète de type 2 et HTA.
+3|HTA|L'horloge biologique perturbée favorise aussi l'hypertension.
+3|incidentalome|Un adénome hypophysaire peut être découvert par hasard sur une IRM faite pour autre chose (incidentalome hypophysaire).
+3|hémianopsie bitemporale|Un macroadénome qui monte comprime le chiasma : perte de la vision des côtés, souvent sans que le patient le remarque (acuité normale).
+3|apoplexie|L'apoplexie survient sur un macroadénome qui saigne : céphalée brutale, paralysie oculaire, risque d'insuffisance surrénalienne aiguë.
+3|hydrocortisone|Dans l'apoplexie, on donne de l'hydrocortisone en urgence car l'ACTH peut s'effondrer brutalement.
+3|prolactinome|Le prolactinome est l'adénome hypophysaire le plus fréquent (près de 60 %).
+3|NEM|La NEM1 peut comporter un adénome hypophysaire : on y pense chez un patient jeune.
+3|McCune|McCune-Albright peut donner un adénome à GH (et PRL) dès l'enfance.
+3|FIPA|Les adénomes familiaux isolés (souvent mutation AIP) touchent des sujets jeunes, avec des adénomes à GH agressifs.
+3|hypothyroïdie|Une hypothyroïdie primaire fait monter la TRH, qui stimule aussi la prolactine : cause d'hyperprolactinémie à éliminer.
+3|SOPK|Le SOPK s'accompagne parfois d'une prolactine un peu élevée : à éliminer avant de conclure à un prolactinome.
+3|aménorrhée|Chez la femme, l'excès de prolactine bloque l'axe gonadotrope : règles absentes, d'où un diagnostic rapide.
+3|ostéoporose|Une hyperprolactinémie qui dure bloque les hormones sexuelles, d'où une ostéoporose.
+3|cabergoline|Le prolactinome se traite d'abord par médicament (cabergoline), qui normalise la prolactine et réduit l'adénome dans la grande majorité des cas.
+3|AD|Les agonistes dopaminergiques font baisser la prolactine même quand elle est due à une compression de la tige (« déconnexion »), mais sans réduire la tumeur responsable.
+3|CV|Pendant la grossesse d'une patiente avec prolactinome, on surveille le champ visuel tous les 3 mois (l'adénome peut grossir).
+3|hypercalcémie|Chez un patient acromégale, une hypercalcémie doit faire penser à une NEM1 (hyperparathyroïdie associée).
+3|HGPO|Confirmation de l'acromégalie : pendant l'HGPO, la GH ne descend pas sous 0,4 ng/ml.
+3|HT|L'adénome à TSH se distingue de la résistance aux hormones thyroïdiennes, qui donne le même profil biologique (FT4 haute, TSH non freinée).
+3|SST|Les analogues de la somatostatine freinent la sécrétion de TSH par l'adénome.
+3|DI|Après chirurgie de l'hypophyse, un diabète insipide est fréquent (souvent transitoire) : on surveille diurèse et sodium.
+3|SIADH|Après chirurgie hypophysaire, une SIADH peut suivre (vers J7) : hyponatrémie retardée.
+3|LCR|Un écoulement clair par le nez après chirurgie transsphénoïdale = fuite de LCR (glucose positif à la bandelette) : risque de méningite.
+3|hypopituitarisme|La chirurgie peut abîmer l'hypophyse saine : insuffisance hypophysaire à rechercher.
+3|Sheehan|Le syndrome de Sheehan est une cause d'insuffisance hypophysaire après un accouchement hémorragique.
+3|HypoNa|Dans l'insuffisance corticotrope (ACTH basse), on a une hyponatrémie mais pas d'hyperkaliémie, car l'aldostérone (réglée par la rénine) reste normale.
+3|mélanodermie|Pas de mélanodermie dans l'insuffisance corticotrope : l'ACTH est basse (contrairement à l'Addison).
+3|L-T4|En cas d'hypothyroïdie centrale, on ajuste la lévothyroxine sur la FT4, car la TSH n'est plus interprétable.
+3|LDL|Le déficit en GH de l'adulte augmente la graisse abdominale et le LDL.
+3|CI|On ne donne pas de GH si un cancer est actif (elle stimule la croissance cellulaire).
+3|Synacthen|Le test au Synacthen peut être faussement normal si le déficit en ACTH est récent (les surrénales n'ont pas encore eu le temps de s'atrophier).
+3|V2|L'ADH agit sur le rein via le récepteur V2, qui fait insérer des aquaporines 2 pour réabsorber l'eau.
+4|aldostérone|La zone glomérulée (couche externe) fabrique l'aldostérone, réglée par le SRAA et le potassium.
+4|SRAA|La sécrétion d'aldostérone dépend surtout du SRAA, pas de l'ACTH.
+4|cortisol|La zone fasciculée fabrique le cortisol sous le contrôle de l'ACTH.
+4|ACTH|L'ACTH commande surtout le cortisol (et les androgènes surrénaliens).
+4|DHEA|La zone réticulée fabrique des précurseurs d'androgènes (DHEA, androstènedione).
+4|HAP|Dans l'hyperaldostéronisme primaire, l'aldostérone est fabriquée de façon autonome, donc la rénine est freinée (basse).
+4|rénine|Rénine basse = l'excès d'aldostérone vient de la surrénale ; rénine haute = l'aldostérone est stimulée (hyperaldostéronisme secondaire).
+4|HTA|L'hyperaldostéronisme primaire est la 1re cause endocrine d'HTA (8–10 % des hypertendus).
+4|CV|L'excès d'aldostérone abîme le cœur et les vaisseaux au-delà de l'effet de la tension.
+4|TA|Le risque cardiovasculaire est augmenté même à tension égale (effet propre de l'aldostérone).
+4|hyperaldostéronisme|L'adénome de Conn ne représente qu'environ un tiers des cas ; la majorité sont des hyperplasies bilatérales.
+4|incidentalome|Un hypertendu avec une masse surrénalienne découverte par hasard doit être dépisté pour l'hyperaldostéronisme.
+4|spironolactone|La spironolactone fausse le rapport aldostérone/rénine : on l'arrête 6 semaines avant le dépistage.
+4|β-bloquant|Les bêtabloquants baissent la rénine et faussent le test : arrêt 2 semaines avant.
+4|IEC|Les IEC et sartans augmentent la rénine (faux négatifs) : arrêt 2 semaines avant le dosage.
+4|NaCl|Test de confirmation : on perfuse 2 litres de sérum salé ; normalement l'aldostérone s'effondre, sinon hyperaldostéronisme primaire.
+4|cathétérisme des veines surrénales|Avant d'opérer, il faut prouver par cathétérisme de quel côté vient l'aldostérone.
+4|nodule|Voir un nodule au scanner ne prouve pas qu'il sécrète : beaucoup de gens ont un adénome non sécrétant.
+4|CBG|La majorité du cortisol est liée à la CBG ; sous pilule, la CBG augmente et le cortisol total paraît élevé sans excès réel.
+4|Cushing|La maladie de Cushing (adénome hypophysaire à ACTH) est la cause la plus fréquente de Cushing non médicamenteux.
+4|ostéoporose|L'excès de cortisol détruit l'os : l'ostéoporose fait partie des signes du Cushing.
+4|hirsutisme|Dans le Cushing, l'excès d'androgènes surrénaliens donne un hirsutisme.
+4|aménorrhée|L'excès de cortisol bloque l'axe gonadotrope : règles qui s'arrêtent.
+4|IRM|Si l'ACTH est normale ou haute (Cushing ACTH-dépendant), on cherche un adénome par IRM de l'hypophyse.
+4|CRH|Un adénome hypophysaire répond encore à la CRH (l'ACTH monte), alors qu'une sécrétion ectopique (cancer) n'y répond pas.
+4|CT|Si on suspecte une sécrétion ectopique d'ACTH, on cherche la tumeur (souvent pulmonaire) au scanner thoraco-abdominal.
+4|hydrocortisone|Après guérison d'un Cushing, l'axe reste endormi des mois : il faut donner de l'hydrocortisone en attendant qu'il se réveille.
+4|21-hydroxylase|Le déficit en 21-hydroxylase bloque la fabrication du cortisol ; la 17-OH-progestérone s'accumule et part vers les androgènes.
+4|Synacthen|Pour la forme non classique, si la 17-OHP de base est intermédiaire, on stimule par Synacthen : une 17-OHP > 10 ng/ml confirme.
+4|CYP21A2|On confirme le déficit par la génétique du gène CYP21A2 (utile aussi pour le conseil génétique).
+4|phéochromocytome|Phéochromocytome = paragangliome situé dans la surrénale.
+4|PGL|Les paragangliomes hors de la surrénale peuvent être sympathiques (abdomen, sécrétants) ou parasympathiques (tête et cou, rarement sécrétants).
+4|SDHx|Les mutations SDHx sont la cause génétique la plus fréquente : un bilan génétique est proposé à tous les patients.
+4|VHL|La maladie de von Hippel-Lindau est une des prédispositions génétiques au phéochromocytome.
+4|NF1|La neurofibromatose de type 1 prédispose aussi au phéochromocytome.
+4|RET|Une mutation RET (NEM2) associe phéochromocytome et cancer médullaire de la thyroïde.
+4|métanéphrines|Le diagnostic biologique repose sur les métanéphrines (urinaires ou plasmatiques), au moins 2 fois la normale.
+4|IMAO|Certains médicaments (antidépresseurs comme les IMAO) font monter les métanéphrines : faux positifs.
+4|UH|Au scanner, le phéochromocytome est dense (> 20 UH) car pauvre en graisse, contrairement à l'adénome bénin.
+4|T1|Ici « T2 » = séquence IRM : le phéochromocytome y est très blanc (hypersignal T2).
+4|α-bloquants|Avant l'opération, on bloque les récepteurs alpha pendant 1–2 semaines pour éviter une crise hypertensive quand le chirurgien manipule la tumeur.
+4|MIBG|Les formes métastatiques peuvent être traitées par MIBG radioactive (radiothérapie interne) si elles la captent.
+4|PET|Devant une masse surrénalienne douteuse, une absence de fixation au PET-FDG est rassurante (bénin).
+4|VPN|La valeur prédictive négative du PET-FDG est proche de 100 % : s'il ne fixe pas, c'est bénin.
+4|DXM|Pour savoir si un incidentalome sécrète du cortisol, on fait un freinage à 1 mg de dexaméthasone : le cortisol doit s'effondrer.
+4|IS|Insuffisance surrénalienne primaire (surrénale détruite) vs secondaire/tertiaire (hypophyse ou hypothalamus).
+4|Addison|La maladie d'Addison est l'insuffisance surrénalienne primaire, surtout auto-immune chez l'adulte.
+4|HCS|Chez l'enfant, l'insuffisance surrénalienne primaire est surtout due à l'hyperplasie congénitale des surrénales.
+4|VIH|Le VIH (infections opportunistes) peut détruire les surrénales.
+4|Sheehan|Le syndrome de Sheehan donne une insuffisance surrénalienne secondaire (manque d'ACTH).
+4|mélanodermie|Dans l'insuffisance primaire, l'ACTH (et la MSH) est très haute : la peau brunit ; dans la secondaire, le patient est pâle.
+4|POMC|L'ACTH et la MSH viennent du même précurseur (POMC) : quand l'un monte, l'autre aussi.
+4|HypoNa|Dans l'insuffisance primaire, le manque d'aldostérone donne hyponatrémie + hyperkaliémie.
+4|SIADH|Dans l'insuffisance secondaire, l'hyponatrémie vient d'une sécrétion d'ADH mal freinée (pas de manque d'aldostérone), donc sans hyperkaliémie.
+4|fludrocortisone|L'insuffisance primaire demande aussi de la fludrocortisone pour remplacer l'aldostérone.
+4|hypercalcémie|Dans la crise surrénalienne, on peut trouver une hypercalcémie (déshydratation).
+4|IM|En cas de vomissements, le patient doit s'injecter l'hydrocortisone en IM ou SC (il ne peut plus l'absorber par la bouche).
+4|SC|L'hydrocortisone peut s'injecter sous la peau quand le patient vomit.
+5|LH|LH/FSH hautes = les gonades ne répondent plus (hypogonadisme primaire) ; basses ou normales = le problème est en haut (hypothalamus, hypophyse).
+5|SRY|Le gène SRY du chromosome Y oriente la gonade vers le testicule : c'est le point de départ de la différenciation masculine.
+5|AMH|L'AMH des cellules de Sertoli fait régresser les canaux de Müller : pas d'utérus chez le garçon.
+5|DHT|La DHT masculinise les organes génitaux externes (pénis, scrotum).
+5|XY|Insensibilité aux androgènes : caryotype XY, testicules présents mais aspect externe féminin ; pas d'utérus car l'AMH agit quand même.
+5|HCS|Une fille XX exposée à trop d'androgènes (hyperplasie congénitale des surrénales) naît avec des organes génitaux ambigus.
+5|DHEA|Chez la femme, une bonne part des androgènes vient des surrénales sous forme faible (DHEA), transformée dans les tissus.
+5|CBG|La progestérone voyage liée à l'albumine et à la CBG.
+5|SHBG|Œstradiol et testostérone voyagent liés à la SHBG : seule la fraction libre agit.
+5|GnRH|Les neurones à GnRH ne « voient » pas directement les hormones sexuelles : ils sont réglés par les neurones KNDy.
+5|KNDy|Les neurones KNDy (kisspeptine) sont le « déclencheur » de la puberté.
+5|PRL|Un excès de prolactine bloque la GnRH (d'où aménorrhée, baisse de libido).
+5|cortisol|Un excès de cortisol (stress, Cushing) freine l'axe gonadotrope.
+5|M2|Chez la fille, le 1er signe de puberté est le bourgeon mammaire (stade M2) vers 11 ans ; chez le garçon, l'augmentation des testicules (G2).
+5|ostéoporose|Le manque d'hormones sexuelles fragilise les os : ostéoporose dans tout hypogonadisme prolongé.
+5|aménorrhée|Chez la femme, l'hypogonadisme se manifeste par l'absence de règles.
+5|IRM|Absence de puberté avec LH/FSH basses : on cherche une lésion de l'hypophyse ou de l'hypothalamus à l'IRM.
+5|HHC|Aménorrhée hypothalamique fonctionnelle : l'hypothalamus coupe l'axe quand l'énergie manque (sport intense, maigreur, stress) ; l'IRM est normale.
+5|Turner|Le syndrome de Turner est une cause d'insuffisance ovarienne (hypogonadisme primaire).
+5|Klinefelter|Le Klinefelter est la cause la plus fréquente d'hypogonadisme primaire chez l'homme.
+5|prolactinome|Le prolactinome est une cause classique d'hypogonadisme secondaire.
+5|hypopituitarisme|Toute cause d'insuffisance hypophysaire peut supprimer LH et FSH.
+5|Kallmann|Le Kallmann donne un hypogonadisme secondaire congénital (pas de puberté) avec anosmie.
+5|SHOX|Turner : une seule copie de SHOX explique la petite taille (≈ 145 cm) ; Klinefelter : trois copies, d'où la grande taille.
+5|GH|Dans le Turner, la GH à forte dose fait gagner quelques centimètres alors qu'il n'y a pas de déficit en GH.
+5|QT|Le syndrome de Turner peut s'accompagner d'un QT long (risque d'arythmie, attention aux médicaments).
+5|TA|Chez une femme Turner, l'aorte est fragile : on vise une tension ≤ 135/85 et on fait une IRM cardiaque avant toute grossesse.
+5|TESE-ICSI|Chez l'homme Klinefelter, on peut parfois trouver des spermatozoïdes dans le testicule (TESE) pour une ICSI : ≈ 30 % de réussite.
+5|spironolactone|La spironolactone (effet anti-androgène) peut faire pousser les seins chez l'homme : cause médicamenteuse de gynécomastie.
+5|hyperthyroïdie|L'hyperthyroïdie augmente les œstrogènes libres et peut donner une gynécomastie.
+5|IRC|L'insuffisance rénale chronique est une cause de gynécomastie.
+5|TSH|Dans le bilan d'une gynécomastie, on dose la TSH pour chercher une hyperthyroïdie.
+5|hCG|Une hCG élevée chez un homme avec gynécomastie fait chercher une tumeur du testicule (ou une tumeur ailleurs si l'échographie est normale).
+5|hirsutisme|Définition : poils épais dans des zones masculines ; à distinguer de l'hypertrichose (simple excès de poils dans des zones normales).
+5|SOPK|Le SOPK explique ≈ 85 % des hirsutismes.
+5|HAIR-AN|Le HAIR-AN associe hirsutisme, forte insulinorésistance et taches brunes veloutées des plis (acanthosis).
+5|Cushing|Si l'hirsutisme s'accompagne de signes de Cushing, l'origine est surrénalienne.
+5|FG|On dose la testostérone si l'hirsutisme est marqué (score de Ferriman-Gallwey > 15) ou s'il y a des signes associés.
+5|CT|Testostérone très haute + DHEAS très élevé = tumeur de la surrénale : on la cherche au scanner.
+5|Synacthen|Si la 17-OHP de base est un peu haute, le test au Synacthen confirme ou exclut l'HCS non classique.
+5|ESHRE|Critères européens actuels du SOPK : 2 sur 3 parmi hyperandrogénie, troubles de l'ovulation, ovaires multifolliculaires (ou AMH haute).
+5|D2|Les femmes avec SOPK ont un risque augmenté de diabète de type 2 (insulinorésistance) : dépistage régulier.
+5|CV|Le SOPK augmente le risque cardiovasculaire (syndrome métabolique associé).
+6|PTH|La PTH et la vitamine D augmentent le calcium ; devant une hypercalcémie, le dosage de la PTH oriente tout le diagnostic.
+6|vitamine D|La vitamine D augmente le calcium en le faisant absorber par l'intestin.
+6|hypercalcémie|Règle : PTH > 20 ng/l avec un calcium haut = cause parathyroïdienne ; PTH < 20 = autre cause (cancer surtout).
+6|calcitonine|Les cellules C qui fabriquent la calcitonine viennent des crêtes neurales (et non des poches pharyngiennes comme les parathyroïdes).
+6|CYP27B1|La PTH active l'enzyme du rein qui fabrique la vitamine D active : effet indirect sur l'absorption du calcium.
+6|CaSR|Le CaSR mesure le calcium et règle la PTH : petite variation de calcium = grosse variation de PTH.
+6|D3|La vitamine D3 vient de la peau exposée au soleil (UVB) ou de l'alimentation.
+6|UVB|Les UVB du soleil transforment un précurseur de la peau en vitamine D3 ; peu de soleil ou peau foncée = risque de carence.
+6|DBP|Dans le sang, la vitamine D voyage accrochée à la DBP.
+6|25-OH-D|C'est la 25-OH-D (réserve) qu'on dose pour savoir si quelqu'un manque de vitamine D, pas la forme active.
+6|calcitriol|La forme active (calcitriol) est fabriquée par le rein ; on ne la dose que dans des cas particuliers.
+6|IR|En insuffisance rénale, le rein ne fabrique plus assez de vitamine D active.
+6|HPT|Une carence en vitamine D fait baisser le calcium, ce qui stimule la PTH : hyperparathyroïdie secondaire.
+6|ostéoporose|Une carence modérée et prolongée en vitamine D contribue à l'ostéoporose.
+6|HHF|L'HHF fait partie des hypercalcémies avec PTH non freinée ; une calciurie basse permet de la distinguer de l'hyperparathyroïdie primaire.
+6|NEM|Une hyperparathyroïdie peut révéler une NEM (surtout NEM1).
+6|PTHrp|Les cancers peuvent sécréter de la PTHrp, qui fait monter le calcium alors que la vraie PTH est effondrée.
+6|hyperthyroïdie|L'hyperthyroïdie accélère la résorption osseuse et peut donner une hypercalcémie modérée.
+6|CV|En hypercalcémie sévère, on réhydrate au sérum salé en adaptant le volume à l'état du cœur.
+6|NEM2A|Les formes familiales d'hyperparathyroïdie incluent la NEM1 et la NEM2A.
+6|MIBI|Avant d'opérer, on localise l'adénome parathyroïdien par échographie + scintigraphie au MIBI (ou PET-fluorocholine).
+6|Tc99m|La scintigraphie à l'iode 123 aide à séparer ce qui est thyroïdien de ce qui est parathyroïdien.
+6|PET|Le PET à la fluorocholine localise très bien les adénomes parathyroïdiens et remplace peu à peu la scintigraphie.
+6|hypocalcémie|Après ablation d'un adénome, le calcium peut chuter (les autres glandes étaient « endormies ») : on le surveille.
+6|cinacalcet|Si on ne peut pas opérer une hyperparathyroïdie, le cinacalcet fait baisser la PTH et le calcium.
+6|IRC|L'insuffisance rénale chronique est une cause majeure d'hyperparathyroïdie secondaire (manque de vitamine D active, phosphate retenu).
+6|Chvostek|Le signe de Chvostek fait partie des signes d'hypocalcémie à chercher à l'examen.
+6|QT|L'hypocalcémie allonge le QT à l'ECG.
+6|thyroïdectomie|Une hypoparathyroïdie est une complication de la thyroïdectomie (parathyroïdes enlevées ou mal vascularisées).
+6|L-T4|Après thyroïdectomie avec hypoparathyroïdie, il faut à la fois de la lévothyroxine, du calcium et de la vitamine D active.
+7|NEM|Les NEM sont des prédispositions génétiques à plusieurs tumeurs endocrines.
+7|polyendocrinopathies auto-immunes|Les APS sont l'autre grande famille : plusieurs glandes attaquées par l'auto-immunité.
+7|NEM2A|NEM2A : cancer médullaire (quasi constant), phéochromocytome, hyperparathyroïdie.
+7|RET|La NEM2 est due à une mutation qui active RET ; la NEM1 à l'inactivation du gène MEN1.
+7|TNE|Dans la NEM1, des tumeurs neuroendocrines du pancréas ou du duodénum (gastrinome, insulinome) sont fréquentes.
+7|adénome hypophysaire|La NEM1 comprend un adénome hypophysaire, souvent un prolactinome.
+7|prolactinome|Dans la NEM1, le prolactinome est plus souvent gros et invasif que d'habitude.
+7|CMT|Dans la NEM2, le cancer médullaire est présent dans presque 100 % des cas.
+7|phéochromocytome|La NEM2 comprend un phéochromocytome : à chercher avant toute chirurgie de la thyroïde.
+7|HPT|La NEM2A comprend aussi une hyperparathyroïdie.
+7|thyroïdectomie|Chez les porteurs d'une mutation RET, on enlève la thyroïde préventivement, parfois avant 1 an selon la mutation.
+7|hypercalcémie|Une hypercalcémie chez un acromégale fait chercher une NEM1.
+7|PTC|Erreur de la fiche : PTC désigne le carcinome papillaire, pas le médullaire.
+7|MTC|Le cancer médullaire s'abrège MTC (ou CMT en français).
+7|CDKN1B|La NEM4, due au gène CDKN1B, ressemble à la NEM1.
+7|VHL|La maladie de VHL associe phéochromocytome, tumeurs du pancréas, cancer du rein et hémangioblastomes.
+7|NF1|La NF1 associe phéochromocytome et signes cutanés (taches café au lait, neurofibromes).
+7|GH|Le complexe de Carney peut donner une hypersécrétion de GH.
+7|PRL|Le complexe de Carney peut aussi donner une hypersécrétion de prolactine.
+7|McCune|McCune-Albright n'est pas héréditaire : la mutation survient après la fécondation (mosaïque).
+7|FIPA|Les adénomes hypophysaires familiaux isolés sont souvent dus à une mutation AIP et touchent des jeunes.
+7|PGL|Les paragangliomes héréditaires sont souvent multiples.
+7|SDHx|Les gènes SDHx sont responsables des paragangliomes héréditaires ; SDHB donne le plus de formes malignes.
+7|APS3|APS3 = thyroïdite auto-immune + autre maladie auto-immune, sans Addison.
+7|Addison|L'Addison fait partie de l'APS1 et de l'APS2.
+7|AI|AI = auto-immun.
+7|DT1|Le diabète de type 1 fait partie de l'APS2.
+7|HLA|L'APS2 est polygénique, liée au système HLA (contrairement à l'APS1, liée au gène AIRE).
+7|HT|Chez un Addisonien non traité, donner des hormones thyroïdiennes en premier accélère la dégradation du cortisol et peut déclencher une crise surrénalienne : toujours l'hydrocortisone d'abord.
+7|hydrocortisone|Règle de sécurité : on commence toujours par l'hydrocortisone avant la lévothyroxine.
+7|insuffisance surrénalienne aiguë|C'est le risque si on corrige la thyroïde avant les surrénales : crise surrénalienne.
+7|Basedow|Cas clinique : un Basedow chez un jeune homme, suivi d'autres maladies auto-immunes (Addison, diabète) : c'est une APS.
+7|acidocétose|Devant une glycémie très élevée chez ce patient, on exclut d'abord une acidocétose (diabète de type 1 révélé).

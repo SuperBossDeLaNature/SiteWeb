@@ -1,92 +1,188 @@
-IRC|Insuffisance rénale chronique : baisse durable du DFG (< 60 ml/min pendant > 3 mois) ou marqueurs d'atteinte rénale.|Insuffisance rénale chronique
-DFG|Débit de filtration glomérulaire : volume de plasma filtré par les reins par minute (normal ≈ 90–120 ml/min/1,73 m²). Estimé à partir de la créatinine.|Débit de filtration glomérulaire
-HTA|Hypertension artérielle : cause et conséquence fréquente des maladies rénales.|Hypertension artérielle
-IEC|Inhibiteurs de l'enzyme de conversion : baissent la tension et la protéinurie, protègent le rein.|Inhibiteur de l'enzyme de conversion
-ARA2|Antagonistes des récepteurs de l'angiotensine II (sartans) : même rôle que les IEC, sans toux.|Antagoniste des récepteurs de l'angiotensine II
-IRA|Insuffisance rénale aiguë : chute rapide de la fonction rénale (heures à jours) : pré-rénale, rénale ou post-rénale (obstacle).|Insuffisance rénale aiguë
-AINS|Anti-inflammatoires non stéroïdiens : réduisent le débit rénal ; dangereux chez l'insuffisant rénal ou déshydraté.|Anti-inflammatoire non stéroïdien
-PTH|Parathormone : hormone qui augmente le calcium sanguin. Elle s'élève dans l'IRC (hyperparathyroïdie secondaire).|Parathormone
-SN;syndrome néphrotique|Syndrome néphrotique : protéinurie > 3 g/j, albumine < 30 g/l, œdèmes. Les glomérules laissent fuir les protéines.|Syndrome néphrotique
-syndrome néphritique|Hématurie, HTA, œdèmes et baisse du DFG par inflammation des glomérules.|Syndrome néphritique
-IRT|Insuffisance rénale terminale : DFG < 15 ; il faut dialyser ou greffer.|
-ADH|Hormone antidiurétique (vasopressine) : fait réabsorber l'eau au rein via les aquaporines 2.|Hormone antidiurétique
-MBG;anti-MBG|Membrane basale glomérulaire ; les anticorps anti-MBG causent le syndrome de Goodpasture (rein + poumon).|Membrane basale glomérulaire
-ATR|Acidose tubulaire rénale : le tubule ne sait pas éliminer les acides ou garder les bicarbonates (acidose à trou anionique normal).|Acidose tubulaire rénale
-TCD|Tube contourné distal : segment du néphron où agissent les thiazides (cotransporteur Na-Cl).|Tube contourné distal
-GN;glomérulonéphrite|Glomérulonéphrite : inflammation des glomérules (IgA, lupus, ANCA…).|Glomérulonéphrite
-PNA|Pyélonéphrite aiguë : infection du rein.|Pyélonéphrite
-OAP|Œdème aigu du poumon : liquide dans les alvéoles (surcharge, insuffisance cardiaque).|Œdème aigu du poumon
-SHU|Syndrome hémolytique et urémique : anémie hémolytique + plaquettes basses + insuffisance rénale (souvent E. coli O157:H7 chez l'enfant).|Syndrome hémolytique et urémique
-FSGS;HSF|Hyalinose segmentaire et focale : lésion d'une partie de certains glomérules ; syndrome néphrotique souvent résistant, récidive sur le greffon.|Hyalinose segmentaire et focale
-PKD1;PKD2;ADPKD|Polykystose rénale autosomique dominante (gènes PKD1/PKD2) : reins remplis de kystes qui grossissent, IRT vers 50–60 ans.|Polykystose rénale
-ANCA|Anticorps anti-cytoplasme des polynucléaires : marqueurs des vascularites des petits vaisseaux (glomérulonéphrite rapide).|Anticorps anticytoplasme des polynucléaires neutrophiles
-DI;diabète insipide|Diabète insipide : urines abondantes et diluées par manque d'ADH (central) ou insensibilité du rein (néphrogénique).|Diabète insipide
-SIADH|Sécrétion inappropriée d'ADH : le corps retient trop d'eau → hyponatrémie avec volémie normale.|Syndrome de sécrétion inappropriée d'hormone antidiurétique
-ROMK|Canal potassique de l'anse et du tube collecteur qui sécrète le K+ dans l'urine.|
-SRAA|Système rénine-angiotensine-aldostérone : hormones qui retiennent le sel et augmentent la tension.|Système rénine-angiotensine-aldostérone
-EPO|Érythropoïétine : hormone du rein qui stimule les globules rouges. Manque dans l'IRC (anémie).|Érythropoïétine
-DDAVP;desmopressine|Desmopressine : ADH de synthèse, traitement du diabète insipide central.|Desmopressine
-AQP2;aquaporines 2|Aquaporines 2 : canaux à eau du tube collecteur, insérés sous l'effet de l'ADH.|Aquaporine 2
-FGF23|Hormone de l'os qui fait éliminer le phosphate ; augmente tôt dans l'IRC.|FGF23
-CKD-EPI|Formule qui estime le DFG à partir de la créatinine, de l'âge et du sexe.|
-KDIGO|Recommandations internationales sur les maladies rénales (classification G1–G5 / A1–A3).|
-FAV|Fistule artério-veineuse : raccordement d'une artère et d'une veine au bras, pour avoir un bon accès d'hémodialyse.|Fistule artério-veineuse
-HLA|Antigènes des globules blancs qui doivent être compatibles entre donneur et receveur de greffe.|Antigène des leucocytes humains
-DSA|Anticorps spécifiques du donneur : anticorps du receveur contre les HLA du greffon, cause de rejet humoral.|
-CNI|Inhibiteurs de la calcineurine (tacrolimus, ciclosporine) : immunosuppresseurs de base de la greffe, néphrotoxiques.|Inhibiteur de la calcineurine
-ADAMTS13|Enzyme qui coupe le facteur von Willebrand ; son déficit donne le PTT (purpura thrombotique thrombocytopénique).|ADAMTS13
-CAKUT|Malformations congénitales des reins et des voies urinaires : 1re cause d'IRC chez l'enfant.|
-Alport;COL4A3;COL4A5|Syndrome d'Alport : collagène IV anormal de la membrane basale → hématurie, IRC, surdité et atteinte oculaire.|Syndrome d'Alport
-ECBU|Examen cytobactériologique des urines.|Examen cytobactériologique des urines
-néphron|Unité fonctionnelle du rein : glomérule (filtre) + tubule (réabsorbe et sécrète). Environ 1 million par rein.|Néphron
-glomérule|Pelote de capillaires qui filtre le sang pour former l'urine primitive.|Glomérule rénal
-podocytes;pédicelles|Cellules du glomérule dont les « pieds » (pédicelles) forment le filtre ; leur effacement donne une protéinurie.|Podocyte
-anse de Henlé|Segment en U du tubule qui concentre l'urine ; site d'action du furosémide.|Anse de Henlé
-macula densa|Cellules du tubule distal qui détectent le sel et règlent le débit du glomérule (rétrocontrôle).|Macula densa
-créatinine|Déchet des muscles éliminé par le rein ; son taux sanguin sert à estimer le DFG.|Créatinine
-clairance|Volume de plasma épuré d'une substance par minute.|Clairance
-protéinurie|Protéines dans les urines ; marque une atteinte du glomérule et un risque de progression.|Protéinurie
-albuminurie|Albumine dans les urines ; marqueur précoce de néphropathie diabétique.|Albuminurie
-hématurie|Sang dans les urines.|Hématurie
-hyponatrémie|Sodium sanguin < 135 mmol/l, presque toujours par excès d'eau. À corriger lentement (risque de myélinolyse).|Hyponatrémie
-hypernatrémie|Sodium > 145 mmol/l : manque d'eau (soif non satisfaite).|Hypernatrémie
-myélinolyse;démyélinisation osmotique|Lésion du pont cérébral par correction trop rapide d'une hyponatrémie chronique.|Myélinolyse centropontine
-hypokaliémie|Potassium < 3,5 mmol/l : faiblesse, crampes, troubles du rythme.|Hypokaliémie
-hyperkaliémie|Potassium > 5 mmol/l : risque d'arrêt cardiaque (ondes T pointues). Urgence si > 6.|Hyperkaliémie
-torsade de pointes|Tachycardie ventriculaire grave sur QT long (hypokaliémie, hypomagnésémie).|Torsade de pointes
-gluconate|Gluconate de calcium IV : protège le cœur en urgence en cas d'hyperkaliémie.|Gluconate de calcium
-hypercalcémie|Calcium sanguin trop élevé : fatigue, soif, constipation, confusion.|Hypercalcémie
-hypocalcémie|Calcium trop bas : fourmillements, crampes, tétanie, QT long.|Hypocalcémie
-trou anionique|Na − (Cl + HCO3) : élevé si un acide en plus est présent (acidocétose, lactates, intoxication).|Trou anionique
-acidose métabolique|Baisse du pH par baisse des bicarbonates.|Acidose métabolique
-alcalose métabolique|Hausse du pH par excès de bicarbonates (vomissements, diurétiques).|Alcalose métabolique
-Winter|Formule de Winter : la PaCO2 attendue dans une acidose métabolique = 1,5 × HCO3 + 8 ± 2.|
-volémie|Volume de sang circulant ; on l'évalue (déshydratation, surcharge) devant tout trouble du sodium.|
-thiazides|Diurétiques qui bloquent le cotransporteur Na-Cl du tube distal ; peuvent donner une hyponatrémie.|Diurétique thiazidique
-furosémide|Diurétique de l'anse, le plus puissant.|Furosémide
-Bartter|Syndrome de Bartter : maladie génétique de l'anse (comme sous furosémide) : hypokaliémie, alcalose.|Syndrome de Bartter
-Gitelman|Syndrome de Gitelman : maladie génétique du tube distal (comme sous thiazide) : hypokaliémie, hypomagnésémie.|Syndrome de Gitelman
-néphropathie diabétique|Atteinte des reins par le diabète : hyperfiltration puis albuminurie, puis IRC. 1re cause de dialyse.|Néphropathie diabétique
-hyperfiltration|Filtration trop élevée par néphron, qui l'use ; stade précoce du diabète.|
-néphroangiosclérose|Atteinte des petites artères du rein par l'HTA.|Néphroangiosclérose
-pré-éclampsie|HTA + protéinurie après 20 semaines de grossesse ; maladie du placenta.|Prééclampsie
-HELLP|Complication de la pré-éclampsie : hémolyse, enzymes du foie élevées, plaquettes basses.|HELLP syndrome
-nécrose tubulaire aiguë;NTA|Nécrose tubulaire aiguë : mort des cellules du tubule (choc, toxiques) ; IRA « organique » la plus fréquente.|Nécrose tubulaire aiguë
-néphropathie à IgA;Berger|Maladie de Berger : dépôts d'IgA dans le glomérule, hématuries après une infection ORL. GN la plus fréquente.|Néphropathie à IgA
-Goodpasture|Anticorps anti-MBG : glomérulonéphrite rapide + hémorragie pulmonaire.|Syndrome de Goodpasture
-lupus|Maladie auto-immune systémique ; l'atteinte du rein (néphrite lupique) fait le pronostic.|Lupus érythémateux disséminé
-extramembraneuse|Glomérulopathie extramembraneuse : dépôts sous les podocytes (anti-PLA2R), syndrome néphrotique de l'adulte.|Glomérulonéphrite extra-membraneuse
-lésions glomérulaires minimes;LGM|Cause principale de syndrome néphrotique de l'enfant ; glomérules normaux au microscope, très sensibles aux corticoïdes.|Syndrome néphrotique à lésions glomérulaires minimes
-PTT|Purpura thrombotique thrombocytopénique : microthromboses (cerveau, rein), anémie hémolytique, plaquettes basses ; ADAMTS13 effondrée.|Purpura thrombotique thrombocytopénique
-schistocytes|Globules rouges fragmentés au frottis, signe de microangiopathie thrombotique.|Schistocyte
-plasmaphérèse|Échange du plasma pour retirer anticorps ou toxines (Goodpasture, PTT).|Plasmaphérèse
-hémodialyse|Épuration du sang par une machine (filtre artificiel), en général 3 × 4 h par semaine.|Hémodialyse
-dialyse péritonéale|Épuration par le péritoine : un liquide est mis dans le ventre puis évacué, à domicile.|Dialyse péritonéale
-transplantation;greffe|Greffe de rein : meilleur traitement de l'IRT ; préemptive si faite avant la dialyse.|Transplantation rénale
-rejet|Attaque du greffon par l'immunité du receveur (cellulaire ou par anticorps).|Rejet de greffe
-tacrolimus|Inhibiteur de la calcineurine utilisé après greffe ; taux sanguin surveillé, nombreuses interactions.|Tacrolimus
-valves de l'urètre postérieur|Replis anormaux de l'urètre chez le garçon qui bloquent la vidange vésicale dès la vie fœtale.|Valves de l'urètre postérieur
-reflux vésico-urétéral;RVU|Reflux vésico-urétéral : l'urine remonte de la vessie vers le rein ; favorise les pyélonéphrites.|Reflux vésico-urétéral
-scintigraphie|Imagerie avec un traceur radioactif (MAG3 pour l'écoulement des urines, DMSA pour les cicatrices rénales).|Scintigraphie
-Bosniak|Classification des kystes rénaux au scanner selon leur risque de cancer (I à IV).|
-ostéodystrophie rénale|Atteinte des os dans l'IRC (troubles du calcium, phosphore, PTH, vitamine D).|Ostéodystrophie rénale
+IRC;MRC|Insuffisance (ou maladie) rénale chronique : anomalie rénale qui dure plus de 3 mois — DFG < 60 ml/min/1,73 m² ou marqueur d'atteinte (albuminurie, hématurie, anomalie d'imagerie). Silencieuse longtemps ; complications : HTA, anémie, troubles du calcium-phosphore, acidose, hyperkaliémie, risque cardiovasculaire très augmenté.|Insuffisance rénale chronique
+DFG|Débit de filtration glomérulaire : volume de plasma filtré par les deux reins chaque minute (normal ≈ 90–120 ml/min/1,73 m²). Il résume la fonction rénale ; on l'estime à partir de la créatinine (formule CKD-EPI) et il classe l'IRC de G1 à G5.|Débit de filtration glomérulaire
+HTA|Hypertension artérielle (≥ 140/90 au cabinet) : à la fois cause (néphroangiosclérose) et conséquence (rétention de sel, rénine) des maladies rénales ; la contrôler est le moyen le plus efficace de freiner l'IRC.|Hypertension artérielle
+IEC|Inhibiteurs de l'enzyme de conversion (ramipril…) : bloquent la formation d'angiotensine II, baissent la tension et dilatent l'artériole efférente, ce qui baisse la pression dans le glomérule et la protéinurie. La créatinine peut monter un peu au début (attendu). Effets : toux, hyperkaliémie, angiœdème.|Inhibiteur de l'enzyme de conversion
+ARA2|Antagonistes des récepteurs de l'angiotensine II (sartans : losartan…) : mêmes effets protecteurs que les IEC (tension, protéinurie), sans toux. Ne pas associer IEC + ARA2 (plus d'insuffisance rénale et d'hyperkaliémie sans bénéfice).|Antagoniste des récepteurs de l'angiotensine II
+IRA;AKI|Insuffisance rénale aiguë (acute kidney injury) : chute de la fonction rénale en heures ou jours (créatinine +0,3 mg/dl en 48 h ou ×1,5 en 7 jours, ou diurèse < 0,5 ml/kg/h). Trois mécanismes : pré-rénale (manque de sang), rénale (lésion du rein) ou post-rénale (obstacle).|Insuffisance rénale aiguë
+AKD|Acute kidney disease : atteinte rénale entre 7 jours et 3 mois, entre l'IRA et l'IRC.|
+AINS|Anti-inflammatoires non stéroïdiens (ibuprofène…) : ils bloquent les prostaglandines qui dilatent l'artère afférente ; chez un patient déshydraté, âgé, sous IEC/diurétique, ils font chuter le DFG. Ils peuvent aussi donner néphrite interstitielle, syndrome néphrotique, hyperkaliémie.|Anti-inflammatoire non stéroïdien
+PTH|Parathormone : hormone des parathyroïdes qui monte le calcium (os, rein) et fait éliminer le phosphore. Elle augmente dans l'IRC (hyperparathyroïdie secondaire), d'où atteinte osseuse.|Parathormone
+HPT|Hyperparathyroïdie : excès de PTH. Primaire = adénome parathyroïdien (calcium haut) ; secondaire = réaction à un calcium bas ou une vitamine D basse (IRC).|Hyperparathyroïdie
+SN;syndrome néphrotique|Syndrome néphrotique : le glomérule laisse fuir les protéines — protéinurie > 3 g/24 h (ou > 3 g/g de créatinine), albumine < 30 g/l, œdèmes. Complications : thromboses, infections, hyperlipidémie. Causes : lésions minimes (enfant), extramembraneuse (adulte), FSGS, diabète, amylose.|Syndrome néphrotique
+syndrome néphritique|Inflammation des glomérules : hématurie (globules rouges déformés, cylindres), HTA, œdèmes, protéinurie modérée et baisse du DFG. Rapidement progressif (GNRP) s'il perd la moitié de la fonction en quelques semaines.|Syndrome néphritique
+IRT|Insuffisance rénale terminale : DFG < 15 ml/min (stade G5) ; il faut une dialyse ou une greffe pour survivre.|Insuffisance rénale terminale
+ADH|Hormone antidiurétique (vasopressine) : fabriquée par l'hypothalamus, libérée par la post-hypophyse quand le sang est trop concentré ou le volume trop bas ; elle fait insérer des aquaporines 2 dans le tube collecteur pour réabsorber l'eau.|Hormone antidiurétique
+V2;V2R|Récepteur V2 de l'ADH sur le tube collecteur ; muté dans le diabète insipide néphrogénique lié à l'X ; bloqué par le tolvaptan.|Récepteur de la vasopressine
+MBG;anti-MBG|Membrane basale glomérulaire : couche centrale du filtre du glomérule (collagène IV). Des anticorps anti-MBG causent le syndrome de Goodpasture (rein + poumon).|Membrane basale glomérulaire
+ATR|Acidose tubulaire rénale : le tubule n'élimine pas assez d'acide (distale, type 1) ou perd des bicarbonates (proximale, type 2), ou manque d'aldostérone (type 4) : acidose à trou anionique normal.|Acidose tubulaire rénale
+TCP|Tube contourné proximal : premier segment du tubule ; il réabsorbe ≈ 65 % du sel et de l'eau, tout le glucose et les acides aminés, et la plupart des bicarbonates. Son atteinte globale = syndrome de Fanconi.|Tube contourné proximal
+TCD|Tube contourné distal : segment après l'anse de Henlé où agissent les thiazides (cotransporteur Na-Cl) et où se règle le calcium.|Tube contourné distal
+GN;glomérulonéphrite|Glomérulonéphrite : maladie des glomérules, le plus souvent immunologique (IgA, lupus, ANCA, anti-MBG…). Se révèle par une protéinurie, une hématurie, une HTA, une IR ; la biopsie fait le diagnostic.|Glomérulonéphrite
+GNRP|Glomérulonéphrite rapidement progressive : perte de la fonction rénale en quelques jours à semaines, avec croissants à la biopsie ; urgence (anti-MBG, ANCA, lupus).|Glomérulonéphrite rapidement progressive
+GNMP|Glomérulonéphrite membranoproliférative : épaississement des parois et prolifération des cellules du glomérule ; due à des complexes immuns (hépatite C, cryoglobuline, lupus) ou à une anomalie du complément.|Glomérulonéphrite membranoproliférative
+PNA|Pyélonéphrite aiguë : infection du rein (fièvre, douleur lombaire, frissons) ; échographie pour éliminer un obstacle.|Pyélonéphrite
+OAP|Œdème aigu du poumon : liquide dans les alvéoles par surcharge (insuffisance cardiaque, insuffisance rénale) : essoufflement brutal ; indication de dialyse s'il résiste aux diurétiques.|Œdème aigu du poumon
+SHU|Syndrome hémolytique et urémique : microangiopathie thrombotique dominant au rein — anémie hémolytique (schistocytes), plaquettes basses, insuffisance rénale. Chez l'enfant, après une diarrhée à E. coli producteur de shigatoxine ; forme atypique par anomalie du complément (éculizumab).|Syndrome hémolytique et urémique
+O157;H7|E. coli O157:H7 : bactérie de la viande mal cuite qui produit la shigatoxine, cause du SHU de l'enfant après diarrhée sanglante.|Escherichia coli O157:H7
+MAT|Microangiopathie thrombotique : petits caillots dans les capillaires (rein, cerveau) qui détruisent les globules rouges (schistocytes) et consomment les plaquettes : SHU, PTT, HTA maligne, médicaments.|Microangiopathie thrombotique
+FSGS;HSF|Hyalinose segmentaire et focale : cicatrices sur une partie de certains glomérules. Primitive (facteur circulant, récidive sur greffon), génétique (podocyte) ou secondaire (obésité, perte de néphrons, VIH, héroïne). Syndrome néphrotique souvent cortico-résistant.|Hyalinose segmentaire et focale
+PKD1;PKD2;ADPKD|Polykystose rénale autosomique dominante (gènes PKD1, plus sévère, ou PKD2) : des kystes grossissent toute la vie, les reins deviennent énormes ; douleurs, hématuries, lithiases, HTA, IRT vers 50–60 ans (PKD1). Kystes du foie, anévrismes cérébraux. Le tolvaptan freine la croissance des kystes.|Polykystose rénale autosomique dominante
+ANCA|Anticorps anti-cytoplasme des polynucléaires : marqueurs des vascularites des petits vaisseaux (granulomatose avec polyangéite : anti-PR3 ; polyangéite microscopique : anti-MPO), qui donnent une GN rapidement progressive.|Anticorps anticytoplasme des polynucléaires neutrophiles
+PAM|Polyangéite microscopique : vascularite à ANCA (anti-MPO) des petits vaisseaux, sans granulome ; rein (GNRP) et poumon (hémorragie alvéolaire).|Polyangéite microscopique
+EGPA|Granulomatose éosinophilique avec polyangéite (Churg-Strauss) : asthme, éosinophiles très élevés, vascularite ; ANCA anti-MPO dans 40 %.|Granulomatose éosinophilique avec polyangéite
+DI;diabète insipide|Diabète insipide : urines très abondantes (> 3 l/j) et diluées. Central = l'hypophyse ne libère pas l'ADH (traitement : desmopressine) ; néphrogénique = le rein ne répond pas (lithium, hypercalcémie, génétique).|Diabète insipide
+SIADH|Sécrétion inappropriée d'ADH : l'ADH est libérée sans raison (cancers bronchiques, maladies pulmonaires et cérébrales, médicaments) ; le corps retient de l'eau → hyponatrémie avec volémie normale, urines concentrées et sodium urinaire > 30. Traitement : restriction hydrique, urée.|Syndrome de sécrétion inappropriée d'hormone antidiurétique
+CSW|Cerebral salt wasting : perte rénale de sel après une atteinte cérébrale (hémorragie méningée) ; ressemble à la SIADH mais le patient est déshydraté et il faut donner du sel (pas restreindre l'eau).|Syndrome de perte de sel cérébrale
+ROMK|Canal potassique de l'anse et du tube collecteur qui recycle le potassium et le sécrète dans l'urine ; muté dans une forme de syndrome de Bartter.|ROMK
+SRAA|Système rénine-angiotensine-aldostérone : quand la pression ou le sel baissent, le rein libère la rénine → angiotensine II (vasoconstriction, soif) → aldostérone (rétention de sel, élimination du K+). Cible des IEC, ARA2 et antialdostérones.|Système rénine-angiotensine-aldostérone
+EPO|Érythropoïétine : hormone fabriquée par le rein qui stimule la production de globules rouges ; elle manque dans l'IRC (anémie normocytaire) et on la remplace par injections.|Érythropoïétine
+DDAVP;desmopressine|Desmopressine : ADH de synthèse (agit sur V2 sans effet sur la tension) ; traitement du diabète insipide central et de l'énurésie.|Desmopressine
+AQP2;aquaporines 2|Aquaporines 2 : canaux à eau du tube collecteur, insérés dans la membrane sous l'effet de l'ADH ; sans elles, l'urine reste diluée.|Aquaporine 2
+FGF23|Hormone produite par l'os qui fait éliminer le phosphore et freine la vitamine D active ; elle monte très tôt dans l'IRC et est liée au risque cardiovasculaire.|FGF23
+CKD-EPI|Formule qui estime le DFG à partir de la créatinine sanguine, de l'âge et du sexe ; c'est la formule recommandée chez l'adulte.|
+KDIGO|Recommandations internationales sur les maladies rénales : elles classent l'IRC par le DFG (G1–G5) et l'albuminurie (A1–A3), et définissent l'IRA.|
+GxAy;G1;G2;G3a;G3b;G4;A1;A2;A3|Classification KDIGO de l'IRC : G = DFG (G1 ≥ 90, G2 60–89, G3a 45–59, G3b 30–44, G4 15–29, G5 < 15) ; A = albuminurie (A1 < 30, A2 30–300, A3 > 300 mg/g). Les deux ensemble donnent le risque de progression et le rythme de suivi.|Insuffisance rénale chronique
+RAC;PCR|Rapports albumine/créatinine (RAC) et protéines/créatinine (PCR) sur un échantillon d'urine : remplacent la récolte de 24 h ; en mg/g ou g/g.|Albuminurie
+FAV|Fistule artério-veineuse : raccordement chirurgical d'une artère et d'une veine au bras ; la veine se dilate et devient un accès d'hémodialyse durable, moins infecté qu'un cathéter. À créer plusieurs mois avant la dialyse.|Fistule artério-veineuse
+HLA;HLA-DR|Antigènes HLA : « carte d'identité » des cellules reconnue par le système immunitaire. Plus donneur et receveur sont compatibles (surtout HLA-DR), moins il y a de rejet.|Antigène des leucocytes humains
+DSA|Anticorps spécifiques du donneur : anticorps du receveur dirigés contre les HLA du greffon ; ils causent le rejet humoral, le plus grave.|
+CNI|Inhibiteurs de la calcineurine (tacrolimus, ciclosporine) : immunosuppresseurs de base après greffe ; ils bloquent l'activation des lymphocytes T mais sont toxiques pour le rein (vasoconstriction), d'où le suivi de leur taux.|Inhibiteur de la calcineurine
+ADAMTS13|Enzyme qui découpe le facteur von Willebrand ; son déficit (auto-anticorps ou génétique) laisse se former des microthromboses : PTT.|ADAMTS13
+CAKUT|Malformations congénitales des reins et des voies urinaires (hypoplasie, dysplasie, obstacles, reflux) : 1re cause d'IRC chez l'enfant.|
+Alport;COL4A3;COL4A4;COL4A5|Syndrome d'Alport : collagène IV anormal de la membrane basale (gène COL4A5 lié à l'X, ou COL4A3/COL4A4) → hématurie dès l'enfance, protéinurie, IRC chez l'homme jeune, surdité et anomalies du cristallin.|Syndrome d'Alport
+ECBU|Examen cytobactériologique des urines : compte les globules blancs et rouges, identifie la bactérie et teste les antibiotiques.|Examen cytobactériologique des urines
+néphron|Unité fonctionnelle du rein (≈ 1 million par rein) : glomérule qui filtre + tubule (proximal, anse de Henlé, distal, collecteur) qui réabsorbe l'essentiel et ajuste la composition de l'urine.|Néphron
+glomérule|Pelote de capillaires entourée de la capsule de Bowman ; il filtre ≈ 180 l de plasma par jour en retenant les cellules et les protéines.|Glomérule rénal
+podocytes;pédicelles|Cellules qui entourent les capillaires du glomérule ; leurs « pieds » (pédicelles) reliés par le diaphragme de fente forment la dernière barrière contre les protéines. Leur effacement (lésions minimes, FSGS) donne une protéinurie massive.|Podocyte
+anse de Henlé|Segment en U du tubule qui crée le gradient de concentration de la médullaire ; sa branche large réabsorbe le sel via le cotransporteur Na-K-2Cl, bloqué par le furosémide.|Anse de Henlé
+macula densa|Cellules du tubule distal accolées au glomérule qui mesurent le sel arrivant ; si trop de sel arrive, elles contractent l'artère afférente (rétrocontrôle tubulo-glomérulaire) et freinent la rénine.|Macula densa
+créatinine|Déchet des muscles éliminé par le rein. Plus le DFG baisse, plus elle monte, mais pas de façon linéaire (elle ne monte qu'après une perte importante) et elle dépend de la masse musculaire.|Créatinine
+clairance|Volume de plasma totalement épuré d'une substance par minute. La clairance de la créatinine approche le DFG.|Clairance
+protéinurie|Protéines dans les urines (> 150 mg/24 h). Glomérulaire (albumine surtout), tubulaire (petites protéines) ou de surcharge (chaînes légères du myélome, que la bandelette ne voit pas). C'est un facteur majeur de progression de l'IRC.|Protéinurie
+albuminurie|Albumine dans les urines ; > 30 mg/g de créatinine = anormale. Marqueur précoce de néphropathie diabétique et puissant marqueur de risque cardiovasculaire.|Albuminurie
+hématurie|Sang dans les urines (> 5 globules rouges/champ). Glomérulaire si globules rouges déformés, cylindres et protéinurie ; sinon cause urologique (calcul, tumeur) à chercher, surtout après 40 ans.|Hématurie
+hyponatrémie|Sodium < 135 mmol/l : presque toujours un excès d'eau par rapport au sel. On l'analyse selon l'osmolalité et la volémie. Correction lente (max 8–10 mmol/l/24 h) pour éviter la myélinolyse ; urgence (sérum salé hypertonique) si convulsions ou coma.|Hyponatrémie
+hypernatrémie|Sodium > 145 mmol/l : manque d'eau, chez quelqu'un qui ne peut pas boire (âgé, nourrisson, inconscient) ou qui perd trop d'eau (diabète insipide). Correction lente.|Hypernatrémie
+myélinolyse;démyélinisation osmotique|Destruction de la myéline du tronc cérébral quand on corrige trop vite une hyponatrémie chronique : troubles de la parole et de la déglutition, tétraplégie, parfois irréversible.|Myélinolyse centropontine
+hypokaliémie|Potassium < 3,5 mmol/l : faiblesse, crampes, constipation, troubles du rythme (onde U). Causes : diurétiques, vomissements, diarrhée, hyperaldostéronisme.|Hypokaliémie
+hyperkaliémie|Potassium > 5 mmol/l : danger d'arrêt cardiaque (T pointues, QRS larges). Urgence si > 6 ou ECG anormal : gluconate de calcium, insuline-glucose, éliminer le K+.|Hyperkaliémie
+torsade de pointes|Tachycardie ventriculaire polymorphe sur QT long, favorisée par hypokaliémie et hypomagnésémie ; peut dégénérer en fibrillation.|Torsade de pointes
+gluconate|Gluconate de calcium IV : stabilise la membrane du cœur en quelques minutes en cas d'hyperkaliémie avec ECG anormal ; il ne baisse pas le potassium.|Gluconate de calcium
+hypercalcémie|Calcium sanguin trop élevé : fatigue, soif et urines abondantes, constipation, confusion, QT court. Causes : hyperparathyroïdie primaire, cancers, vitamine D, granulomatoses.|Hypercalcémie
+hypocalcémie|Calcium trop bas : fourmillements, crampes, tétanie, convulsions, QT long. Toujours corriger selon l'albumine (ou doser le calcium ionisé).|Hypocalcémie
+trou anionique|Na − (Cl + HCO3), normal ≈ 12. Élevé = un acide non mesuré s'ajoute (lactates, cétones, insuffisance rénale, intoxication) ; normal = perte de bicarbonates (diarrhée, acidose tubulaire).|Trou anionique
+acidose métabolique|Baisse du pH par baisse des bicarbonates. Le poumon compense en hyperventilant (baisse de la PaCO2, formule de Winter). On classe par le trou anionique.|Acidose métabolique
+alcalose métabolique|Hausse du pH par excès de bicarbonates : vomissements, diurétiques, hyperaldostéronisme. Souvent entretenue par une déshydratation (sensible au chlore) ou un excès de minéralocorticoïdes.|Alcalose métabolique
+Winter|Formule de Winter : dans une acidose métabolique, la PaCO2 attendue = 1,5 × HCO3 + 8 ± 2. Si elle est différente, il y a un trouble respiratoire associé.|
+volémie|Volume de sang circulant (secteur extracellulaire) ; on l'évalue (pli cutané, tension, œdèmes) devant tout trouble du sodium pour en trouver la cause.|
+thiazides|Diurétiques qui bloquent le cotransporteur Na-Cl du tube distal ; antihypertenseurs efficaces, ils retiennent le calcium et peuvent donner hyponatrémie et hypokaliémie.|Diurétique thiazidique
+furosémide|Diurétique de l'anse (bloque Na-K-2Cl) : le plus puissant, actif même en insuffisance rénale ; utilisé pour les œdèmes et l'OAP. Fait perdre K+, Ca et Mg.|Furosémide
+Bartter|Syndrome de Bartter : maladie génétique de l'anse de Henlé, comme sous furosémide permanent : hypokaliémie, alcalose, calcium urinaire élevé, tension normale.|Syndrome de Bartter
+Gitelman|Syndrome de Gitelman : maladie génétique du tube distal, comme sous thiazide : hypokaliémie, alcalose, magnésium bas, calcium urinaire bas ; plus fréquent et plus bénin que Bartter.|Syndrome de Gitelman
+néphropathie diabétique|Atteinte des reins par le diabète : hyperfiltration, puis albuminurie, puis baisse du DFG. 1re cause de dialyse. Freinée par le contrôle de la tension, les IEC/ARA2 et les iSGLT2.|Néphropathie diabétique
+iSGLT2;SGLT2|Inhibiteurs du SGLT2 (gliflozines) : font éliminer le glucose et le sel dans l'urine ; ils rétablissent le rétrocontrôle de la macula densa, baissent l'hyperfiltration et ralentissent l'IRC, diabétique ou non.|Inhibiteur du SGLT2
+hyperfiltration|Filtration trop forte par néphron (diabète, obésité, perte de néphrons) : la pression élevée dans le glomérule l'use progressivement.|
+néphroangiosclérose|Atteinte des petites artères du rein par l'HTA ancienne : reins petits, protéinurie faible, IRC lente. Fréquente chez l'âgé hypertendu.|Néphroangiosclérose
+pré-éclampsie|HTA + protéinurie (ou atteinte d'organe) après 20 semaines de grossesse : maladie du placenta. Risques : éclampsie, HELLP, retard de croissance ; le seul traitement curatif est l'accouchement.|Prééclampsie
+HELLP|Complication grave de la pré-éclampsie : hémolyse, enzymes du foie élevées, plaquettes basses ; impose l'accouchement.|HELLP syndrome
+nécrose tubulaire aiguë;NTA|Nécrose tubulaire aiguë : mort des cellules du tubule par manque de sang prolongé (choc) ou toxiques (aminosides, produits de contraste, rhabdomyolyse) ; IRA « organique » la plus fréquente, récupère en 1–3 semaines.|Nécrose tubulaire aiguë
+NIA|Néphrite interstitielle aiguë : inflammation de l'interstitium du rein, surtout allergique aux médicaments (AINS, IPP, bêtalactamines) ; leucocyturie, parfois éosinophiles, fièvre, éruption ; arrêt du médicament ± corticoïdes.|Néphrite interstitielle
+NIC|Néphrite interstitielle chronique : fibrose de l'interstitium (reflux, obstacles, lithium, plomb, analgésiques) ; protéinurie faible, urines mal concentrées.|Néphrite interstitielle
+FE|Fraction d'excrétion du sodium (FENa) : part du sodium filtré qui sort dans l'urine. < 1 % = le rein retient le sel (IRA fonctionnelle) ; > 1 % = tubule abîmé (NTA). Faussée par les diurétiques (utiliser l'urée).|Fraction d'excrétion du sodium
+néphropathie à IgA;Berger|Maladie de Berger : dépôts d'IgA dans le mésangium ; hématurie visible 1–2 jours après une infection ORL. Glomérulonéphrite la plus fréquente dans le monde ; 20–40 % évoluent vers l'IRT en 20 ans.|Néphropathie à IgA
+IgA1|IgA1 mal galactosylée : anomalie de départ de la maladie de Berger ; des anticorps la reconnaissent, forment des complexes qui se déposent dans le glomérule.|Immunoglobuline A
+Goodpasture|Syndrome de Goodpasture : anticorps anti-MBG qui attaquent les membranes basales du rein et du poumon → GN rapidement progressive + hémorragie pulmonaire. Urgence : corticoïdes, échanges plasmatiques, cyclophosphamide.|Syndrome de Goodpasture
+lupus|Lupus : maladie auto-immune systémique ; l'atteinte du rein (néphrite lupique, classes I à VI à la biopsie) fait le pronostic et guide le traitement.|Lupus érythémateux disséminé
+extramembraneuse|Glomérulopathie extramembraneuse : dépôts d'anticorps sous les podocytes (anti-PLA2R dans 70–80 % des formes primitives) ; 1re cause de syndrome néphrotique de l'adulte. Après 50 ans, chercher un cancer.|Glomérulonéphrite extra-membraneuse
+lésions glomérulaires minimes;LGM|Lésions glomérulaires minimes : 1re cause de syndrome néphrotique de l'enfant ; glomérules normaux au microscope optique, seul l'effacement des pédicelles est visible au microscope électronique ; très sensible aux corticoïdes, rechutes fréquentes.|Syndrome néphrotique à lésions glomérulaires minimes
+PTT|Purpura thrombotique thrombocytopénique : microthromboses diffuses (cerveau surtout) par effondrement d'ADAMTS13 ; anémie hémolytique, plaquettes très basses, fièvre, troubles neurologiques. Urgence : échanges plasmatiques.|Purpura thrombotique thrombocytopénique
+schistocytes|Globules rouges fragmentés au frottis : signe de microangiopathie thrombotique (SHU, PTT).|Schistocyte
+plasmaphérèse|Échanges plasmatiques : on retire le plasma du patient (anticorps, toxines) et on le remplace (albumine ou plasma frais) ; utilisés dans Goodpasture, PTT, certains rejets.|Plasmaphérèse
+hémodialyse|Épuration du sang dans un filtre artificiel (diffusion à travers une membrane), en général 3 séances de 4 h par semaine, par une fistule ou un cathéter. Retire déchets, potassium, acides et excès d'eau.|Hémodialyse
+dialyse péritonéale|Épuration à travers le péritoine : un liquide sucré est introduit dans le ventre par un cathéter, se charge en déchets puis est évacué ; faite à domicile (manuelle ou de nuit par machine). Risque principal : péritonite.|Dialyse péritonéale
+DPCA;DPA|Deux modes de dialyse péritonéale : DPCA = manuelle continue (3–5 échanges par jour) ; DPA = automatisée par une machine pendant la nuit.|Dialyse péritonéale
+CVVHF;CVVHDF;SLED;SCUF|Techniques d'épuration de réanimation, plus douces que l'hémodialyse classique pour les patients instables : hémofiltration (CVVHF) ou hémodiafiltration (CVVHDF) continues, dialyse lente prolongée (SLED), ultrafiltration seule pour retirer de l'eau (SCUF).|Hémofiltration
+EER|Épuration extrarénale : toute technique qui remplace le rein (hémodialyse, dialyse péritonéale, hémofiltration).|Dialyse
+transplantation;greffe|Greffe de rein : meilleur traitement de l'IRT (survie et qualité de vie supérieures à la dialyse). Préemptive si faite avant la dialyse ; donneur vivant ou décédé ; immunosuppression à vie.|Transplantation rénale
+rejet|Attaque du greffon par le système immunitaire du receveur : cellulaire (lymphocytes T : tubulite) ou humoral (anticorps anti-HLA du donneur : glomérulite, C4d), ce dernier de plus mauvais pronostic. Diagnostic par biopsie du greffon.|Rejet de greffe
+C4d|Fragment du complément déposé dans les capillaires du greffon : marque un rejet par anticorps.|C4d
+tacrolimus|Inhibiteur de la calcineurine de référence après greffe ; dosage sanguin régulier car nombreuses interactions (CYP3A4) ; effets : néphrotoxicité, diabète, tremblements.|Tacrolimus
+CYP3A4|Enzyme du foie et de l'intestin qui dégrade le tacrolimus et la ciclosporine : les inhibiteurs (azolés, macrolides, pamplemousse) font monter leur taux (toxicité), les inducteurs (rifampicine, antiépileptiques) le font baisser (rejet).|Cytochrome P450 3A4
+CD28|Récepteur du 2e signal d'activation des lymphocytes T ; le bélatacept bloque ce signal (immunosuppresseur sans toxicité rénale).|CD28
+BK|Polyomavirus BK : virus dormant dans les voies urinaires qui se réactive sous immunosuppression et peut détruire le greffon (néphropathie à BK) ; on surveille sa charge virale.|Polyomavirus BK
+valves de l'urètre postérieur|Replis anormaux de l'urètre chez le garçon qui bloquent la vidange de la vessie dès la vie fœtale : vessie de lutte, dilatation des reins, IRC ; détectées souvent à l'échographie prénatale.|Valves de l'urètre postérieur
+reflux vésico-urétéral;RVU|Reflux vésico-urétéral : l'urine remonte de la vessie vers l'uretère et le rein ; favorise les pyélonéphrites et les cicatrices rénales (néphropathie de reflux). Diagnostic par cystographie ; souvent guérit avec la croissance.|Reflux vésico-urétéral
+scintigraphie;DMSA;MAG3|Scintigraphie rénale : traceur radioactif. MAG3 étudie l'écoulement de l'urine (obstruction) et la part de fonction de chaque rein ; DMSA se fixe sur le cortex et montre les cicatrices de pyélonéphrite.|Scintigraphie
+Bosniak|Classification des kystes rénaux au scanner : I–II bénins, IIF à surveiller, III (50 % malins) et IV (cloisons ou parties charnues prenant le contraste, ≈ 90 % malins) à opérer.|Classification de Bosniak
+IIF|Catégorie IIF de Bosniak : kyste un peu complexe, à surveiller par imagerie (F = follow-up).|Classification de Bosniak
+ostéodystrophie rénale|Atteinte de l'os dans l'IRC (troubles calcium-phosphore, PTH élevée, manque de vitamine D active) : douleurs osseuses, fractures, calcifications des vaisseaux.|Ostéodystrophie rénale
+EPP;EPU|Électrophorèse des protéines du sang (EPP) et des urines (EPU) : recherche une protéine monoclonale (myélome, amylose) devant une IRC ou une protéinurie après 45 ans.|Électrophorèse des protéines sériques
+CT|Scanner : bilan d'une hématurie (uro-scanner), d'une masse ou d'une infection compliquée.|Tomodensitométrie
+HIVAN|Néphropathie associée au VIH : FSGS collapsante avec gros reins, surtout chez les patients d'ascendance africaine.|Néphropathie associée au VIH
+PRO-PKD|Score génétique et clinique de pronostic de la polykystose (avec la classification d'Irazabal sur le volume des reins) ; il sélectionne les patients pour le tolvaptan.|
+PBR|Ponction-biopsie rénale : prélèvement d'un fragment de rein à l'aiguille sous échographie ; nomme la maladie (glomérulaire surtout). Risque principal : saignement, d'où conditions (tension contrôlée, plaquettes, coagulation).|Biopsie rénale
+INR;TCA|Tests de coagulation (INR pour la voie extrinsèque, TCA pour l'intrinsèque) : doivent être normaux avant une biopsie rénale.|Temps de céphaline activée
+AR;AD|Autosomique récessif (AR) / autosomique dominant (AD) : modes de transmission génétique.|Hérédité autosomique
+ADTKD;UMOD;MUC1;REN;SEC61A1|Maladie rénale tubulo-interstitielle autosomique dominante : fibrose progressive sans protéinurie ni hématurie notables, IRT vers 50–70 ans ; gènes UMOD (goutte précoce), MUC1, HNF1B, REN, SEC61A1.|Maladie rénale tubulo-interstitielle autosomique dominante
+HNF1B|Gène dont les mutations donnent kystes et malformations rénales, diabète (MODY 5), hypomagnésémie et anomalies génitales.|HNF1B
+G5;G2,5|Solutés glucosés à 5 % ou 2,5 % : ils apportent de l'eau « libre » (le glucose est vite consommé) pour corriger une hypernatrémie par voie veineuse.|Soluté glucosé
+PO|Per os : par la bouche.|
+TBC|Tuberculose ; une cause pulmonaire de SIADH.|Tuberculose
+ISRS|Antidépresseurs inhibiteurs de la recapture de la sérotonine : cause médicamenteuse fréquente de SIADH chez l'âgé.|Inhibiteur sélectif de la recapture de la sérotonine
+ST;PR|Segments de l'ECG : ST (repolarisation), PR (conduction oreillettes-ventricules). L'hypokaliémie déprime ST ; l'hyperkaliémie allonge PR puis efface l'onde P.|Électrocardiographie
+IR|Insuffisance rénale.|Insuffisance rénale
+β-bloquants;β-agonistes|Bêtabloquants : font sortir le potassium des cellules (aggravent une hyperkaliémie). Bêta-agonistes (salbutamol) : font l'inverse et servent à la traiter.|Bêta-bloquant
+CaSR|Récepteur sensible au calcium des parathyroïdes et du rein : il mesure le calcium ionisé et règle la PTH et l'élimination urinaire de calcium.|Récepteur sensible au calcium
+PTHrp|Protéine apparentée à la PTH sécrétée par certains cancers (épidermoïdes, sein, rein) : hypercalcémie avec PTH basse.|Protéine apparentée à la parathormone
+CBPC|Cancer bronchique à petites cellules : grand pourvoyeur de syndromes paranéoplasiques (SIADH, Cushing) ; l'hypercalcémie par PTHrp est plutôt liée aux cancers épidermoïdes.|Cancer bronchique à petites cellules
+DiGeorge|Syndrome de DiGeorge (délétion 22q11) : absence de parathyroïdes et de thymus, cardiopathie ; hypocalcémie dès la naissance.|Syndrome de DiGeorge
+SAOS|Apnées du sommeil ; cause d'hypoventilation (acidose respiratoire).|Syndrome d'apnées du sommeil
+PEG|Polyéthylène glycol : laxatif de préparation colique sans phosphore, à préférer chez l'insuffisant rénal (les préparations au phosphate abîment le rein).|Polyéthylène glycol
+MAPA|Mesure ambulatoire de la pression artérielle sur 24 h : confirme l'HTA (≥ 130/80 sur 24 h) et démasque l'HTA blouse blanche ou masquée.|Mesure ambulatoire de la pression artérielle
+ONTARGET;ACCOMPLISH;STENO-2|Grands essais cités : ONTARGET (IEC + ARA2 = plus d'IR sans bénéfice), ACCOMPLISH (IEC + inhibiteur calcique mieux qu'IEC + thiazide), STENO-2 (contrôle de tous les facteurs de risque = moitié moins d'événements CV chez le diabétique).|Essai clinique
+CV|Cardiovasculaire.|
+SA|Semaines d'aménorrhée : âge de la grossesse compté depuis les dernières règles.|Semaine d'aménorrhée
+PDC|Produits de contraste iodés : toxiques pour le tubule chez le patient fragile (IRC, diabète, déshydratation) ; prévention par hydratation.|Produit de contraste
+β-lactamines|Bêtalactamines (pénicillines, céphalosporines) : cause classique de néphrite interstitielle allergique.|Bêta-lactamine
+GEM|Glomérulopathie extramembraneuse.|Glomérulonéphrite extra-membraneuse
+MO;IF;ME|Les trois techniques de la biopsie rénale : microscopie optique (MO, structure), immunofluorescence (IF, dépôts d'anticorps ou de complément), microscopie électronique (ME, détails fins comme les pédicelles).|Biopsie rénale
+RPC|Rapport protéines/créatinine urinaire (g/g) : > 3 g/g = protéinurie néphrotique.|Protéinurie
+GR|Globules rouges : déformés (acanthocytes) dans l'hématurie glomérulaire.|Érythrocyte
+B19|Parvovirus B19 : virus qui peut déclencher une FSGS secondaire (collapsante).|Parvovirus B19
+C3|Fraction C3 du complément : abaissée dans les GN post-infectieuses, lupiques, membranoprolifératives ; déposée dans de nombreuses glomérulopathies.|Complément C3
+VHB;VHC|Virus des hépatites B et C : causes de glomérulopathies (extramembraneuse pour B, membranoproliférative avec cryoglobuline pour C).|Virus de l'hépatite C
+CFH|Facteur H du complément : frein naturel du complément ; ses anomalies donnent SHU atypique et glomérulopathies à C3.|Facteur H du complément
+AL;AA|Amylose AL (chaînes légères d'un myélome ou d'une gammapathie) et AA (protéine de l'inflammation chronique) : dépôts qui donnent un syndrome néphrotique avec gros reins.|Amylose
+PTU|Propylthiouracile (antithyroïdien) : peut induire une vascularite à ANCA.|Propylthiouracile
+DS|Écart-type (déviation standard) : un rein < −2 DS est anormalement petit pour l'âge.|Écart type
+NPHS1|Gène de la néphrine (diaphragme de fente du podocyte) ; muté dans le syndrome néphrotique congénital finlandais.|Néphrine
+AEIOU|Moyen mnémotechnique des indications de dialyse urgente : Acidose, Électrolytes (K+), Intoxication, Overload (surcharge/OAP), Urémie (péricardite, encéphalopathie).|
+HNF;HBPM|Héparine non fractionnée (HNF) et héparines de bas poids moléculaire (HBPM) : anticoagulants du circuit de dialyse. Les HBPM s'accumulent en insuffisance rénale.|Héparine
+β2-microglobuline|Petite protéine éliminée par le rein ; chez le dialysé de longue date elle s'accumule et forme une amylose (canal carpien, articulations).|Bêta-2 microglobuline
+PNN|Polynucléaires neutrophiles : > 50 % de PNN dans le liquide de dialyse péritonéale = péritonite.|Granulocyte neutrophile
+IC|Insuffisance cardiaque.|Insuffisance cardiaque
+ABO|Groupes sanguins ; une greffe ABO-incompatible est possible avec une préparation (retrait des anticorps).|Système ABO
+LT|Lymphocytes T : acteurs du rejet cellulaire.|Lymphocyte T
+FDR|Facteurs de risque.|
+SNCR|Syndrome néphrotique cortico-résistant : ne répond pas aux corticoïdes ; chez l'enfant, il est génétique dans 30–50 % des cas (et ne récidive alors pas sur greffon).|Syndrome néphrotique
+APOL1|Gène dont deux variants, fréquents chez les personnes d'ascendance africaine, augmentent beaucoup le risque de FSGS et de néphroangiosclérose.|APOL1
+A4|Raccourci pour COL4A4 (gène du collagène IV, Alport autosomique).|Syndrome d'Alport
+VHL|Maladie de von Hippel-Lindau : kystes et cancers du rein à cellules claires, hémangioblastomes, phéochromocytomes.|Maladie de von Hippel-Lindau
+mOsm;mOsm/kg|Milliosmole : unité qui compte les particules dissoutes (sodium, glucose, urée…) dans un liquide ; on l'exprime par kg d'eau (osmolalité). Le plasma est à ≈ 285–295 mOsm/kg ; sous ADH maximale, le rein concentre l'urine jusqu'à ≈ 1200 mOsm/kg. Comparer l'osmolalité urinaire et plasmatique est la base de l'analyse d'une hyponatrémie ou d'une polyurie.|Osmole (unité)
+mL;dL|Millilitre (mL, millième de litre) et décilitre (dL, dixième de litre) : unités de volume. Les laboratoires belges et français donnent beaucoup de concentrations en mg/dL (glycémie, créatinine) ; le seuil rénal du glucose (≈ 180–200 mg/dL) correspond à ≈ 10–11 mmol/L.|Litre
+mmHg|Millimètre de mercure : unité de pression utilisée pour la tension artérielle et les gaz du sang (PCO₂, PO₂). Dans ce cours, elle sert à lire la compensation respiratoire des troubles acido-basiques (formule de Winter) et les cibles de tension (< 130/80 chez l'insuffisant rénal protéinurique).|Millimètre de mercure
+IV|Intraveineux : administration directe dans une veine (perfusion, injection), action rapide. Ex. : KCl IV limité à ≈ 1 g/h, bisphosphonates IV dans l'hypercalcémie, jamais d'eau pure IV (hémolyse). Attention : dans « classe IV » de la néphrite lupique, IV est simplement le chiffre romain 4.|Voie intraveineuse
+Écho-Doppler;écho-Doppler|Échographie couplée au Doppler : l'échographie montre la taille et la forme des reins, le Doppler mesure la vitesse du sang dans les artères rénales. C'est l'examen de première ligne pour chercher une sténose de l'artère rénale devant une HTA, sans rayons X ni produit de contraste.|Échographie Doppler
+angio-CT;angioscanner|Angioscanner : scanner avec injection de produit de contraste iodé, acquis au moment où il remplit les artères, pour les voir en 3D. Il confirme une sténose de l'artère rénale ou une dissection, mais le produit de contraste est néphrotoxique chez le patient fragile (IRC, diabète).|Angiographie par tomodensitométrie
+hypoMg;hypomagnésémie|Hypomagnésémie : magnésium sanguin trop bas (< 0,7 mmol/L), par diurétiques, IPP, alcool, diarrhée ou Gitelman. Elle entretient une hypokaliémie (fuite par ROMK) et une hypocalcémie (PTH freinée) : il faut la corriger en premier, sinon le potassium et le calcium ne remontent pas.|Hypomagnésémie
+hyperK|Abréviation d'hyperkaliémie (potassium > 5 mmol/L). Avant de traiter, éliminer une fausse hyperkaliémie (hémolyse du tube, centrifugation tardive, leucocytes ou plaquettes très élevés) qui ne s'accompagne d'aucune anomalie ECG.|Hyperkaliémie
+hypoK|Abréviation d'hypokaliémie (potassium < 3,5 mmol/L). Elle est rebelle au traitement tant qu'une hypomagnésémie associée n'est pas corrigée, car le manque de magnésium ouvre les canaux ROMK et fait fuir le potassium dans l'urine.|Hypokaliémie
+hypoCa|Abréviation d'hypocalcémie (calcium trop bas, toujours à corriger selon l'albumine ou à mesurer ionisé). Une hypomagnésémie sévère l'entretient en bloquant la sécrétion et l'action de la PTH.|Hypocalcémie
+anti-MR;antagonistes des récepteurs minéralocorticoïdes|Antagonistes des récepteurs minéralocorticoïdes (spironolactone, éplérénone, finérénone) : ils bloquent l'aldostérone au tube collecteur. Diurétiques épargneurs de potassium, ils protègent le cœur et le rein mais provoquent des hyperkaliémies, surtout avec IEC/ARA2 ou en insuffisance rénale.|Antagoniste des récepteurs des minéralocorticoïdes
+25-OH;1,25-OH|Formes de la vitamine D : le foie fabrique la 25-OH-vitamine D (calcidiol, forme de réserve que l'on dose), puis le rein la transforme en 1,25-(OH)₂-vitamine D (calcitriol, forme active). Dans l'IRC, cette 2e étape manque : calcitriol bas, hypocalcémie et hyperparathyroïdie secondaire.|Vitamine D
+Cockcroft-Gault;Cockcroft|Formule de Cockcroft-Gault : estime la clairance de la créatinine à partir de la créatinine, de l'âge, du poids et du sexe, sans indexation à la surface corporelle. Moins précise que CKD-EPI, elle reste utilisée pour adapter la dose de certains médicaments.|Formule de Cockcroft et Gault
+sFlt-1|Récepteur soluble du VEGF (soluble fms-like tyrosine kinase-1) libéré en excès par un placenta mal implanté : il capte les facteurs de croissance des vaisseaux et abîme l'endothélium. C'est le mécanisme central de la pré-éclampsie ; le rapport sFlt-1/PlGF aide au diagnostic.|Pré-éclampsie
+p-ANCA;anti-MPO|ANCA à fluorescence périnucléaire (p-ANCA), dirigés le plus souvent contre la myéloperoxydase (anti-MPO). Ils orientent vers la polyangéite microscopique (atteinte rénale et pulmonaire sans granulome) ; les c-ANCA anti-PR3 orientent plutôt vers la granulomatose avec polyangéite.|Anticorps anti-cytoplasme des polynucléaires neutrophiles
+ABO-incompatible|Greffe ABO-incompatible : le groupe sanguin du donneur n'est pas compatible avec celui du receveur. Elle n'est possible qu'avec un donneur vivant (date programmée), après avoir retiré les anticorps anti-A ou anti-B du receveur par plasmaphérèse et rituximab.|Système ABO
+anti-HLA;Anti-HLA|Anticorps dirigés contre les antigènes HLA d'un autre individu, apparus après une grossesse, une transfusion ou une greffe précédente. On les recherche tous les 3 mois sur la liste d'attente ; s'ils visent le donneur (DSA), ils causent un rejet humoral, le plus grave.|Antigènes des leucocytes humains
+anti-mTOR;inhibiteurs de mTOR|Immunosuppresseurs qui bloquent la protéine mTOR (sirolimus, évérolimus) et donc le « signal 3 » de prolifération des lymphocytes T. Alternatives ou compléments aux anticalcineurines ; effets secondaires : mauvaise cicatrisation, protéinurie, aphtes, dyslipidémie.|Inhibiteur de mTOR

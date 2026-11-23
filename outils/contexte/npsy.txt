@@ -1,0 +1,118 @@
+1|phrénologie|Gall pensait lire les facultés sur les bosses du crâne : idée fausse, mais première notion de spécialisation du cerveau.
+1|Broca|Broca relie une lésion frontale gauche à la perte de la parole.
+1|Wernicke|Wernicke relie une lésion temporale à la perte de la compréhension.
+1|IRM|L'imagerie relie les modèles cognitifs aux régions du cerveau.
+1|PET|Le PET montre les régions qui s'activent.
+1|soustractivité|On suppose qu'une lésion enlève une composante sans réorganiser le reste.
+1|modularité|Le cerveau serait fait de modules spécialisés.
+1|double dissociation|Si A peut être atteint sans B et B sans A, ce sont deux modules différents.
+1|MCT|Exemple : mémoire à court terme…
+1|MLT|… et mémoire à long terme dissociées chez des patients différents.
+1|anosognosie|À l'anamnèse, vérifier si le patient a conscience de ses troubles.
+1|notes z|On compare le score à des normes (âge, sexe, éducation).
+1|percentiles|Autre façon d'exprimer le rang du patient.
+1|notes T|Autre échelle standardisée.
+1|impureté des tâches|Un test fait appel à plusieurs fonctions : un échec ne dit pas laquelle est atteinte.
+1|Token test|Le Token test demande compréhension, attention et mémoire de travail.
+2|TC|Les troubles de l'attention sont très fréquents après un traumatisme crânien.
+2|alerte|L'alerte tonique = niveau général d'éveil.
+2|TR|On la mesure par le temps de réaction.
+2|vigilance|Détecter des événements rares dans une tâche monotone.
+2|TAP|Batterie informatisée.
+2|attention soutenue|Maintenir l'attention sur un flux rapide.
+2|PASAT|Test d'attention soutenue (additions en série).
+2|Alzheimer|L'attention se dégrade aussi dans l'Alzheimer.
+2|attention divisée|Faire deux choses à la fois.
+2|attention sélective|Filtrer ce qui compte.
+2|test des cloches|Barrer des cloches parmi des distracteurs.
+2|héminégligence|Le test des cloches révèle aussi une négligence.
+2|endogène|Attention volontaire.
+2|DAN|Réseau dorsal = attention volontaire.
+2|exogène|Attention captée par un stimulus.
+2|VAN|Réseau ventral = réorientation, latéralisé à droite.
+2|LPS|Régions du réseau dorsal.
+2|TPJ|Régions du réseau ventral.
+2|paradigme de Posner|Un indice valide accélère la réponse.
+2|cécité attentionnelle|Ne pas voir un gorille au milieu d'un jeu : normal.
+2|AVC|Un tiers des patients font une négligence après un AVC droit.
+2|anosognosie|Le patient n'a souvent pas conscience de sa négligence.
+2|bissection de ligne|Couper une ligne en son milieu : le patient décale vers la droite.
+2|récupération|Meilleure si l'atteinte est légère et consciente.
+3|fonctions exécutives|Elles servent dans les situations nouvelles, sans routine.
+3|cortex préfrontal|Elles dépendent surtout du cortex préfrontal.
+3|Phineas Gage|Langage et mémoire normaux, mais comportement changé.
+3|syndrome dysexécutif|Gage est l'exemple historique du syndrome dysexécutif.
+3|striatum|Des lésions hors du lobe frontal (striatum, thalamus) peuvent le donner.
+3|SEP|La SEP aussi.
+3|apathique|Forme « pseudo-dépressive ».
+3|aspontanéité|Le patient ne prend plus d'initiative.
+3|désinhibition|Forme « pseudo-maniaque ».
+3|ISDC|Questionnaire rempli par un proche, car le patient minimise.
+3|inhibition|L'inhibition se teste par le Stroop.
+3|Stroop|On compare la 3e partie (interférence) à la 1re.
+3|flexibilité|Flexibilité réactive : TMT B.
+3|TMT|Partie B (chiffres-lettres) vs A (chiffres seuls).
+3|persévération|Le patient reste bloqué sur une règle.
+3|fluences|Flexibilité spontanée : produire des mots.
+3|Tour de Londres|Planification.
+3|évaluation écologique|Tests plus proches de la vie réelle.
+3|BREF|Dépistage rapide.
+3|récupération|Le patient MC a récupéré en partie.
+4|double dissociation|La mémoire se divise en modules séparables.
+4|MCT|Mémoire à court terme.
+4|MdT|Mémoire de travail.
+4|MLT|Mémoire à long terme.
+4|cervelet|La mémoire procédurale dépend du cervelet…
+4|striatum|… et du striatum.
+4|TPJ|La mémoire sémantique implique le lobe temporal antérieur.
+4|WAIS|Le sous-test Information de la WAIS teste la mémoire sémantique.
+4|hippocampe|L'hippocampe lie les éléments d'un souvenir.
+4|cortex préfrontal|Le préfrontal organise l'encodage et la récupération.
+4|RL/RI-16|Test de mémoire épisodique (16 mots).
+4|Baddeley|Modèle de la mémoire de travail.
+4|boucle phonologique|Composante verbale.
+4|calepin visuospatial|Composante visuelle.
+4|administrateur central|Chef d'orchestre.
+4|buffer épisodique|Lien avec la mémoire à long terme.
+4|mémoire procédurale|Préservée dans l'amnésie.
+4|Alzheimer|Longtemps préservée dans l'Alzheimer.
+4|antérograde|Le Parkinson touche plutôt l'apprentissage de nouvelles procédures.
+4|encodage|Si l'indice aide, l'encodage est préservé.
+4|récupération|C'est la récupération qui est atteinte (profil frontal).
+4|mémoire épisodique|Les amnésies touchent la mémoire épisodique.
+4|HM|Le patient HM a perdu ses hippocampes : amnésie antérograde massive.
+4|rétrograde|Amnésie rétrograde partielle.
+4|Korsakoff|Amnésie diencéphalique.
+4|B1|Due à la carence en B1.
+4|corps mamillaires|Lésions des corps mamillaires et du thalamus.
+4|confabulation|Le patient comble les trous par des récits inventés.
+4|anosognosie|Il n'a pas conscience de son trouble.
+4|plaques amyloïdes|Alzheimer : plaques amyloïdes…
+4|DNF|… et dégénérescence neurofibrillaire (tau).
+4|intrusions|Le patient Alzheimer rappelle des mots qui n'étaient pas dans la liste.
+4|fluences|Fluence sémantique plus atteinte (lobe temporal).
+4|inhibition|L'inhibition est atteinte aussi.
+4|flexibilité|… et la flexibilité.
+4|MCI|Trouble léger sans perte d'autonomie.
+4|ET|Déficit < 1,5 écart-type sous la norme.
+5|MoCA|Développée pour détecter le MCI.
+5|MCI|Plus sensible que le MMSE pour le MCI.
+5|MMSE|Comparaison des deux tests.
+5|Alzheimer|La MoCA détecte 100 % des Alzheimer légers, le MMSE 78 %.
+5|TMT|Mini-TMT dans la MoCA.
+5|flexibilité|Il teste la flexibilité.
+5|mémoire sémantique|Dénommer des animaux.
+5|encodage|Les mots sont lus 2 fois (encodage).
+5|MCT|Les empans testent la mémoire à court terme.
+5|MdT|L'empan inverse teste la mémoire de travail.
+5|attention soutenue|Taper sur chaque A teste l'attention soutenue.
+5|fluences|Fluence en F : au moins 11 mots en 1 min.
+5|MLT|Le rappel différé teste la mémoire épisodique à long terme.
+6|vigilance|Correction : vigilance et attention soutenue sont deux formes du même axe.
+6|attention soutenue|Elles ne s'opposent pas.
+6|PASAT|Correction du nom : Paced Auditory Serial Addition Test.
+6|Tour de Londres|Précision sur la règle.
+6|BREF|Correction : la BREF est un outil de dépistage.
+6|calepin visuospatial|Localisation corrigée.
+6|MCT|Correction : la mémoire de travail ajoute la manipulation.
+6|MdT|MdT ≠ MCT.

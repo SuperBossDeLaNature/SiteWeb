@@ -24,7 +24,13 @@ let pending = 'online'; // après les réglages : online | solo | rematch
 let setup = null;       // réglages en cours de saisie
 
 const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt !== undefined) e.textContent = txt; return e; };
-function show(id){ $$('.screen').forEach(s => s.classList.toggle('active', s.id === id)); if (id !== 's-rev-read') document.body.classList.remove('reading'); window.scrollTo(0,0); }
+function placeSnd(id){
+  const bar = document.getElementById('sndbar'), sc = document.getElementById(id); if (!bar || !sc) return;
+  const slot = sc.querySelector('.snd-slot');
+  if (slot){ slot.appendChild(bar); bar.classList.add('compact'); }
+  else { sc.prepend(bar); bar.classList.remove('compact'); }
+}
+function show(id){ placeSnd(id); $$('.screen').forEach(s => s.classList.toggle('active', s.id === id)); if (id !== 's-rev-read') document.body.classList.remove('reading'); window.scrollTo(0,0); }
 function toast(msg){
   const t = $('#toast'); t.textContent = msg; t.classList.add('on');
   clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove('on'), 2600);
@@ -178,6 +184,7 @@ document.addEventListener('click', e => { if (e.target.closest('.btn,.tcard,.pil
 function refreshSnd(){ $$('.snd').forEach(b => b.textContent = Sfx.isMuted() ? '🔇' : '🔊'); }
 $$('.snd').forEach(b => b.onclick = () => { Sfx.toggle(); refreshSnd(); });
 refreshSnd();
+placeSnd((document.querySelector('.screen.active')||{}).id);
 function syncVol(){ $$('.vol').forEach(r => { r.value = Math.round(Sfx.getVol() * 100); }); }
 $$('.vol').forEach(r => {
   r.oninput = () => { Sfx.setVol(r.value / 100); syncVol(); };
@@ -1058,8 +1065,13 @@ function glShow(span){
   span.classList.add('on');
   GL.t = span;
   const pop = $('#gl-pop');
-  $('#gl-n').textContent = t.n.charAt(0).toUpperCase() + t.n.slice(1);
+  const shown = span.textContent.trim();
+  $('#gl-n').textContent = shown.charAt(0).toUpperCase() + shown.slice(1);
+  const note = (REV.cur.ctx || {})[span.dataset.s + ':' + span.dataset.t] || (REV.cur.ctx || {})['*:' + span.dataset.t];
+  const cx = $('#gl-ctx'); cx.textContent = note || ''; cx.hidden = !note;
   $('#gl-d').textContent = t.d;
+  const xs = t.x || {}; const xp = xs[shown] || xs[Object.keys(xs).find(k => k.toLowerCase() === shown.toLowerCase())] || '';
+  const xe = $('#gl-xp'); xe.textContent = xp; xe.hidden = !xp;
   const box = $('#gl-img'); box.innerHTML = ''; const src = $('#gl-src'); src.hidden = true;
   if (t.w){
     box.appendChild(el('div', 'gl-load', 'Chargement des images…'));

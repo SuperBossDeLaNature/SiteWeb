@@ -1,0 +1,96 @@
+AA|Acides Aminés
+ACTH|Adreno-CorticoTropic Hormone (hormone corticotrope, corticotrophine)
+ADEK|vitamines A, D, E et K (liposolubles)
+ADN|Acide DésoxyriboNucléique
+AET|Apport Énergétique Total
+AG|Acides Gras
+AGCC|Acides Gras à Chaîne Courte
+AJR|Apport Journalier Recommandé
+ATP|Adénosine TriPhosphate
+AVC|Accident Vasculaire Cérébral
+AgRP|Agouti-Related Peptide (peptide apparenté à l'agouti)
+B1|vitamine B1 (thiamine)
+B12|vitamine B12 (cobalamine)
+B6|vitamine B6 (pyridoxine)
+B9|vitamine B9 (folates, acide folique)
+BCAA|Branched-Chain Amino Acids (acides aminés à chaîne ramifiée)
+BMI|Body Mass Index (indice de masse corporelle)
+C18|acide gras à 18 atomes de Carbone
+CART|Cocaine- and Amphetamine-Regulated Transcript (transcrit régulé par la cocaïne et l'amphétamine)
+CCK|CholéCystoKinine
+CI|Contre-Indication
+CNO|Compléments Nutritionnels Oraux
+CRP|C-Reactive Protein (protéine C réactive)
+CSS|Conseil Supérieur de la Santé
+CT|Computed Tomography (tomodensitométrie, scanner)
+CV|CardioVasculaire
+CaP|phosphate de calcium (Ca = calcium, P = phosphate)
+DEXA|Dual-Energy X-ray Absorptiometry (absorptiométrie biphotonique à rayons X)
+DT2|Diabète de Type 2
+EFSA|European Food Safety Authority (Autorité européenne de sécurité des aliments)
+EVA|Échelle Visuelle Analogique
+GLIM|Global Leadership Initiative on Malnutrition (initiative mondiale sur la dénutrition)
+GLP-1|Glucagon-Like Peptide 1 (peptide 1 apparenté au glucagon)
+GLUT2|GLUcose Transporter 2 (transporteur du glucose de type 2)
+GR|Globules Rouges
+HDL|High-Density Lipoproteins (lipoprotéines de haute densité)
+HTA|HyperTension Artérielle
+IG|Index Glycémique
+IH|Insuffisance Hépatique
+IL-1|InterLeukine 1
+IL-6|InterLeukine 6
+IPP|Inhibiteurs de la Pompe à Protons
+IR|Insuffisance Rénale
+IgA|Immunoglobulines A
+K1|vitamine K1 (phylloquinone)
+K2|vitamine K2 (ménaquinone)
+K3|vitamine K3 (ménadione, synthétique)
+LCT|Long-Chain Triglycerides (triglycérides à chaîne longue)
+MCT|Medium-Chain Triglycerides (triglycérides à chaîne moyenne)
+MCV|Maladies CardioVasculaires
+MUFA|MonoUnsaturated Fatty Acids (acides gras mono-insaturés)
+NOAEL|No Observed Adverse Effect Level (dose sans effet indésirable observé)
+NPY|NeuroPeptide Y
+NaCl|Chlorure de sodium (Na = sodium, Cl = chlore)
+OMS|Organisation Mondiale de la Santé
+ORL|Oto-Rhino-Laryngologie
+OXM|OXyntoModuline
+P5|5e Percentile
+P85-P95|du 85e au 95e Percentile
+P95|95e Percentile
+PAL|Physical Activity Level (niveau d'activité physique)
+PICC|Peripherally Inserted Central Catheter (cathéter central inséré par voie périphérique)
+PIVKA|Protein Induced by Vitamin K Absence or antagonism (protéines induites par l'absence ou l'antagonisme de la vitamine K)
+PREDIMED|PREvención con DIeta MEDiterránea (prévention par le régime méditerranéen)
+PTH|ParaThyroid Hormone (parathormone)
+PUFA|PolyUnsaturated Fatty Acids (acides gras polyinsaturés)
+PVC|PolyChlorure de Vinyle (polyvinyl chloride)
+PYY|Peptide YY (Y = tyrosine)
+QR|Quotient Respiratoire
+RBP|Retinol-Binding Protein (protéine de liaison du rétinol)
+SD|Standard Deviation (écart-type)
+SGLT1|Sodium-GLucose coTransporter 1 (cotransporteur sodium-glucose de type 1)
+SNO|Suppléments Nutritionnels Oraux
+SOD|SuperOxyde Dismutase
+T3|Triiodothyronine (3 atomes d'iode)
+T4|Tétraiodothyronine (thyroxine, 4 atomes d'iode)
+TG|TriGlycérides
+ULB|Université Libre de Bruxelles
+USA|United States of America (États-Unis d'Amérique)
+USI|Unité de Soins Intensifs
+UVB|UltraViolets B
+VCS|Veine Cave Supérieure
+VDR|Vitamin D Receptor (récepteur de la vitamine D)
+α-MSH|alpha-Melanocyte-Stimulating Hormone (hormone alpha-mélanotrope)
+hypoK|hypokaliémie (K = potassium bas)
+25-OH-D|25-hydroxyvitamine D (calcidiol)
+25-OH|25-hydroxy (25-hydroxyvitamine D, calcidiol)
+Pyridoxal-5-P|Pyridoxal-5-Phosphate (forme active de la vitamine B6)
+mOsm|milliOsmole
+hypoMg|hypomagnésémie (Mg = magnésium bas)
+IV|IntraVeineux
+hyperTG|hypertriglycéridémie (TG = triglycérides élevés)
+Kashin-Beck|maladie de Kashin-Beck (ostéo-arthropathie liée à la carence en sélénium)
+mmHg|millimètre de mercure (Hg = mercure)
+dL|déciLitre
+mL|milliLitre

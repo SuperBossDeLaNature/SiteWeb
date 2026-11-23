@@ -1,0 +1,142 @@
+1|HTIC|Définition chiffrée : PIC > 20 mmHg.
+1|PIC|La PIC normale est 10–15 mmHg.
+1|Monro-Kellie|Le crâne a un volume fixe : si un compartiment grossit, les autres doivent diminuer.
+1|LCR|Le LCR est le premier volume qui peut se déplacer pour compenser.
+1|PL|On peut mesurer la pression par ponction lombaire (patient couché sur le côté).
+1|plexus choroïdes|Les plexus choroïdes fabriquent le LCR.
+1|BHE|Œdème vasogénique : la barrière est rompue (tumeur).
+1|AVC|Œdème cytotoxique : les cellules gonflent (AVC, trauma).
+1|HSA|Après une HSA, le LCR est mal résorbé : hydrocéphalie.
+1|VIH|Le VIH (méningites) peut aussi gêner la résorption.
+1|TA|Ici TA = tension : elle monte pour compenser la PIC.
+1|PPC|Tant que la compensation tient, la perfusion reste normale.
+1|DSC|Le débit sanguin cérébral est maintenu.
+1|mydriase|Mydriase d'un côté = décompensation, urgence.
+1|CO2|Au stade terminal, le CO2 monte…
+1|O2|… et l'oxygène baisse : mort cérébrale.
+1|œdème papillaire|Le fond d'œil montre un œdème papillaire.
+1|engagement|Engagement temporal : le III est comprimé (mydriase), puis hémiplégie.
+1|triade de Cushing|Engagement par le trou occipital : arrêt cardio-respiratoire.
+1|HTA|La triade de Cushing comporte une HTA.
+1|mannitol|Solutés hypertoniques pour baisser la PIC.
+1|DVE|Drainer le LCR par DVE.
+1|PAM|PPC = PAM − PIC, cible 70–90 mmHg.
+2|TC|TC grave = Glasgow < 8.
+2|GCS|Glasgow < 8 = traumatisme crânien grave.
+2|HED|L'hématome extradural est l'urgence neurochirurgicale type.
+2|CT|Scanner en urgence.
+2|HTIC|Surveiller les signes d'HTIC.
+2|intervalle libre|D'où l'importance de surveiller même un patient qui va bien.
+2|lésions axonales diffuses|Coma avec scanner normal.
+2|IRM|L'IRM montre les lésions axonales.
+2|HSD|Hématome sous-dural chronique.
+2|DVE|Sans hématome à opérer, on mesure la PIC par DVE.
+2|PIC|La mesure de la PIC guide le traitement.
+2|PAS|Critère : tension systolique < 90 mmHg.
+2|LCR|Écoulement de LCR par le nez = brèche : risque de méningite.
+3|CT|Pour le rachis cervical : radio puis scanner.
+3|IRM|L'IRM montre la hernie et la moelle.
+3|névrite cervico-brachiale|Douleur radiculaire du bras.
+3|hernie discale|Cause la plus fréquente.
+3|méningiome|Une tumeur (méningiome) peut aussi comprimer la racine.
+3|métastases|… ou une métastase.
+3|SLA|Une grosse hernie médiane peut faire croire à une SLA.
+3|AINS|Traitement médical d'abord.
+3|myélopathie cervicarthrosique|Compression de la moelle par l'arthrose.
+3|arthrodèse|Après abord trans-oral, arthrodèse postérieure.
+3|C1|La radio doit montrer toutes les vertèbres de C1 à C7.
+3|T1|Modic I (noir en T1, blanc en T2) est le plus douloureux.
+3|sciatique|Sciatique.
+3|L4|L4 = genou, L5 = gros orteil, S1 = petits orteils.
+3|spondylolisthésis|Le glissement peut comprimer la racine.
+3|canal lombaire étroit|Claudication neurogène du sujet âgé.
+3|laminectomie|Traitement : laminectomie.
+3|TB|La tuberculose vertébrale (Pott) est en recrudescence.
+4|gliomes|Pour un gliome, la chirurgie maximale améliore la survie.
+4|HTIC|Tumeur de fosse postérieure : HTIC précoce (hydrocéphalie).
+4|hydrocéphalie|La tumeur bloque le 4e ventricule.
+4|CT|Toujours injecter au scanner.
+4|IRM|L'IRM localise les zones fonctionnelles.
+4|NAA|En spectro-IRM, le NAA baisse dans la tumeur.
+4|PET|Le PET mesure le métabolisme tumoral.
+4|FDG|FDG ou méthionine.
+4|IDH1|Mutation IDH = bon pronostic.
+4|MGMT|MGMT méthylé = meilleure réponse au témozolomide.
+4|témozolomide|Chimiothérapie du glioblastome.
+4|glioblastome|Le pronostic dépend de la résection, d'IDH et de MGMT.
+4|ALA|La fluorescence au 5-ALA aide à tout enlever.
+4|TTFields|Champs électriques portés 20 h/jour.
+4|BHE|La barrière hémato-encéphalique empêche beaucoup de médicaments d'entrer.
+4|métastases|Tumeurs cérébrales les plus fréquentes.
+4|SNC|Sein, poumon, mélanome aiment le système nerveux.
+4|KPS|Patient autonome (KPS ≥ 70) avec métastase unique : chirurgie.
+4|radiochirurgie|Sinon radiochirurgie.
+4|méningiome|Méningiome.
+4|adénome hypophysaire|Adénome hypophysaire.
+4|NEM|3 % des adénomes s'inscrivent dans une NEM1.
+4|GH|Adénome à GH : acromégalie.
+4|ACTH|Adénome à ACTH : maladie de Cushing.
+4|triade de Cushing|Ici « Cushing » = maladie de Cushing (excès de cortisol), pas la triade.
+4|hémianopsie bitemporale|L'adénome comprime le chiasma.
+4|voie transsphénoïdale|On l'opère par le nez.
+5|HSA|Urgence vitale : risque de resaignement.
+5|CT|Scanner d'abord.
+5|PL|Ponction lombaire si scanner normal.
+5|anévrisme|Les anévrismes sont traités par voie endovasculaire dans > 90 %.
+5|AVC|L'HSA est une forme d'AVC.
+5|HTA|L'HTA est un facteur de risque de rupture.
+5|WFNS|Gravité de l'HSA selon WFNS.
+5|GCS|Fondée sur le Glasgow.
+5|AngioCT|L'angio-CT cherche tous les anévrismes.
+5|DSA|HSA périmésencéphalique : angiographie normale, bon pronostic.
+5|TEV|À Erasme, > 90 % sont traités par voie endovasculaire.
+5|coils|Les coils remplissent l'anévrisme.
+5|clipping|Clipping si hématome à évacuer.
+5|GDC|Le traitement endovasculaire date des coils GDC.
+5|ISAT|ISAT : meilleurs résultats du traitement endovasculaire pour les anévrismes rompus.
+5|ISUIA|ISUIA : anévrismes non rompus.
+5|flow diverter|Collet large : flow diverter.
+5|WEB|… ou WEB dans le sac.
+5|hydrocéphalie|Hydrocéphalie après HSA.
+5|LCR|Le sang gêne la résorption du LCR.
+5|vasospasme|Le vasospasme survient entre J7 et J14.
+5|J7-J14|Fenêtre du vasospasme.
+5|nimodipine|Traitement préventif : nimodipine.
+5|IRM|Suivi des anévrismes traités par IRM.
+5|ARM|ARM à 6 mois.
+5|MAV|MAV : jeune, épilepsie, hématome.
+5|FAV|Fistule durale.
+5|AIT|Stenting des sténoses après AIT ou AVC.
+5|rtPA|Thrombolyse IV dans les 4,5 h.
+5|thrombectomie|Puis thrombectomie.
+5|DAWN|Au-delà de 6 h, la décision dépend de l'imagerie.
+5|pénombre|On cherche de la pénombre à sauver.
+5|NIHSS|Gravité de l'AVC.
+6|HTIC|Chez l'enfant, peu de signes d'HTIC : on suit le périmètre crânien.
+6|craniosténoses|Fermeture prématurée des sutures.
+6|FGFR|20 % syndromiques, souvent génétiques.
+6|scaphocéphalie|La plus fréquente.
+6|plagiocéphalie|Asymétrie par fermeture d'une suture coronale.
+6|hydrocéphalie|Hydrocéphalie de l'enfant.
+6|TB|Causes infectieuses dont la tuberculose.
+6|VIH|… et le VIH.
+6|HSA|Après une hémorragie.
+6|DVP|Défaut de résorption : dérivation ventriculo-péritonéale.
+6|spina bifida|Grades de gravité.
+6|myéloméningocèle|Grade 4 = myéloméningocèle.
+6|acide folique|Facteur de risque : manque d'acide folique.
+6|B12|Carence en folates.
+6|IRM|Signes d'alarme d'une tumeur chez l'enfant : IRM.
+6|craniopharyngiome|Troubles visuels et endocriniens.
+6|médulloblastome|Tumeurs de l'enfant.
+6|radiochirurgie|Cavernome : chirurgie ou radiochirurgie.
+6|stimulation cérébrale profonde|Parkinson jeune et autres mouvements anormaux.
+6|névralgie du trijumeau|V2–V3 dans 95 %.
+6|V2-V3|Branches les plus touchées.
+6|SEP|Penser à la SEP chez le jeune.
+6|T1|IRM pour chercher un conflit vasculaire.
+6|carbamazépine|1re ligne médicale.
+6|spasticité|Spasticité.
+6|baclofène|Baclofène par pompe.
+6|DREZotomie|DREZotomie pour les cas rebelles.
+6|LINAC|Radiochirurgie : Gamma Knife, LINAC, protons.

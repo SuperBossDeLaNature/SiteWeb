@@ -1,0 +1,193 @@
+AA|Anévrisme de l'Aorte
+AAA|Anévrisme de l'Aorte Abdominale
+ACM|Artère Cérébrale Moyenne
+ACR|American College of Radiology (Collège américain de radiologie)
+ADC|Apparent Diffusion Coefficient (coefficient de diffusion apparent)
+ADN|Acide DésoxyriboNucléique
+AEG|Altération de l'État Général
+AIT|Accident Ischémique Transitoire
+ALARA|As Low As Reasonably Achievable (aussi bas que raisonnablement possible)
+AOMI|Artériopathie Oblitérante des Membres Inférieurs
+AP|Antéro-Postérieur (incidence : rayons de l'avant vers l'arrière)
+ASP|Abdomen Sans Préparation
+ATCD|AnTéCéDent(s)
+ATM|Articulation Temporo-Mandibulaire
+AVC|Accident Vasculaire Cérébral
+B0|B zéro : champ magnétique principal (statique) de l'IRM
+B1|Biopsie (microbiopsie) de classe 1 : tissu normal ou non interprétable
+B5|Biopsie (microbiopsie) de classe 5 : lésion maligne
+BI-RADS|Breast Imaging-Reporting And Data System (système de compte rendu et de données en imagerie du sein)
+BOLD|Blood Oxygen Level Dependent (signal dépendant du niveau d'oxygénation du sang)
+BPCO|BronchoPneumopathie Chronique Obstructive
+BRCA1|BReast CAncer gene 1 (gène 1 de prédisposition au cancer du sein)
+C1|Cytoponction de classe 1 : non contributive
+C1-C2|1re et 2e vertèbres Cervicales (atlas et axis)
+C5|Cytoponction de classe 5 : maligne
+CA-AKI|Contrast-Associated Acute Kidney Injury (insuffisance rénale aiguë associée au produit de contraste)
+CBCT|Cone Beam Computed Tomography (tomographie volumique à faisceau conique)
+CBF|Cerebral Blood Flow (débit sanguin cérébral)
+CBV|Cerebral Blood Volume (volume sanguin cérébral)
+CC|Cranio-Caudale (incidence de mammographie)
+CHC|Carcinome HépatoCellulaire
+CI|Contre-Indication
+CI-AKI|Contrast-Induced Acute Kidney Injury (insuffisance rénale aiguë induite par le produit de contraste)
+CIPR|Commission Internationale de Protection Radiologique
+COVID|COronaVIrus Disease (maladie à coronavirus 2019)
+CPPD|Calcium PyroPhosphate Deposition (dépôts de pyrophosphate de calcium)
+CPRM|Cholangio-Pancréatographie par Résonance Magnétique
+CRL|Crown-Rump Length (longueur crânio-caudale)
+CT|Computed Tomography (tomodensitométrie, scanner)
+CTDIvol|Computed Tomography Dose Index volumique (indice de dose de scanographie volumique)
+CTDIw|Computed Tomography Dose Index weighted (indice de dose de scanographie pondéré)
+CTSI|CT Severity Index (index de sévérité scanographique)
+DIU|Dispositif Intra-Utérin
+DLP|Dose-Length Product (produit dose × longueur)
+DSA|Digital Subtraction Angiography (angiographie numérique par soustraction)
+DTI|Diffusion Tensor Imaging (imagerie du tenseur de diffusion)
+DWI|Diffusion-Weighted Imaging (imagerie pondérée en diffusion)
+ECG|ÉlectroCardioGramme
+EMU|Examen Microscopique des Urines
+EU-TIRADS|European Thyroid Imaging Reporting And Data System (système européen de classification échographique des nodules thyroïdiens)
+FA|Fibrillation Atriale
+FAST|Focused Assessment with Sonography for Trauma (échographie ciblée du polytraumatisé)
+FC|Fréquence Cardiaque
+FLAIR|FLuid-Attenuated Inversion Recovery (inversion-récupération avec atténuation du signal des liquides)
+FOV|Field Of View (champ de vue)
+GEU|Grossesse Extra-Utérine
+HBP|Hypertrophie Bénigne de la Prostate
+HLA|Human Leukocyte Antigen (antigène des leucocytes humains)
+HLA-B27|Human Leukocyte Antigen B27 (antigène HLA de classe I, allèle B27)
+HNF|Hyperplasie Nodulaire Focale
+HR|Haute Résolution
+HSA|Hémorragie Sous-Arachnoïdienne
+HTA|HyperTension Artérielle
+HTAP|HyperTension Artérielle Pulmonaire
+HTP|HyperTension Portale
+IIB|Stade II B (FIGO) du cancer du col de l'utérus : atteinte des paramètres
+IIF|Bosniak II F (F = Follow-up : kyste à surveiller)
+IIa|Stade II a de Leriche-Fontaine (claudication au-delà de 200 m)
+IIb|Stade II b de Leriche-Fontaine (claudication avant 200 m)
+IR|Index de Résistance (Doppler)
+IRM|Imagerie par Résonance Magnétique
+IRMf|Imagerie par Résonance Magnétique fonctionnelle
+IST|Infection Sexuellement Transmissible
+IVG|Interruption Volontaire de Grossesse
+J4|Jour 4
+J5|Jour 5 (du cycle)
+J7|Jour 7
+J9|Jour 9 (de grossesse)
+J10|Jour 10
+J14|Jour 14
+J15|Jour 15 (du cycle)
+JJ|Double J (sonde urétérale à deux extrémités recourbées en J)
+KDIGO|Kidney Disease: Improving Global Outcomes (maladie rénale : améliorer les résultats à l'échelle mondiale)
+LCR|Liquide Céphalo-Rachidien
+LI-RADS|Liver Imaging Reporting And Data System (système de compte rendu et de données en imagerie du foie)
+MAV|Malformation Artério-Veineuse
+MHz|MégaHertz (million de cycles par seconde)
+MICI|Maladies Inflammatoires Chroniques de l'Intestin
+MIP|Maximum Intensity Projection (projection d'intensité maximale)
+MLO|Médio-Latérale Oblique (incidence de mammographie)
+MPR|MultiPlanar Reconstruction (reconstruction multiplanaire)
+MRKH|Mayer-Rokitansky-Küster-Hauser (syndrome de)
+MTT|Mean Transit Time (temps de transit moyen)
+MeV|Méga-électronvolt (million d'électronvolts)
+NF1|NeuroFibromatose de type 1
+NF2|NeuroFibromatose de type 2
+NaCl|Chlorure de sodium (Na = natrium/sodium, Cl = chlore) : sérum physiologique
+OAP|Œdème Aigu du Poumon
+OED|(transit) Œso-gastro-Duodénal
+OG|Oreillette Gauche
+PA|Postéro-Antérieur (incidence) ; aussi Pancréatite Aiguë
+PC|Produit de Contraste
+PDS|Produit Dose × Surface
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PET-FDG|Positron Emission Tomography au FluoroDésoxyGlucose (TEP au FDG)
+PID|Pelvic Inflammatory Disease (infection génitale haute)
+PL|Ponction Lombaire
+PNA|PyéloNéphrite Aiguë
+PR|Polyarthrite Rhumatoïde
+PRF|Pulse Repetition Frequency (fréquence de répétition des impulsions)
+PVA|PolyVinyl Alcohol (alcool polyvinylique)
+RCUH|RectoColite Ulcéro-Hémorragique
+RF|RadioFréquence
+RX|Rayons X
+SA|Semaines d'Aménorrhée
+SAR|Specific Absorption Rate (débit d'absorption spécifique)
+SDRA|Syndrome de Détresse Respiratoire Aiguë
+SEP|Sclérose En Plaques
+SHU|Syndrome Hémolytique et Urémique
+SNC|Système Nerveux Central
+STEMI|ST-Elevation Myocardial Infarction (infarctus du myocarde avec sus-décalage du segment ST)
+STIR|Short Tau Inversion Recovery (inversion-récupération à temps d'inversion court)
+T1|Temps de relaxation longitudinale (pondération T1) ; aussi 1er trimestre de grossesse
+T2|Temps de relaxation transversale (pondération T2) ; aussi 2e trimestre de grossesse
+T3|3e Trimestre de grossesse
+TABC|Tronc Artériel Brachio-Céphalique
+TAVI|Transcatheter Aortic Valve Implantation (implantation d'une valve aortique par cathéter)
+TE|Temps d'Écho
+TGC|Time Gain Compensation (compensation du gain en fonction du temps, donc de la profondeur)
+THS|Traitement Hormonal Substitutif
+TP|Travaux Pratiques
+TR|Temps de Répétition
+TSH|Thyroid-Stimulating Hormone (thyréostimuline)
+TTP|Time To Peak (temps jusqu'au pic)
+TVP|Thrombose Veineuse Profonde
+UH|Unités Hounsfield
+UIV|Urographie IntraVeineuse
+USI|Unité de Soins Intensifs
+VCS|Veine Cave Supérieure
+VIH|Virus de l'Immunodéficience Humaine
+VPN|Valeur Prédictive Négative
+VPP|Valeur Prédictive Positive
+WON|Walled-Off Necrosis (nécrose pancréatique organisée et encapsulée)
+WR|Weighting factor for Radiation (facteur de pondération du rayonnement, w_R)
+WT|Weighting factor for Tissue (facteur de pondération tissulaire, w_T)
+eGFR|estimated Glomerular Filtration Rate (débit de filtration glomérulaire estimé)
+mSv|milliSievert (millième de sievert)
+αFP|Alpha-FœtoProtéine
+βhCG|sous-unité Bêta de l'hormone Chorionique Gonadotrope humaine (human Chorionic GonadoTropin)
+minIP|Minimum Intensity Projection (projection d'intensité minimale)
+kV|kiloVolt (millier de volts)
+mA|milliAmpère (millième d'ampère)
+mAs|milliAmpère-seconde (intensité du tube × temps d'exposition)
+Gy|Gray (unité de dose absorbée, 1 Gy = 1 J/kg)
+mGy|milliGray (millième de gray)
+Sv|Sievert (unité de dose équivalente et efficace)
+angio-CT|Angio-Computed Tomography (angio-scanner, angiographie par tomodensitométrie)
+Angio-CT|Angio-Computed Tomography (angio-scanner, angiographie par tomodensitométrie)
+Angio-IRM|Angiographie par Imagerie par Résonance Magnétique
+angio-IRM|Angiographie par Imagerie par Résonance Magnétique
+entéro-CT|Entéro-Computed Tomography (entéro-scanner : scanner de l'intestin grêle)
+entéro-IRM|Entéro-Imagerie par Résonance Magnétique (IRM de l'intestin grêle)
+colo-CT|Colo-Computed Tomography (colo-scanner, coloscopie virtuelle)
+Colo-CT|Colo-Computed Tomography (colo-scanner, coloscopie virtuelle)
+uro-CT|Uro-Computed Tomography (uro-scanner : scanner des voies urinaires)
+Uro-CT|Uro-Computed Tomography (uro-scanner : scanner des voies urinaires)
+Uro-IRM|Uro-Imagerie par Résonance Magnétique (IRM des voies urinaires)
+uro-IRM|Uro-Imagerie par Résonance Magnétique (IRM des voies urinaires)
+Coro-CT|Coronary Computed Tomography (coroscanner : angio-scanner des coronaires)
+coro-CT|Coronary Computed Tomography (coroscanner : angio-scanner des coronaires)
+arthro-CT|Arthro-Computed Tomography (arthro-scanner : scanner après injection intra-articulaire)
+arthro-IRM|Arthro-Imagerie par Résonance Magnétique (IRM après injection intra-articulaire)
+cholangio-IRM|Cholangio-Imagerie par Résonance Magnétique (IRM des voies biliaires)
+oxyHb|OxyHémoglobine
+désoxyHb|DésoxyHémoglobine
+métHb|MétHémoglobine
+3D|Trois Dimensions
+5P|Les 5 P : Pain, Pallor, Pulselessness, Paresthesia, Paralysis (douleur, pâleur, absence de pouls, paresthésies, paralysie)
+14G|14 Gauge (calibre d'aiguille ≈ 2,1 mm)
+8G|8 Gauge (calibre d'aiguille ≈ 4,2 mm)
+Fr|French (unité de calibre des cathéters, ou Charrière : 1 Fr ≈ 0,33 mm)
+T2*|T2 étoile (T2 « star » : relaxation transversale incluant les inhomogénéités du champ)
+Fat Sat|Fat Saturation (saturation de la graisse)
+fat sat|Fat Saturation (saturation de la graisse)
+SF₆|Hexafluorure de soufre (S = soufre, F₆ = 6 atomes de fluor)
+CO₂|Dioxyde de carbone (gaz carbonique)
+W/kg|Watt par kilogramme
+Se|Sensibilité
+Sp|Spécificité
+C+|avec Contraste (injection de produit de contraste)
+C−|sans Contraste (sans injection de produit de contraste)
+Mz|Magnétisation (aimantation) selon l'axe z (longitudinale)
+Mxy|Magnétisation (aimantation) dans le plan xy (transversale)

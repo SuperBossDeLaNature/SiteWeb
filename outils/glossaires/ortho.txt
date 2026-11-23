@@ -1,107 +1,132 @@
-AINS|Anti-inflammatoires non stéroïdiens : soulagent douleur et inflammation (arthrose, arthrite).|Anti-inflammatoire non stéroïdien
-IRM|Imagerie par résonance magnétique : tendons, ligaments, cartilage, moelle, ostéonécrose débutante.|Imagerie par résonance magnétique
-PR;polyarthrite rhumatoïde|Polyarthrite rhumatoïde : rhumatisme inflammatoire auto-immun des petites articulations des mains et des pieds, érosif.|Polyarthrite rhumatoïde
-EMG|Électromyogramme : explore nerfs et muscles (canal carpien, radiculopathie).|Électromyographie
-MCP|Articulations métacarpo-phalangiennes (base des doigts) ; typiquement touchées dans la polyarthrite rhumatoïde.|Articulation métacarpo-phalangienne
-IPD;IPP|Articulations interphalangiennes distales (IPD, au bout des doigts, arthrose) et proximales (IPP, au milieu).|Articulation interphalangienne
-MTP1;MTP|Articulation métatarso-phalangienne du gros orteil (hallux valgus, hallux rigidus, goutte).|
-LCA|Ligament croisé antérieur du genou : empêche le tibia de glisser vers l'avant. Rupture au sport en torsion.|Ligament croisé antérieur
-BMP|Bone morphogenetic proteins : facteurs qui induisent la formation d'os (consolidation, ossifications).|Protéine morphogénétique osseuse
-MRC|Échelle de force musculaire de 0 à 5.|
-PTH;prothèse totale de hanche|Prothèse totale de hanche : remplace la tête fémorale et le cotyle ; traitement de la coxarthrose évoluée.|Prothèse totale de hanche
-HBPM|Héparines de bas poids moléculaire : préviennent les thromboses après chirurgie orthopédique.|Héparine de bas poids moléculaire
-HLA-B27|Marqueur génétique associé à la spondylarthrite ankylosante.|HLA-B27
-HLA-DR1;DR4|Marqueurs génétiques associés à la polyarthrite rhumatoïde.|
-VS;CRP|Vitesse de sédimentation et protéine C réactive : marqueurs biologiques d'inflammation.|Protéine C réactive
-CCP;anti-CCP|Anticorps anti-peptides citrullinés : très spécifiques de la polyarthrite rhumatoïde.|Anticorps anti-protéines citrullinées
-TNF;anti-TNF|Cytokine de l'inflammation ; les anti-TNF (biothérapies) traitent la PR et la spondylarthrite.|Anti-TNF
-TENS|Neurostimulation électrique transcutanée contre la douleur.|Neurostimulation électrique transcutanée
-SPECT-CT|Scintigraphie couplée au scanner pour localiser précisément une hyperfixation osseuse.|
-SLA|Sclérose latérale amyotrophique ; diagnostic différentiel d'une myélopathie cervicale.|Sclérose latérale amyotrophique
-HV;hallux valgus|Hallux valgus : déviation du gros orteil vers l'extérieur avec « oignon » à la base.|Hallux valgus
-hallux rigidus|Arthrose de la base du gros orteil : douleur et raideur en flexion dorsale.|Hallux rigidus
-LLI|Ligament latéral interne du genou (ou collatéral médial).|Ligament collatéral médial du genou
-POAN;para-ostéo-arthropathies|Ossifications autour des grosses articulations après lésion neurologique (coma, moelle).|Para-ostéo-arthropathie neurogène
-ACVR1|Gène muté dans la fibrodysplasie ossifiante progressive (muscles qui s'ossifient).|Fibrodysplasie ossifiante progressive
-remodelage osseux|Renouvellement permanent de l'os : les ostéoclastes détruisent, les ostéoblastes reconstruisent.|Remodelage osseux
-ostéoclastes|Cellules qui résorbent (détruisent) l'os.|Ostéoclaste
-ostéoblastes|Cellules qui fabriquent l'os.|Ostéoblaste
-moment d'inertie|Répartition de la matière autour de l'axe : un os creux et large résiste mieux à la flexion et la torsion.|Moment d'inertie
-bras de levier|Distance entre la force et le pivot ; détermine l'effort que doit fournir un muscle.|Levier (mécanique)
-Trendelenburg|Signe de Trendelenburg : debout sur une jambe, le bassin tombe du côté opposé si le moyen fessier est faible.|Signe de Trendelenburg
-cartilage|Tissu lisse et sans vaisseaux qui recouvre les surfaces articulaires.|Cartilage articulaire
-liquide synovial|Liquide visqueux de l'articulation qui lubrifie et nourrit le cartilage.|Liquide synovial
-synoviale;synovite|Membrane qui tapisse l'articulation (synoviale) ; son inflammation (synovite) fait gonfler l'articulation.|Membrane synoviale
-arthrose|Usure du cartilage avec réaction de l'os : douleur mécanique, raideur courte, ostéophytes.|Arthrose
-pincement|Diminution de l'espace articulaire à la radio, reflet de la perte de cartilage.|
-ostéophytes|Excroissances osseuses au bord de l'articulation arthrosique.|Ostéophyte
-géodes|Petites cavités dans l'os sous le cartilage, visibles en radio dans l'arthrose.|
-coxarthrose|Arthrose de la hanche : douleur de l'aine, boiterie, perte de rotation interne.|Coxarthrose
-gonarthrose|Arthrose du genou.|Gonarthrose
-prothèse totale de genou|Remplacement des surfaces du fémur, du tibia (± rotule) dans la gonarthrose évoluée.|Prothèse totale du genou
-ostéotomie|Coupe chirurgicale d'un os pour corriger un axe (ex. genou en varus).|Ostéotomie
-arthrodèse|Blocage chirurgical d'une articulation (fusion osseuse) pour supprimer la douleur.|Arthrodèse
-ostéonécrose|Mort d'une partie de l'os par manque de sang (tête fémorale : corticoïdes, alcool, drépanocytose).|Ostéonécrose
-spondylarthrite ankylosante;spondylarthrite|Rhumatisme inflammatoire du rachis et des sacro-iliaques de l'homme jeune (HLA-B27), douleurs nocturnes.|Spondylarthrite ankylosante
-sacro-iliaques|Articulations entre sacrum et bassin, touchées dans la spondylarthrite.|Articulation sacro-iliaque
-hernie discale|Saillie du disque qui comprime une racine nerveuse (sciatique, cruralgie).|Hernie discale
-sciatique|Douleur radiculaire L5 ou S1 descendant à l'arrière ou sur le côté de la jambe.|Sciatique
-Lasègue|Signe de Lasègue : lever la jambe tendue déclenche la douleur sciatique avant 60°.|Signe de Lasègue
-lombalgie|Douleur du bas du dos ; commune (mécanique) dans l'immense majorité des cas.|Lombalgie
-red flags|Signes d'alarme d'une lombalgie grave : fièvre, cancer, amaigrissement, déficit, traumatisme, âge extrême.|
-scoliose|Déformation de la colonne dans les 3 plans avec rotation des vertèbres (gibbosité en se penchant).|Scoliose
-gibbosité|Bosse d'un côté du dos quand le patient se penche en avant : signe de rotation vertébrale (scoliose vraie).|Gibbosité
-Cobb|Angle de Cobb : mesure de la courbure d'une scoliose sur la radio.|Angle de Cobb
-corset|Appareil rigide qui freine l'aggravation d'une scoliose en croissance.|Corset orthopédique
-Scheuermann|Maladie de Scheuermann : cyphose dorsale rigide de l'adolescent, vertèbres cunéiformes.|Maladie de Scheuermann
-cyphose|Courbure du dos convexe vers l'arrière (dos rond).|Cyphose
-lordose|Courbure convexe vers l'avant (cou, lombes).|Lordose
-spondylolyse|Fracture de fatigue de l'isthme (pont osseux arrière) d'une vertèbre, souvent L5.|Spondylolyse
-spondylolisthésis|Glissement d'une vertèbre vers l'avant sur celle du dessous.|Spondylolisthésis
-canal lombaire étroit|Rétrécissement du canal rachidien lombaire : douleurs des jambes à la marche, soulagées penché en avant.|Sténose spinale
-claudication neurogène|Douleurs/fourmillements des jambes à la marche par canal étroit (pouls normaux, soulagés en position penchée).|
-laminectomie|Ablation de la lame vertébrale pour élargir le canal.|Laminectomie
-myélopathie cervicale;myélopathie cervico-arthrosique|Compression de la moelle cervicale par l'arthrose : mains maladroites, marche raide, réflexes vifs aux jambes.|Myélopathie cervicarthrosique
-discarthrose|Arthrose du disque intervertébral (pincement, ostéophytes).|
-ostéoporose|Fragilité osseuse : fractures du poignet, des vertèbres, de la hanche après un choc minime.|Ostéoporose
-tassement vertébral|Fracture par écrasement du corps vertébral (ostéoporose, métastase).|Fracture vertébrale
-métastases|Cancers secondaires dans l'os (sein, prostate, poumon, rein, thyroïde).|Métastase osseuse
-rupture du tendon d'Achille;tendon d'Achille|Rupture du tendon du mollet (sport, quinolones) : impression de coup de pied, test de Thompson positif.|Rupture du tendon d'Achille
-Thompson|Test de Thompson : presser le mollet ne fait pas bouger le pied si le tendon d'Achille est rompu.|Test de Thompson
-canal carpien|Compression du nerf médian au poignet.|Syndrome du canal carpien
-consolidation|Réparation d'une fracture : hématome, cal mou, cal dur, remodelage.|Consolidation osseuse
-cal|Tissu de réparation qui soude une fracture.|Cal osseux
-pseudarthrose|Fracture qui ne s'est pas consolidée après 6 mois.|Pseudarthrose
-cal vicieux|Fracture consolidée en mauvaise position.|Cal vicieux
-ostéosynthèse|Fixation chirurgicale d'une fracture (plaque, vis, clou, broches).|Ostéosynthèse
-enclouage|Clou placé dans le canal médullaire d'un os long (fémur, tibia).|Enclouage centromédullaire
-fixateur externe|Fiches dans l'os reliées par une barre à l'extérieur du membre (fractures ouvertes, polytraumatisme).|Fixateur externe
-fracture ouverte|Fracture avec une plaie qui communique avec l'os : risque infectieux, antibiotiques et chirurgie rapide.|Fracture ouverte
-Gustilo|Classification des fractures ouvertes (I, II, IIIA-B-C) selon la plaie et les lésions des tissus mous.|
-syndrome des loges|Pression trop élevée dans une loge musculaire fermée (jambe, avant-bras) qui écrase muscles et nerfs : douleur disproportionnée, urgence (aponévrotomie).|Syndrome des loges
-aponévrotomie|Ouverture chirurgicale de l'enveloppe des muscles pour décomprimer une loge.|Fasciotomie
-algodystrophie;SDRC|Syndrome douloureux régional complexe : douleur, œdème, troubles vasomoteurs après un traumatisme.|Syndrome douloureux régional complexe
-embolie graisseuse|Passage de gouttelettes de graisse de la moelle dans le sang après fracture des os longs : détresse respiratoire, confusion, pétéchies.|Embolie graisseuse
-luxation|Perte totale de contact entre les deux surfaces d'une articulation.|Luxation
-luxation antérieure de l'épaule|La plus fréquente des luxations ; vérifier le nerf axillaire (sensibilité du moignon de l'épaule).|Luxation de l'épaule
-nerf axillaire|Nerf du deltoïde, menacé dans la luxation de l'épaule et la fracture du col de l'humérus.|Nerf axillaire
+AINS|Anti-inflammatoires non stéroïdiens : soulagent douleur et inflammation (arthrose en poussée, tendinites, rhumatismes) ; à durée courte à cause des risques digestifs, rénaux et cardiovasculaires ; ils peuvent ralentir la consolidation osseuse.|Anti-inflammatoire non stéroïdien
+IRM|Imagerie par résonance magnétique : examen de choix pour tendons, ligaments, ménisques, cartilage, moelle osseuse (œdème, ostéonécrose débutante, infection, tumeur) et disques ; non irradiante mais chère et moins disponible.|Imagerie par résonance magnétique
+T1;T2|Séquences d'IRM : en T1 la graisse (moelle normale) est blanche ; en T2 l'eau (œdème, liquide) est blanche. Un liseré noir en T1 et T2 dans la tête fémorale signe l'ostéonécrose.|Imagerie par résonance magnétique
+INAMI|Institut national d'assurance maladie-invalidité (Belgique) : il encadre le remboursement et donc l'accès à certains examens comme l'IRM.|Institut national d'assurance maladie-invalidité
+PR;polyarthrite rhumatoïde|Polyarthrite rhumatoïde : rhumatisme inflammatoire auto-immun de la synoviale, bilatéral et symétrique (poignets, MCP, IPP, avant-pieds) ; raideur matinale longue, destruction articulaire si non traitée ; anti-CCP ; méthotrexate puis biothérapies.|Polyarthrite rhumatoïde
+EMG|Électromyogramme : mesure la conduction des nerfs et l'activité des muscles ; confirme et localise une compression nerveuse (canal carpien, radiculopathie) et en mesure la gravité.|Électromyographie
+MCP|Articulations métacarpo-phalangiennes (base des doigts) ; typiquement touchées, de façon symétrique, dans la polyarthrite rhumatoïde (déviation des doigts « en coup de vent »).|Articulation métacarpo-phalangienne
+IPD;IPP;IP|Articulations interphalangiennes distales (IPD, au bout des doigts, arthrose : nodules d'Heberden) et proximales (IPP, milieu des doigts : PR ou arthrose avec nodules de Bouchard).|Articulation interphalangienne
+MTP1;MTP|Articulations métatarso-phalangiennes (base des orteils) ; celle du gros orteil (MTP1) est le siège de l'hallux valgus, de l'hallux rigidus et de la crise de goutte.|Articulation métatarso-phalangienne
+M1;M2;M5;P1;M1-P1|Métatarsiens (M1 à M5) et 1re phalange (P1) du pied. L'angle M1-P1 mesure l'hallux valgus (normal < 15°) ; la tête de M2 peut se nécroser (Freiberg) ; l'érosion de la tête de M5 est un signe précoce de PR.|Métatarse
+LCA|Ligament croisé antérieur du genou : empêche le tibia de glisser vers l'avant et de tourner. Rupture au sport (pivot, réception de saut) avec craquement et gonflement rapide ; test de Lachman ; ligamentoplastie chez le sportif ou en cas d'instabilité.|Ligament croisé antérieur
+BMP|Bone morphogenetic proteins : facteurs de croissance qui transforment des cellules souches en ostéoblastes ; utilisés pour aider certaines consolidations.|Protéine morphogénétique osseuse
+MRC|Échelle de force musculaire du Medical Research Council (0 = aucune contraction, 3 = contre la pesanteur, 5 = normale) ; une force ≤ 3/5 dans une sciatique = déficit qui peut justifier la chirurgie.|Échelle MRC
+PTH;prothèse totale de hanche|Prothèse totale de hanche : remplace la tête fémorale (tige + tête) et le cotyle (cupule) ; une des chirurgies les plus réussies (arthrose, nécrose, fracture du col). Complications : luxation, infection, thrombose, descellement, usure.|Prothèse totale de hanche
+PE|Polyéthylène : plastique de la cupule ou de l'insert d'une prothèse ; son usure (≈ 0,1 mm/an) libère des particules qui détruisent l'os autour (ostéolyse, descellement).|Polyéthylène
+HBPM|Héparines de bas poids moléculaire : préviennent les thromboses après chirurgie orthopédique des membres inférieurs (risque très élevé), en général 4–5 semaines après une prothèse de hanche.|Héparine de bas poids moléculaire
+HLA-B27|Marqueur génétique présent chez ≈ 90 % des patients atteints de spondylarthrite ankylosante (mais aussi chez 8 % de la population générale, donc pas diagnostique seul).|HLA-B27
+HLA-DR1;DR4|Marqueurs génétiques associés aux formes sévères de polyarthrite rhumatoïde.|
+VS;CRP|Vitesse de sédimentation et protéine C réactive : marqueurs d'inflammation ; élevés dans les arthrites, infections et rhumatismes inflammatoires, normaux dans l'arthrose.|Protéine C réactive
+CCP;anti-CCP|Anticorps anti-peptides citrullinés : très spécifiques de la polyarthrite rhumatoïde (> 95 %), présents parfois des années avant, et de pronostic plus sévère.|Anticorps anti-peptides cycliques citrullinés
+CD4|Lymphocytes T auxiliaires (CD4) : avec les lymphocytes B, ils orchestrent l'inflammation de la synoviale dans la PR.|Lymphocyte T CD4+
+TNF;anti-TNF|Facteur de nécrose tumorale : cytokine centrale de l'inflammation articulaire ; les anti-TNF (biothérapies : infliximab, adalimumab, étanercept) traitent PR et spondylarthrite ; risque d'infections (tuberculose à dépister avant).|Inhibiteur du TNF
+TENS|Neurostimulation électrique transcutanée : petits courants appliqués sur la peau qui atténuent la douleur (théorie du portillon).|Neurostimulation électrique transcutanée
+SPECT-CT|Scintigraphie couplée au scanner : localise précisément une hyperfixation (descellement, fracture de fatigue, arthrose active d'une facette).|Tomographie par émission monophotonique
+SLA|Sclérose latérale amyotrophique : maladie des motoneurones ; diagnostic différentiel d'une myélopathie cervicale (faiblesse sans troubles sensitifs).|Sclérose latérale amyotrophique
+SA;spondylarthrite ankylosante;spondylarthrite|Spondylarthrite ankylosante : rhumatisme inflammatoire de l'homme jeune touchant sacro-iliaques et rachis (douleur lombaire nocturne, raideur matinale améliorée par l'activité), puis ossification des ligaments (« colonne bambou ») ; HLA-B27 ; AINS, kiné, anti-TNF.|Spondylarthrite ankylosante
+HV;hallux valgus|Hallux valgus : déviation du gros orteil vers l'extérieur avec saillie de la tête de M1 (« oignon ») ; souvent héréditaire (par la mère), chaussures étroites ; chirurgie si douleur (ostéotomies).|Hallux valgus
+hallux rigidus|Arthrose de la base du gros orteil : douleur et raideur en flexion dorsale (gêne au déroulé du pas) ; ostéophyte dorsal ; chirurgie : cheilectomie ou arthrodèse.|Hallux rigidus
+LLI|Ligament latéral interne du genou (collatéral médial) : lésé par un choc en valgus ; cicatrise bien sous attelle, rarement opéré.|Ligament collatéral médial
+POAN;para-ostéo-arthropathies|Ossifications autour des grosses articulations (hanche, coude) après une lésion neurologique grave (trauma crânien, médullaire, coma) : raideur, parfois ankylose ; chirurgie quand elles sont matures.|Ossification hétérotopique
+ACVR1|Gène muté dans la fibrodysplasie ossifiante progressive : muscles et tendons s'ossifient progressivement (toute chirurgie aggrave).|ACVR1
+remodelage osseux|Renouvellement permanent de l'os (≈ 10 %/an) : les ostéoclastes creusent, les ostéoblastes reconstruisent ; l'os s'adapte aux contraintes (loi de Wolff).|Remodelage osseux
+ostéoclastes|Cellules géantes qui résorbent l'os ; activées par la PTH via le RANKL ; cibles des bisphosphonates et du dénosumab.|Ostéoclaste
+ostéoblastes|Cellules qui fabriquent la matrice osseuse puis s'y emmurent (ostéocytes).|Ostéoblaste
+moment d'inertie|Répartition de la matière autour de l'axe : un os tubulaire large et creux résiste bien mieux à la flexion et la torsion qu'une tige pleine de même poids.|Moment quadratique
+bras de levier|Distance entre la force et le pivot : les muscles fessiers ont un bras de levier court par rapport au poids du corps, d'où des forces sur la hanche de plusieurs fois le poids du corps à la marche.|Bras de levier
+Trendelenburg|Signe de Trendelenburg : debout sur une jambe, le bassin tombe du côté opposé car les moyens fessiers du côté d'appui sont faibles (coxarthrose, paralysie, luxation congénitale).|Signe de Trendelenburg
+cartilage|Cartilage articulaire hyalin : tissu lisse, sans vaisseaux ni nerfs, nourri par le liquide synovial ; il amortit et fait glisser ; il ne se répare presque pas.|Cartilage articulaire
+liquide synovial;PM|Liquide synovial : filtrat du plasma enrichi en acide hyaluronique (poids moléculaire, PM, de plusieurs millions) qui le rend visqueux ; lubrifie et nourrit le cartilage. Sa ponction (cellules, cristaux, germes) distingue arthrose, arthrite, goutte, infection.|Liquide synovial
+synoviale;synovite|Membrane qui tapisse l'intérieur de l'articulation et fabrique le liquide synovial ; son inflammation (synovite) gonfle et chauffe l'articulation (PR, infection, cristaux).|Membrane synoviale
+arthrose|Maladie de toute l'articulation avec usure du cartilage et réaction de l'os : douleur mécanique (à l'effort, calmée au repos), raideur courte au réveil, radio avec pincement localisé, ostéophytes, sclérose et géodes. Traitement : poids, activité, antalgiques, infiltrations, prothèse.|Arthrose
+pincement|Diminution de la hauteur de l'interligne articulaire à la radio, reflet de la perte de cartilage ; localisé à la zone d'appui dans l'arthrose, global dans l'arthrite.|
+ostéophytes|Excroissances osseuses au bord de l'articulation arthrosique (« becs de perroquet » au rachis) ; peuvent comprimer des nerfs.|Ostéophyte
+géodes|Petites cavités claires dans l'os sous le cartilage, visibles en radio dans l'arthrose avancée.|
+coxarthrose|Arthrose de la hanche : douleur de l'aine irradiant à la cuisse et au genou, boiterie, perte de rotation interne ; causes : âge, dysplasie, conflit fémoro-acétabulaire, nécrose. Prothèse si handicap.|Coxarthrose
+gonarthrose|Arthrose du genou (fémoro-tibiale interne surtout, favorisée par le genu varum et l'obésité) ; ostéotomie chez le jeune, prothèse chez l'âgé.|Gonarthrose
+prothèse totale de genou|Remplacement des surfaces du fémur et du tibia (± rotule) dans l'arthrose évoluée ; rééducation plus longue que la hanche ; complications : raideur, infection, thrombose.|Arthroplastie du genou
+ostéotomie|Coupe chirurgicale d'un os pour corriger un axe (genou en varus) ou décharger une zone usée ; garde l'articulation du patient jeune.|Ostéotomie
+arthrodèse|Blocage chirurgical définitif d'une articulation (fusion osseuse) pour supprimer la douleur ou l'instabilité (cheville, poignet, MTP1, rachis).|Arthrodèse
+ostéonécrose|Mort d'une partie de l'os par interruption de sa vascularisation (tête fémorale surtout) : corticoïdes, alcool, drépanocytose, fracture du col, plongée. IRM précoce ; à terme, effondrement de la tête et arthrose.|Ostéonécrose
+sacro-iliaques|Articulations entre sacrum et os iliaques, touchées précocement dans la spondylarthrite (sacro-iliite : IRM avant la radio).|Articulation sacro-iliaque
+C1;C2;C1-C2|Atlas (C1) et axis (C2), premières vertèbres cervicales. Dans la PR, l'atteinte C1-C2 peut rendre la nuque instable : à exclure avant toute anesthésie ou manipulation du cou.|Atlas (vertèbre)
+T11|11e vertèbre thoracique : le centre de gravité du corps passe juste en avant.|Vertèbre thoracique
+hernie discale|Saillie du noyau du disque à travers l'anneau fissuré, qui comprime une racine nerveuse : sciatique (L5, S1) ou cruralgie (L3, L4) ; 90 % guérissent sans chirurgie en 6–8 semaines ; chirurgie si déficit, queue de cheval ou douleur rebelle.|Hernie discale
+C5-C6;C6-C7;L4-L5;L5-S1;L3-L4;L1-L2|Étages discaux (disque entre deux vertèbres). Les plus touchés par les hernies : C5-C6 et C6-C7 au cou, L4-L5 et L5-S1 aux lombes. La moelle se termine vers L1-L2 (en dessous : queue de cheval).|Disque intervertébral
+C5;C6;C7;L4;L5;S1|Racines nerveuses : C5 (biceps, réflexe bicipital), C6 (réflexe huméro-stylo-radial, douleur jusqu'au pouce), C7 (triceps), L4 (quadriceps, réflexe rotulien), L5 (releveurs du pied, douleur jusqu'au gros orteil, pas de réflexe), S1 (mollet, réflexe achilléen, douleur jusqu'au petit orteil).|Racine nerveuse
+sciatique|Douleur radiculaire L5 ou S1 qui descend sous le genou (arrière de la cuisse, côté ou arrière de la jambe, jusqu'au pied) ; souvent par hernie discale.|Sciatique
+Lasègue|Signe de Lasègue : lever la jambe tendue du patient couché reproduit la douleur sciatique avant 60° (étirement de la racine L5 ou S1).|Signe de Lasègue
+lombalgie|Douleur du bas du dos ; commune (mécanique, sans gravité) dans plus de 90 % des cas, guérit en quelques semaines ; pas d'imagerie avant 6 semaines sauf drapeaux rouges.|Lombalgie
+red flags|Drapeaux rouges d'une lombalgie grave : fièvre, cancer connu, amaigrissement, âge > 50 ans ou < 20 ans, douleur nocturne non mécanique, déficit neurologique, troubles sphinctériens, traumatisme, corticoïdes, drogue IV, VIH.|
+AEG|Altération de l'état général : un des drapeaux rouges.|
+scoliose|Déformation de la colonne dans les 3 plans avec rotation des vertèbres (gibbosité) ; idiopathique de l'adolescente le plus souvent ; surveillance, corset ou chirurgie selon l'angle de Cobb et la croissance restante.|Scoliose
+gibbosité|Bosse d'un côté du dos quand le patient se penche en avant (test d'Adams) : rotation des vertèbres, signe d'une vraie scoliose.|
+Cobb|Angle de Cobb : angle entre les vertèbres limites d'une courbure sur la radio de face ; > 10° = scoliose ; > 25° en croissance = corset ; > 45–50° = chirurgie.|Angle de Cobb
+corset|Appareil rigide porté de nombreuses heures par jour pour freiner l'aggravation d'une scoliose pendant la croissance (il ne la corrige pas).|Corset orthopédique
+Scheuermann|Maladie de Scheuermann : cyphose dorsale rigide de l'adolescent, avec vertèbres cunéiformes (en coin) ; dos douloureux et rond.|Maladie de Scheuermann
+cyphose|Courbure du dos convexe vers l'arrière (dos rond) ; normale au dos (thoracique), pathologique si excessive.|Cyphose
+lordose|Courbure convexe vers l'avant, normale au cou et aux lombes.|Lordose
+spondylolyse|Fracture de fatigue de l'isthme (pont osseux de l'arc postérieur) d'une vertèbre, souvent L5, chez le jeune sportif en hyperextension (gymnastique).|Spondylolyse
+spondylolisthésis|Glissement d'une vertèbre vers l'avant sur celle du dessous : par lyse isthmique (jeune, L5-S1) ou par arthrose des articulaires (âgé, L4-L5) ; peut rétrécir le canal.|Spondylolisthésis
+canal lombaire étroit|Rétrécissement du canal rachidien lombaire (arthrose, disque, ligament jaune épaissi) chez l'âgé : douleurs et faiblesse des jambes à la marche, soulagées par la flexion ou l'assise ; décompression chirurgicale si gênant.|Sténose du canal lombaire
+claudication neurogène|Douleurs, fourmillements ou faiblesse des jambes à la marche dus au canal étroit ; contrairement à la claudication artérielle, ils ne cèdent pas vite à l'arrêt debout mais en se penchant ou en s'asseyant.|Claudication
+laminectomie|Ablation de la lame vertébrale (et du ligament jaune) pour élargir le canal et libérer les racines ou la moelle.|Laminectomie
+myélopathie cervicale;myélopathie cervico-arthrosique|Compression de la moelle cervicale par l'arthrose (disques, ostéophytes, ligaments) : mains maladroites, troubles de la marche, réflexes vifs, Hoffmann ; IRM ; chirurgie de décompression si progressive.|Myélopathie cervicale
+AP|Diamètre antéro-postérieur du canal : < 10 mm au cou = canal étroit qui menace la moelle.|
+PEM;PES|Potentiels évoqués moteurs (PEM) et somesthésiques (PES) : mesurent la conduction dans la moelle ; les PEM sont plus sensibles pour la myélopathie.|Potentiel évoqué
+JOA|Score de la Japanese Orthopaedic Association (0–17) : gravité fonctionnelle d'une myélopathie cervicale.|
+discarthrose|Arthrose du disque intervertébral : pincement discal, ostéophytes, parfois douleur ou compression.|
+ostéoporose|Fragilité osseuse diffuse (masse osseuse basse et architecture abîmée) : fractures pour des chocs minimes (poignet, vertèbres, col du fémur) après 50 ans ; dépistage par densitométrie ; traitements anti-résorption.|Ostéoporose
+tassement vertébral|Fracture par écrasement du corps vertébral : ostéoporose (le plus souvent), métastase ou myélome (chercher les signes de malignité).|Tassement vertébral
+métastases|Cancers secondaires dans l'os (sein, prostate, poumon, rein, thyroïde) : douleurs nocturnes, fractures pathologiques, compression médullaire, hypercalcémie.|Métastase osseuse
+rupture du tendon d'Achille;tendon d'Achille|Rupture du tendon du mollet (sport, 30–50 ans, fluoroquinolones, corticoïdes) : « coup de pied » au mollet, encoche palpable, test de Thompson positif ; traitement orthopédique (botte en équin) ou chirurgie.|Rupture du tendon calcanéen
+Thompson|Test de Thompson : presser le mollet du patient couché sur le ventre ne fait plus bouger le pied si le tendon d'Achille est rompu.|Test de Thompson
+canal carpien|Compression du nerf médian au poignet : fourmillements nocturnes des 3 premiers doigts, puis faiblesse et fonte du muscle du pouce ; attelle, infiltration, puis section du ligament.|Syndrome du canal carpien
+A1|Poulie A1 : première poulie des tendons fléchisseurs, à la base du doigt ; le doigt à ressort y bloque.|Doigt à ressort
+consolidation|Réparation d'une fracture : hématome → cal mou (cartilage, 2–3 semaines) → cal dur (os tissé) → remodelage (mois à années). Favorisée par la stabilité, la vascularisation et l'absence d'infection ; freinée par le tabac.|Consolidation osseuse
+cal|Tissu de réparation qui soude une fracture ; visible en radio quelques semaines après.|Cal osseux
+pseudarthrose|Fracture non consolidée après le délai habituel (≈ 6 mois) : mobilité et douleur persistantes ; due à l'instabilité, au manque de vascularisation ou à l'infection ; on réopère (stabiliser, greffer).|Pseudarthrose
+cal vicieux|Fracture consolidée dans une mauvaise position (angulation, rotation, raccourcissement) ; gêne fonctionnelle, arthrose à terme ; corrigé par ostéotomie.|Cal vicieux
+ostéosynthèse|Fixation chirurgicale d'une fracture (plaques, vis, clous, broches, fixateur) pour la tenir en bonne position jusqu'à consolidation et permettre une mobilisation précoce.|Ostéosynthèse
+enclouage|Clou placé dans le canal médullaire d'un os long (fémur, tibia, humérus) : fixation solide qui permet souvent l'appui rapide.|Enclouage centromédullaire
+fixateur externe|Fiches dans l'os reliées par une barre à l'extérieur du membre : fixation rapide sans ouvrir le foyer (fractures ouvertes, polytraumatisés, damage control).|Fixateur externe
+fracture ouverte|Fracture avec une plaie qui communique avec l'os : urgence (antibiotique précoce, vaccin antitétanique, débridement au bloc) à cause du risque d'infection osseuse.|Fracture ouverte
+Gustilo;IIIA;IIIB;IIIC|Classification de Gustilo des fractures ouvertes : I plaie < 1 cm, II 1–10 cm, III > 10 cm ou lésions graves (IIIA : os encore couvrable ; IIIB : os à nu, lambeau nécessaire ; IIIC : lésion artérielle à réparer). Plus le type est élevé, plus le risque d'infection et d'amputation est grand.|Classification de Gustilo
+syndrome des loges|Augmentation de la pression dans une loge musculaire fermée (jambe, avant-bras) après fracture, écrasement ou plâtre serré : douleur intense disproportionnée, aggravée par l'étirement des muscles ; urgence chirurgicale (risque de nécrose musculaire).|Syndrome des loges
+aponévrotomie|Ouverture chirurgicale de l'enveloppe des muscles (aponévrose) pour décomprimer une loge en urgence.|Fasciotomie
+algodystrophie;SDRC|Syndrome douloureux régional complexe : après une fracture ou une chirurgie, douleur intense, œdème, troubles de la couleur et de la sudation, puis raideur et déminéralisation ; plus fréquent après fracture du poignet ; kiné, antalgiques, vitamine C en prévention.|Syndrome douloureux régional complexe
+embolie graisseuse|Passage de gouttelettes de graisse de la moelle dans le sang 24–72 h après une fracture des os longs : détresse respiratoire, confusion, pétéchies ; prévenue par la fixation précoce.|Embolie graisseuse
+luxation|Perte totale de contact entre les deux surfaces d'une articulation (subluxation si partielle) ; réduction urgente, sous anesthésie, puis contrôle radio et des nerfs/vaisseaux.|Luxation
+luxation antérieure de l'épaule|La plus fréquente des luxations (bras tiré en abduction-rotation externe) : épaule « en épaulette », bras bloqué ; vérifier le nerf axillaire avant et après réduction ; risque de récidive chez le jeune (Bankart, Hill-Sachs).|Luxation de l'épaule
+AG|Anesthésie générale : parfois nécessaire pour réduire une luxation sans abîmer l'os ou les nerfs.|Anesthésie générale
+nerf axillaire|Nerf du deltoïde et de la sensibilité du moignon de l'épaule ; menacé dans la luxation de l'épaule et la fracture du col de l'humérus.|Nerf axillaire
 nerf radial|Nerf de l'extension du poignet et des doigts ; menacé dans la fracture de la diaphyse humérale (main tombante).|Nerf radial
-supracondylienne|Fracture de l'humérus juste au-dessus du coude chez l'enfant ; risque pour l'artère humérale et le nerf médian.|Fracture supracondylienne de l'humérus
-nerf médian|Nerf de la flexion des doigts et de l'opposition du pouce.|Nerf médian
-olécrâne|Pointe osseuse du coude (ulna), qui se fracture en tombant sur le coude.|Olécrâne
-scaphoïde|Petit os du poignet ; sa fracture passe inaperçue (radio normale) et peut se nécroser.|Os scaphoïde
-tabatière anatomique|Creux à la base du pouce ; une douleur à ce niveau évoque une fracture du scaphoïde.|Tabatière anatomique
-Pouteau-Colles|Fracture du radius distal avec bascule vers le dos (chute sur la main), « dos de fourchette ».|Fracture de Pouteau-Colles
-fracture de hanche;col du fémur|Fracture du col du fémur du sujet âgé : jambe raccourcie en rotation externe ; urgence (opérer < 48 h).|Fracture du col du fémur
-Garden|Classification des fractures du col du fémur (I à IV) selon le déplacement ; guide entre vissage et prothèse.|Classification de Garden
-luxation de hanche|Luxation (souvent postérieure, choc du genou sur le tableau de bord) : jambe en rotation interne ; risque de nécrose de la tête.|Luxation de la hanche
-plateau tibial|Partie haute du tibia qui porte le genou ; fracture par choc en valgus.|
-malléoles|Bosses osseuses de la cheville (tibia en dedans, fibula en dehors).|Malléole
-entorse|Étirement ou rupture d'un ligament sans perte de contact articulaire.|Entorse
-bassin|Anneau osseux ; ses fractures graves saignent beaucoup et peuvent léser vessie et urètre.|Bassin (anatomie)
-ostéosarcome|Tumeur maligne osseuse de l'adolescent, autour du genou ; image en « feu d'herbe ».|Ostéosarcome
-Ewing|Sarcome d'Ewing : tumeur maligne de l'enfant (diaphyse, bassin), réaction en « bulbe d'oignon ».|Sarcome d'Ewing
-ostéome ostéoïde|Petite tumeur bénigne très douloureuse la nuit, calmée par l'aspirine.|Ostéome ostéoïde
-ostéochondrome;exostose|Tumeur bénigne la plus fréquente : excroissance osseuse coiffée de cartilage.|Ostéochondrome
-biopsie|Prélèvement de la tumeur, à faire dans un centre spécialisé avec un trajet qui sera enlevé ensuite.|Biopsie
-ossifications hétérotopiques|Formation d'os dans des tissus mous (muscles) après traumatisme, chirurgie ou lésion neurologique.|Ossification hétérotopique
+supracondylienne|Fracture de l'humérus juste au-dessus du coude chez l'enfant (chute main tendue) ; urgence : risque pour l'artère humérale et les nerfs, syndrome des loges (Volkmann).|Fracture supracondylienne de l'humérus
+nerf médian|Nerf de la flexion des doigts et de l'opposition du pouce ; comprimé au canal carpien, menacé dans les fractures du coude.|Nerf médian
+olécrâne|Pointe osseuse du coude (ulna) ; sa fracture par chute sur le coude, déplacée par le triceps, s'opère (hauban).|Olécrâne
+scaphoïde|Petit os du poignet ; sa fracture (chute sur la main) passe inaperçue (radio initiale souvent normale) et peut se compliquer de nécrose ou de pseudarthrose : immobiliser au moindre doute et refaire l'imagerie.|Os scaphoïde
+tabatière anatomique|Creux à la base du pouce entre deux tendons ; une douleur à la pression évoque une fracture du scaphoïde.|Tabatière anatomique
+Pouteau-Colles|Fracture du radius distal avec bascule du fragment vers le dos (chute sur la main tendue, souvent femme ostéoporotique) : déformation « en dos de fourchette ».|Fracture de Pouteau-Colles
+fracture de hanche;col du fémur|Fracture du col du fémur du sujet âgé (chute simple, ostéoporose) : jambe raccourcie en rotation externe ; opérer dans les 24–48 h (prothèse ou vissage) et lever précocement ; mortalité d'environ 20 % à 1 an.|Fracture du col du fémur
+Garden|Classification des fractures du col du fémur (I à IV) selon le déplacement : I–II peu déplacées (vissage possible), III–IV déplacées (risque de nécrose → prothèse chez l'âgé).|Classification de Garden
+luxation de hanche|Luxation (le plus souvent postérieure, genou contre le tableau de bord) : urgence à réduire dans les 6 h (risque de nécrose de la tête), vérifier le nerf sciatique.|Luxation de la hanche
+plateau tibial|Partie haute du tibia qui porte le genou ; fracture par choc en valgus ou chute ; articulaire, donc souvent opérée.|Plateau tibial
+malléoles|Saillies osseuses de la cheville (tibia en dedans, fibula en dehors) ; leurs fractures déstabilisent la pince tibio-fibulaire.|Malléole
+entorse|Étirement ou rupture d'un ligament sans perte de contact articulaire (cheville surtout) ; la plupart guérissent avec une attelle et une rééducation.|Entorse
+bassin|Anneau osseux ; ses fractures graves (haute énergie) saignent beaucoup (plexus veineux) et peuvent léser vessie, urètre, nerfs ; ceinture pelvienne et embolisation en urgence.|Fracture du bassin
+SCM|Muscle sterno-cléido-mastoïdien : il tire vers le haut le fragment interne d'une fracture de la clavicule.|Muscle sterno-cléido-mastoïdien
+ostéosarcome|Tumeur maligne osseuse de l'adolescent, autour du genou (métaphyse) : douleur, masse ; radio en « feu d'herbe », éperon de Codman ; chimiothérapie + chirurgie.|Ostéosarcome
+Ewing|Sarcome d'Ewing : tumeur maligne de l'enfant et de l'adolescent (diaphyse, bassin), parfois avec fièvre ; réaction périostée « en bulbe d'oignon » ; chimio, chirurgie, radiothérapie.|Sarcome d'Ewing
+ostéome ostéoïde|Petite tumeur bénigne de l'os du sujet jeune, très douloureuse la nuit et calmée par l'aspirine ; nidus visible au scanner ; détruite par radiofréquence.|Ostéome ostéoïde
+ostéochondrome;exostose|Tumeur bénigne osseuse la plus fréquente : excroissance osseuse coiffée de cartilage, près du genou ; dégénère rarement (surveiller si elle grossit après la croissance).|Ostéochondrome
+biopsie|Prélèvement d'une tumeur osseuse, à faire dans le centre qui opérera, avec un trajet qui sera enlevé avec la tumeur (sinon contamination des tissus sains).|Biopsie
+ossifications hétérotopiques|Formation d'os dans des tissus mous (muscles) après trauma, chirurgie de hanche ou lésion neurologique ; prévention par AINS ou radiothérapie.|Ossification hétérotopique
+J1;J15|Jours après l'opération (J1 = lendemain).|
+WC|Toilettes : un rehausseur évite de trop fléchir la hanche après prothèse (risque de luxation).|
+DD|Diagnostic différentiel.|Diagnostic différentiel
+McMurray|Test méniscal : flexion-extension du genou en rotation ; un claquement douloureux évoque une lésion du ménisque (avec le test d'Appley).|Test de McMurray
+Kellgren-Lawrence|Classification radiologique de l'arthrose en 5 grades (0 à 4) selon le pincement de l'interligne, les ostéophytes, la sclérose sous-chondrale et la déformation des extrémités osseuses. Elle décrit l'image, pas la gêne : la douleur est souvent sans rapport avec le grade radiologique, d'où la règle de traiter le patient et non la radio.|Arthrose
+Gustilo-Anderson|Nom complet de la classification des fractures ouvertes (Gustilo et Anderson) : type I plaie < 1 cm, II de 1 à 10 cm, III > 10 cm ou lésions graves (IIIA, IIIB, IIIC). Plus le type est élevé, plus le risque d'infection et de pseudarthrose est grand ; elle guide l'antibiothérapie et le besoin de couverture par lambeau.|
+mmHg|Millimètre de mercure : unité de pression. Dans le syndrome des loges, on mesure la pression dans la loge musculaire (normale 0–8 mmHg) ; au-delà de 30 mmHg, ou trop proche de la pression diastolique, la circulation capillaire s'arrête et il faut une aponévrotomie en urgence.|Millimètre de mercure
+Essex-Lopresti|Lésion de l'avant-bras associant une fracture de la tête radiale, une rupture de la membrane interosseuse et une luxation de l'articulation radio-cubitale inférieure (au poignet). À connaître car on risque de ne traiter que la tête radiale et de rater l'instabilité du poignet ; le cours la résume comme radius + tête radiale.|
+Goyrand-Smith|Fracture du radius distal avec bascule du fragment vers la paume (palmaire), par chute sur le dos de la main ; c'est l'inverse de la fracture de Pouteau-Colles. Elle est plus instable et nécessite souvent une ostéosynthèse par plaque antérieure.|Fracture de Pouteau-Colles

@@ -1,0 +1,135 @@
+1|macronutriments|Les macronutriments sont ceux qui apportent des calories : 4 kcal/g pour glucides et protéines, 9 pour les lipides.
+1|micronutriments|Vitamines et minéraux n'apportent aucune calorie mais sont indispensables au fonctionnement des enzymes.
+1|ADEK|Les vitamines A, D, E, K se dissolvent dans les graisses : elles sont stockées (d'où toxicité en excès) et manquent si les graisses sont mal absorbées.
+1|ATP|L'énergie des aliments est transformée en ATP grâce à l'oxygène.
+1|métabolisme de base|Le métabolisme de base représente la plus grosse part de la dépense quotidienne (50–70 %).
+1|biodisponibilité|Toute l'énergie d'un aliment n'est pas absorbée : on corrige par la part réellement absorbée.
+1|QR|Le QR indique quel carburant le corps brûle : 1 = glucides, 0,7 = graisses.
+1|calorimétrie indirecte|On mesure le QR en analysant l'air expiré (O2 et CO2).
+1|SGLT1|Le glucose entre dans la cellule intestinale par SGLT1, en même temps que le sodium.
+1|AG|Les acides gras courts passent directement dans la veine porte.
+1|TG|Les acides gras longs sont remontés en triglycérides et partent dans la lymphe (chylomicrons).
+1|B12|La B12 est absorbée seulement en fin d'iléon, avec le facteur intrinsèque : une résection de l'iléon donne une carence.
+1|IG|L'IG mesure la montée de la glycémie sur 2 h ; chez le diabétique, on préfère les aliments à IG bas.
+1|fibres|Les fibres solubles sont fermentées par les bactéries du côlon ; les insolubles augmentent surtout le volume des selles.
+1|OMS|L'OMS recommande plus de 25 g de fibres par jour.
+1|EFSA|L'EFSA recommande aussi plus de 25 g de fibres par jour.
+1|CSS|Le Conseil supérieur de la santé belge recommande plus de 30 g/j ; les Belges en mangent moins.
+2|SD|L'apport recommandé est fixé au besoin moyen + 2 écarts-types, pour couvrir presque tout le monde.
+2|MCV|Les maladies cardiovasculaires sont la 1re cause de décès dans le monde : l'alimentation en est un levier majeur.
+2|NOAEL|La NOAEL sert à fixer la dose maximale sans danger d'un nutriment.
+2|BMI|Les besoins dépendent aussi de la corpulence.
+2|PAL|Besoin en énergie = dépense de repos × niveau d'activité (PAL).
+2|AET|Les glucides doivent représenter ≈ 55 % des calories totales.
+2|IG|On privilégie les glucides à IG bas (complets, légumineuses).
+2|AG|Graisses saturées < 10 % des calories.
+2|MUFA|Mono-insaturés 10–20 % et polyinsaturés 5–10 % des calories.
+2|PREDIMED|PREDIMED : régime méditerranéen enrichi = 30 % d'événements cardiovasculaires en moins.
+2|régime méditerranéen|Le régime méditerranéen est le seul à avoir prouvé une baisse des infarctus et AVC.
+2|CV|Événements cardiovasculaires majeurs : infarctus, AVC, décès cardiovasculaire.
+2|NaCl|1 g de sel apporte 17 mmol de sodium ; la plupart vient des aliments industriels.
+2|HTA|Le seul risque prouvé d'un excès de sel est l'hypertension.
+2|albumine|Une partie du calcium sanguin est liée à l'albumine : si l'albumine est basse, le calcium total paraît bas sans vrai manque.
+2|PTH|La PTH règle le calcium sanguin.
+2|IR|En insuffisance rénale, le phosphore s'accumule et abîme l'os (ostéodystrophie).
+2|ferritine|30 % du fer du corps est stocké dans la ferritine.
+2|AJR|Il faut 9 mg de fer par jour (15 mg chez la femme réglée, qui en perd chaque mois).
+2|sélénium|La carence en sélénium touche surtout le cœur (cardiomyopathie).
+2|zinc|Le zinc fait partie de ≈ 200 enzymes ; sa carence ralentit la croissance et la cicatrisation.
+2|SOD|Le cuivre fait partie de la SOD (antioxydant) et de la céruloplasmine.
+2|iode|L'iode sert à fabriquer les hormones thyroïdiennes ; la Belgique est en légère carence, d'où le sel et le pain enrichis.
+2|T3|Sans iode, la thyroïde ne fabrique plus T3 et T4 : goitre, et retard mental chez l'enfant.
+2|RBP|La vitamine A circule liée à la RBP.
+2|UVB|La vitamine D est fabriquée par la peau sous les UVB, puis activée par le foie et le rein.
+2|VDR|La vitamine D active agit via son récepteur VDR.
+2|K1|La vitamine K des légumes (K1) et celle des bactéries de l'intestin (K2) activent les facteurs de coagulation.
+2|PIVKA|Les PIVKA (facteurs de coagulation inactifs) sont le marqueur d'une carence en vitamine K.
+2|scorbut|Sans vitamine C, le collagène est mal formé : scorbut.
+2|B1|La B1 est indispensable pour utiliser les glucides et au fonctionnement des nerfs.
+2|Wernicke|La carence en B1 chez l'alcoolique donne l'encéphalopathie de Wernicke puis Korsakoff.
+2|B6|La B6 est un cofacteur des transaminases ; l'isoniazide (anti-tuberculeux) peut en provoquer une carence.
+2|B9|Les folates servent à la synthèse de l'ADN ; le méthotrexate les bloque.
+2|ADN|Sans folates, les cellules qui se divisent vite (moelle) font des globules rouges géants : anémie macrocytaire.
+2|B12|Attention : donner des folates corrige l'anémie d'un manque de B12 mais laisse les nerfs s'abîmer.
+2|IPP|Les IPP (moins d'acide) et la metformine diminuent l'absorption de la B12.
+3|hypothalamus|L'hypothalamus intègre les signaux du tube digestif et de la graisse pour régler la faim.
+3|BMI|Le BMI ne mesure pas la masse grasse : il faut d'autres outils (tour de taille, DEXA…).
+3|dénutrition|La dénutrition est fréquente et souvent méconnue, surtout à l'hôpital.
+3|leptine|Les aliments très gras et sucrés favorisent la prise de poids, puis une résistance à la leptine (le cerveau ne « l'entend » plus).
+3|NPY|La faim de court terme passe notamment par le NPY.
+3|ghréline|La ghréline de l'estomac donne faim avant les repas.
+3|satiété|La satiété vient des signaux du tube digestif après le repas.
+3|GLP-1|Le GLP-1 est un des signaux de satiété de l'intestin.
+3|CCK|La CCK, libérée par les graisses dans le duodénum, aide à arrêter de manger.
+3|PYY|Le PYY prolonge la satiété après le repas.
+3|α-MSH|α-MSH et CART freinent l'appétit (noyau arqué).
+3|appétit|L'appétit est un désir de manger, pas forcément un besoin.
+3|rassasiement|Le rassasiement fait arrêter le repas ; la satiété empêche d'avoir faim avant le suivant.
+3|P5|Chez l'enfant, on utilise des percentiles du BMI pour l'âge : sous le 5e = dénutrition.
+3|DEXA|La DEXA mesure l'os, la masse grasse et la masse maigre.
+3|CT|Le scanner distingue graisse viscérale et graisse sous la peau.
+3|USA|Les seuils américains de tour de taille sont plus élevés que les européens.
+3|HDL|Critère HDL bas du syndrome métabolique.
+3|malnutrition|La malnutrition est un terme large (déficit ou excès).
+3|cachexie|La cachexie ne se corrige pas en mangeant plus car l'inflammation entretient la perte musculaire.
+3|sarcopénie|La sarcopénie est la perte de muscle et de force.
+3|albumine|La dénutrition peut faire baisser l'albumine, d'où des œdèmes.
+3|GLIM|Pour diagnostiquer une dénutrition selon GLIM : un signe physique (perte de poids, IMC bas, muscle) + une cause (apports, inflammation).
+4|B1|Avant de renourrir un patient très dénutri, on donne de la B1 et on va lentement pour éviter le syndrome de renutrition.
+4|AG|Au jeûne, muscles et reins brûlent des graisses pour garder le glucose pour le cerveau.
+4|AVC|Après un AVC ou un traumatisme, le cerveau tolère mal les corps cétoniques : il faut éviter l'hypoglycémie.
+4|BMI|Au jeûne prolongé, le BMI baisse, avec perte de graisse et de muscle (y compris du cœur).
+4|dénutrition|Les premiers signes visibles de dénutrition : joues creuses, bras fins, muscles qui fondent.
+4|bilan azoté|En agression, le bilan azoté devient très négatif : le corps détruit ses protéines.
+4|hypophosphatémie|Une chute du phosphore de plus de 30 % pendant la renutrition est le signal d'alerte du syndrome de renutrition.
+4|USI|En soins intensifs, un tiers des patients font une hypophosphatémie de renutrition.
+4|Wernicke|Le syndrome de renutrition peut déclencher une encéphalopathie de Wernicke (B1 épuisée).
+4|syndrome de renutrition|En cas d'hypophosphatémie de renutrition, donner moins de 50 % des calories visées améliore la survie.
+4|DT2|Vers 60–70 ans, le poids augmente souvent (obésité, diabète de type 2).
+4|cachexie|Très âgé, on perd du poids : moins d'appétit et de muscle.
+4|NPY|Avec l'âge, les signaux de faim (NPY, ghréline) diminuent.
+4|ghréline|La ghréline diminue avec l'âge.
+4|α-MSH|Avec l'âge, la sensibilité aux signaux de satiété augmente : on mange moins.
+4|leptine|Avec l'âge, le cerveau devient résistant à la leptine.
+4|résistance anabolique|Chez l'âgé, un repas protéiné fabrique moins de muscle : il faut plus de protéines.
+4|appétit|L'appétit se mesure avec une échelle de 0 à 10.
+4|EVA|L'EVA sert ici à coter la faim.
+4|ACTH|Lors d'une agression, le cortisol monte (via l'ACTH) et coupe l'appétit.
+4|sécrétion lactique|Les tissus lésés brûlent du glucose jusqu'au lactate.
+4|cycle de Cori|Le lactate retourne au foie, qui en refait du glucose.
+4|GR|Lymphocytes et globules rouges consomment beaucoup de glucose.
+4|overfeeding|Trop nourrir un malade aggrave CO2, stéatose et épuise les ions et la B1.
+4|sarcopénie|En cancérologie, la fonte musculaire est aussi dangereuse que la tumeur.
+4|IL-6|L'inflammation (IL-1, IL-6) fait fondre le muscle et coupe l'appétit.
+4|CRP|L'inflammation fait monter la CRP…
+4|albumine|… et baisser l'albumine, sans que ce soit forcément de la dénutrition.
+5|HTA|Régime sans sel pour un hypertendu.
+5|IG|Régime à IG bas pour un diabétique.
+5|SNO|Les compléments oraux sont la 2e étape, si l'alimentation ne suffit pas.
+5|nutrition entérale|3e étape : la sonde, si le patient ne peut pas avaler.
+5|nutrition parentérale|4e étape : la voie veineuse, seulement si l'intestin n'est pas utilisable.
+5|ORL|Un cancer de la gorge peut empêcher de manger : indication de sonde.
+5|CI|Deux contre-indications majeures à la nutrition entérale : perforation et ischémie intestinale.
+5|IgA|Sans nourriture, l'intestin s'atrophie et produit moins d'IgA : les bactéries passent plus facilement (translocation).
+5|PVC|Les sondes en PVC sont grosses et rigides ; celles en polyuréthane, plus fines, durent plus longtemps.
+5|gastrostomie|Au-delà de 4 semaines, on pose une gastrostomie plutôt qu'une sonde par le nez.
+5|ULB|À l'ULB, la gastrostomie est posée par endoscopie.
+5|AET|Solution « hyperprotéinée » si les protéines dépassent 20 % des calories.
+5|fibres|Les solutions entérales contiennent des fibres pour le transit et les AGCC.
+5|AGCC|Les fibres produisent des AGCC qui nourrissent le côlon.
+5|dénutrition|En cas de dénutrition sévère, on commence progressivement.
+5|syndrome de renutrition|Démarrer lentement évite le syndrome de renutrition.
+5|PICC|La parentérale passe par un cathéter central, par exemple un PICC posé au bras.
+5|VCS|L'extrémité du cathéter doit être dans la veine cave supérieure, où le sang dilue vite la solution.
+5|MCT|Les MCT sont brûlés plus vite que les graisses classiques.
+5|TG|Sous parentérale avec lipides, on surveille les triglycérides.
+5|IR|Une insuffisance hépatique ou rénale grave peut contre-indiquer les lipides en parentérale.
+5|AG|Il faut au moins 50 g de lipides par semaine pour éviter une carence en acides gras essentiels.
+5|AA|Certains acides aminés deviennent indispensables en cas de maladie (arginine, glutamine…).
+5|BCAA|Les solutions enrichies en BCAA n'ont pas prouvé de bénéfice.
+5|CaP|Un précipité de phosphate de calcium dans la poche est invisible et peut être mortel.
+6|QR|Le QR de la glycolyse chevauche celui des lipides : seul un QR proche de 1 signe clairement les glucides.
+6|sélénium|Correction : la carence en sélénium donne la maladie de Keshan (cardiopathie) ; Kashin-Beck est une maladie des os.
+6|B6|Correction : la carence en B6 donne une anémie microcytaire (sidéroblastique).
+6|albumine|Correction : l'albumine diminue pendant l'inflammation (protéine négative de phase aiguë).
+6|sarcopénie|Correction : les doses de chimiothérapie sont calculées sur la surface corporelle ; en cas de sarcopénie, la toxicité est plus forte.

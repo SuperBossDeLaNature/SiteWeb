@@ -1,0 +1,281 @@
+0|obésité|Premier grand thème de ces fiches (fiche 1).
+0|hypoglycémie|Thème de la fiche 5 (causes, insulinome, prise en charge).
+1|obésité|Ce qui définit l'obésité, c'est l'excès de graisse, pas le poids : un culturiste lourd n'est pas obèse.
+1|BMI|Le BMI est utile pour comparer des populations, mais il ne dit pas où est la graisse ni la part de muscle.
+1|graisse viscérale|C'est la graisse du ventre (autour des organes) qui porte le risque, plus que le poids total.
+1|OMS|Petite nuance : l'OMS fait commencer le poids normal à 18,5 (et non 18).
+1|DEXA|Pour mesurer vraiment la graisse, on utilise la DEXA ou la bioimpédance ; en pratique, le tour de taille suffit souvent.
+1|tour de taille|Le tour de taille estime la graisse abdominale ; au-delà de 102 cm (homme) / 88 cm (femme), le risque est très élevé.
+1|CV|À poids égal, plus de graisse viscérale = plus de maladies du cœur et des vaisseaux.
+1|INSPIRE ME|Étude INSPIRE ME : à même BMI, ceux qui ont plus de graisse viscérale ont plus de maladies cardiovasculaires.
+1|IDM|Étude INTERHEART : le rapport taille/hanche prédit mieux l'infarctus que le BMI.
+1|insulinome|Un insulinome fait grossir : le patient mange pour éviter ses hypoglycémies.
+1|FTO|L'obésité commune vient de nombreux petits effets génétiques ; FTO est le plus connu (≈ +3 kg chez les homozygotes).
+1|GIANT|Le consortium GIANT a trouvé 146 variants du poids, surtout dans des gènes du cerveau.
+1|SNC|Les gènes du poids agissent surtout dans le cerveau (contrôle de l'appétit), pas dans le tissu adipeux.
+1|leptine|La leptine dit au cerveau « les réserves sont pleines » ; les souris sans leptine sont obèses et guérissent si on leur en donne.
+1|T3|Sous régime, la T3 baisse : le corps dépense moins, d'où la perte de poids qui ralentit.
+1|graisse brune|La graisse brune brûle de l'énergie pour produire de la chaleur ; on en a encore à l'âge adulte.
+1|UCP1|UCP1 transforme l'énergie des mitochondries en chaleur au lieu d'ATP : c'est le moteur de la graisse brune.
+1|PET|Au PET, la graisse brune activée par le froid fixe le traceur (piège en cancérologie).
+1|FDG|La graisse brune consomme du glucose radioactif (FDG) quand elle est activée par le froid.
+1|insulinorésistance|L'insulinorésistance de l'obèse est surtout liée à la graisse intra-abdominale, et elle régresse avec la perte de poids.
+1|AGL|La graisse viscérale libère beaucoup d'acides gras, qui gênent l'action de l'insuline sur le muscle et le foie.
+1|TNF|Le tissu adipeux viscéral produit du TNF-α, une molécule inflammatoire qui aggrave l'insulinorésistance.
+1|α2|La graisse viscérale a plus de récepteurs β (qui stimulent la lipolyse) et moins d'α2 (qui la freinent) : elle libère plus facilement ses acides gras.
+1|11βHSD-1|La graisse viscérale réactive plus de cortisol sur place, ce qui favorise le stockage abdominal.
+1|IL-6|La graisse viscérale sécrète de l'IL-6 : inflammation chronique de bas grade.
+1|RBP4|RBP4 et résistine augmentent l'insulinorésistance ; l'adiponectine, qui la combat, baisse.
+1|adiponectine|L'adiponectine est la seule hormone du tissu adipeux qui améliore la sensibilité à l'insuline, et elle diminue dans l'obésité.
+1|TG|Profil lipidique typique de l'obésité abdominale : TG hauts.
+1|HDL|… HDL bas…
+1|LDL|… et LDL petites et denses, qui entrent plus facilement dans la paroi des artères (très athérogènes) même si le LDL total paraît normal.
+1|DT2|Le risque de diabète de type 2 augmente dès un BMI « normal » si la graisse est abdominale.
+1|HTA|L'obésité est une cause fréquente d'hypertension.
+1|NAFLD|L'obésité donne une stéatose hépatique (foie gras), qui peut évoluer vers la cirrhose.
+1|SAOS|Les apnées du sommeil sont une complication classique de l'obésité.
+1|SOPK|L'obésité aggrave le SOPK (insulinorésistance → androgènes).
+1|syndrome métabolique|Le syndrome métabolique regroupe les anomalies liées à la graisse abdominale ; il faut 3 critères sur 5.
+1|NCEP-ATP|Définition du syndrome métabolique selon le NCEP-ATP III (3 critères sur 5).
+1|TA|Critère tension du syndrome métabolique : ≥ 130/85.
+1|HC|Selon l'étude de Sacks, la proportion de glucides, protéines et lipides ne change rien à 2 ans : seul compte de tenir le régime.
+1|HTAP|Plusieurs anciens coupe-faim (aminorex, fenfluramine) ont été retirés car ils donnaient une hypertension pulmonaire ou des valvulopathies.
+1|GLP-1|Les agonistes du GLP-1 (sémaglutide…) coupent l'appétit et sont aujourd'hui le traitement médicamenteux le plus efficace de l'obésité.
+1|sleeve|La sleeve est l'intervention la plus pratiquée.
+1|bypass|Le bypass donne la plus forte perte de poids à 10 ans.
+1|HR|Étude SOS : chirurgie bariatrique = 24 % de décès en moins (HR 0,76) et beaucoup moins de diabète.
+2|cellules β|Dans le type 1, le système immunitaire détruit les cellules qui fabriquent l'insuline.
+2|pancréatite|Une pancréatite (ou toute destruction du pancréas) peut causer un diabète « secondaire ».
+2|DT1|Colonne de gauche du tableau : caractéristiques du diabète de type 1.
+2|DT2|Colonne de droite : caractéristiques du diabète de type 2.
+2|HLA|Le DT1 est lié à certains groupes HLA (gènes de l'immunité).
+2|obésité|Le DT2 est fortement lié à l'obésité.
+2|ATCD|Le DT1 est peu familial (5 % si un parent est atteint) ; le DT2 l'est beaucoup plus (30–40 % avec un parent diabétique).
+2|INS|Après le HLA, les gènes INS (insuline) et PTPN22 sont les plus liés au DT1.
+2|insulite|Dans le DT1, les îlots sont envahis de lymphocytes (insulite).
+2|GADA|Dans le DT1, on trouve des auto-anticorps contre les îlots ; ils annoncent la maladie mais ne la causent pas.
+2|LT|Ce sont les lymphocytes T CD8 qui tuent les cellules β ; les anticorps ne sont que des marqueurs.
+2|peptide C|Au moment du diagnostic de DT1, le peptide C (sécrétion résiduelle) est déjà bas et continue de baisser.
+2|GAD65|Plusieurs traitements ont essayé de stopper l'auto-immunité (vaccin GAD65, anti-CD3…), avec un effet partiel.
+2|teplizumab|Le teplizumab (anti-CD3) retarde le DT1 d'environ 3 ans chez les apparentés porteurs d'anticorps (~60 vs 27 mois).
+2|INSPIRE ME|Étude TRIGR : un lait hydrolysé à la place du lait de vache chez le nourrisson n'a pas prévenu le DT1.
+2|BMI|Pour le DT2, le mode de vie pèse plus que les gènes : les Indiens Pima ont un BMI de 34,5 aux USA contre 25 au Mexique, avec beaucoup plus de diabète.
+2|USA|Les Indiens Pima vivant aux États-Unis (mode de vie occidental) ont bien plus de diabète que ceux du Mexique.
+2|insulinorésistance|Dans le DT2, le muscle capte moins de glucose, le foie en fabrique trop et les graisses sont trop libérées.
+2|AGL|Les acides gras libérés en excès aggravent l'insulinorésistance du foie et du muscle.
+2|HGPO|Pendant l'HGPO, le pic précoce d'insuline (1re phase) est perdu très tôt dans le DT2.
+2|glucotoxicité|Normaliser la glycémie (régime, SU ou insuline) « repose » les cellules β : la sécrétion s'améliore en quelques semaines.
+2|SU|Même les sulfonylurées, en baissant la glycémie, améliorent la sécrétion d'insuline (fin de la glucotoxicité).
+2|rétinopathie|Le DT2 est souvent découvert tard : une rétinopathie est parfois déjà là au diagnostic.
+2|syndrome métabolique|Le syndrome métabolique est un motif de dépistage du diabète.
+2|CV|Une maladie cardiovasculaire est aussi un motif de dépistage du diabète.
+2|IFG|Glycémie à jeun 100–125 = prédiabète (IFG).
+2|HbA1c|Critères HbA1c : < 5,7 % normal ; 5,7–6,4 % prédiabète ; ≥ 6,5 % diabète.
+2|HC|Avant l'HGPO, on mange normalement (≥ 150 g de glucides/j pendant 3 jours), sinon le test est faussement anormal.
+2|hypoglycémie|Le peptide C aide aussi à trouver la cause d'une hypoglycémie (insuline injectée ou produite par le corps ?).
+2|glucagon|Test au glucagon : on stimule le pancréas et on mesure le peptide C pour évaluer la réserve en insuline.
+2|OHB|Le β-OHB est le corps cétonique majoritaire, mais les bandelettes urinaires ne le détectent pas : elles sous-estiment la cétose.
+2|metformine|Étude DPP : le mode de vie réduit de 58 % le passage au diabète, la metformine de 31 %.
+2|ADO|Les 4 piliers du traitement du DT2 : exercice, régime, médicaments oraux/GLP-1, insuline.
+2|GLP-1|Les agonistes du GLP-1 sont un des piliers du traitement du DT2.
+2|FRCV|Le régime du diabétique vise aussi les autres facteurs de risque cardiovasculaire.
+2|AGS|Les graisses saturées doivent rester sous 7 % des calories (protection cardiovasculaire).
+2|TG|Les graisses mono-insaturées baissent la glycémie et les TG mieux que les glucides.
+2|index glycémique|L'IG compare la montée du sucre pour 100 g de glucides.
+2|charge glycémique|La CG tient compte de ce qu'on mange réellement : carottes et chocolat ont le même IG, mais 100 g de carottes contiennent beaucoup moins de sucre.
+3|metformine|La metformine et les glitazones combattent l'insulinorésistance.
+3|SU|Sulfonylurées et glinides forcent la sécrétion d'insuline.
+3|effet incrétine|Gliptines, agonistes GLP-1 et tirzépatide renforcent l'effet incrétine.
+3|DPP-4|Les gliptines bloquent la DPP-4, qui détruit le GLP-1 naturel.
+3|GLP-1|Les agonistes GLP-1 sont injectés à dose pharmacologique (≈ 5× la dose naturelle).
+3|SGLT2|Les iSGLT2 baissent la glycémie en faisant éliminer le glucose dans les urines.
+3|CI|Dernière colonne du tableau : effets indésirables et contre-indications.
+3|B12|La metformine peut donner une carence en vitamine B12 à long terme : à surveiller.
+3|DFG|La metformine s'élimine par le rein : contre-indiquée si DFG < 30 (dose réduite entre 30 et 45).
+3|IC|La metformine est aussi contre-indiquée en cas d'insuffisance cardiaque, hépatique ou respiratoire sévère (risque d'acidose lactique).
+3|pioglitazone|La pioglitazone sensibilise à l'insuline en multipliant de petits adipocytes.
+3|INSPIRE ME|ADOPT : la pioglitazone garde son efficacité plus longtemps. PROactive : pas de bénéfice cardiovasculaire significatif (NS).
+3|HDL|La pioglitazone augmente un peu le HDL.
+3|NS|Résultat non significatif dans PROactive : pas de bénéfice cardiovasculaire prouvé.
+3|KCNJ11|Les sulfonylurées se fixent sur SUR1, une partie du canal potassique de la cellule β, et le ferment.
+3|hypoglycémie|Principal danger des sulfonylurées : des hypoglycémies parfois sévères et prolongées (hospitaliser).
+3|IR|Les sulfonylurées s'accumulent en insuffisance rénale : hypoglycémies plus graves.
+3|CV|Les agonistes GLP-1 réduisent les infarctus, AVC et décès cardiovasculaires.
+3|MACE|Les agonistes GLP-1 réduisent les événements cardiovasculaires majeurs.
+3|GIP|Le tirzépatide active à la fois GIP et GLP-1 : le plus efficace, mais très cher.
+3|TA|Les iSGLT2 baissent aussi la tension (perte de sel et d'eau).
+3|acidocétose|Les iSGLT2 peuvent donner une acidocétose à glycémie presque normale (piège diagnostique).
+3|DT2|Dans le DT2, la sécrétion de GLP-1 baisse mais son effet reste intact : d'où l'intérêt d'en donner.
+3|glucagon|Le GLP-1 baisse aussi le glucagon (moins de glucose libéré par le foie).
+3|ADP|Le glucose fait monter l'ATP dans la cellule β, ce qui ferme le canal potassique et déclenche la libération d'insuline.
+3|AMPc|Le GLP-1 amplifie la sécrétion d'insuline via l'AMPc, mais seulement si le glucose est haut.
+3|HbA1c|Plus l'HbA1c de départ est haute, plus un médicament la fait baisser.
+3|FRCV|Dans le DT2, traiter la tension, le cholestérol et le tabac compte autant que la glycémie (étude Steno-2).
+3|sleeve|Après sleeve, 27 % des DT2 sont en rémission.
+3|bypass|Après bypass, 42 % des DT2 sont en rémission, au-delà de la simple perte de poids.
+3|ADO|Avant de conclure à un échec des médicaments, vérifier qu'ils sont bien pris et que le régime est suivi.
+3|DT1|Un « DT2 » mince et jeune qui échoue vite aux comprimés est peut-être un DT1 lent (LADA).
+3|GADA|On dose les anticorps anti-GAD pour reconnaître un DT1 lent.
+3|hyperosmolaire|Un coma hyperosmolaire impose l'insuline.
+3|NPH|L'insuline NPH (1945) a été la 1re insuline intermédiaire largement utilisée.
+3|basal-prandial|Le schéma actuel du DT1 : insuline lente + rapide à chaque repas.
+3|CGM|Les pompes couplées à un capteur peuvent s'arrêter automatiquement en cas d'hypoglycémie.
+3|NovoRapid|Exemples d'analogues rapides : durée 4–6 h.
+3|IM|Une injection trop profonde (dans le muscle) accélère l'absorption de l'insuline.
+3|lune de miel|Une insuline débutée tôt et intensivement favorise la « lune de miel » en préservant les cellules β restantes.
+3|VX-880|Piste d'avenir : des îlots fabriqués à partir de cellules souches.
+3|MODY|Reconnaître un MODY change le traitement (pas de traitement pour GCK, sulfonylurées pour HNF1A).
+3|peptide C|Dans le MODY, le pancréas produit encore de l'insuline (peptide C conservé), contrairement au DT1.
+3|HGPO|Dans le MODY GCK, la glycémie monte peu pendant l'HGPO : le seuil de glucose est juste réglé plus haut.
+4|acidocétose|L'acidocétose survient quand l'insuline manque : les graisses sont brûlées sans frein et donnent des cétones acides.
+4|AGL|Sans insuline, les acides gras libérés arrivent au foie, qui en fait des corps cétoniques.
+4|hyperosmolaire|L'état hyperosmolaire touche plutôt le DT2 âgé : peu d'acidose mais une déshydratation majeure.
+4|DT1|L'acidocétose survient surtout chez le DT1.
+4|DT2|L'état hyperosmolaire survient chez le DT2 (souvent méconnu) âgé.
+4|pH|Critère d'acidose : pH < 7,30 et bicarbonates < 15–18.
+4|OHB|C'est le β-OHB qui reflète la gravité de l'acidose, pas la glycémie.
+4|DFG|La glycémie dépend surtout du rein : tant qu'il filtre, le glucose part dans les urines et la glycémie monte moins.
+4|IDM|Un infarctus peut déclencher une décompensation (stress, hormones contre-insuline).
+4|β-bloquants|Certains médicaments (corticoïdes, bêtabloquants…) peuvent déclencher un état hyperosmolaire.
+4|pancréatite|Les vomissements et douleurs abdominales de l'acidocétose peuvent faire penser à une pancréatite.
+4|NaCl|1re étape : réhydrater au sérum physiologique ; cela fait déjà baisser la glycémie.
+4|KCl|On donne du potassium même si son taux est normal ou haut : l'insuline va le faire rentrer dans les cellules et il chutera.
+4|SC|Après la phase aiguë, on repasse de l'insuline IV à l'insuline sous-cutanée en chevauchant les deux.
+4|œdème cérébral|Chez le jeune, corriger trop vite l'eau et le glucose fait gonfler le cerveau : on réhydrate progressivement.
+4|AVC|Le diabète multiplie le risque d'AVC (atteinte des grosses artères).
+4|DAG|La voie DAG/PKC est l'une des 4 voies toxiques activées par l'excès de glucose.
+4|AGEs|Les AGEs sont l'une des 4 voies : protéines abîmées de façon irréversible par le glucose.
+4|GAPDH|Le stress oxydant bloque la GAPDH, ce qui détourne le glucose vers ces 4 voies toxiques.
+4|MB|L'épaississement de la membrane basale rend les capillaires perméables : œdème et exsudats.
+4|péricytes|La perte des péricytes fragilise les capillaires : microanévrismes et hémorragies.
+4|VEGF|La rétine qui manque d'oxygène sécrète du VEGF : néovaisseaux fragiles (rétinopathie proliférante).
+4|OCT|L'OCT sert à voir et suivre l'œdème maculaire.
+4|INSPIRE ME|Étude DCCT : un contrôle intensif de la glycémie réduit la rétinopathie de 76 % chez le DT1.
+4|TA|Contrôler la tension protège aussi la rétine.
+4|IRT|La néphropathie diabétique est la 1re cause de dialyse.
+4|rétinopathie|Presque tous les DT1 finissent par avoir une rétinopathie, mais seulement 30 % une néphropathie : il y a une susceptibilité génétique.
+4|ATCD|Des antécédents familiaux d'HTA augmentent le risque de néphropathie diabétique.
+4|HTA|Une prédisposition à l'hypertension favorise la néphropathie.
+4|IR|Sans traitement, la néphropathie évolue vers l'insuffisance rénale.
+4|IC|L'insuffisance cardiaque peut donner une fausse albuminurie.
+4|IEC|IEC et sartans protègent le rein même quand la tension est normale.
+4|polyneuropathie|La polyneuropathie touche d'abord les pieds (nerfs les plus longs) : perte de sensibilité, plaies non senties.
+4|EMG|L'EMG ne voit que les grosses fibres : il peut être normal si seules les petites fibres (douleur, température) sont touchées.
+4|SPE|Une mononeuropathie peut toucher le nerf fibulaire (pied tombant).
+4|PAS|Hypotension orthostatique : la systolique baisse de plus de 20–30 mmHg en position debout.
+5|hypoglycémie|Seuils : < 50 mg/dl chez l'adulte selon la fiche ; aujourd'hui on alerte dès 70 et on parle d'hypoglycémie significative sous 54.
+5|contre-régulation|Le cerveau dépend du glucose, d'où un système de défense en cascade.
+5|glucagon|Défense rapide : le glucagon et l'adrénaline font libérer le glycogène du foie en quelques minutes.
+5|GH|Défense lente (heures) : cortisol et GH.
+5|EEG|Sous 30 mg/dl, l'EEG devient anormal ; sous 20, c'est le coma.
+5|SU|Les hypoglycémies du diabétique viennent souvent d'un excès d'insuline ou de sulfonylurées.
+5|DT1|Même bien équilibré, un DT1 fait plusieurs petites hypos par semaine.
+5|HbA1c|Plus on cherche une HbA1c basse, plus on a d'hypoglycémies.
+5|INSPIRE ME|Étude DCCT : le contrôle intensif multipliait par 3 les hypoglycémies sévères.
+5|DT2|Le DT2 sous comprimés non hypoglycémiants fait peu d'hypos.
+5|IM|L'entourage peut injecter du glucagon en IM ou SC si le patient est inconscient.
+5|SC|Le glucagon peut s'injecter sous la peau.
+5|insulinome|Cause organique principale d'hypoglycémie chez un non-diabétique.
+5|bypass|Après bypass, le sucre arrive très vite dans l'intestin : pic de GLP-1 et d'insuline, puis hypoglycémie 1–3 h après le repas.
+5|HGPO|25 % des sujets sains descendent sous 55 après une HGPO : les « hypos réactionnelles » sont discutées.
+5|GLP-1|Après bypass, le pic de GLP-1 explique les hypoglycémies après le repas.
+5|NEM1|10 % des insulinomes sont multiples, souvent dans une NEM1.
+5|jeûne de 72 h|Le jeûne de 72 h démasque l'insulinome dans 98 % des cas.
+5|peptide C|Dans l'insulinome, le peptide C est élevé pendant l'hypo (insuline produite par le corps), contrairement à une injection d'insuline.
+5|OHB|Pendant l'hypo d'un insulinome, pas de cétones (β-OHB bas) car l'insuline bloque leur fabrication.
+5|CT|Le scanner et l'IRM trouvent environ 70 % des insulinomes (souvent petits).
+5|IRM|L'IRM fait aussi bien que le scanner (~70 %).
+5|GLP|La TEP avec un analogue du GLP-1 marqué repère très bien les insulinomes (riches en récepteurs GLP-1).
+5|IGF-2|Les grosses tumeurs mésenchymateuses donnent des hypos par IGF-2, avec une insuline basse.
+6|ADH|1re voie de l'alcool : l'ADH du foie le transforme en acétaldéhyde.
+6|ADP|Cette voie produit de l'ATP (l'alcool apporte 7 kcal/g).
+6|MEOS|2e voie (MEOS), surtout active chez le gros buveur ; elle produit de la chaleur plutôt que de l'énergie utile.
+6|ALDH|L'acétaldéhyde est ensuite transformé en acétate par l'ALDH.
+6|NADH|L'excès de NADH explique les effets métaboliques de l'alcool (hypoglycémie, lactates, stéatose).
+6|hypoglycémie|L'alcool bloque la néoglucogenèse : hypoglycémie chez le sujet à jeun ou dénutri.
+6|SU|Chez le diabétique sous insuline ou sulfonylurées, l'alcool augmente le risque d'hypoglycémie.
+6|NAFLD|L'alcool fait accumuler la graisse dans le foie (stéatose), réversible en quelques jours d'arrêt.
+6|TG|L'alcool augmente la fabrication de triglycérides.
+6|VLDL|Ces triglycérides sortent du foie dans les VLDL.
+6|HDL|L'alcool augmente le HDL (sans que cela protège vraiment).
+6|CETP|L'alcool freine la CETP, d'où un HDL plus haut.
+6|acidocétose alcoolique|L'alcool détourne l'acétyl-CoA vers la fabrication de cétones.
+6|OHB|Le NADH en excès pousse vers le β-OHB, que la bandelette ne voit pas : acétest faiblement positif.
+6|TA|Dans l'acidocétose alcoolique, le trou anionique est augmenté.
+6|ACAC|Le rapport β-OHB/acétoacétate est très élevé : la bandelette (qui voit l'acétoacétate) sous-estime la cétose.
+6|acidocétose|Diagnostic différentiel : acidocétose diabétique.
+6|thiamine|Traitement : réhydratation, glucose, et thiamine avant le sucre (prévenir Wernicke).
+6|B6|L'acétaldéhyde abîme les mitochondries et fait baisser la vitamine B6.
+6|B1|Le manque de vitamine B1 chez l'alcoolique donne l'encéphalopathie de Wernicke-Korsakoff et une atteinte cardiaque.
+7|TG|Type I : les triglycérides sont extrêmement élevés (chylomicrons).
+7|LPL|Le type I est dû à un déficit de LPL : les chylomicrons ne sont plus vidés.
+7|CII|… ou de son activateur, l'apo C-II.
+7|AR|Transmission récessive, très rare.
+7|IIa|Type IIa : seul le LDL est élevé.
+7|LDL|Type IIa : c'est le LDL qui s'accumule.
+7|hypercholestérolémie familiale|L'hypercholestérolémie familiale est l'exemple type du profil IIa.
+7|VLDL|Type IIb : LDL et VLDL sont élevés (hyperlipidémie combinée).
+7|IDL|Type III : accumulation d'IDL, cholestérol et TG à peu près égaux.
+7|E2|Le type III est favorisé par le génotype apo E2/E2.
+7|PCSK9|Une mutation qui active PCSK9 est une cause rare d'hypercholestérolémie familiale.
+7|CV|La forme hétérozygote multiplie par 4 le risque cardiovasculaire à 60 ans.
+7|xanthomes|La forme homozygote donne des xanthomes dès l'enfance et des infarctus très jeunes.
+7|pancréatite|Avec des TG en milliers, le risque principal est la pancréatite, pas l'infarctus.
+7|MCT|Traitement : régime pauvre en graisses à longue chaîne ; les MCT ne passent pas par les chylomicrons.
+7|obésité|L'hypertriglycéridémie familiale est aggravée par l'obésité, les sucres, l'alcool et le diabète.
+7|HC|Les glucides en excès augmentent la fabrication de VLDL.
+7|IDM|L'hyperlipidémie combinée familiale est très athérogène : infarctus précoces.
+7|HDL|Le taux de HDL est en grande partie génétique.
+7|ABCA1|Un déficit en ABCA1 (maladie de Tangier) donne un HDL presque nul.
+7|CETP|Un déficit en CETP augmente le HDL.
+7|Lp(a)|La Lp(a) est génétique ; on la dose au moins une fois dans sa vie.
+7|ATCD|On dose la Lp(a) en cas d'antécédents familiaux de maladie cardiovasculaire précoce.
+7|IR|L'insuffisance rénale est une cause secondaire de dyslipidémie.
+7|DT1|Un DT1 bien équilibré a des lipides normaux, voire favorables.
+7|AGL|Un diabète déséquilibré fait arriver plus d'acides gras au foie, d'où plus de VLDL.
+7|DT2|Le DT2 a le profil de l'insulinorésistance : TG hauts, HDL bas, LDL petites et denses.
+7|graisse viscérale|Ce profil est lié à la graisse viscérale.
+7|THS|Le traitement hormonal de la ménopause n'a pas réduit les infarctus (étude WHI).
+7|INSPIRE ME|Étude WHI : le THS ne protège pas du risque cardiovasculaire.
+7|β-bloquants|Les bêtabloquants baissent un peu le HDL et augmentent les TG.
+7|α-bloquants|Les alpha-bloquants ont un effet favorable sur les lipides.
+7|HTA|Un bilan lipidique se fait à tout âge en cas d'HTA.
+7|Friedewald|La formule de Friedewald calcule le LDL ; elle est fausse si les TG dépassent 400.
+7|CT|Ici CT = cholestérol total (pas le scanner).
+7|FRCV|Liste des facteurs de risque cardiovasculaire à prendre en compte.
+7|TA|Facteur de risque : tension > 140/90.
+8|LDL|Plus le risque est élevé, plus la cible de LDL est basse.
+8|ASCVD|Maladie cardiovasculaire déjà présente = risque très élevé (LDL cible < 55).
+8|FRCV|Un diabète avec ≥ 3 facteurs de risque est classé à risque très élevé.
+8|DT1|Un DT1 depuis plus de 20 ans est à risque très élevé.
+8|DFG|Une insuffisance rénale sévère (DFG < 30) place à risque très élevé.
+8|hypercholestérolémie familiale|Une hypercholestérolémie familiale avec maladie cardiovasculaire = risque très élevé.
+8|SCORE2|Un SCORE2 ≥ 20 % classe en risque très élevé.
+8|CT|Ici CT = cholestérol total ; > 310 mg/dl = risque élevé.
+8|TA|Une tension ≥ 180/110 classe à risque élevé.
+8|IMT|L'épaisseur intima-média de la carotide prédit les événements cardiovasculaires.
+8|athérosclérose|L'IMT carotidienne détecte une athérosclérose avant les symptômes.
+8|DLCN|Le score DLCN estime la probabilité d'hypercholestérolémie familiale ; > 5 = on fait la génétique.
+8|LDLR|Gènes à tester : LDLR (le plus souvent muté)…
+8|CII|… APOB…
+8|PCSK9|… et PCSK9.
+8|HDL|Effet des graisses alimentaires sur le HDL.
+8|TG|Effet des graisses alimentaires sur les TG.
+8|AGS|Les graisses saturées augmentent fortement le LDL.
+8|oméga-3|Les oméga-3 baissent les TG sans changer LDL et HDL.
+8|INSPIRE ME|Étude PREDIMED : régime méditerranéen = 30 % d'événements cardiovasculaires en moins. REDUCE-IT : EPA pur bénéfique si TG élevés. IMPROVE-IT : ézétimibe + statine, bénéfice modeste. ACCORD, AIM-HIGH, HPS2-THRIVE : pas de bénéfice des fibrates (en plus d'une statine) ni de la niacine.
+8|statines|Les statines sont la seule classe au bénéfice indiscutable sur les infarctus et la mortalité.
+8|HMG|Les statines bloquent l'HMG-CoA réductase, enzyme qui fabrique le cholestérol.
+8|CYP3A|Les médicaments qui bloquent le CYP3A augmentent les taux de statine et le risque de myopathie.
+8|ézétimibe|Une statine faible + ézétimibe ≈ statine à dose maximale.
+8|NPC1L1|L'ézétimibe bloque NPC1L1 : moins de cholestérol absorbé.
+8|ADP|L'acide bempédoïque bloque une enzyme en amont de l'HMG-CoA réductase ; il n'agit que dans le foie (pas de douleurs musculaires).
+8|AVK|Les résines gênent l'absorption d'autres médicaments (L-thyroxine, AVK) : les prendre à distance.
+8|LPL|Les fibrates activent la LPL : les TG baissent de 30–40 %.
+8|CK|Sous fibrate (surtout avec statine), surveiller les CK : risque de rhabdomyolyse.
+8|VLDL|L'acide nicotinique diminue la production de VLDL…
+8|CV|… mais sans bénéfice cardiovasculaire prouvé.
+8|siRNA|L'inclisiran (siRNA) éteint la fabrication de PCSK9 : 2 injections par an.
+8|ANGPTL3|Les anti-ANGPTL3 baissent le LDL même sans récepteur fonctionnel.
+8|ARN|Des ARN dirigés contre l'apo(a) font baisser la Lp(a) (à l'essai).
+8|Lp(a)|La Lp(a) n'a pas encore de traitement spécifique validé.

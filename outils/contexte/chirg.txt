@@ -1,0 +1,160 @@
+1|sutures|Au Moyen Âge, l'Église interdit la chirurgie aux clercs : elle passe aux barbiers.
+1|ULB|Plusieurs pionniers cités sont liés à l'ULB (Hustin, Lambotte, Danis).
+1|cœlioscopie|Au 21e siècle, la chirurgie devient mini-invasive (laparoscopie).
+1|EVAR|L'EVAR remplace souvent l'opération ouverte de l'anévrisme aortique.
+1|ABO|Landsteiner découvre les groupes ABO : la transfusion devient sûre.
+1|McLean|McLean découvre l'héparine, qui rend possible la chirurgie vasculaire.
+1|TP|Quick invente le test du temps de prothrombine.
+1|hypothermie|La chirurgie à cœur ouvert a d'abord été faite sous hypothermie.
+1|CEC|Puis vient la machine cœur-poumon de Gibbon.
+1|IBM|IBM a aidé à construire cette machine.
+1|AO|Le groupe AO a codifié l'ostéosynthèse, inspiré par Danis.
+2|catécholamines|Les catécholamines resserrent les vaisseaux du rein, libèrent la rénine et font fabriquer du glucose.
+2|néoglucogenèse|Le foie fabrique du glucose dès l'agression.
+2|ACTH|L'ACTH monte dès l'incision, au maximum pendant l'opération.
+2|cortisol|Le cortisol reste élevé plusieurs jours.
+2|CRF|La CRF de l'hypothalamus déclenche l'ACTH.
+2|VIP|Le VIP stimule aussi l'axe.
+2|POMC|La POMC donne à la fois l'ACTH et des endorphines.
+2|hyperglycémie|Le cortisol donne une hyperglycémie.
+2|insulinorésistance|… par insulinorésistance.
+2|catabolisme|Le cortisol fait aussi fondre le muscle.
+2|SRAA|L'aldostérone monte surtout via l'ACTH, et via le SRAA s'il y a hypotension.
+2|J0|L'aldostérone se normalise vers J7.
+2|GH|La GH monte selon la lourdeur de l'opération et aggrave l'intolérance au glucose.
+2|euthyroid sick syndrome|La T3 baisse sans vraie maladie de la thyroïde : adaptation au stress.
+2|TSH|La TSH reste normale : ce n'est pas une hypothyroïdie.
+2|AT1|L'angiotensine II agit surtout via le récepteur AT1.
+2|IL-1|L'IL-1 donne vasodilatation locale, œdème, douleur, et stimule l'axe du stress.
+2|choc|Le TNF est le principal médiateur du choc septique.
+2|CIVD|La coagulation peut s'emballer en CIVD.
+2|CRP|L'IL-6 déclenche la production de CRP par le foie.
+2|α-macroglobulines|… et des autres protéines de la phase aiguë.
+2|SIRS|Le SIRS se définit par au moins 2 critères sur 4.
+2|PaCO2|Critère respiratoire : > 20/min ou PaCO2 < 32 mmHg.
+2|DAMP|Le SIRS est déclenché par les lésions des tissus (DAMP), pas forcément par une infection.
+2|CPA|Les cellules présentatrices sont moins réactives : immunité affaiblie.
+2|C3a|Le complément s'active (C3a, C5a).
+2|ARDS|Les neutrophiles piégés dans le poumon donnent un SDRA.
+2|MOF|… puis une défaillance multiviscérale.
+2|LPS|Les bactéries ajoutent leurs propres signaux (LPS).
+2|sepsis|Lésions + infection = cercle vicieux vers le sepsis.
+2|CARS|La phase CARS calme l'inflammation mais affaiblit l'immunité.
+2|IL-4|IL-4, IL-10, TGF-β sont les cytokines anti-inflammatoires.
+2|PICS|Évolution possible vers une inflammation et un catabolisme chroniques (PICS).
+2|DHEA|Un rapport cortisol/DHEA élevé = immunité plus affaiblie.
+2|acide tranexamique|CRASH-2 : l'acide tranexamique réduit la mortalité du traumatisé qui saigne.
+2|CRASH|CRASH-1 : les corticoïdes augmentent la mortalité du traumatisme crânien.
+2|PAS|Hypotension permissive : PAS 80–90 mmHg, mais pas trop longtemps.
+2|antibioprophylaxie|L'antibioprophylaxie réduit les infections.
+2|iléus|Phase catabolique : fatigue, petite fièvre, iléus.
+2|cicatrisation|Phase anabolique : la cicatrisation progresse et le muscle se reconstruit.
+3|consentement éclairé|Le patient décide après information ; il peut refuser même une intervention vitale.
+3|IIa|Classes de recommandation des guidelines.
+3|ASA|Classification ASA du patient.
+3|HTA|Une HTA contrôlée = ASA 2.
+3|BMI|Un BMI 30–40 = ASA 2.
+3|AVC|Un AVC récent = ASA 4.
+3|CIVD|Une CIVD = ASA 4.
+3|sepsis|Un sepsis = ASA 4.
+3|KCE|Le KCE classe la complexité de l'acte.
+3|TA|L'examen clinique inclut la tension.
+3|ECG|ECG si facteur de risque et chirurgie majeure.
+3|FDR|Facteurs de risque cardiaque listés juste après.
+3|DFG|La fonction rénale est recommandée avant une chirurgie majeure.
+3|hémostase|Pas de bilan de coagulation en routine, seulement si antécédent de saignement ou maladie du foie.
+3|METs|Capacité < 4 METs = bilan de stress à discuter.
+3|RX|Ces examens ne sont pas à faire en routine.
+3|VEMS|Les EFR ne sont pas systématiques.
+3|HbA1c|HbA1c si la dernière date de plus de 3 mois.
+3|VIH|Jamais de test VIH systématique.
+3|AIT|Un AVC ou un AIT est un facteur de risque cardiaque.
+3|β-bloquants|On continue les bêtabloquants.
+3|ARA2|IEC/sartans : arrêtés le matin, repris avant 48 h.
+3|α-2|On ne débute jamais d'α-2 juste avant l'opération.
+3|IPP|On continue les IPP.
+3|SCA|Aspirine gardée en cas de stent ou de SCA récent.
+3|AINS|Les AINS sont arrêtés (saignement, rein).
+3|AVK|Les AVK sont arrêtés, avec relais si besoin.
+3|HBPM|Le relais se fait par HBPM.
+3|NOAC|Les AOD sont arrêtés 1 à 3 jours avant.
+3|THS|Œstrogènes arrêtés 4 semaines avant une chirurgie à haut risque de thrombose.
+3|FA|La décision de relais dépend du risque thrombotique (FA, valve).
+3|CHA2DS2|Le score CHA2DS2-VASc évalue ce risque.
+3|BPCO|Une BPCO décompensée fait reporter l'opération.
+3|PEG|La préparation colique est abandonnée en chirurgie du côlon, gardée pour le rectum.
+3|Caprini|Le score de Caprini classe le risque de thrombose.
+3|MTEV|Risque de thrombose sans prévention selon le score.
+3|HNF|L'HBPM est préférée à l'héparine standard (moins de thrombopénie).
+3|embolie pulmonaire|1 % des hospitalisés font une embolie pulmonaire.
+3|thrombose veineuse profonde|Une TVP peut laisser un syndrome post-thrombotique.
+4|hémostase|L'hémostase fait partie de la sécurité pendant l'opération.
+4|MTEV|L'ambulatoire réduit les thromboses.
+4|ASA|Critères d'ambulatoire : patient ASA 1–2 surtout.
+4|OMS|La checklist de l'OMS réduit de plus de 30 % mortalité et complications.
+4|lignes de Langer|Inciser le long des lignes de Langer donne une plus belle cicatrice.
+4|laparotomie|La médiane sert à l'aorte, la gynécologie, les laparotomies.
+4|cœlioscopie|La cœlioscopie se fait sous insufflation de CO2.
+4|CO2|Le CO2 crée l'espace de travail.
+4|SILS|La SILS n'a qu'un avantage esthétique.
+4|BMI|Elle est mal adaptée aux patients obèses.
+4|robot|Le robot permet des gestes fins mais coûte cher.
+4|hypothermie|Le damage control évite la triade : hypothermie, acidose, coagulopathie.
+4|MOF|Chaque degré perdu réduit la coagulation d'environ 10 %.
+4|PAS|Critère : PAS < 90 mmHg.
+4|CE|Critère : plus de 10 culots transfusés.
+4|pH|Critère biologique : pH < 7,2.
+4|BE|BE < −14 = acidose profonde.
+4|DCS|Le damage control a ses propres complications.
+4|sepsis|Risque de sepsis après damage control.
+4|classe de contamination|On contrôle d'abord la contamination digestive.
+4|PFC|En réanimation : plasma et globules rouges en ratio 1/1 à 2/3.
+4|bistouri électrique|Le bistouri électrique sert à couper et coaguler.
+4|anastomose|Vocabulaire chirurgical de base.
+4|bipolaire|Bipolaire : le courant reste entre les mors.
+4|monopolaire|Monopolaire : le courant traverse le patient jusqu'à la plaque.
+4|VOO|Pacemaker en mode VOO avant le bistouri monopolaire.
+4|LigaSure|Le LigaSure scelle les vaisseaux.
+4|drain|L'acier sert à l'ostéosynthèse.
+4|sutures|Classement des fils.
+4|tressés|Tressés : bon nœud mais capillarité.
+4|monobrins|Monobrins : glissent, pas de capillarité.
+4|USP|Calibre USP : plus de zéros = plus fin.
+4|TachoSil|Hémostatiques d'origine humaine, animale ou synthétique.
+4|collagène|Les éponges de collagène favorisent la coagulation.
+4|GRF|Colle retirée.
+4|Cell-Saver|Le Cell-Saver se justifie si on prévoit > 700–800 ml de pertes.
+4|Fast-Track|Les drains ne sont pas utiles en routine.
+5|PACU|La salle de réveil n'est pas une unité de soins intensifs.
+5|Fast-Track|Le Fast-Track combine laparoscopie, péridurale, réalimentation précoce.
+5|cœlioscopie|La laparoscopie fait partie du Fast-Track.
+5|J0|On réalimente dès le jour de l'opération.
+5|drain|Le drain peut entretenir un sérome.
+5|hémostase|Compression et ventilation pour prévenir les complications.
+5|ADP|Les plaquettes libèrent de l'ADP qui en recrute d'autres.
+5|EGF|Facteurs de croissance libérés pendant l'inflammation.
+5|IL-4|Ici TGF-β : facteur de croissance de la cicatrisation.
+5|IL-1|L'IL-1 et l'IL-6 participent à l'inflammation de la plaie.
+5|collagène|Le collagène atteint son maximum vers J21.
+5|compartiments|L'eau représente ≈ 60 % du poids.
+5|Mg2|Dans la cellule : potassium, magnésium, phosphates.
+5|HCO3|Hors de la cellule : sodium, chlore, bicarbonates.
+5|ACTH|L'aldostérone est stimulée par l'angiotensine II, l'ACTH et le potassium.
+5|ADH|L'ADH est le principal régulateur de l'eau.
+5|ANF|L'ANF fait éliminer le sel.
+5|iléus|Les pertes de l'iléus ou des aspirations doivent être compensées.
+5|NaCl|Pertes de sel compensées par de l'eau seule : hyponatrémie.
+5|TA|On évalue la tension et le pouls.
+5|HTA|La surcharge ne donne pas forcément d'HTA.
+5|classe de contamination|Classe II : un viscère creux est ouvert proprement.
+5|antibioprophylaxie|Prévention des infections au bloc.
+5|PGE2|L'IL-1 fait produire de la PGE2 dans l'hypothalamus : fièvre.
+5|catabolisme|L'infection augmente la fonte musculaire.
+5|MOF|Le choc septique peut évoluer vers la défaillance d'organes.
+5|ARDS|… et un SDRA.
+5|MyTest|Toute brûlure du 2e ou 3e degré impose la prévention du tétanos.
+6|AVK|Correction : les AVK bloquent les facteurs II, VII, IX, X (+ protéines C et S).
+6|ANF|Correction : l'ANF inhibe l'aldostérone.
+6|sutures|Correction : un fil 4-0 mesure 0,15 mm.
+6|Fast-Track|Le Fast-Track a été introduit par Kehlet.
+6|SRAA|Correction : le RAA (rhumatisme articulaire aigu) suit une angine, pas une infection de la peau.

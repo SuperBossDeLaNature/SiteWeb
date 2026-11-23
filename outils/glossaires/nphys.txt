@@ -97,3 +97,41 @@ myéline|Gaine isolante autour des axones, qui permet la conduction saltatoire r
 nœuds de Ranvier;nœud de Ranvier|Interruptions de la gaine de myéline où se concentrent les canaux sodiques ; l'influx « saute » de l'un à l'autre.|Nœud de Ranvier
 Duchenne|Myopathie liée à l'X par absence de dystrophine : faiblesse proximale dès l'enfance.|Dystrophie musculaire de Duchenne
 dystrophine|Protéine qui ancre le squelette de la fibre musculaire à sa membrane.|Dystrophine
+PPS|Potentiel postsynaptique : petite variation de voltage d'un neurone après une synapse ; excitateur (entrée de Na+ ou Ca2+, rapproche du seuil) ou inhibiteur (entrée de Cl−, éloigne du seuil) ; leur somme décide si le neurone décharge.|Potentiel postsynaptique
+Ca2|Ion calcium : son entrée dans la terminaison nerveuse déclenche la libération du neurotransmetteur ; il intervient aussi dans les potentiels excitateurs.|Calcium
+α-motoneurone|Motoneurone alpha de la corne antérieure de la moelle : commande directement les fibres musculaires ; voie finale commune de la motricité.|Motoneurone alpha
+C5;C6;C7;C8;L4;S1|Racines nerveuses et réflexes : bicipital C5 (C6), stylo-radial C6, tricipital C7, cubito-pronateur C8, rotulien L4, achilléen S1. Un réflexe diminué localise une atteinte de racine ou de nerf.|Racine nerveuse
+L4-L5|Disque entre L4 et L5 : siège fréquent des hernies lombaires (racine L5).|Disque intervertébral
+RC|Rythme cardiaque : sa variation avec la respiration disparaît quand le système nerveux autonome est touché (neuropathie diabétique autonome).|Fréquence cardiaque
+AD;AR|Transmission autosomique dominante (AD : un parent atteint suffit) ou récessive (AR : deux copies mutées).|Hérédité autosomique
+Val30Met|Mutation la plus fréquente de la transthyrétine (Portugal, Suède, Japon) : neuropathie amyloïde familiale qui commence aux pieds avec douleurs et dysautonomie.|Amylose à transthyrétine
+CV|Capacité vitale : volume d'air maximal expiré ; dans le Guillain-Barré ou la myasthénie, < 15–20 ml/kg = risque d'insuffisance respiratoire, transfert aux soins intensifs.|Capacité vitale
+SNA|Système nerveux autonome (sympathique et parasympathique) : règle cœur, tension, digestion, vessie, sudation.|Système nerveux autonome
+NeuroMusculaire|(voir JNM).|
+AC|Anticorps : dans la myasthénie, anti-récepteur de l'acétylcholine (85 %) ou anti-MuSK ; dans le Lambert-Eaton, anti-canaux calciques.|Anticorps
+MuSK|Muscle-specific kinase : protéine qui regroupe les récepteurs de l'acétylcholine ; cible des anticorps dans une partie des myasthénies séronégatives (formes bulbaires, femme jeune).|Muscle-specific kinase
+MI;MS|Membres inférieurs (MI) et supérieurs (MS).|
+FcRn|Récepteur néonatal Fc : il protège les IgG de la destruction ; le bloquer (efgartigimod) fait baisser les anticorps de la myasthénie.|Récepteur Fc néonatal
+CT|Scanner : bilan d'un cancer (thorax) devant un Lambert-Eaton.|Tomodensitométrie
+DR3-B8|Groupe HLA associé aux formes auto-immunes (non paranéoplasiques) du Lambert-Eaton et à d'autres maladies auto-immunes.|Antigène des leucocytes humains
+MN|Motoneurone : supérieur (cortex, voie pyramidale : spasticité, réflexes vifs, Babinski) ou inférieur (corne antérieure : amyotrophie, fasciculations, réflexes faibles). La SLA touche les deux.|Motoneurone
+SMN|Survival motor neuron : protéine qui manque dans l'amyotrophie spinale ; la thérapie génique apporte le gène SMN1 (AAV9).|Protéine SMN
+PP|Paralysies périodiques : crises de faiblesse liées au potassium (hypo- ou hyperkaliémique), par canalopathie musculaire.|Paralysie périodique
+NH4|Ammoniac : dans le test d'effort de l'avant-bras, il monte normalement alors que le lactate ne monte pas dans la maladie de McArdle.|Ammoniac
+P14|Onde des PES générée dans le tronc cérébral (lemnisque médian) après stimulation du nerf médian.|
+ON;OFF|Cellules ganglionnaires de la rétine : ON activées quand le centre de leur champ est éclairé, OFF quand il s'assombrit ; base du contraste visuel.|Cellule ganglionnaire de la rétine
+CCG|Triplet répété (CCTG) dans la dystrophie myotonique de type 2 (gène CNBP), forme plus légère et proximale que la Steinert.|Dystrophie myotonique
+mV|Millivolt : millième de volt, unité des potentiels électriques des cellules. Au repos, l'intérieur d'un neurone est à environ −70 mV par rapport à l'extérieur ; le potentiel d'action le fait brièvement passer en positif.|Volt
+cmH2O|Centimètre d'eau : unité de pression utilisée en physiologie respiratoire. Dans le Guillain-Barré ou la myasthénie, une pression inspiratoire maximale (Pimax) inférieure à 25 cmH2O montre une faiblesse des muscles respiratoires et fait discuter l'intubation.|
+VI|Sixième nerf crânien (nerf abducens) : il fait tourner l'œil vers l'extérieur. Son atteinte donne une vision double (diplopie), fréquente dans la myasthénie oculaire.|Nerf abducens
+VII|Septième nerf crânien (nerf facial) : il commande les muscles du visage, dont l'orbiculaire de l'œil. Dans le blink reflex, on stimule le nerf supra-orbitaire (V) et on enregistre la réponse de l'orbiculaire de l'œil (VII), ce qui explore aussi le tronc cérébral.|Nerf facial
+anti-GM1|Anticorps contre le ganglioside GM1 de la membrane des axones moteurs. On les trouve dans les formes axonales motrices du Guillain-Barré (AMAN) et dans la neuropathie motrice multifocale. Ils peuvent bloquer les canaux sodiques au nœud de Ranvier sans détruire la gaine ni l'axone (bloc fonctionnel, qui récupère vite).|Syndrome de Guillain-Barré
+anti-GQ1b|Anticorps contre le ganglioside GQ1b, très présent sur les nerfs qui commandent les yeux. Ils sont typiques du syndrome de Miller Fisher, variante du Guillain-Barré avec paralysie des yeux (ophtalmoplégie), ataxie et disparition des réflexes.|Syndrome de Miller-Fisher
+anti-MAG;Anti-MAG|Anticorps (IgM monoclonale, souvent kappa) contre la glycoprotéine associée à la myéline (MAG). Ils donnent une neuropathie démyélinisante distale, surtout sensitive, chez l'homme de 60 à 70 ans, avec ataxie et tremblement, sans atteinte des nerfs crâniens. Ils sont présents dans environ la moitié des neuropathies à IgM.|
+anti-RACh;Anti-RACh|Anticorps anti-récepteur de l'acétylcholine : ils bloquent et détruisent les récepteurs de la plaque motrice (atteinte postsynaptique). On les trouve dans environ 85 % des myasthénies généralisées, surtout chez la femme jeune et en cas de thymome.|Myasthénie
+anti-VGCC;Anti-VGCC|Anticorps contre les canaux calciques voltage-dépendants de type P/Q de la terminaison nerveuse (atteinte présynaptique). Ils sont présents dans environ 85 % des syndromes de Lambert-Eaton, et presque toujours quand il y a un cancer associé (poumon à petites cellules).|Syndrome de Lambert-Eaton
+Lambert-Eaton|Syndrome de Lambert-Eaton : maladie auto-immune de la jonction neuromusculaire par anticorps contre les canaux calciques présynaptiques. Il donne une faiblesse proximale des jambes, une aréflexie et des troubles autonomes (bouche sèche) ; la force s'améliore brièvement à l'effort. À l'EMG, on voit un incrément à haute fréquence ; il faut chercher un cancer du poumon à petites cellules.|Syndrome de Lambert-Eaton
+Werdnig-Hoffmann|Maladie de Werdnig-Hoffmann : amyotrophie spinale de type I, la forme la plus grave. Elle débute avant 6 mois : bébé mou (floppy baby), sans réflexes, avec troubles de la déglutition ; sans traitement, le décès survient tôt par insuffisance respiratoire.|Amyotrophie spinale
+Kugelberg-Welander|Maladie de Kugelberg-Welander : amyotrophie spinale de type III, forme légère qui débute dans l'enfance ou l'adolescence. Le patient marche, mais avec une démarche dandinante, une hyperlordose et des difficultés pour monter les escaliers ; l'espérance de vie est presque normale.|Amyotrophie spinale
+Kearns-Sayre|Syndrome de Kearns-Sayre : maladie mitochondriale (délétion de l'ADN mitochondrial) qui débute avant 20 ans. Elle associe une paralysie progressive des muscles des yeux avec ptose, une rétinite pigmentaire et des troubles de la conduction cardiaque, qui peuvent nécessiter un pacemaker.|Syndrome de Kearns-Sayre
+pseudo-AVC|Épisodes qui ressemblent à un accident vasculaire cérébral (déficit brutal, troubles visuels, convulsions) mais qui ne sont pas dus à l'occlusion d'une artère. Dans le MELAS, ils viennent d'une panne d'énergie des cellules (mitochondries) et les lésions ne suivent pas un territoire artériel.|

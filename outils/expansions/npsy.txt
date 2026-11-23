@@ -1,0 +1,30 @@
+AVC|Accident Vasculaire Cérébral
+B1|Vitamine B1 (thiamine)
+BREF|Batterie Rapide d'Efficience Frontale
+DAN|Dorsal Attention Network (réseau attentionnel dorsal)
+DNF|Dégénérescences NeuroFibrillaires
+ET|Écart-Type
+HM|Henry Molaison (initiales du patient)
+IRM|Imagerie par Résonance Magnétique
+ISDC|Inventaire du Syndrome Dysexécutif Comportemental
+LPS|Lobule Pariétal Supérieur
+MC|Initiales d'un patient du cours
+MCI|Mild Cognitive Impairment (trouble cognitif léger)
+MCT|Mémoire à Court Terme
+MLT|Mémoire à Long Terme
+MMSE|Mini-Mental State Examination (mini-examen de l'état mental)
+MdT|Mémoire de Travail
+MoCA|Montreal Cognitive Assessment (évaluation cognitive de Montréal)
+PASAT|Paced Auditory Serial Addition Test (test d'addition auditive en série cadencée)
+PET|Positron Emission Tomography (tomographie par émission de positons)
+RI-16|Rappel Indicé à 16 items
+RL|Rappel Libre
+RL/RI-16|Rappel Libre / Rappel Indicé à 16 items
+SEP|Sclérose En Plaques
+TAP|Test of Attentional Performance (test de performance attentionnelle)
+TC|Traumatisme Crânien
+TMT|Trail Making Test (test du tracé de piste)
+TPJ|TemporoParietal Junction (jonction temporo-pariétale)
+TR|Temps de Réaction
+VAN|Ventral Attention Network (réseau attentionnel ventral)
+WAIS|Wechsler Adult Intelligence Scale (échelle d'intelligence de Wechsler pour adultes)

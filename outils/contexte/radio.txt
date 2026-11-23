@@ -1,0 +1,259 @@
+1|RX|Les rayons X sont produits par un tube : les électrons frappent une anode et libèrent des photons.
+1|opacité|Plus une matière est dense, plus elle est blanche : métal > calcium > eau > graisse > air.
+1|clarté|L'air et la graisse laissent passer les rayons : zones noires.
+1|TA|Ici PA = incidence postéro-antérieure (rayons de l'arrière vers l'avant), pas la pression artérielle : le cœur est collé au détecteur, donc peu agrandi.
+1|AP|En AP (patient couché au lit), le cœur est loin du détecteur : il paraît plus gros.
+1|USI|En soins intensifs, on fait les radios au lit en AP.
+1|signe de la silhouette|Si une opacité efface un bord, elle est dans le même plan que lui.
+1|arthrose|Pincement localisé à la zone d'appui = arthrose.
+1|arthrite|Pincement global de l'interligne = arthrite.
+1|baryum|La radio ne distingue pas les organes pleins entre eux : on ajoute des produits de contraste (baryum, iode, air).
+1|IRM|L'artériographie diagnostique est remplacée par l'angio-scanner ou l'angio-IRM.
+1|UIV|L'UIV est remplacée par l'uro-scanner ; l'OED reste utile pour une suspicion de perforation.
+2|CT|Le scanner mesure l'atténuation des rayons dans chaque petit volume (voxel).
+2|RX|Le scanner utilise les mêmes rayons X que la radio, mais en rotation.
+2|UH|Chaque voxel reçoit une valeur en unités Hounsfield.
+2|fenêtrage|L'œil ne distingue que ≈ 20 niveaux de gris : on choisit une fenêtre adaptée au tissu à regarder.
+2|fracture|Pour une fracture : filtre dur et fenêtre osseuse.
+2|FOV|Un petit champ de vue avec une grande matrice donne une image plus fine.
+2|MIP|Le MIP garde les voxels les plus denses (vaisseaux) ; le minIP les moins denses (verre dépoli, voies aériennes).
+2|verre dépoli|Le minIP fait ressortir le verre dépoli.
+2|artefacts|Les artefacts du scanner : mouvement, métal, durcissement du faisceau près des os denses.
+2|ECG|Le coroscanner est synchronisé à l'ECG pour figer le cœur.
+2|CBCT|Le cone beam est très précis pour l'os mais ne donne pas de vraies unités Hounsfield.
+3|ALARA|ALARA est le principe d'optimisation, sous la responsabilité du radiologue.
+3|sievert|Un Belge reçoit en moyenne ≈ 4,3 mSv par an, dont la moitié d'origine médicale.
+3|CT|Le scanner représente environ la moitié de l'irradiation médicale.
+3|MeV|L'effet Compton (haute énergie) diffuse les rayons : le patient devient une source d'irradiation pour le personnel.
+3|WR|Pour les rayons X, WR = 1 : dose équivalente = dose absorbée.
+3|RX|Pour les rayons X, le facteur WR vaut 1.
+3|PDS|En radiographie, la dose se suit par le produit dose × surface.
+3|DLP|Au scanner, on suit le CTDIvol et le DLP.
+3|ADN|Les rayons abîment l'ADN, d'où le risque de cancer.
+3|J4|Pendant l'organogenèse (J9 à 2 mois), l'irradiation peut causer des malformations.
+3|IVG|Au-delà de 0,2 Gy reçus par l'embryon, on propose une IVG ; en dessous de 0,1 Gy, rien.
+3|IRM|Réduire la dose : préférer l'écho ou l'IRM quand c'est possible.
+4|MHz|Les ultrasons ont une fréquence de 1 à 70 MHz ; plus elle est haute, plus l'image est fine mais moins elle va profond.
+4|Doppler|L'angle entre la sonde et le vaisseau doit rester ≤ 60° (à 90°, pas de signal).
+4|IR|L'index de résistance mesure la résistance en aval du vaisseau.
+4|anéchogène|Un liquide est noir, avec un renforcement derrière lui.
+4|hyperéchogène|Calcium, os et gaz sont blancs.
+4|cône d'ombre|Derrière un calcul, les ultrasons ne passent plus : bande noire.
+4|artefacts|Autres artefacts : réverbération (aiguille), image en miroir.
+4|BPCO|Chez un patient très emphysémateux (BPCO), l'air gêne l'échographie.
+4|CHC|L'écho sert au dépistage du CHC chez le cirrhotique.
+4|T1|Ici T1 = 1er trimestre de grossesse (datation).
+4|T3|T3 = 3e trimestre (croissance du fœtus).
+4|TVP|L'écho-Doppler est l'examen de la TVP.
+5|IRM|L'IRM utilise les protons de l'eau.
+5|B0|Le champ B0 aligne les protons.
+5|T1|Après l'onde radio, l'aimantation revient : relaxation T1 (repousse) et T2 (déphasage).
+5|TR|En jouant sur TR et TE, on choisit si l'image est pondérée T1 ou T2.
+5|hypersignal|Ce qui est blanc dans chaque pondération.
+5|gadolinium|En T1, la graisse et le gadolinium sont blancs.
+5|LCR|En T1, le LCR est noir ; en T2, il est blanc.
+5|STIR|STIR = T2 où la graisse est effacée : idéal pour l'œdème osseux.
+5|FLAIR|FLAIR = T2 où le LCR est effacé : idéal pour la SEP.
+5|SEP|Les plaques de SEP se voient bien en FLAIR.
+5|DWI|Restriction de diffusion = blanc en diffusion + noir en ADC (ischémie, abcès, tumeur très cellulaire).
+5|ADC|On lit toujours diffusion et ADC ensemble.
+5|DTI|Techniques avancées : tractographie, perfusion, IRM fonctionnelle, spectroscopie.
+5|artefacts|Artefacts IRM : mouvement, métal (trou noir), repliement, angle magique des tendons.
+5|RX|Un corps étranger métallique dans l'œil se cherche par radio avant toute IRM.
+5|SAR|Le SAR mesure l'échauffement des tissus ; il augmente avec le champ (3 T > 1,5 T).
+6|baryum|Le baryum n'est pas absorbé : dangereux en cas de perforation.
+6|UIV|Le baryum sert pour l'OED et le lavement.
+6|produits de contraste iodés|Les produits iodés non ioniques ont moins d'effets secondaires.
+6|OAP|À forte dose, les produits iodés peuvent donner arythmie, OAP, convulsions.
+6|CI|Contre-indication : hyperthyroïdie non contrôlée ; et attendre avant un traitement par iode radioactif.
+6|CI-AKI|CA-AKI = IRA dans les 48 h après injection (lien temporel) ; CI-AKI = causée par le produit.
+6|KDIGO|Définition de l'IRA selon KDIGO.
+6|NaCl|La seule prévention validée est l'hydratation au sérum physiologique.
+6|J4|La créatinine atteint son pic vers J4 et revient à la normale vers J7–J10.
+6|TSH|L'iode donné à la mère enceinte ne perturbe pas la TSH du nouveau-né.
+6|gadolinium|Le gadolinium est toxique libre : il est toujours lié à une molécule (chélaté).
+6|IRM|Le gadolinium est le contraste de l'IRM.
+6|T1|Le gadolinium raccourcit le T1 : ce qui le capte devient blanc en T1.
+6|hypersignal|Prise de contraste = hypersignal T1.
+6|microbulles|Les microbulles sont éliminées par les poumons et ne touchent pas le rein.
+6|HTAP|Les microbulles sont contre-indiquées en cas d'HTAP sévère.
+7|RX|En traumatologie, toujours commencer par la radio, en 2 incidences perpendiculaires.
+7|IRM|L'IRM et l'arthro-scanner ne s'envisagent qu'après la radio.
+7|fracture|Radio d'abord ; scanner si doute ou fracture complexe.
+7|CT|Le scanner précise une fracture complexe (articulaire, bassin) ou douteuse en radio.
+7|arthrose|L'arthrose fabrique de l'os au bord (ostéophytes)…
+7|arthrite|… l'arthrite en détruit (érosions).
+7|ostéophytes|Les ostéophytes signent l'arthrose.
+7|T1|Modic I = inflammation des plateaux vertébraux : noir en T1, blanc en T2.
+7|AEG|Une altération de l'état général avec lombalgie = drapeau rouge : imagerie sans attendre.
+7|VIH|Le VIH ou l'usage de drogues IV font craindre une infection vertébrale.
+7|CPPD|La chondrocalcinose calcifie les cartilages et ligaments.
+7|C1-C2|Elle peut calcifier le ligament transverse entre C1 et C2.
+7|PR|Polyarthrite rhumatoïde : écho + radio ; symétrique, épargne le rachis sauf le cou.
+7|HLA-B27|Les spondylarthropathies (souvent HLA-B27) touchent les sacro-iliaques : IRM.
+8|échographie|Guidage par écho : accessible, sans rayons, en temps réel.
+8|CT|Guidage par scanner pour les cibles profondes.
+8|DSA|L'angiographie soustraite montre les vaisseaux en temps réel.
+8|CBCT|Le cone beam sur la table d'angio donne des images 3D pendant le geste.
+8|Seldinger|On accède à l'artère fémorale par la technique de Seldinger.
+8|CI|Seule contre-indication absolue à l'angiographie : allergie grave documentée à l'iode.
+8|IR|Une insuffisance rénale est une contre-indication relative.
+8|embolisation|Tableau des agents d'embolisation selon le besoin (temporaire, définitif).
+8|PVA|Les billes de PVA sont définitives.
+8|HBP|On les utilise pour emboliser une prostate hypertrophiée.
+8|radiofréquence|La radiofréquence détruit la tumeur par la chaleur.
+9|échographie|L'échographie est le 1er examen de l'abdomen non urgent.
+9|CT|Le scanner est l'examen de l'abdomen aigu.
+9|ASP|L'ASP est peu sensible : presque abandonné.
+9|occlusion|Même pour l'occlusion, le scanner a remplacé l'ASP.
+9|hyperéchogène|Foie gras : plus blanc que le rein à l'écho.
+9|IRM|L'IRM quantifie la graisse du foie (chute en opposition de phase).
+9|T1|Ici T2 : la surcharge en fer rend le foie noir en T2 ; l'IRM est seule à quantifier.
+9|HTP|Signes d'hypertension portale.
+9|anéchogène|Un kyste simple (noir, sans prise de contraste) ne demande aucun suivi.
+9|HNF|L'HNF a une cicatrice centrale et capte le contraste hépatospécifique (bénin).
+9|produits de contraste iodés|Ici PC = produit de contraste hépatospécifique (gadolinium capté par les hépatocytes), pas iodé.
+9|CHC|Le CHC se rehausse au temps artériel puis se lave au temps portal.
+9|αFP|Dépistage du CHC : écho + αFP tous les 6 mois.
+9|LI-RADS|Le LI-RADS classe le risque de CHC.
+9|RX|La radio est inutile : seuls 10–15 % des calculs biliaires sont visibles.
+9|cône d'ombre|Un calcul vésiculaire est mobile et fait un cône d'ombre (un polype non).
+9|CPRM|La CPRM recherche un calcul de la voie biliaire principale.
+9|TA|Cholécystite : on peut répéter l'écho 12–24 h plus tard si doute.
+9|CTSI|Le scanner de la pancréatite se fait après 48–72 h pour voir la nécrose.
+9|MICI|Rectocolite : côlon sans haustrations (« tuyau de pipe »).
+9|appendicite|Appendicite : écho d'abord ; scanner si écho négative.
+9|diverticulite|Diverticulite et autres urgences abdominales : scanner.
+9|pneumopéritoine|Le scanner est le plus sensible pour l'air libre.
+9|FAST|Trauma instable : FAST ; stable : scanner injecté.
+10|CT|Pour voir l'os du crâne (et l'urgence), le scanner.
+10|IRM|Pour voir le cerveau lui-même, l'IRM.
+10|SEP|L'IRM est l'examen de la SEP.
+10|NF1|Les phacomatoses (NF1, NF2…) s'explorent en IRM.
+10|fracture|Trauma crânien : scanner d'abord (hémorragie, fracture).
+10|DWI|Coma avec scanner presque normal : IRM de diffusion (lésions axonales diffuses).
+10|AVC|80 % des AVC sont ischémiques.
+10|ACM|Une ACM spontanément dense au scanner = caillot.
+10|MTT|Les temps (MTT, TTP) détectent la zone mal perfusée ; CBF/CBV précisent ce qui est déjà mort.
+10|pénombre|Volume sanguin conservé + temps allongés = pénombre, tissu à sauver.
+10|occlusion|L'angio-CT localise l'artère bouchée (thrombectomie).
+10|ADC|AVC aigu : blanc en diffusion, noir en ADC.
+10|AIT|Après un AIT, on fait toujours une IRM de diffusion.
+10|HTA|Hématome des noyaux gris chez un hypertendu : pas d'autre bilan.
+10|MAV|Hématome atypique : chercher une MAV ou un anévrisme.
+10|T1|Ici « T2 écho de gradient » : séquence sensible au sang (thrombose d'une veine corticale).
+10|HSA|Hémorragie méningée : scanner sans contraste d'abord.
+10|PL|Si le scanner est négatif : ponction lombaire.
+11|RX|L'angio-CT se fait à bas kV pour que l'iode paraisse plus dense.
+11|Doppler|L'écho-Doppler est au lit et peu cher, mais dépend de l'opérateur.
+11|TVP|C'est l'examen de la TVP.
+11|AOMI|… et de l'AOMI (1re intention).
+11|PET-FDG|Le PET-FDG montre l'inflammation des vaisseaux et les infections de prothèse.
+11|MIP|Les reconstructions MIP/3D donnent une vue d'ensemble mais on fait le diagnostic sur les coupes.
+11|AAA|L'aorte sous-rénale normale fait ≈ 2 cm ; anévrisme si > 3 cm.
+11|CT|Rupture suspectée chez un patient stable : scanner.
+11|IRM|Jamais d'IRM en urgence pour une rupture.
+11|dissection aortique|Syndrome aortique aigu : dissection, hématome intramural, ulcère pénétrant.
+11|IIa|AOMI : IIa = périmètre de marche > 200 m, IIb < 200 m.
+11|VCS|Pour les veines du pelvis et la veine cave, on utilise CT ou IRM.
+11|FC|Pour le coroscanner, on ralentit le cœur (bêtabloquant).
+11|VPN|Un coroscanner normal exclut presque sûrement une sténose coronaire.
+11|STEMI|Pas de coroscanner en cas d'infarctus avec sus-décalage du ST.
+11|FA|Avant ablation de FA : scanner de l'oreillette gauche et des veines pulmonaires.
+11|TAVI|Avant TAVI : angio-scanner de l'aorte et des iliaques + scanner cardiaque.
+11|CI|Contre-indication si la fonction rénale est trop basse.
+12|BRCA1|Les porteuses de BRCA1/2 ont un dépistage renforcé.
+12|échographie|Avant 40 ans : échographie en 1re intention.
+12|mammographie|Après 40 ans : mammographie.
+12|MLO|2 incidences : cranio-caudale et oblique.
+12|IRM|L'IRM mammaire n'est jamais l'examen de première intention.
+12|ACR|La densité mammaire selon l'ACR va de A (graisseux) à D (très dense).
+12|BI-RADS|Le BI-RADS fixe la conduite à tenir.
+12|VPN|VPP = probabilité de cancer pour chaque catégorie BI-RADS.
+12|C1|La cytoponction est classée de C1 (non contributive) à C5 (maligne).
+12|B1|La microbiopsie est classée de B1 à B5.
+12|microcalcifications|Les microcalcifications se prélèvent par macrobiopsie sous stéréotaxie.
+12|J5|IRM mammaire entre J5 et J15 du cycle.
+12|THS|Arrêter le THS 3 semaines avant l'IRM mammaire.
+12|gadolinium|L'IRM mammaire se fait avec gadolinium et soustraction.
+12|MIP|Les MIP donnent une vue d'ensemble des prises de contraste.
+13|échographie|L'échographie est le 1er examen en gynécologie.
+13|IRM|L'IRM vient en 2e intention.
+13|CT|Le scanner a peu de place en gynécologie.
+13|Doppler|L'écho endovaginale permet aussi le Doppler.
+13|RX|L'hystérosalpingographie (radio + iode) vérifie que les trompes sont perméables.
+13|ATCD|Antibiotique si antécédent d'infection pelvienne.
+13|PID|Une infection pelvienne aiguë contre-indique l'hystérosalpingographie.
+13|CI|Contre-indications : grossesse, infection aiguë.
+13|T1|Ici T2 : la séquence reine de l'IRM pelvienne.
+13|DIU|Un stérilet au cuivre ne gêne pas l'IRM.
+13|SA|Le sac de grossesse se voit dès 4–5 SA.
+13|clarté|Ici clarté nucale : épaisseur de la nuque du fœtus entre 11 et 14 SA ; > 3 mm = risque d'anomalie chromosomique.
+13|GEU|GEU : douleur + βhCG positive sans grossesse dans l'utérus.
+13|βhCG|βhCG positive et utérus vide = GEU jusqu'à preuve du contraire.
+13|MRKH|MRKH = absence d'utérus.
+13|hypersignal|L'endométriome est blanc en T1 même avec saturation de graisse (sang).
+13|IIB|Si le cancer du col envahit les paramètres (IIB), on ne l'opère pas.
+14|CT|Le scanner low-dose sans injection est l'examen de référence des calculs.
+14|échographie|Échographie chez la femme enceinte, pour la dilatation et l'enfant.
+14|ASP|L'ASP montre les calculs calcifiés et les sondes JJ.
+14|JJ|La sonde JJ est visible sur l'ASP.
+14|UIV|L'UIV ne reste utile que pour quelques malformations.
+14|CI|La cystographie a peu de contre-indications.
+14|UH|Les calculs d'acide urique ne se voient pas en radio mais bien au scanner.
+14|AAA|Sujet âgé avec « colique néphrétique » : penser à un anévrisme de l'aorte qui se rompt.
+14|PNA|La pyélonéphrite se diagnostique sans imagerie ; écho si obstacle suspect.
+14|Bosniak|Kystes du rein classés selon Bosniak.
+14|IIF|IIF = kyste à surveiller.
+14|hyperéchogène|L'angiomyolipome contient de la graisse (très blanc à l'écho), mais certains petits cancers aussi.
+14|IR|Un IR élevé dans le rein greffé oriente vers rejet, ischémie, thrombose ou infection.
+14|Doppler|Torsion du testicule : plus de flux au Doppler ; orchi-épididymite : flux augmenté.
+15|RX|Pour une sinusite aiguë simple, pas d'imagerie ; jamais de radio.
+15|CT|Sinusite qui traîne : scanner ou cone beam sans injection.
+15|CBCT|Le cone beam irradie moins pour les sinus.
+15|IRM|Sinusite compliquée : scanner injecté puis IRM.
+15|ATM|L'IRM est l'examen de référence de l'articulation temporo-mandibulaire.
+15|DWI|Cholestéatome : l'IRM de diffusion détecte une récidive.
+15|HR|Fracture du rocher : scanner haute résolution.
+15|PET-FDG|Le PET-FDG est le plus spécifique pour les ganglions.
+15|nodule|Les nodules thyroïdiens sont très fréquents et presque toujours bénins.
+15|échographie|L'échographie est l'examen des nodules thyroïdiens.
+15|EU-TIRADS|L'EU-TIRADS décide si on ponctionne.
+15|AVC|Un AVC fait partie des indications d'imagerie des vaisseaux du cou.
+16|échographie|L'enfant est plus sensible aux rayons : l'échographie passe en premier.
+16|RX|Radio + échographie suffisent souvent chez l'enfant.
+16|CT|On limite le scanner chez l'enfant.
+16|IRM|L'IRM remplace le scanner quand c'est possible.
+16|fracture|Fracture de l'enfant : radio face + profil ; côté opposé seulement si doute.
+16|sténose du pylore|Sténose du pylore : diagnostic par écho.
+16|invagination|Invagination : écho (image en cocarde).
+16|EMU|Infection urinaire de l'enfant : écho systématique.
+16|maltraitance|Une fracture métaphysaire en coin est très évocatrice de maltraitance.
+16|arthrite|Épanchement + fièvre = arthrite septique : ponction.
+16|SHU|Le SHU fait partie des urgences abdominales de 2 mois à 2 ans.
+16|appendicite|L'appendicite est rare avant 3 ans.
+16|MICI|Chez le plus grand enfant, penser aussi aux MICI.
+17|RX|La radio du thorax reste le 1er examen.
+17|OAP|La radio suffit pour un OAP.
+17|pneumothorax|La radio suffit pour un pneumothorax.
+17|CT|Le scanner tranche pour l'embolie, l'hémoptysie, les nodules.
+17|embolie pulmonaire|Embolie : angio-scanner d'emblée.
+17|IR|Scintigraphie si allergie à l'iode ou insuffisance rénale sévère.
+17|signe de la silhouette|Le signe de la silhouette localise une condensation alvéolaire.
+17|verre dépoli|Verre dépoli = vaisseaux encore visibles ; condensation = vaisseaux effacés.
+17|COVID|Le COVID donne typiquement du verre dépoli.
+17|SDRA|Le SDRA donne un verre dépoli et des condensations bilatérales.
+17|nodule|Nodule ≤ 3 cm, masse > 3 cm.
+17|BPCO|Trachée aplatie latéralement (« fourreau de sabre ») = BPCO.
+17|atélectasie|L'atélectasie fait perdre du volume.
+17|opacité|L'atélectasie donne une opacité triangulaire avec rétraction.
+17|TABC|Chez l'âgé, un TABC sinueux peut simuler une masse.
+17|J4|Médiastinite après chirurgie cardiaque : les signes du scanner ne sont fiables qu'après J14.
+17|radioprotection|Correction : seuil de cataracte ≈ 0,5 Gy selon la CIPR.
+17|CIPR|La CIPR a abaissé le seuil de la cataracte.
+17|IRM|Correction : en T2 turbo spin écho, la graisse reste claire.
+17|T1|Ici T2 : la graisse n'y est pas noire.
+17|Doppler|Correction : le Doppler mesure une différence de fréquence.
+17|SNC|Correction : le scanner du trauma crânien se fait sans contraste.
+17|hypersignal|Correction : au scanner, l'œdème est hypodense (on parle d'hypersignal en IRM).
+17|échographie|Correction : écho mammaire en 1re intention avant 40 ans (pas 30).

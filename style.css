@@ -23,7 +23,7 @@ button,input{font:inherit;color:inherit;touch-action:manipulation}
 .btn.small{min-height:42px;font-size:.95rem}
 .icon-btn{width:44px;height:44px;border:0;border-radius:50%;background:var(--sf2);font-size:1.2rem;cursor:pointer}
 .snd{border:0;background:var(--sf2);width:40px;height:40px;border-radius:50%;font-size:1.1rem;cursor:pointer;line-height:1}
-#snd-home{position:absolute;top:max(14px,env(safe-area-inset-top));right:14px}
+
 .mid .snd{width:34px;height:34px;font-size:.95rem}
 .top{display:flex;align-items:center;gap:12px}
 .top h2{margin:0;font-size:1.25rem}
@@ -260,3 +260,24 @@ body.reading #app{max-width:820px}
 .gl-src{display:block;margin-top:6px;font-size:.75rem;color:var(--mu)}
 .rv-toc[hidden],.gl-src[hidden]{display:none}
 .rv-doc p.lbl{margin:16px 0 4px;font-weight:600}
+.gl-ctx{background:rgba(124,196,255,.12);border-left:3px solid #7cc4ff;border-radius:8px;padding:7px 9px;margin:6px 0 8px;color:#e6efff}
+.gl-ctx::before{content:"Ici : ";font-weight:700;color:#7cc4ff}
+.gl-ctx[hidden]{display:none}
+.gl-d{color:#c9d3ea}
+
+.btn-dl{color:var(--ink,inherit);display:flex;align-items:center;justify-content:center;gap:6px;text-decoration:none;text-align:center}
+.btn-dl small{opacity:.7;font-weight:400;white-space:nowrap}
+
+/* Barre de son (accueil, en haut à droite) */
+.sndbar{position:sticky;top:max(10px,env(safe-area-inset-top));z-index:5;align-self:flex-end;display:flex;align-items:center;gap:8px;
+  padding:4px 12px 4px 4px;border-radius:999px;background:var(--sf2);box-shadow:0 2px 10px rgba(0,0,0,.25);margin-bottom:-6px}
+.sndbar .snd{background:transparent;width:36px;height:36px}
+.sndbar .vol{flex:none;width:110px;height:28px}
+/* Groupe multijoueur */
+.group{display:flex;flex-direction:column;gap:12px;padding:14px;border-radius:var(--r);background:rgba(255,255,255,.03);border:1px solid var(--sf2)}
+.group-t{margin:0;font-size:1rem;color:var(--mu);font-weight:600;letter-spacing:.3px}
+.sndbar.compact{position:static;align-self:center;margin:0;padding:2px 8px 2px 2px;box-shadow:none}
+.sndbar.compact .snd{width:30px;height:30px;font-size:.9rem}
+.sndbar.compact .vol{width:64px;height:24px}
+.gl-x2{margin:-2px 0 6px;font-size:.85rem;font-style:italic;color:var(--accent)}
+.gl-ctx{margin:8px 0 0 !important}

@@ -1,67 +1,104 @@
-PSA|Antigène prostatique spécifique : protéine sanguine produite par la prostate. Augmente dans le cancer, mais aussi l'HBP et les infections.|Antigène prostatique spécifique
-HBP|Hypertrophie bénigne de la prostate : grossissement bénin de la zone de transition, qui gêne la vidange vésicale chez l'homme âgé.|Hypertrophie bénigne de la prostate
-TDM;CT|Tomodensitométrie (scanner).|Tomodensitométrie
-IRM|Imagerie par résonance magnétique.|Imagerie par résonance magnétique
-RUA|Rétention urinaire aiguë : impossibilité soudaine et douloureuse d'uriner, vessie pleine (globe).|Rétention urinaire
-JJ;sonde JJ|Sonde double J : petit tube interne entre le rein et la vessie qui draine l'uretère bouché.|Sonde double J
-TR|Toucher rectal : palpation de la prostate par le doigt (volume, nodule dur).|Toucher rectal
-IUE|Incontinence urinaire d'effort : fuites en toussant, riant, portant (faiblesse du sphincter / du soutien urétral).|Incontinence urinaire d'effort
-IUU|Incontinence urinaire par urgenturie : envie pressante soudaine et fuite avant d'arriver aux toilettes (vessie hyperactive).|Incontinence urinaire
-AFP|Alpha-fœtoprotéine : marqueur sanguin de certaines tumeurs du testicule (non séminomateuses).|Alpha-fœtoprotéine
-βHCG;hCG|Hormone de grossesse, aussi marqueur de certaines tumeurs testiculaires.|Gonadotrophine chorionique humaine
-IPSS|Score international des symptômes prostatiques (0–35) : questionnaire sur la gêne urinaire.|
-TURP|Résection transurétrale de la prostate : on « rabote » la prostate par l'urètre avec un endoscope.|Résection transurétrale de la prostate
-TVNIM|Tumeur de vessie n'infiltrant pas le muscle : superficielle, traitée par résection endoscopique ± BCG.|
-ATB|Antibiotiques.|Antibiotique
-RPM|Résidu post-mictionnel : urine restant dans la vessie après avoir uriné, mesurée à l'échographie.|
-ARI|Inhibiteurs de la 5-alpha-réductase (finastéride, dutastéride) : font diminuer le volume de la prostate.|Inhibiteur de la 5-alpha-réductase
-TUBA|Troubles urinaires du bas appareil : difficultés de remplissage (urgences) ou de vidange (jet faible).|
-BRCA|Gènes de réparation de l'ADN ; mutés, ils augmentent le risque de cancers du sein, de l'ovaire et de la prostate.|BRCA1
-ISUP|Classification de l'agressivité du cancer de prostate en 5 groupes, à partir du score de Gleason.|Score de Gleason
-RTUV|Résection transurétrale de vessie : ablation endoscopique de la tumeur, à la fois diagnostic et traitement.|
-BCG|Bacille de Calmette-Guérin : vaccin vivant instillé dans la vessie pour stimuler l'immunité contre les tumeurs superficielles.|Bacille de Calmette et Guérin
-PNA|Pyélonéphrite aiguë : infection du rein (fièvre, douleur lombaire). Si obstruction associée, drainage en urgence.|Pyélonéphrite
-ECBU|Examen cytobactériologique des urines : recherche et identification des germes, avec antibiogramme.|Examen cytobactériologique des urines
-INR|International normalized ratio : surveille l'anticoagulation par AVK.|International normalized ratio
-HBPM|Héparines de bas poids moléculaire (anticoagulants injectables).|Héparine de bas poids moléculaire
-TVT;TOT|Bandelettes sous-urétrales (rétropubienne TVT ou transobturatrice TOT) qui soutiennent l'urètre dans l'incontinence d'effort.|Bandelette sous-urétrale
-PDE5|Phosphodiestérase 5 : ses inhibiteurs (sildénafil, tadalafil) traitent la dysfonction érectile. Interdits avec les dérivés nitrés.|Inhibiteur de la phosphodiestérase 5
-LDH|Lactate déshydrogénase : enzyme, marqueur du volume tumoral (testicule).|Lactate déshydrogénase
-PI-RADS|Score de 1 à 5 de la suspicion de cancer sur l'IRM de prostate.|
-PET-PSMA|PET avec un traceur qui se fixe sur le PSMA (antigène de membrane prostatique) : très sensible pour les métastases de cancer de prostate.|
-TNM|Classification de l'extension d'un cancer : tumeur (T), ganglions (N), métastases (M).|Classification TNM
-VCI|Veine cave inférieure ; un cancer du rein peut y pousser un bourgeon tumoral.|Veine cave inférieure
-cystocath;cathéter sus-pubien|Sonde posée à travers la peau du bas-ventre directement dans la vessie.|Cathéter sus-pubien
-hématurie|Sang dans les urines, visible (macroscopique) ou au microscope.|Hématurie
-uroscanner|Scanner des voies urinaires en 3 temps (sans injection, néphrographique, excrétoire) : examen de référence de l'hématurie.|
-lithiase;calcul|Calcul (pierre) dans les voies urinaires ; il peut bloquer l'uretère et causer une colique néphrétique.|Lithiase urinaire
-colique néphrétique|Douleur lombaire très violente irradiant vers les organes génitaux, par blocage de l'uretère (calcul).|Colique néphrétique
-cystoscopie|Examen de la vessie avec une caméra passée par l'urètre.|Cystoscopie
-sphincter|Muscle en anneau qui ferme l'urètre. Le sphincter strié (volontaire) assure la continence d'effort.|Sphincter urétral
-détrusor|Muscle de la paroi de la vessie, qui se contracte pour la vider (commandé par le parasympathique).|Détrusor
-hyperactivité vésicale|Urgences mictionnelles, avec ou sans fuites, souvent avec envies fréquentes le jour et la nuit.|Hyperactivité vésicale
-anticholinergiques|Médicaments qui bloquent les récepteurs muscariniques et calment le détrusor ; risque de confusion chez l'âgé.|Anticholinergique
-β3-mimétiques|Médicaments (mirabégron) qui relâchent le détrusor par les récepteurs β3, sans effets anticholinergiques.|Mirabégron
-alpha-bloquants;α-bloquants|Médicaments (tamsulosine) qui relâchent le col vésical et la prostate et facilitent la miction.|Alpha-bloquant
-dysfonction érectile|Incapacité persistante à obtenir ou maintenir une érection suffisante. Souvent signe précoce de maladie vasculaire.|Dysfonction érectile
-nitrés;dérivés nitrés|Vasodilatateurs de l'angine de poitrine ; avec un inhibiteur de PDE5, chute de tension dangereuse.|Dérivé nitré
-orchidectomie|Ablation chirurgicale d'un testicule, par l'aine pour une tumeur.|Orchidectomie
-séminome|Tumeur germinale du testicule de l'homme jeune, très sensible à la radiothérapie et à la chimiothérapie.|Séminome
-varicocèle|Dilatation des veines du cordon spermatique, surtout à gauche. Une varicocèle récente doit faire chercher une tumeur du rein.|Varicocèle
-prostatectomie|Ablation de toute la prostate pour un cancer localisé ; risque d'incontinence et de troubles de l'érection.|Prostatectomie
-curiethérapie|Radiothérapie de l'intérieur : sources radioactives placées dans la prostate.|Curiethérapie
-hormonothérapie|Traitement qui supprime la testostérone pour freiner le cancer de prostate.|Hormonothérapie
-cystectomie|Ablation de la vessie (cancer qui infiltre le muscle), avec dérivation des urines.|Cystectomie
-Bricker|Dérivation des urines : les uretères sont abouchés à un bout d'intestin qui sort à la peau (stomie).|Urétérostomie
-carcinome urothélial|Cancer de la muqueuse des voies urinaires (vessie surtout), lié au tabac.|Carcinome urothélial
-carcinome à cellules claires|Type le plus fréquent de cancer du rein.|Carcinome rénal à cellules claires
-Bosniak|Classification des kystes du rein au scanner (I à IV) selon le risque de cancer.|
-torsion|Torsion du cordon spermatique : douleur testiculaire brutale ; urgence chirurgicale (< 6 h) pour sauver le testicule.|Torsion testiculaire
-Qmax|Débit urinaire maximal mesuré à la débitmétrie ; normal > 15 ml/s.|
-zone de transition|Partie de la prostate autour de l'urètre où se développe l'HBP.|Prostate
-zone périphérique|Partie de la prostate contre le rectum, où naissent la plupart des cancers (palpables au toucher rectal).|Prostate
-cancer de la prostate|Cancer le plus fréquent de l'homme, souvent lent ; dépisté par PSA, IRM et biopsies.|Cancer de la prostate
-biopsies;biopsie|Prélèvement de tissu pour l'analyser au microscope.|Biopsie
-hydronéphrose|Dilatation des cavités du rein en amont d'un obstacle.|Hydronéphrose
-néphrectomie|Ablation du rein (totale) ou d'une partie (partielle).|Néphrectomie
-Heng|Score pronostique du cancer du rein métastatique (anémie, calcium, plaquettes, neutrophiles, état général, délai).|
+PSA|Antigène prostatique spécifique : protéine fabriquée par les cellules de la prostate et dosée dans le sang. Il monte dans le cancer, mais aussi dans l'hypertrophie bénigne, la prostatite, après un toucher rectal ou une sonde : un PSA élevé n'est donc pas un diagnostic, il fait chercher (IRM, biopsies). Après prostatectomie, il doit devenir indosable.|Antigène prostatique spécifique
+HBP|Hypertrophie bénigne de la prostate : la zone de transition (autour de l'urètre) grossit avec l'âge sous l'effet de la DHT. Ce n'est pas un cancer, mais elle comprime l'urètre : jet faible, envies fréquentes la nuit, vidange incomplète, jusqu'à la rétention.|Hypertrophie bénigne de la prostate
+TDM;CT|Tomodensitométrie (scanner) : des rayons X tournent autour du patient et l'ordinateur reconstruit des coupes. En urologie : uroscanner pour l'hématurie, scanner sans injection pour les calculs (presque tous visibles), bilan d'extension des cancers.|Tomodensitométrie
+RUA|Rétention urinaire aiguë : le patient ne peut plus uriner du tout alors que la vessie est pleine ; douleur intense et « globe » palpable au-dessus du pubis. Cause n° 1 : l'HBP. Traitement en urgence : sonde urinaire ou cathéter sus-pubien.|Rétention urinaire
+JJ;sonde JJ|Sonde double J : fin tube placé par endoscopie entre le rein et la vessie, avec une boucle (« J ») à chaque bout pour qu'il reste en place. Il draine un uretère bouché (calcul, tumeur) ; on le retire ou le change après quelques semaines à mois.|Sonde double J
+TR|Toucher rectal : le médecin palpe la prostate avec un doigt ganté par l'anus. Il apprécie le volume, la consistance (souple = bénin, dure/nodulaire = suspect de cancer) et la douleur (prostatite).|Toucher rectal
+IUE|Incontinence urinaire d'effort : fuites quand la pression du ventre augmente (toux, rire, sport, port de charges), sans envie préalable. Cause : soutien de l'urètre ou sphincter insuffisant (accouchements, ménopause, après prostatectomie). Traitement : rééducation du périnée, bandelette, sphincter artificiel.|Incontinence urinaire d'effort
+IUU|Incontinence urinaire par urgenturie : envie soudaine et impérieuse, avec fuite avant d'arriver aux toilettes. Elle traduit une vessie hyperactive (le détrusor se contracte tout seul). Traitement : rééducation, anticholinergiques ou β3-mimétiques, toxine botulique.|Incontinence urinaire
+AFP|Alpha-fœtoprotéine : protéine du fœtus, normalement très basse chez l'adulte. Élevée dans les tumeurs germinales non séminomateuses du testicule (jamais dans le séminome pur) et dans le cancer du foie. Sert au diagnostic, au pronostic et au suivi.|Alpha-fœtoprotéine
+βHCG;hCG|Hormone chorionique gonadotrope : hormone de la grossesse, aussi produite par certaines tumeurs du testicule (choriocarcinome, parfois séminome). Avec AFP et LDH, c'est un des 3 marqueurs à doser avant et après l'orchidectomie.|Gonadotrophine chorionique humaine
+IPSS|International Prostate Symptom Score : questionnaire de 7 questions (0 à 35 points) sur la gêne urinaire. 0–7 = légère, 8–19 = modérée, 20–35 = sévère ; sert à décider du traitement de l'HBP et à suivre son effet.|
+TURP;RTUP|Résection transurétrale de la prostate : on passe un endoscope par l'urètre et on « rabote » l'adénome qui obstrue, avec une anse électrique. Traitement chirurgical de référence de l'HBP pour les prostates moyennes ; effet fréquent : éjaculation rétrograde.|Résection transurétrale de la prostate
+TVNIM|Tumeur de vessie n'infiltrant pas le muscle (stades Ta, T1, CIS) : 75 % des cancers de vessie au diagnostic. Traitement : résection endoscopique, puis instillations dans la vessie (chimio ou BCG) selon le risque. Problème : elle récidive souvent, d'où une surveillance par cystoscopie.|
+TVIM|Tumeur de vessie infiltrant le muscle (≥ T2) : plus grave, risque de métastases. Traitement de référence : chimiothérapie avant l'opération puis cystectomie totale.|
+ATB|Antibiotiques : médicaments qui tuent les bactéries ou bloquent leur croissance. En urologie : infections urinaires, prostatite (souvent fluoroquinolones car elles pénètrent bien la prostate), antibioprophylaxie avant chirurgie.|Antibiotique
+RPM|Résidu post-mictionnel : volume d'urine qui reste dans la vessie juste après avoir uriné, mesuré à l'échographie ou par sondage. Un RPM important (> 100–150 ml) signe une vidange incomplète (obstacle ou vessie faible) et favorise infections et calculs.|
+ARI|Inhibiteurs de la 5-alpha-réductase (finastéride, dutastéride) : bloquent la transformation de la testostérone en DHT dans la prostate. La prostate diminue d'environ 25 % en 6 mois ; ils réduisent le risque de rétention et d'opération. Ils divisent le PSA par 2 (à corriger pour l'interpréter).|Inhibiteur de la 5-alpha-réductase
+TUBA|Troubles urinaires du bas appareil : tous les symptômes de la vessie et de l'urètre. Symptômes de remplissage (envies fréquentes, urgences, nuit) ou de vidange (jet faible, poussée, gouttes retardataires).|
+BRCA;BRCA1;BRCA2|Gènes qui réparent l'ADN. Une mutation héréditaire (surtout BRCA2) augmente le risque de cancers du sein, de l'ovaire, du pancréas et de la prostate (plus agressif et plus précoce) ; elle ouvre droit à un dépistage plus tôt et à des traitements ciblés (inhibiteurs de PARP).|BRCA2
+ISUP|Groupes ISUP (1 à 5) : classement de l'agressivité du cancer de la prostate au microscope, à partir du score de Gleason. ISUP 1 = Gleason 6 (peu agressif), ISUP 5 = Gleason 9–10 (très agressif).|Score de Gleason
+Gleason|Score de Gleason : le pathologiste note les deux aspects les plus fréquents de la tumeur de 3 à 5 (plus c'est désorganisé, plus c'est haut) et les additionne (6 à 10). Plus le score est haut, plus le cancer est agressif.|Score de Gleason
+RTUV|Résection transurétrale de vessie : on enlève la tumeur par un endoscope passé dans l'urètre. C'est à la fois le diagnostic (le pathologiste doit voir du muscle pour savoir s'il est envahi) et le traitement des tumeurs superficielles.|
+BCG|Bacille de Calmette-Guérin : le vaccin vivant atténué contre la tuberculose. Instillé dans la vessie, il provoque une inflammation qui stimule les défenses contre les cellules tumorales : traitement de référence des tumeurs superficielles à haut risque (et du CIS).|Bacille de Calmette et Guérin
+PNA|Pyélonéphrite aiguë : infection bactérienne du rein (souvent E. coli remonté de la vessie) : fièvre, frissons, douleur lombaire. Si un obstacle bloque l'urine (calcul), c'est une urgence : il faut drainer le rein (sonde JJ ou néphrostomie) en plus des antibiotiques.|Pyélonéphrite
+ECBU|Examen cytobactériologique des urines : on recueille l'urine du milieu du jet ; le laboratoire compte les globules blancs et les bactéries, identifie le germe et teste les antibiotiques efficaces (antibiogramme).|Examen cytobactériologique des urines
+INR|International normalized ratio : test de coagulation qui mesure l'effet des antivitamines K (cible 2–3 en général). Il doit être corrigé avant une chirurgie ou une biopsie.|International normalized ratio
+HBPM|Héparines de bas poids moléculaire (énoxaparine, tinzaparine) : anticoagulants injectés sous la peau, pour prévenir les thromboses après chirurgie ou pour relayer un anticoagulant oral.|Héparine de bas poids moléculaire
+TVT;TOT|Bandelettes sous-urétrales : petite bande de tissu synthétique placée sous le milieu de l'urètre, par voie rétropubienne (TVT) ou par les trous obturateurs (TOT). Elle sert de « hamac » qui soutient l'urètre à l'effort : traitement chirurgical de référence de l'incontinence d'effort féminine.|Bandelette sous-urétrale
+PDE5;iPDE5|Phosphodiestérase de type 5 : enzyme qui détruit le GMPc dans les corps caverneux. Ses inhibiteurs (iPDE5 : sildénafil, tadalafil, vardénafil) prolongent l'effet du GMPc et facilitent l'érection, à condition qu'il y ait une stimulation sexuelle. Interdits avec les dérivés nitrés (chute de tension grave).|Inhibiteur de la phosphodiestérase 5
+LDH|Lactate déshydrogénase : enzyme présente dans toutes les cellules ; son taux sanguin reflète la masse tumorale et la destruction cellulaire. Marqueur pronostique des tumeurs du testicule (avec AFP et hCG).|Lactate déshydrogénase
+PI-RADS|Score de 1 à 5 donné par le radiologue à chaque lésion vue à l'IRM de la prostate : 1–2 = cancer significatif peu probable, 3 = douteux, 4–5 = probable. Un PI-RADS ≥ 3 (ou 4) mène à des biopsies ciblées.|
+PET-PSMA|PET avec un traceur qui se fixe sur le PSMA, une protéine très abondante à la surface des cellules du cancer de prostate. Beaucoup plus sensible que le scanner et la scintigraphie osseuse pour trouver ganglions et métastases.|
+VCI|Veine cave inférieure : grosse veine qui ramène le sang du bas du corps au cœur. Le cancer du rein peut pousser un « bourgeon » dans la veine rénale puis la veine cave ; il faut le savoir avant l'opération.|Veine cave inférieure
+cystocath;cathéter sus-pubien|Cathéter sus-pubien : sonde posée à travers la peau du bas-ventre directement dans la vessie pleine. Utilisé quand la sonde par l'urètre est impossible ou contre-indiquée (prostatite, traumatisme de l'urètre).|Cathéter sus-pubien
+CH|Charrière : unité de calibre des sondes (1 Ch = 1/3 mm de diamètre). Une sonde 16 Ch mesure donc environ 5,3 mm.|Charrière (unité)
+GR|Globules rouges (hématies). Dans les urines, on parle d'hématurie microscopique au-delà d'environ 10 GR/mm³ ; elle devient visible à l'œil vers 500 000 GR/ml.|Érythrocyte
+CIS|Carcinome in situ : cancer plat, de haut grade, qui reste dans la muqueuse (n'a pas franchi la membrane basale) mais qui est agressif et récidive beaucoup. Il est mal vu à la cystoscopie ; la cytologie urinaire le détecte bien. Traitement : BCG.|Carcinome in situ
+TCP|Tube contourné proximal : 1re partie du tubule du néphron, juste après le glomérule. Il réabsorbe la plus grande partie de ce qui a été filtré (≈ 2/3 de l'eau et du sel, tout le glucose et les acides aminés).|Tube contourné proximal
+TCD|Tube contourné distal : partie du tubule après l'anse de Henlé, qui fait le « réglage fin » du sel, du potassium et du calcium sous l'effet des hormones (aldostérone, PTH).|Tube contourné distal
+T10;L2;T10–L2|Segments de la moelle épinière (10e thoracique à 2e lombaire) d'où partent les fibres sympathiques de la vessie, qui passent par le nerf hypogastrique.|Moelle spinale
+S2;S4;S2–S4|Segments sacrés de la moelle (2e à 4e) : centre parasympathique de la miction (nerf pelvien) et origine du nerf pudendal qui commande le sphincter externe. Une lésion à ce niveau donne une vessie flasque.|Moelle spinale
+β3|Récepteurs bêta-3 adrénergiques du détrusor : stimulés par la noradrénaline, ils relâchent la vessie pour qu'elle se remplisse. Les β3-mimétiques (mirabégron) imitent cet effet.|Récepteur adrénergique bêta-3
+α1a;α1b;α1d|Sous-types de récepteurs alpha-1 adrénergiques : α1a dans le col vésical et la prostate (contraction = fermeture), α1d dans le corps vésical, α1b dans les vaisseaux (tension). La tamsulosine cible surtout α1a, d'où moins de chute de tension.|Récepteur adrénergique alpha-1
+M2;M3|Récepteurs muscariniques de l'acétylcholine dans la vessie. M3 (le moins nombreux, ratio M2:M3 = 3:1) est celui qui fait contracter le détrusor ; c'est la cible des anticholinergiques.|Récepteur muscarinique
+α-bloquant;α-bloquants;alpha-bloquants|Alpha-bloquants (tamsulosine, alfuzosine, silodosine) : bloquent les récepteurs α1 du col vésical et de la prostate, qui se relâchent ; le jet s'améliore en quelques jours. Effets : vertiges, chute de tension en se levant, éjaculation rétrograde. 1er traitement médical de l'HBP.|Alpha-bloquant
+ADH|Hormone antidiurétique (vasopressine) : fabriquée par l'hypothalamus, elle fait réabsorber l'eau par le rein et concentre les urines, surtout la nuit. Un manque nocturne chez l'enfant peut expliquer l'énurésie (traitement : desmopressine).|Hormone antidiurétique
+CI|Contre-indication : situation où un traitement ou un geste ne doit pas être utilisé car le risque dépasse le bénéfice.|Contre-indication
+DE|Dysfonction érectile : incapacité persistante (> 3 mois) à obtenir ou maintenir une érection suffisante pour un rapport satisfaisant. Elle est souvent vasculaire et précède de quelques années un infarctus : c'est un signal d'alarme cardiovasculaire.|Dysfonction érectile
+NO|Monoxyde d'azote : gaz libéré par les nerfs et l'endothélium pendant l'excitation sexuelle. Il active la guanylate cyclase, qui fabrique du GMPc, ce qui relâche les muscles lisses des corps caverneux : le sang afflue, c'est l'érection.|Monoxyde d'azote
+GMPc|GMP cyclique : messager à l'intérieur des cellules musculaires lisses, fabriqué sous l'effet du NO. Il relâche le muscle et dilate les vaisseaux (érection). Il est détruit par la PDE5.|Guanosine monophosphate cyclique
+AMPc|AMP cyclique : autre messager qui relâche le muscle lisse ; c'est la voie utilisée par les prostaglandines (alprostadil) injectées dans le pénis.|Adénosine monophosphate cyclique
+CV|Cardiovasculaire : qui concerne le cœur et les vaisseaux.|
+IR|Insuffisance rénale : les reins n'épurent plus assez le sang (créatinine qui monte). Ici, souvent par obstacle chronique sur les voies urinaires (HBP, rétention), ce qui en fait une indication à opérer.|Insuffisance rénale
+HoLEP|Holmium Laser Enucleation of the Prostate : énucléation de l'adénome au laser holmium par l'urètre. Permet de traiter de très grosses prostates avec peu de saignement.|
+ITK|Inhibiteurs de tyrosine kinase (sunitinib, cabozantinib…) : médicaments qui bloquent des enzymes de signalisation des cellules tumorales et des vaisseaux. Avec l'immunothérapie, base du traitement du cancer du rein métastatique.|Inhibiteur de tyrosine kinase
+VS|Vitesse de sédimentation : vitesse à laquelle les globules rouges tombent dans un tube ; élevée dans l'inflammation, les infections et certains cancers.|Vitesse de sédimentation
+EAU|European Association of Urology : société savante européenne dont les recommandations font référence.|
+IIF|Catégorie Bosniak IIF (« F » pour follow-up) : kyste rénal un peu plus complexe que bénin, qui n'est pas opéré mais surveillé par imagerie.|
+Ta;T1;T2;T3;T4;T2a;T2b;T3a;T1G3|Stade T de la classification TNM : décrit jusqu'où la tumeur s'est étendue localement. Plus le chiffre est grand, plus la tumeur est étendue (dans la vessie : Ta superficielle, T1 sous la muqueuse, T2 muscle, T3 graisse autour, T4 organes voisins).|Classification TNM
+N0M0;M1|Parties N et M de la classification TNM : N0 = pas de ganglion envahi ; M0 = pas de métastase à distance, M1 = métastases présentes.|Classification TNM
+J8;J30|Jour 8 / jour 30 après un événement de référence (ici l'opération).|
+hématurie|Sang dans les urines : visible à l'œil (macroscopique) ou seulement au microscope. Chez un adulte de plus de 40–50 ans, surtout fumeur, il faut toujours chercher un cancer (vessie, rein) : uroscanner et cystoscopie.|Hématurie
+uroscanner|Scanner des voies urinaires en 3 temps : sans injection (calculs), après injection au temps néphrographique (tumeurs du rein), puis tardif excrétoire quand le produit remplit les voies urinaires (tumeurs des cavités et de l'uretère). Examen de référence d'une hématurie.|
+lithiase;calcul|Calcul (« pierre ») formé dans les voies urinaires par cristallisation (souvent oxalate de calcium). Il peut rester dans le rein sans symptôme ou migrer et bloquer l'uretère (colique néphrétique). Facteurs : boire peu, alimentation, maladies métaboliques.|Lithiase urinaire
+colique néphrétique|Douleur lombaire brutale et très violente, qui descend vers l'aine et les organes génitaux, avec agitation (pas de position antalgique). Elle est due à la mise en tension du rein par un obstacle sur l'uretère, le plus souvent un calcul.|Colique néphrétique
+cystoscopie|Examen de l'intérieur de la vessie avec une petite caméra (souple ou rigide) passée par l'urètre, sous anesthésie locale. Indispensable pour chercher une tumeur de vessie devant une hématurie.|Cystoscopie
+sphincter|Muscle en anneau qui ferme l'urètre. Le sphincter interne (lisse, col vésical) est involontaire ; le sphincter externe (strié) est volontaire et assure la continence à l'effort. Ils peuvent être lésés lors d'une prostatectomie.|Sphincter urétral
+détrusor|Muscle lisse de la paroi de la vessie. Il reste relâché pendant le remplissage (sympathique, β3) et se contracte pour la vider (parasympathique, M3). S'il se contracte de façon intempestive : vessie hyperactive.|Détrusor
+hyperactivité vésicale|Syndrome d'urgences mictionnelles (envie soudaine, difficile à retenir), avec ou sans fuites, souvent avec pollakiurie et nycturie, sans infection ni autre cause. Très fréquent ; traitement par étapes : mesures de vie, rééducation, médicaments, toxine, neuromodulation.|Hyperactivité vésicale
+anticholinergiques|Médicaments qui bloquent les récepteurs muscariniques (oxybutynine, solifénacine) : le détrusor se contracte moins, les urgences diminuent. Effets : bouche sèche, constipation, troubles de la mémoire et confusion chez l'âgé ; contre-indiqués en cas de glaucome à angle fermé.|Anticholinergique
+β3-mimétiques|Médicaments (mirabégron) qui stimulent les récepteurs β3 et relâchent la vessie pendant le remplissage. Alternative aux anticholinergiques sans effets sur la mémoire ; surveiller la tension.|Mirabégron
+dysfonction érectile|Incapacité persistante à obtenir ou maintenir une érection suffisante. Elle est surtout vasculaire (mêmes facteurs de risque que l'infarctus), parfois neurologique, hormonale ou psychologique. Elle précède souvent de 2–3 ans un événement cardiaque.|Dysfonction érectile
+nitrés;dérivés nitrés|Vasodilatateurs (trinitrine) utilisés dans l'angine de poitrine. Associés à un iPDE5, ils font chuter brutalement la tension (les deux augmentent le GMPc) : association interdite.|Dérivé nitré
+orchidectomie|Ablation chirurgicale d'un testicule. Pour une tumeur, elle se fait toujours par l'aine (voie inguinale) en clampant d'abord le cordon, jamais à travers le scrotum (pour ne pas disséminer la tumeur). Elle permet le diagnostic histologique.|Orchidectomie
+séminome|Tumeur germinale du testicule de l'homme de 30–40 ans. Elle n'élève jamais l'AFP. Très sensible à la chimiothérapie et à la radiothérapie : guérison dans > 95 % des cas.|Séminome
+varicocèle|Dilatation des veines du cordon spermatique (« sac de vers »), surtout à gauche car la veine se jette à angle droit dans la veine rénale. Une varicocèle récente, surtout à droite ou chez l'adulte, doit faire chercher une tumeur du rein qui comprime.|Varicocèle
+prostatectomie|Prostatectomie radicale : ablation de toute la prostate et des vésicules séminales (souvent par robot) pour un cancer localisé. Effets possibles : incontinence (souvent transitoire) et troubles de l'érection. Ne pas confondre avec l'adénomectomie de l'HBP, qui ne retire que l'adénome.|Prostatectomie
+curiethérapie|Radiothérapie « de l'intérieur » : on place des grains radioactifs (iode 125) directement dans la prostate. Option pour les cancers localisés de faible risque.|Curiethérapie
+hormonothérapie|Traitement qui supprime la testostérone (castration chimique par agonistes/antagonistes de la LH-RH) ou bloque son action, car le cancer de la prostate en dépend. Effets : bouffées de chaleur, perte de libido, ostéoporose, risque métabolique.|Hormonothérapie
+cystectomie|Ablation de toute la vessie (avec prostate chez l'homme) pour un cancer qui infiltre le muscle. Il faut ensuite dériver les urines : Bricker (stomie) ou néovessie faite avec de l'intestin.|Cystectomie
+Bricker|Urétérostomie transiléale de Bricker : les uretères sont branchés sur un petit segment d'intestin grêle qui s'ouvre à la peau ; l'urine s'écoule en continu dans une poche.|Urétérostomie
+carcinome urothélial|Cancer de l'urothélium, la muqueuse des voies urinaires (vessie surtout, parfois uretère et cavités rénales). Le tabac est le 1er facteur de risque ; il se révèle surtout par une hématurie.|Carcinome urothélial
+carcinome à cellules claires|Type le plus fréquent de cancer du rein (≈ 75 %), lié à l'inactivation du gène VHL. Souvent découvert par hasard à l'échographie ; résistant à la chimiothérapie classique.|Carcinome rénal à cellules claires
+Bosniak|Classification des kystes du rein au scanner : I–II = kystes simples bénins, IIF = à surveiller, III = douteux (≈ 50 % cancers), IV = très probablement malin, à opérer.|
+torsion|Torsion du cordon spermatique : le testicule tourne sur lui-même et s'étrangle. Douleur brutale, testicule remonté, chez l'adolescent surtout. Urgence chirurgicale : au-delà de 6 h, le testicule risque d'être perdu. On n'attend pas l'échographie si la clinique est typique.|Torsion testiculaire
+Qmax|Débit maximal à la débitmétrie (on urine dans un appareil qui mesure le débit). Normal > 15 ml/s ; < 10 ml/s évoque un obstacle (ou une vessie faible).|
+zone de transition|Zone de la prostate qui entoure l'urètre : c'est elle qui grossit dans l'HBP.|Prostate
+zone périphérique|Zone arrière de la prostate, contre le rectum : 70 % des cancers y naissent, c'est pourquoi on peut les sentir au toucher rectal.|Prostate
+cancer de la prostate|Cancer le plus fréquent de l'homme, souvent lent et sans symptômes au début. Diagnostic : PSA, IRM, biopsies ; traitement selon le risque, de la surveillance active à la chirurgie, la radiothérapie et l'hormonothérapie.|Cancer de la prostate
+biopsies;biopsie|Prélèvement de petits fragments de tissu pour l'analyse au microscope. Prostate : par voie transpérinéale (moins d'infections) ou transrectale, ciblées sur l'IRM.|Biopsie
+hydronéphrose|Dilatation des cavités du rein (calices, bassinet) en amont d'un obstacle (calcul, tumeur, prostate). Visible à l'échographie ; si elle dure, le rein se détériore.|Hydronéphrose
+néphrectomie|Ablation chirurgicale du rein : totale (radicale) ou partielle (on retire seulement la tumeur pour garder du rein, préférée pour les petites tumeurs < 4–7 cm).|Néphrectomie
+Heng|Score pronostique du cancer du rein métastatique : délai court depuis le diagnostic, état général altéré, anémie, calcium élevé, neutrophiles et plaquettes élevés. 0 facteur = bon pronostic, 1–2 = intermédiaire, ≥ 3 = mauvais.|
+nycturie|Se lever la nuit pour uriner (≥ 1 fois). Causes : HBP, vessie hyperactive, mais aussi production nocturne d'urine excessive (cœur, apnées, boissons du soir).|Nycturie
+pollakiurie|Envies d'uriner trop fréquentes (> 8 fois par jour), pour de petits volumes.|Pollakiurie
+priapisme|Érection prolongée (> 4 h) et douloureuse, sans désir sexuel. Urgence : sans traitement rapide, le tissu érectile se fibrose (impuissance définitive).|Priapisme
+prostatite|Infection bactérienne aiguë de la prostate : fièvre, brûlures, prostate très douloureuse au toucher rectal. Antibiotiques 2 à 4 semaines ; pas de massage ni de biopsie.|Prostatite
+énurésie|Pipi au lit chez l'enfant de plus de 5 ans. Souvent par vessie immature ou excès d'urine la nuit (manque d'ADH) ; guérit le plus souvent spontanément.|Énurésie
+IU|Infection urinaire : bactéries dans les urines avec symptômes. Chez la femme jeune, souvent une cystite simple ; chez l'homme, toute IU fébrile est considérée comme une prostatite.|Infection urinaire
+mL|Millilitre : millième de litre. En urologie, on chiffre ainsi la vessie (capacité normale ≈ 300–500 mL, résidu post-mictionnel significatif > 100–150 mL) ; lors d'une rétention, on vide 300–500 mL puis on clampe pour éviter l'hématurie a vacuo.|Litre
+uroCT;uro-CT|Uroscanner : scanner des voies urinaires avec injection et temps tardif excrétoire, où le produit de contraste remplit les cavités rénales, les uretères et la vessie. Examen de référence pour explorer une hématurie et chercher une tumeur de la voie excrétrice haute.|Uroscanner
+5-ARI|Inhibiteurs de la 5-alpha-réductase (finastéride, dutastéride) : ils empêchent la transformation de la testostérone en DHT et font diminuer le volume de la prostate d'environ 25 % en 6 mois. Réservés aux grosses prostates (> 40 mL) dans l'HBP ; ils divisent le PSA par deux.|Inhibiteur de la 5α-réductase
+pT2;pT|Stade T « pathologique » (p) : établi au microscope sur la pièce opératoire ou de résection, et non à l'imagerie. pT2 dans la vessie = tumeur qui envahit le muscle (détrusor) : on bascule vers la chimiothérapie néoadjuvante + cystectomie.|Classification TNM
+Hippel-Lindau;Von Hippel-Lindau;von Hippel-Lindau|Maladie de von Hippel-Lindau : maladie héréditaire (gène suppresseur VHL) qui donne des cancers du rein à cellules claires multiples et bilatéraux, des hémangioblastomes et des phéochromocytomes. Le gène VHL est aussi inactivé dans la plupart des cancers du rein à cellules claires sporadiques.|Maladie de von Hippel-Lindau

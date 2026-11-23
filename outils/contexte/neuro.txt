@@ -1,0 +1,276 @@
+1|HSA|Une céphalée nouvelle, brutale fait d'abord penser à l'hémorragie méningée.
+1|red flags|Signes d'alarme qui imposent une imagerie.
+1|VIH|L'immunodépression (VIH) est un drapeau rouge : infection ou lymphome.
+1|CT|Céphalée nouvelle : scanner d'abord…
+1|IRM|… puis IRM, plus sensible.
+1|BPCO|Chez un fumeur BPCO, penser à une métastase cérébrale.
+1|PL|Si le scanner est normal, ponction lombaire (pigments jaunes = xanthochromie).
+1|SVCR|Autre cause de céphalée en coup de tonnerre.
+1|HTIC|Céphalée d'hypertension intracrânienne (pire couché, le matin).
+1|LCR|Céphalée d'hypotension du LCR (pire debout).
+1|blood patch|L'hypotension du LCR se traite par blood patch.
+1|HTIC idiopathique|Femme jeune obèse, certains médicaments.
+1|SAOS|Les apnées du sommeil favorisent l'HTIC idiopathique.
+1|DVP|Si résistante : dérivation du LCR.
+1|aura|L'aura vient d'une vague électrique sur le cortex.
+1|dépolarisation corticale propagée|C'est le mécanisme de l'aura.
+1|CGRP|La douleur passe par le CGRP (cible des nouveaux traitements).
+1|AINS|Crise de migraine : AINS d'abord.
+1|QT|La dompéridone allonge le QT.
+1|triptan|Si l'AINS ne suffit pas : triptan.
+1|CI|Les triptans resserrent les vaisseaux : contre-indiqués en cas de maladie vasculaire.
+1|AVC|Contre-indication : antécédent d'AVC.
+1|AIT|… ou d'AIT.
+1|HTA|… ou HTA non contrôlée.
+1|BAV|Propranolol de fond : contre-indiqué si asthme ou BAV.
+1|valproate|Traitements de fond de la migraine.
+1|migraine|Migraine chronique : ≥ 15 jours de céphalée par mois dont ≥ 8 migraineux.
+1|algie vasculaire de la face|Homme agité, crises en salves, signes autonomes.
+1|SC|Traitement : oxygène et sumatriptan sous-cutané.
+1|indométhacine|L'hémicrânie paroxystique répond totalement à l'indométhacine.
+1|SUNCT|Crises très brèves et très nombreuses.
+1|SEP|Névralgie du trijumeau chez le jeune : chercher une SEP.
+1|carbamazépine|Traitement de 1re ligne : carbamazépine.
+1|CTA|Pour les CTA et la névralgie, IRM d'emblée.
+1|V3|V3 est la seule branche motrice du trijumeau.
+2|EEG|Perte de connaissance : l'interrogatoire prime sur l'EEG.
+2|IRM|L'IRM vient en dernier.
+2|syncope|Le signe le plus utile pour distinguer syncope et crise est la clinique.
+2|LR|Une pâleur favorise la syncope (LR+ 4), une cyanose la crise (LR+ 17).
+2|aura|Une aura oriente vers une crise épileptique.
+2|myoclonies|Des secousses brèves sont fréquentes dans la syncope aussi (< 30 s).
+2|CTCG|Une vraie crise tonico-clonique dure 60–90 s.
+2|CK|Les CK montent le lendemain après une crise convulsive.
+2|vasovagale|Syncope vasovagale : debout, chaleur, prodromes.
+2|TA|Ici PA : on mesure la tension debout à 2 et 5 minutes.
+2|ATCD|Antécédent familial de mort subite = alarme.
+2|ECG|ECG obligatoire.
+2|FC|Fréquence < 50 = alarme.
+2|QRS|QRS larges = alarme.
+2|Brugada|Aspect de Brugada = alarme.
+2|BBD|Le Brugada associe un aspect de bloc droit et un sus-décalage V1–V3.
+2|DVDA|DVDA = alarme.
+2|épilepsie|Une crise provoquée n'est pas une épilepsie.
+2|J1|Crise de sevrage alcoolique vers J2.
+2|BZD|Le sevrage brutal des benzodiazépines donne des crises.
+2|formation réticulée|Une crise focale altère la conscience en perturbant la formation réticulée.
+2|TDAH|Les absences peuvent passer pour une inattention.
+3|épilepsie|Le choix du traitement dépend du type d'épilepsie et du patient.
+3|EME|Traitement de l'état de mal plus loin.
+3|BZD|Benzodiazépines pour arrêter la crise.
+3|valproate|Large spectre mais tératogène.
+3|lamotrigine|Large spectre, compatible avec la grossesse.
+3|lévétiracétam|Large spectre, peu d'interactions.
+3|carbamazépine|Spectre étroit : crises focales.
+3|absences|La carbamazépine aggrave les absences…
+3|myoclonies|… et les myoclonies.
+3|inducteur|Chez l'âgé polymédiqué, éviter les inducteurs.
+3|SIADH|La carbamazépine peut donner une hyponatrémie (SIADH).
+3|IRM|Bilan préchirurgical : IRM 3 T.
+3|PET|Le PET-FDG montre le foyer hypométabolique.
+3|ECoG|Parfois électrodes intracrâniennes.
+3|Broca|On n'opère pas un foyer dans l'aire de Broca ou le cortex moteur.
+3|VNS|Stimulation du nerf vague si chirurgie impossible.
+3|RNS|Stimulateur intracrânien réactif.
+3|ECG|État de mal chez l'âgé : ECG + troponine.
+3|IM|Midazolam IM si pas de voie veineuse.
+4|AIT|Déficit transitoire : AIT…
+4|aura|… aura migraineuse…
+4|migraine|La migraine donne des symptômes positifs qui avancent progressivement.
+4|épilepsie|… ou crise focale.
+4|AVC|Symptômes négatifs brutaux = vasculaire.
+4|phénomène de Todd|Après une crise, un déficit transitoire peut mimer un AVC.
+4|FRCV|Un terrain vasculaire oriente vers l'AIT.
+4|AGT|Autre cause d'épisode transitoire.
+4|vertige|Le vertige périphérique peut mimer un trouble neurologique.
+4|IRM|L'IRM peut montrer de petits hypersignaux des hippocampes.
+4|DD|Diagnostic différentiel de l'amnésie aiguë.
+4|GHB|Le GHB peut donner une amnésie.
+4|nystagmus|Le syndrome vestibulaire associe vertige, nystagmus et déviation.
+4|VPPB|Vertige de quelques secondes aux changements de position.
+4|Dix-Hallpike|La manœuvre de Dix-Hallpike le confirme.
+4|VPPM|Vertige positionnel atypique : chercher une lésion centrale.
+4|Ménière|Crises de quelques heures avec signes auditifs.
+4|névrite vestibulaire|Vertige unique de plusieurs jours.
+4|ORL|Vertige avec examen neurologique normal : avis ORL.
+4|N2|Les fuseaux du sommeil apparaissent au stade N2.
+5|CT|Le scanner sert d'abord à exclure une hémorragie.
+5|Babinski|Babinski = atteinte de la voie pyramidale (centrale).
+5|JNM|Faiblesse proximale = muscle ou jonction neuromusculaire.
+5|MS|Barré pour les bras, Mingazzini pour les jambes.
+5|MRC|Cotation de la force de 0 à 5.
+5|ACM|Jambe > bras = ACA ; bras et visage > jambe = ACM.
+5|NC|Un nerf crânien touché + déficit = lésion du tronc.
+5|Broca|Aphasie de Broca : non fluente.
+5|Wernicke|Aphasie de Wernicke : fluente, compréhension atteinte.
+5|héminégligence|Lésion pariétale droite.
+5|HLH|Lésion de la bandelette optique gauche = HLH droite.
+5|IX-XII|Les nerfs IX à XII sortent du bulbe.
+5|FLM|Le FLM est un faisceau médian du tronc.
+5|Wallenberg|Infarctus du bulbe latéral.
+5|CBH|Horner du même côté.
+5|HINTS|Le HINTS sépare vertige central et périphérique mieux qu'une IRM précoce.
+5|nystagmus|Nystagmus qui change de sens = central.
+5|IRM|L'IRM précoce peut rater un AVC du tronc.
+5|HIT|Head impulse anormal = périphérique (rassurant).
+5|Romberg|Dans le vertige périphérique, le Romberg dévie vers le côté atteint.
+5|AVC|70–80 % des AVC sont ischémiques.
+5|AIT|L'athérome carotidien est souvent précédé d'AIT.
+5|FA|La FA est la 1re cause d'embolie cardiaque.
+5|AOD|Anticoagulation par AOD…
+5|AVK|… préférés aux AVK.
+5|thrombolyse|Thrombolyse IV jusqu'à 4,5 h.
+5|thrombectomie|Thrombectomie pour les grosses artères.
+5|NNT|NNT très bas : traitement très efficace.
+5|pénombre|On sauve la pénombre.
+5|ETT|Bilan : écho cardiaque + Holter.
+5|IEC|Prévention : IEC…
+5|AAS|… et antiagrégants.
+5|vertige|Hématome du cervelet : vertige, urgence neurochirurgicale.
+5|angiopathie amyloïde|Hématomes lobaires chez l'âgé.
+5|HSA|Rupture d'anévrisme.
+5|PL|Scanner puis ponction lombaire.
+5|thrombose veineuse cérébrale|Céphalée + déficit + crises chez une femme sous pilule.
+5|ORL|Thrombose du sinus caverneux après infection ORL.
+5|V3|Elle touche les nerfs III, IV, VI et V1–V2.
+5|PRES|Œdème postérieur réversible.
+5|SVCR|Coup de tonnerre, vasoconstriction réversible.
+5|ISRS|Les ISRS peuvent déclencher un SVCR.
+6|SEP|Déficit en quelques jours = inflammation, infection ou tumeur.
+6|DIS|Diagnostic de SEP : dissémination dans l'espace…
+6|McDonald|… selon les critères de McDonald.
+6|névrite optique|Une névrite optique sévère fait penser à la NMO.
+6|NMO|Une myélite longue oriente vers la NMO.
+6|cordons postérieurs|Ils transmettent proprioception, vibration, tact fin.
+6|MS|Faisceau gracile = jambes (MI), cunéiforme = bras (MS).
+6|Brown-Séquard|Hémisection de la moelle.
+6|B12|Carence en B12 (attention au protoxyde d'azote).
+6|Romberg|Romberg positif.
+6|C4|Lésion au-dessus de C4 = tétraplégie et paralysie respiratoire.
+6|SGB|Réflexes abolis = polyneuropathie (Guillain-Barré).
+6|IRM|IRM de toute la moelle.
+6|BOC|Bandes présentes dans le LCR et pas dans le sang.
+6|LCR|Comparaison LCR/sang.
+6|GB|Beaucoup de globules blancs = penser à une infection.
+6|CIS|Premier épisode sans critères complets.
+6|DD|Diagnostic différentiel de la SEP.
+6|ADEM|ADEM : épisode unique après infection ou vaccin.
+6|COVID|Syndrome post-infectieux (COVID).
+6|CI|Traitements de fond en général contre-indiqués pendant la grossesse.
+6|EI|Mécanisme et effets indésirables.
+6|DMF|Traitements oraux de la SEP.
+6|S1P|Le fingolimod bloque les lymphocytes dans les ganglions.
+6|natalizumab|Natalizumab : très efficace mais risque de LEMP.
+6|LEMP|Complication du natalizumab.
+6|JC|Sérologie JC positive = natalizumab contre-indiqué.
+6|CSH|Autogreffe pour les formes très agressives.
+6|RAW|Deux mécanismes d'aggravation.
+6|PEV|PEV : P100 retardée.
+6|ophtalmoplégie internucléaire|L'œil ne va pas vers le nez.
+6|FLM|Atteinte du FLM.
+6|AVC|Chez l'homme âgé : AVC.
+6|nystagmus|Atteinte du vermis : nystagmus, ataxie de la marche.
+6|DT1|Ataxie auto-immune anti-GAD (associée au DT1).
+7|Parkinson|Un syndrome parkinsonien n'est pas toujours une maladie de Parkinson.
+7|lévodopa|Lévodopa en 1re intention après 50 ans.
+7|red flags|Drapeaux rouges = penser à un parkinsonisme atypique.
+7|MS|Le tremblement parkinsonien touche le bras, le menton, la jambe.
+7|β2|Les β2-mimétiques peuvent faire trembler.
+7|valproate|Le valproate aussi.
+7|tremblement essentiel|Propranolol, primidone ; stimulation cérébrale si invalidant.
+7|substance noire|Perte des neurones de la substance noire.
+7|corps de Lewy|Avec des corps de Lewy.
+7|DaTSCAN|DaTSCAN seulement en cas de doute.
+7|dyskinésies|La lévodopa ne fait pas progresser la maladie ; les dyskinésies viennent de la durée de maladie.
+7|IMAO-B|Les IMAO-B aident en cas de fluctuations.
+7|ICOMT|Les ICOMT aussi.
+7|OFF|Phases OFF : on fractionne d'abord la lévodopa.
+7|EI|Effets indésirables des dopaminergiques.
+7|hypotension orthostatique|Effet indésirable fréquent.
+7|PSP|PSP : chutes précoces et regard vertical bloqué.
+7|dystonie|Dystonie asymétrique dans la dégénérescence corticobasale.
+7|CO|L'intoxication au CO peut laisser un parkinsonisme.
+8|chorée|D'abord reconnaître le type de mouvement.
+8|dystonie|Dystonie = postures tordues.
+8|Wilson|Avant 30 ans, tout mouvement anormal fait chercher une maladie de Wilson.
+8|tics|Tics : brièvement contrôlables.
+8|Gilles de la Tourette|Tics moteurs et vocaux chroniques.
+8|TOC|Souvent associés à des TOC…
+8|TDAH|… et à un TDAH.
+8|Huntington|La chorée fait penser à Huntington…
+8|lévodopa|… mais aussi à la lévodopa.
+8|SAPL|Le SAPL est une cause de chorée.
+8|myoclonies|Myoclonies : physiologiques ou métaboliques.
+8|BZD|Le sevrage en benzodiazépines peut en donner.
+8|astérixis|L'astérixis est une myoclonie négative.
+8|Parkinson|Le freezing du Parkinson : pieds collés au sol.
+8|TCC|Tics : la TCC est la 1re ligne.
+8|α2|Puis agonistes α2.
+8|GAA|Ici CAG : > 40 répétitions = maladie certaine.
+8|D2|La voie indirecte (D2) dégénère en premier : trop de mouvements.
+8|toxine botulique|Dystonies focales : toxine botulique.
+8|JNM|La toxine agit à la jonction neuromusculaire.
+8|MS|Dystonies focales du bras.
+8|ATP7B|Mutation ATP7B : le cuivre n'est plus éliminé par la bile.
+8|Friedreich|Ataxie récessive de l'adolescent.
+8|Babinski|Babinski avec réflexes abolis : association typique de Friedreich.
+8|SCA|Ataxies dominantes.
+8|FXTAS|Ataxie liée à l'X fragile.
+8|L5|Steppage par atteinte de L5 ou du nerf fibulaire.
+8|CNEP|Crises dissociatives : souvent antécédents de traumatismes.
+8|épilepsie|Pronostic moins bon que l'épilepsie.
+8|DD|Diagnostic différentiel de l'épilepsie.
+9|TNC|TNC majeur = perte d'autonomie.
+9|MoCA|MoCA normal ≥ 26.
+9|MMSE|Le MoCA est plus complet que le MMSE.
+9|VIH|Le VIH est une cause curable.
+9|B12|Toujours doser la B12.
+9|TSH|… et la TSH.
+9|IRM|IRM systématique.
+9|Alzheimer|Cause la plus fréquente chez l'âgé.
+9|CADASIL|CADASIL = cause génétique de démence vasculaire.
+9|PET|Le PET montre un hypométabolisme temporo-pariétal.
+9|LCR|LCR : amyloïde basse, tau haute.
+9|ApoE4|ApoE4 augmente le risque sans être une cause.
+9|ARIA-E|Les anti-amyloïdes donnent des œdèmes dans 20 %.
+9|TDP-43|Démence frontotemporale liée à TDP-43…
+9|SLA|… parfois associée à une SLA.
+9|C9orf72|Cause génétique la plus fréquente.
+9|corps de Lewy|Hallucinations visuelles, parkinsonisme, fluctuations.
+9|Creutzfeldt-Jakob|Démence très rapide.
+9|myoclonies|Avec myoclonies.
+9|RT|Le RT-QuIC confirme le diagnostic.
+9|EEG|EEG : complexes périodiques.
+9|encéphalite limbique|Troubles de mémoire subaigus + crises.
+9|CPPC|Anticorps intracellulaires = souvent paranéoplasiques (petites cellules).
+10|formation réticulée|L'éveil dépend de la formation réticulée.
+10|Glasgow|Glasgow ≤ 8 = intubation.
+10|CT|Mydriase unilatérale : scanner en urgence (engagement).
+10|E1-4|Cotation des yeux.
+10|VNI|La cotation verbale n'est pas fiable sous masque.
+10|FOUR|Le score FOUR complète le Glasgow.
+10|pénombre|Ici « pénombre » = dans une pièce peu éclairée (pas l'ischémie).
+10|ACM|Engagement sous la faux : compression de l'ACA.
+10|BZD|Myosis + respiration lente : opiacés ou benzodiazépines.
+10|BPCO|BPCO somnolent : chercher une hypercapnie.
+10|astérixis|Cirrhotique confus avec astérixis : encéphalopathie hépatique.
+10|CO|Lèvres rouge cerise : intoxication au CO.
+10|myoclonies|Myoclonies après arrêt cardiaque.
+10|IRM|Hypersignal cortical en diffusion = mauvais pronostic.
+10|Gayet-Wernicke|Alcoolique confus : thiamine en urgence.
+10|Korsakoff|Sinon évolution vers Korsakoff.
+10|PL|Coma fébrile : antibiotiques d'abord, ponction après.
+11|CT|Le scanner détecte presque 100 % des HSA dans les 6 premières heures.
+11|HSA|Sensibilité qui baisse avec le temps.
+11|J1|≈ 90 % à J1.
+11|hypotension orthostatique|Correction : seuil habituel ≥ 20 mmHg de systolique.
+11|HTA|Chez l'hypertendu, seuil de 30 mmHg.
+11|épilepsie|Correction : ≈ 58 % libres de crises après chirurgie.
+11|NEJM|Essai de Wiebe publié dans le NEJM.
+11|AVC|Bithérapie antiagrégante limitée à 3 semaines–3 mois.
+11|AAS|Aspirine + clopidogrel en bithérapie courte.
+11|AIT|Après AIT à haut risque aussi.
+11|Wallenberg|Le Horner du Wallenberg vient des fibres sympathiques descendantes.
+11|B12|Le protoxyde d'azote inactive la B12.
+11|NO|Protoxyde d'azote (N2O).
+11|SEP|Correction : autogreffe (les propres cellules du patient).

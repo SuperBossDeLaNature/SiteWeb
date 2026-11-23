@@ -1,0 +1,204 @@
+A1|stade d'Albuminurie 1 (< 30 mg/g)
+A2|stade d'Albuminurie 2 (30–300 mg/g)
+A3|stade d'Albuminurie 3 (> 300 mg/g)
+A4|(COL4)A4 : chaîne Alpha 4 du collagène de type IV
+AA|Amylose AA (protéine Amyloïde A sérique)
+ABO|système de groupes sanguins A, B et O (absence d'antigène A et B)
+ACCOMPLISH|Avoiding Cardiovascular Events through Combination Therapy in Patients Living with Systolic Hypertension (éviter les événements cardiovasculaires par une association chez les hypertendus systoliques)
+AD|Autosomique Dominant
+ADAMTS13|A Disintegrin And Metalloproteinase with ThromboSpondin type 1 motifs, member 13 (métalloprotéase à motifs thrombospondine n° 13)
+ADH|AntiDiuretic Hormone (hormone antidiurétique)
+ADPKD|Autosomal Dominant Polycystic Kidney Disease (polykystose rénale autosomique dominante)
+ADTKD|Autosomal Dominant TubuloInterstitial Kidney Disease (maladie rénale tubulo-interstitielle autosomique dominante)
+AEIOU|Acidose, Électrolytes, Intoxication, Overload (surcharge), Urémie
+AINS|Anti-Inflammatoires Non Stéroïdiens
+AKD|Acute Kidney Disease (maladie rénale aiguë)
+AKI|Acute Kidney Injury (atteinte rénale aiguë)
+AL|Amylose AL (Amyloid Light chain : chaînes légères d'immunoglobuline)
+ANCA|Anti-Neutrophil Cytoplasmic Antibodies (anticorps anti-cytoplasme des polynucléaires neutrophiles)
+APOL1|APOLipoprotéine L1
+AQP2|AQuaPorine 2
+AR|Autosomique Récessif
+ARA2|Antagonistes des Récepteurs de l'Angiotensine II
+ATR|Acidose Tubulaire Rénale
+AVC|Accident Vasculaire Cérébral
+B19|parvovirus B19
+BK|polyomavirus BK (initiales du premier patient chez qui il a été isolé)
+BPCO|BronchoPneumopathie Chronique Obstructive
+C3|fraction C3 (3e composant) du Complément
+C4d|fragment d du composant C4 du complément
+CAKUT|Congenital Anomalies of the Kidney and Urinary Tract (anomalies congénitales du rein et des voies urinaires)
+CBPC|Cancer Bronchique à Petites Cellules
+CD28|Cluster of Differentiation 28 (classe de différenciation 28)
+CFH|Complement Factor H (facteur H du complément)
+CI|Contre-Indication
+CKD-EPI|Chronic Kidney Disease EPIdemiology collaboration (collaboration épidémiologique sur la maladie rénale chronique)
+CNI|Calcineurin Inhibitors (inhibiteurs de la calcineurine)
+COL4A3|COLlagène de type IV, chaîne Alpha 3
+COL4A4|COLlagène de type IV, chaîne Alpha 4
+COL4A5|COLlagène de type IV, chaîne Alpha 5
+COVID|COronaVIrus Disease (maladie à coronavirus 2019)
+CSW|Cerebral Salt Wasting (perte de sel d'origine cérébrale)
+CT|Computed Tomography (tomodensitométrie, scanner)
+CV|CardioVasculaire
+CVVHDF|Continuous Veno-Venous HemoDiaFiltration (hémodiafiltration veino-veineuse continue)
+CVVHF|Continuous Veno-Venous HemoFiltration (hémofiltration veino-veineuse continue)
+CYP3A4|CYtochrome P450, famille 3, sous-famille A, membre 4
+CaSR|Calcium-Sensing Receptor (récepteur sensible au calcium)
+DDAVP|1-Désamino-8-D-Arginine VasoPressine (desmopressine)
+DFG|Débit de Filtration Glomérulaire
+DI|Diabète Insipide
+DMSA|DiMercaptoSuccinic Acid (acide dimercaptosuccinique)
+DPA|Dialyse Péritonéale Automatisée
+DPCA|Dialyse Péritonéale Continue Ambulatoire
+DS|Déviation Standard (écart-type)
+DSA|Donor-Specific Antibodies (anticorps spécifiques du donneur)
+DT1|Diabète de Type 1
+DiGeorge|syndrome décrit par Angelo DiGeorge (délétion 22q11.2)
+EBV|Epstein-Barr Virus (virus d'Epstein-Barr)
+ECBU|Examen CytoBactériologique des Urines
+ECG|ÉlectroCardioGramme
+EER|Épuration ExtraRénale
+EGPA|Eosinophilic Granulomatosis with PolyAngiitis (granulomatose éosinophilique avec polyangéite)
+EPO|ÉrythroPOïétine
+EPP|Électrophorèse des Protéines Plasmatiques
+EPU|Électrophorèse des Protéines Urinaires
+FAV|Fistule Artério-Veineuse
+FDR|Facteurs De Risque
+FE|Fraction d'Excrétion
+FGF23|Fibroblast Growth Factor 23 (facteur de croissance des fibroblastes 23)
+FSGS|Focal Segmental GlomeruloSclerosis (hyalinose segmentaire et focale)
+G1|stade G1 du DFG (≥ 90 mL/min/1,73 m²)
+G2|stade G2 du DFG (60–89 mL/min/1,73 m²)
+G2,5|soluté Glucosé à 2,5 %
+G3a|stade G3a du DFG (45–59 mL/min/1,73 m²)
+G3b|stade G3b du DFG (30–44 mL/min/1,73 m²)
+G4|stade G4 du DFG (15–29 mL/min/1,73 m²)
+G5|soluté Glucosé à 5 % (ou stade G5 du DFG < 15 selon le contexte)
+GEM|Glomérulopathie ExtraMembraneuse
+GN|GlomÉruloNéphrite
+GNMP|GlomÉruloNéphrite MembranoProliférative
+GNRP|GlomÉruloNéphrite Rapidement Progressive
+GR|Globules Rouges
+GxAy|stade G (DFG) x et stade A (Albuminurie) y de la classification KDIGO
+H7|antigène flagellaire H n° 7 (de E. coli O157:H7)
+HBPM|Héparine de Bas Poids Moléculaire
+HELLP|Hemolysis, Elevated Liver enzymes, Low Platelets (hémolyse, enzymes hépatiques élevées, plaquettes basses)
+HIVAN|HIV-Associated Nephropathy (néphropathie associée au VIH)
+HLA|Human Leukocyte Antigen (antigène des leucocytes humains)
+HLA-DR|Human Leukocyte Antigen, locus DR (D-Related)
+HNF|Héparine Non Fractionnée
+HNF1B|Hepatocyte Nuclear Factor 1 Beta (facteur nucléaire hépatocytaire 1 bêta)
+HPT|HyperParaThyroïdie
+HSF|Hyalinose Segmentaire et Focale
+HTA|HyperTension Artérielle
+HbA1c|Hémoglobine glyquée (fraction A1c de l'hémoglobine)
+IC|Insuffisance Cardiaque
+IDM|Infarctus Du Myocarde
+IEC|Inhibiteurs de l'Enzyme de Conversion
+IF|ImmunoFluorescence
+IIF|catégorie II-F de Bosniak (F = Follow-up, surveillance)
+INR|International Normalized Ratio (rapport normalisé international)
+IPP|Inhibiteurs de la Pompe à Protons
+IR|Insuffisance Rénale
+IRA|Insuffisance Rénale Aiguë
+IRC|Insuffisance Rénale Chronique
+IRM|Imagerie par Résonance Magnétique
+IRT|Insuffisance Rénale Terminale
+ISRS|Inhibiteurs Sélectifs de la Recapture de la Sérotonine
+IV|IntraVeineux
+IgA|Immunoglobuline A
+IgA1|Immunoglobuline A, sous-classe 1
+IgG4|Immunoglobuline G, sous-classe 4
+KCl|chlorure de potassium (K = kalium, Cl = chlore)
+KDIGO|Kidney Disease: Improving Global Outcomes (maladie rénale : améliorer les résultats dans le monde)
+LT|Lymphocytes T
+MAG3|MercaptoAcétylTriGlycine
+MAPA|Mesure Ambulatoire de la Pression Artérielle
+MAT|MicroAngiopathie Thrombotique
+MBG|Membrane Basale Glomérulaire
+ME|Microscopie Électronique
+MO|Microscopie Optique
+MRC|Maladie Rénale Chronique
+MUC1|MUCine 1
+NIA|Néphrite Interstitielle Aiguë
+NIC|Néphrite Interstitielle Chronique
+NPHS1|NePHrotic Syndrome type 1 (gène de la néphrine)
+NTA|Nécrose Tubulaire Aiguë
+NaCl|chlorure de sodium (Na = natrium, Cl = chlore)
+O157|antigène somatique O n° 157 (de E. coli O157:H7)
+OAP|Œdème Aigu du Poumon
+ONTARGET|ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial (essai mondial telmisartan seul ou associé au ramipril)
+ORL|Oto-Rhino-Laryngologie
+PA|Pression Artérielle
+PAM|PolyAngéite Microscopique
+PBR|Ponction-Biopsie Rénale
+PCR|Protein-to-Creatinine Ratio (rapport protéines/créatinine)
+PDC|Produits De Contraste
+PEG|PolyÉthylène Glycol
+PKD1|Polycystic Kidney Disease 1 (gène de la polycystine 1)
+PKD2|Polycystic Kidney Disease 2 (gène de la polycystine 2)
+PNA|PyéloNéphrite Aiguë
+PNN|PolyNucléaires Neutrophiles
+PO|Per Os (par la bouche)
+PR|intervalle PR (de l'onde P à l'onde R de l'ECG)
+PRO-PKD|PROgnostic score for Polycystic Kidney Disease (score pronostique de la polykystose)
+PTH|ParaThyroid Hormone (parathormone)
+PTHrp|ParaThyroid Hormone-related protein (protéine apparentée à la PTH)
+PTT|Purpura Thrombotique Thrombocytopénique
+PTU|PropylThioUracile
+QRS|complexe QRS (ondes Q, R et S de la dépolarisation ventriculaire)
+QT|intervalle QT (du début de l'onde Q à la fin de l'onde T)
+RAC|Rapport Albumine/Créatinine
+REN|gène de la RÉNine
+ROMK|Renal Outer Medullary K⁺ channel (canal potassique de la médullaire externe du rein)
+RPC|Rapport Protéines/Créatinine
+RVU|Reflux Vésico-Urétéral
+SA|Semaines d'Aménorrhée
+SAOS|Syndrome d'Apnées Obstructives du Sommeil
+SCUF|Slow Continuous UltraFiltration (ultrafiltration lente continue)
+SEC61A1|SEC61 translocon, sous-unité Alpha 1
+SHU|Syndrome Hémolytique et Urémique
+SIADH|Syndrome de sécrétion Inappropriée d'Hormone AntiDiurétique
+SLED|Sustained Low-Efficiency Dialysis (dialyse prolongée à faible efficacité)
+SN|Syndrome Néphrotique
+SNC|Système Nerveux Central
+SNCR|Syndrome Néphrotique Cortico-Résistant
+SRAA|Système Rénine-Angiotensine-Aldostérone
+ST|segment ST (de la fin de l'onde S au début de l'onde T de l'ECG)
+STENO-2|2e étude du Steno Diabetes Center (Copenhague)
+TA|Tension Artérielle
+TBC|TuBerCulose
+TCA|Temps de Céphaline Activée
+TCD|Tube Contourné Distal
+TCP|Tube Contourné Proximal
+UMOD|UroMODuline
+V2|récepteur de la Vasopressine de type 2
+V2R|Vasopressin receptor 2 (récepteur V2 de la vasopressine)
+VHB|Virus de l'Hépatite B
+VHC|Virus de l'Hépatite C
+VHL|Von Hippel-Lindau
+VIH|Virus de l'Immunodéficience Humaine
+anti-MBG|anticorps anti-Membrane Basale Glomérulaire
+iSGLT2|inhibiteurs du Sodium-GLucose co-Transporter 2 (cotransporteur sodium-glucose de type 2)
+pH|potentiel Hydrogène
+mOsm|milliOsmole
+mOsm/kg|milliOsmoles par kilogramme d'eau
+mL|milliLitre
+dL|déciLitre
+mmHg|millimètre de mercure (Hg = hydrargyrum)
+hypoMg|hypomagnésémie (Mg = magnésium)
+hyperK|hyperkaliémie (K = kalium, potassium)
+hypoK|hypokaliémie (K = kalium, potassium)
+hypoCa|hypocalcémie (Ca = calcium)
+anti-MR|anti-récepteurs MinéRalocorticoïdes (antagonistes des récepteurs minéralocorticoïdes)
+25-OH|25-hydroxy-vitamine D (groupe OH en position 25)
+1,25-OH|1,25-dihydroxy-vitamine D (groupes OH en positions 1 et 25)
+angio-CT|angio-Computed Tomography (angioscanner)
+sFlt-1|soluble Fms-Like Tyrosine kinase-1 (forme soluble du récepteur 1 du VEGF)
+p-ANCA|perinuclear Anti-Neutrophil Cytoplasmic Antibodies (ANCA à fluorescence périnucléaire)
+anti-MPO|anticorps anti-MyéloPerOxydase
+anti-HLA|anticorps anti-Human Leukocyte Antigen
+Anti-HLA|anticorps anti-Human Leukocyte Antigen
+anti-mTOR|inhibiteurs de mTOR (mechanistic Target Of Rapamycin : cible de la rapamycine)
+ULB|Université Libre de Bruxelles

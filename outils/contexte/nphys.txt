@@ -1,0 +1,158 @@
+1|myéline|La vitesse de conduction dépend de la myéline et du diamètre de la fibre.
+1|PPS|Les potentiels postsynaptiques s'additionnent : excitateurs ou inhibiteurs.
+1|Ca2|Les PPS excitateurs font entrer Na+ ou Ca2+.
+1|nœuds de Ranvier|Les canaux Na+ sont concentrés aux nœuds : l'influx saute de nœud en nœud.
+1|Guillain-Barré|Le Guillain-Barré est l'exemple de l'atteinte démyélinisante des racines.
+1|bloc de conduction|L'influx ne passe plus à un endroit, mais l'axone sous la lésion est intact.
+1|dispersion temporelle|Les fibres ralenties de façon inégale étalent la réponse.
+1|α-motoneurone|La réponse H passe par la fibre Ia et l'α-motoneurone.
+1|C5|Ici S1 : la réponse H équivaut au réflexe achilléen.
+1|EMG|L'EMG est la référence pour les atteintes axonales.
+1|fibrillations|Au repos, des fibrillations signent la dénervation.
+1|PSW|… comme les ondes positives.
+1|PUM|En réinnervation, les PUM deviennent grands.
+1|neurapraxie|Neurapraxie : bloc sans lésion de l'axone, récupère vite.
+1|axonotmèse|Axonotmèse : axone coupé, gaine intacte, repousse lente.
+2|polyneuropathie|Polyneuropathie : symétrique et distale.
+2|multinévrite|Multinévrite : plusieurs nerfs, asymétrique (vascularite).
+2|radiculopathies|Atteinte d'une racine.
+2|dermatome|Une racine a son territoire cutané (dermatome).
+2|L4-L5|Hernie lombaire en L4-L5 le plus souvent.
+2|C5|Ici C7 puis C6 : les racines cervicales les plus touchées.
+2|IRM|L'IRM montre la compression.
+2|MRC|Force cotée de 0 à 5.
+2|neuropathie diabétique|Axonale, sensitive, en gants et chaussettes.
+2|RC|Perte de variation du rythme cardiaque = atteinte autonome.
+2|amitriptyline|Les antidépresseurs tricycliques traitent la douleur neuropathique.
+2|prégabaline|Les antiépileptiques aussi.
+2|B12|Doser la B12 devant toute polyneuropathie.
+2|canal carpien|Compression du nerf médian au poignet.
+2|Tinel|Tinel positif au poignet.
+2|CMT|CMT1 : démyélinisante, très ralentie.
+2|HMSN|Autre nom de CMT.
+2|VC|Vitesse < 38 m/s = démyélinisante.
+2|PMP22|Duplication PMP22 = CMT1A.
+2|HNPP|Paralysies répétées aux points de compression.
+2|AD|Transmission dominante.
+2|TTR|Neuropathie amyloïde héréditaire.
+2|Val30Met|Mutation la plus fréquente.
+2|Guillain-Barré|Atteinte maximale en ≤ 4 semaines.
+2|AIDP|Forme démyélinisante, la plus fréquente en Europe.
+2|AMAN|Formes axonales.
+2|LCR|LCR : protéines hautes, cellules normales.
+2|dissociation albumino-cytologique|Signe biologique du Guillain-Barré.
+2|plasmaphérèse|Échanges plasmatiques…
+2|IVIg|… ou immunoglobulines IV, aussi efficaces.
+2|USI|Transfert aux soins intensifs si la capacité vitale baisse.
+2|CV|Capacité vitale < 15 ml/kg = intubation.
+2|PIDC|Forme chronique, sensible aux corticoïdes.
+2|gammapathies|Les IgM monoclonales sont les plus liées aux neuropathies.
+2|IgA|Ici IgM : anti-MAG dans 50 %.
+2|SNA|Pas d'atteinte autonome dans la neuropathie anti-MAG.
+2|CD20|Traitement par rituximab (anti-CD20).
+3|myasthénie|Myasthénie : décrément à la stimulation répétitive.
+3|décrément|Les réponses diminuent dans la myasthénie.
+3|incrément|Elles augmentent après effort dans le Lambert-Eaton.
+3|TA|Ici PA = potentiel d'action qui arrive à la terminaison.
+3|Ca2|L'entrée de calcium libère l'acétylcholine.
+3|acétylcholine|L'acétylcholine est libérée par paquets (quanta).
+3|EPP|Le potentiel de plaque déclenche la contraction s'il atteint le seuil.
+3|stimulation répétitive|À 3 Hz, le stock de vésicules baisse jusqu'au 4e choc.
+3|LEMS|Lambert-Eaton : présynaptique.
+3|AC|Anticorps en cause.
+3|MuSK|Myasthénies séronégatives : anti-MuSK.
+3|IgA|Ici IgG4 : les anti-MuSK n'activent pas le complément.
+3|MI|Lambert-Eaton : jambes d'abord.
+3|CMAP|Lambert-Eaton : réponse faible au repos.
+3|pyridostigmine|Myasthénie : pyridostigmine.
+3|3,4-DAP|Lambert-Eaton : 3,4-DAP.
+3|CI|Contre-indiqué en cas d'épilepsie.
+3|EMG|Dans la myasthénie, l'EMG simple est normal.
+3|SFEMG|L'EMG de fibre unique est le plus sensible.
+3|thymectomie|La thymectomie améliore la myasthénie.
+3|C5|Ici C5 = fraction du complément (cible de l'éculizumab).
+3|FcRn|Nouvelle cible : FcRn.
+3|CD20|… et CD20.
+3|IVIg|Les IVIg ne sont pas remboursées dans cette indication en Belgique.
+3|CT|Lambert-Eaton sans cancer : surveiller le thorax.
+3|IRM|… par scanner ou IRM.
+3|HLA|Forme auto-immune liée à HLA DR3-B8.
+3|DR3-B8|Groupe HLA des formes non paranéoplasiques.
+3|JNM|Médicaments qui aggravent la myasthénie.
+3|botulisme|La toxine coupe les protéines SNARE.
+3|SNARE|Sans SNARE, plus de libération d'acétylcholine.
+3|fibrillations|Botulisme : possibles fibrillations à l'EMG.
+3|PSW|… et ondes positives.
+4|SLA|La SLA épargne l'oculomotricité.
+4|MN|Atteinte du motoneurone supérieur seul.
+4|fasciculations|Atteinte du motoneurone inférieur : fasciculations.
+4|BMAA|Facteur environnemental suspecté.
+4|DFT|30 % des SLA ont une DFT.
+4|TDP-43|Lien SLA-DFT par la protéine TDP-43.
+4|C9ORF72|Gènes de la SLA.
+4|SOD1|SOD1 : 1er gène découvert.
+4|EMG|Diagnostic : dénervation dans 3 régions.
+4|MI|Régions : crânienne, bras (MS), jambes (MI).
+4|fibrillations|Fibrillations = dénervation active.
+4|VC|Vitesses de conduction normales.
+4|riluzole|Gain de quelques mois.
+4|SMA|Amyotrophie spinale de l'enfant.
+4|AD|Ici AR : transmission récessive.
+4|SMN1|Absence de SMN1.
+4|SMN|Thérapie génique.
+4|nusinersen|Nusinersen par ponction lombaire.
+4|maladie de Kennedy|Liée à l'X.
+4|CAG|Expansion CAG.
+5|PUM|Myopathie : PUM petits et brefs.
+5|DM1|Steinert : distale.
+5|Ca2|Le calcium déclenche la contraction.
+5|ATP|Le relâchement consomme de l'ATP.
+5|dystrophine|La dystrophine relie le cytosquelette à la membrane.
+5|myotonie|Relâchement retardé.
+5|EMG|EMG : décharges myotoniques.
+5|Duchenne|Dystrophine absente ; fauteuil vers 12 ans.
+5|MI|Début aux jambes.
+5|AD|Dominante, H = F.
+5|DMPK|Gène de la Steinert.
+5|CTG|Expansion CTG > 40.
+5|PP|Paralysie hypokaliémique.
+5|McArdle|Intolérance à l'effort.
+5|NH4|L'ammoniac monte mais pas le lactate.
+5|Pompe|Maladie lysosomale.
+5|CPT|Effort prolongé ou jeûne : myoglobinurie.
+5|paramyotonie|S'aggrave à l'effort répété.
+5|rhabdomyolyse|Destruction musculaire : risque d'insuffisance rénale.
+5|MERRF|Maladie mitochondriale.
+5|MELAS|Maladie mitochondriale.
+5|myosites|Faiblesse proximale avec CK élevées.
+5|CK|CK élevées.
+5|dermatomyosite|Œdème et rougeur autour des yeux.
+5|fibrillations|Myosite : fibrillations à l'EMG.
+5|PSW|… et ondes positives.
+6|PE|Les PE testent la fonction, l'IRM la structure.
+6|IRM|L'IRM teste la structure.
+6|SEP|Ils détectent des lésions silencieuses de SEP.
+6|champ lointain|Potentiel enregistré loin de sa source.
+6|PES|PES : stimulation d'un nerf.
+6|Erb|Erb ≈ 9 ms : plexus brachial.
+6|N13|N13 : moelle cervicale.
+6|P14|P14 : tronc cérébral.
+6|N20|N20 : cortex.
+6|BAEP|PEA : 5 ondes du nerf auditif au tronc.
+6|PEM|PEM : stimulation magnétique du cortex.
+6|PEV|PEV : damier inversé.
+6|P100|P100 retardée dans la SEP.
+6|syringomyélie|La syringomyélie peut altérer N13.
+6|ON|Cellules ON et OFF de la rétine.
+7|TTR|Correction de la mutation TTR.
+7|Val30Met|Val30Met : valine remplacée par méthionine.
+7|myasthénie|Myasthénies restées oculaires : ≈ 15 %.
+7|LEMS|Correction du tableau.
+7|incrément|Correction : incrément normal < 40 %.
+7|SMA|Vecteur de thérapie génique.
+7|AAV9|Virus adéno-associé AAV9.
+7|DM1|Steinert : CTG.
+7|CTG|Expansion CTG.
+7|CCG|La CCTG concerne la DM2.
+7|myotonie|Myotonie congénitale : hypertrophie vraie.
+7|myosites|Fin du chapitre.

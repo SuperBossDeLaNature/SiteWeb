@@ -1,0 +1,81 @@
+A1|1re poulie annulaire des fléchisseurs (Annular pulley 1)
+ACVR1|Activin A Receptor type 1 (récepteur de l'activine A de type 1)
+AG|Anesthésie Générale
+AINS|Anti-Inflammatoires Non Stéroïdiens
+AP|Antéro-Postérieur
+BMP|Bone Morphogenetic Proteins (protéines morphogénétiques osseuses)
+C1|1re vertèbre cervicale (atlas)
+C1-C2|Articulation entre atlas et axis (1re et 2e vertèbres cervicales)
+C2|2e vertèbre cervicale (axis)
+C5|5e vertèbre / racine cervicale
+C5-C6|Disque entre les 5e et 6e vertèbres cervicales
+C6|6e vertèbre / racine cervicale
+C6-C7|Disque entre les 6e et 7e vertèbres cervicales
+C7|7e vertèbre / racine cervicale
+CD4|Cluster of Differentiation 4 (marqueur des lymphocytes T auxiliaires)
+CRP|C-Reactive Protein (protéine C réactive)
+DD|Diagnostic Différentiel
+DR4|Allèle HLA-DR4 (Human Leukocyte Antigen, locus DR, groupe 4)
+EMG|ÉlectroMyoGramme
+HBPM|Héparines de Bas Poids Moléculaire
+HLA|Human Leukocyte Antigen (antigène des leucocytes humains)
+HLA-B27|Human Leukocyte Antigen B27 (antigène leucocytaire humain, locus B, allèle 27)
+HLA-DR1|Human Leukocyte Antigen DR1 (antigène leucocytaire humain, locus DR, allèle 1)
+HV|Hallux Valgus
+IIIA|Type 3A de Gustilo (os encore couvrable)
+IIIB|Type 3B de Gustilo (os exposé, lambeau nécessaire)
+IIIC|Type 3C de Gustilo (lésion artérielle à réparer)
+INAMI|Institut National d'Assurance Maladie-Invalidité
+IP|InterPhalangienne
+IPD|InterPhalangienne Distale
+IPP|InterPhalangienne Proximale
+IRM|Imagerie par Résonance Magnétique
+J1|1er jour après l'opération
+J15|15e jour après l'opération
+JOA|Japanese Orthopaedic Association (association orthopédique japonaise)
+L1-L2|Disque entre les 1re et 2e vertèbres lombaires
+L3-L4|Disque entre les 3e et 4e vertèbres lombaires
+L4|4e vertèbre / racine lombaire
+L4-L5|Disque entre les 4e et 5e vertèbres lombaires
+L5|5e vertèbre / racine lombaire
+L5-S1|Disque entre la 5e vertèbre lombaire et le sacrum (1re vertèbre sacrée)
+LCA|Ligament Croisé Antérieur
+LLI|Ligament Latéral Interne
+M1|1er métatarsien
+M1-P1|Angle entre 1er métatarsien et 1re phalange du gros orteil
+M2|2e métatarsien
+M5|5e métatarsien
+MCP|MétaCarpo-Phalangienne
+MRC|Medical Research Council (conseil britannique de la recherche médicale)
+MTP|Métatarso-Phalangienne
+MTP1|1re articulation Métatarso-Phalangienne (gros orteil)
+McMurray|Thomas Porter McMurray (chirurgien orthopédiste britannique)
+P1|1re phalange
+PE|PolyÉthylène
+PEM|Potentiels Évoqués Moteurs
+PES|Potentiels Évoqués Somesthésiques
+PM|Poids Moléculaire
+POAN|Para-Ostéo-Arthropathies Neurogènes
+PR|Polyarthrite Rhumatoïde
+PTH|Prothèse Totale de Hanche
+Pouteau-Colles|Claude Pouteau et Abraham Colles (chirurgiens français et irlandais)
+S1|1re vertèbre / racine sacrée
+SA|Spondylarthrite Ankylosante
+SCM|Sterno-Cléido-Mastoïdien
+SLA|Sclérose Latérale Amyotrophique
+SPECT-CT|Single Photon Emission Computed Tomography - Computed Tomography (tomoscintigraphie couplée au scanner)
+T1|Séquence IRM pondérée en T1 (temps de relaxation longitudinale)
+T11|11e vertèbre thoracique
+T2|Séquence IRM pondérée en T2 (temps de relaxation transversale)
+TENS|Transcutaneous Electrical Nerve Stimulation (neurostimulation électrique transcutanée)
+VIH|Virus de l'Immunodéficience Humaine
+VS|Vitesse de Sédimentation
+WC|Water-Closet (toilettes)
+anti-CCP|Anticorps anti-Cyclic Citrullinated Peptide (anti-peptides cycliques citrullinés)
+anti-TNF|anti-Tumor Necrosis Factor (anti-facteur de nécrose tumorale)
+pH|potentiel Hydrogène
+Kellgren-Lawrence|Jonas Kellgren et John Lawrence (rhumatologues britanniques)
+Gustilo-Anderson|Ramon Gustilo et John Anderson (chirurgiens orthopédistes américains)
+mmHg|millimètre de mercure (Hg = hydrargyrum)
+Essex-Lopresti|Peter Essex-Lopresti (chirurgien britannique)
+Goyrand-Smith|Jean-Gaspard Goyrand et Robert William Smith (chirurgiens français et irlandais)

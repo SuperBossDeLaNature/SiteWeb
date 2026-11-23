@@ -1,0 +1,21 @@
+AVC|Accident Vasculaire Cérébral
+CK|Créatine Kinase
+CMV|CytoMégaloVirus
+COL4|COLlagène de type IV (gènes COL4A1 et COL4A2)
+DMD|Duchenne Muscular Dystrophy (gène de la dystrophie musculaire de Duchenne)
+EEG|ÉlectroEncéphaloGramme
+EMG|ÉlectroMyoGramme
+HTA|HyperTension Artérielle
+IMC|Infirmité Motrice Cérébrale
+IRM|Imagerie par Résonance Magnétique
+LIS1|LISsencephaly 1 (gène de la lissencéphalie de type 1)
+POCS|Pointes-Ondes Continues du Sommeil
+QI|Quotient Intellectuel
+QP|Quotient de Performance (QI de performance)
+QV|Quotient Verbal (QI verbal)
+SA|Semaines d'Aménorrhée
+SEP|Sclérose En Plaques
+SG|Semaines de Grossesse
+SNC|Système Nerveux Central
+T2|Pondération T2 en IRM (temps de relaxation transversale)
+VCN|Vitesse de Conduction Nerveuse

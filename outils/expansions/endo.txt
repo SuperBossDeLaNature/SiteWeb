@@ -1,0 +1,200 @@
+25-OH-D|25-hydroxyvitamine D (calcidiol)
+ACE|Antigène Carcino-Embryonnaire
+ACTH|Adreno-CorticoTropic Hormone (hormone corticotrope, corticotrophine)
+AD|Agonistes Dopaminergiques
+ADH|Anti-Diuretic Hormone (hormone antidiurétique, vasopressine)
+ADP|ADénoPathie
+AI|Auto-Immun
+AINS|Anti-Inflammatoires Non Stéroïdiens
+AIP|Aryl hydrocarbon receptor-Interacting Protein (protéine interagissant avec le récepteur aryl-hydrocarbone)
+AIRE|AutoImmune REgulator (régulateur de l'auto-immunité)
+AMH|Anti-Müllerian Hormone (hormone anti-müllérienne)
+APS|Autoimmune Polyglandular Syndrome (polyendocrinopathie auto-immune)
+APS1|Autoimmune Polyglandular Syndrome type 1 (polyendocrinopathie auto-immune de type 1)
+APS2|Autoimmune Polyglandular Syndrome type 2 (polyendocrinopathie auto-immune de type 2)
+APS3|Autoimmune Polyglandular Syndrome type 3 (polyendocrinopathie auto-immune de type 3)
+AR|Autosomique Récessif
+ATS|AntiThyroïdiens de Synthèse
+BRAF|B-Rapidly Accelerated Fibrosarcoma (gène de la kinase B-Raf)
+CBG|Cortisol-Binding Globulin (globuline liant le cortisol, transcortine)
+CDKN1B|Cyclin-Dependent Kinase iNhibitor 1B (inhibiteur 1B des kinases dépendantes des cyclines)
+CI|Contre-Indication
+CMT|Cancer Médullaire de la Thyroïde
+CPK|Créatine PhosphoKinase
+CRH|Corticotropin-Releasing Hormone (corticolibérine)
+CRP|C-Reactive Protein (protéine C réactive)
+CT|Computed Tomography (tomodensitométrie, scanner)
+CV|CardioVasculaire
+CYP21A2|CYtochrome P450 famille 21 sous-famille A membre 2 (gène de la 21-hydroxylase)
+CYP27B1|CYtochrome P450 famille 27 sous-famille B membre 1 (gène de la 1α-hydroxylase)
+CaSR|Calcium-Sensing Receptor (récepteur sensible au calcium)
+D2|Diabète de type 2
+D3|Vitamine D3 (cholécalciférol)
+DBP|vitamin D-Binding Protein (protéine porteuse de la vitamine D)
+DHEA|DéHydroÉpiAndrostérone
+DHEAS|DéHydroÉpiAndrostérone Sulfate
+DHT|DiHydroTestostérone
+DI|Diabète Insipide
+DIO1|DesIOdinase de type 1
+DIO2|DesIOdinase de type 2
+DIO3|DesIOdinase de type 3
+DIT|DiIodoTyrosine
+DT1|Diabète de Type 1
+DXM|DeXaMéthasone
+ESHRE|European Society of Human Reproduction and Embryology (Société européenne de reproduction humaine et d'embryologie)
+EU-TIRADS|European Thyroid Imaging Reporting And Data System (système européen de classification échographique des nodules thyroïdiens)
+FA|Fibrillation Auriculaire
+FG|score de Ferriman-Gallwey
+FIPA|Familial Isolated Pituitary Adenomas (adénomes hypophysaires familiaux isolés)
+FSH|Follicle-Stimulating Hormone (hormone folliculo-stimulante)
+FT3|Free T3 (triiodothyronine libre)
+FT4|Free T4 (thyroxine libre)
+G2|stade Génital 2 de Tanner
+G3|stade Génital 3 de Tanner
+GH|Growth Hormone (hormone de croissance)
+GHRH|Growth Hormone-Releasing Hormone (somatolibérine)
+GMN|Goitre MultiNodulaire
+GNAS|Guanine Nucleotide-binding protein Alpha-Stimulating (gène de la sous-unité α stimulatrice de la protéine Gs)
+GnRH|Gonadotropin-Releasing Hormone (gonadolibérine)
+HAIR-AN|HyperAndrogénie, Insulino-Résistance, Acanthosis Nigricans
+HAP|HyperAldostéronisme Primaire
+HAS|Haute Autorité de Santé
+HCS|Hyperplasie Congénitale des Surrénales
+HGPO|HyperGlycémie Provoquée par voie Orale
+HHC|Hypogonadisme Hypogonadotrope Congénital
+HHF|Hypercalcémie Hypocalciurique Familiale
+HLA|Human Leukocyte Antigen (antigènes leucocytaires humains)
+HPT|HyperParaThyroïdie
+HT|Hormones Thyroïdiennes
+HTA|HyperTension Artérielle
+HypoNa|Hyponatrémie (Na = sodium bas)
+HypoTA|Hypotension artérielle (TA = tension artérielle basse)
+I-123|Iode 123 (isotope radioactif de l'iode, émetteur gamma)
+I-131|Iode 131 (isotope radioactif de l'iode, émetteur bêta et gamma)
+IEC|Inhibiteurs de l'Enzyme de Conversion
+IGF-1|Insulin-like Growth Factor 1 (facteur de croissance analogue à l'insuline de type 1)
+IM|IntraMusculaire
+IMAO|Inhibiteurs de la MonoAmine Oxydase
+IPS|Insuffisance Pluriglandulaire / Polyendocrinopathie (syndrome polyendocrinien)
+IR|Insuffisance Rénale
+IRC|Insuffisance Rénale Chronique
+IRM|Imagerie par Résonance Magnétique
+IS|Insuffisance Surrénalienne
+ITK|Inhibiteurs de Tyrosine Kinase
+J17|17e Jour de vie
+J3|3e Jour de vie
+J5|5e Jour de vie
+KI|iodure de potassium (K = potassium, I = iode)
+KNDy|KisspeptiNe, Neurokinine B, Dynorphine (neurones KNDy)
+L-T4|Lévo-Thyroxine (lévothyroxine)
+LCR|Liquide Céphalo-Rachidien
+LDL|Low-Density Lipoproteins (lipoprotéines de basse densité)
+LH|Luteinizing Hormone (hormone lutéinisante)
+M2|stade Mammaire 2 de Tanner
+M4|stade Mammaire 4 de Tanner
+MEN|Multiple Endocrine Neoplasia (néoplasie endocrinienne multiple)
+MEN1|Multiple Endocrine Neoplasia type 1 (néoplasie endocrinienne multiple de type 1 ; aussi nom du gène)
+MIBG|Méta-IodoBenzylGuanidine
+MIBI|MéthoxyIsoButylIsonitrile (sestamibi)
+MIT|MonoIodoTyrosine
+MSH|Melanocyte-Stimulating Hormone (hormone mélanotrope)
+MTC|Medullary Thyroid Carcinoma (cancer médullaire de la thyroïde)
+McCune|syndrome de McCune-Albright
+McCune-Albright|syndrome de McCune-Albright (dysplasie fibreuse, taches café au lait, puberté précoce)
+NEM|Néoplasie Endocrinienne Multiple
+NEM1|Néoplasie Endocrinienne Multiple de type 1
+NEM2|Néoplasie Endocrinienne Multiple de type 2
+NEM2A|Néoplasie Endocrinienne Multiple de type 2A
+NEM2B|Néoplasie Endocrinienne Multiple de type 2B
+NEM4|Néoplasie Endocrinienne Multiple de type 4
+NF1|NeuroFibromatose de type 1
+NGS|Next-Generation Sequencing (séquençage de nouvelle génération)
+NIS|Natrium-Iodide Symporter (symporteur sodium-iodure)
+NTRK|Neurotrophic Tyrosine Receptor Kinase (récepteur tyrosine kinase neurotrophique)
+NaCl|Chlorure de sodium (Na = sodium, Cl = chlore)
+OR|Odds Ratio (rapport des cotes)
+PA|Pression Artérielle
+PET|Positron Emission Tomography (tomographie par émission de positons)
+PET-FDG|Positron Emission Tomography au FluoroDésoxyGlucose (tomographie par émission de positons au fluorodésoxyglucose)
+PGL|ParaGangLiome
+POMC|Pro-OpioMélanoCortine
+PRKAR1A|Protein Kinase A Regulatory subunit type 1 Alpha (sous-unité régulatrice 1α de la protéine kinase A)
+PRL|PRoLactine
+PTC|Papillary Thyroid Carcinoma (cancer papillaire de la thyroïde)
+PTH|ParaThyroid Hormone (parathormone)
+PTHrp|ParaThyroid Hormone-related protein (protéine apparentée à la parathormone)
+PTU|PropylThioUracile
+QT|intervalle QT de l'ECG (de l'onde Q à la fin de l'onde T)
+RET|REarranged during Transfection (proto-oncogène RET)
+SA|Semaines d'Aménorrhée
+SC|Sous-Cutané
+SDHB|Succinate DésHydrogénase sous-unité B
+SDHx|Succinate DésHydrogénase (gènes des sous-unités A, B, C, D…)
+SHBG|Sex Hormone-Binding Globulin (globuline liant les hormones sexuelles)
+SHOX|Short stature HOmeoboX (gène homéobox de la petite taille)
+SIADH|Sécrétion Inappropriée d'Hormone AntiDiurétique
+SOPK|Syndrome des Ovaires PolyKystiques
+SRAA|Système Rénine-Angiotensine-Aldostérone
+SRY|Sex-determining Region of Y (région déterminant le sexe du chromosome Y)
+SST|SomatoSTatine
+T1|1er Trimestre de grossesse
+T1a|Tumeur stade 1a du TNM (≤ 1 cm)
+T1b|Tumeur stade 1b du TNM (1–2 cm)
+T2|2e Trimestre de grossesse (ou séquence IRM pondérée T2)
+T3|Triiodothyronine (3 atomes d'iode ; ou 3e trimestre de grossesse)
+T4|Tétraiodothyronine (thyroxine, 4 atomes d'iode)
+TA|Tension Artérielle
+TBG|Thyroxine-Binding Globulin (globuline liant la thyroxine)
+TERT|TElomerase Reverse Transcriptase (transcriptase inverse de la télomérase)
+TESE-ICSI|TEsticular Sperm Extraction – IntraCytoplasmic Sperm Injection (extraction testiculaire de spermatozoïdes puis injection intracytoplasmique)
+THRB|THyroid hormone Receptor Beta (récepteur bêta des hormones thyroïdiennes)
+TNE|Tumeurs NeuroEndocrines
+TNM|Tumor, Node, Metastasis (tumeur, ganglions, métastases)
+TPO|ThyroPerOxydase
+TRAb|TSH Receptor Antibodies (anticorps anti-récepteur de la TSH)
+TRH|Thyrotropin-Releasing Hormone (thyréolibérine)
+TSH|Thyroid-Stimulating Hormone (thyréostimuline)
+TSHR|TSH Receptor (récepteur de la TSH)
+TSI|Thyroid-Stimulating Immunoglobulins (immunoglobulines stimulant la thyroïde)
+Tc99m|Technétium 99 métastable
+UH|Unités Hounsfield
+USI|Unité de Soins Intensifs
+UVB|UltraViolets B
+V2|récepteur de la Vasopressine de type 2
+V600E|substitution de la Valine en position 600 par un acide glutamique (E)
+VCS|Veine Cave Supérieure
+VEGF|Vascular Endothelial Growth Factor (facteur de croissance de l'endothélium vasculaire)
+VHL|Von Hippel-Lindau
+VIH|Virus de l'Immunodéficience Humaine
+VPN|Valeur Prédictive Négative
+Wolff-Chaikoff|effet Wolff-Chaikoff (blocage de l'hormonosynthèse par excès d'iode)
+XXY|caryotype 47,XXY (syndrome de Klinefelter)
+XY|caryotype masculin 46,XY
+anti-TPO|anticorps anti-ThyroPerOxydase
+hCG|human Chorionic Gonadotropin (hormone chorionique gonadotrope humaine)
+hyperK|Hyperkaliémie (K = potassium élevé)
+mUI|milli-Unités Internationales
+rT3|reverse T3 (triiodothyronine inverse)
+Jod-Basedow|effet Jod-Basedow (Jod = iode en allemand ; hyperthyroïdie induite par l'iode)
+macroTSH|macro-TSH (TSH liée à des anticorps, complexe de grande taille)
+R-TSH|Récepteur de la TSH
+IV|IntraVeineux
+anti-IGF1R|anticorps anti-Insulin-like Growth Factor 1 Receptor (anti-récepteur de l'IGF-1)
+hypoTA|hypotension artérielle (TA = tension artérielle basse)
+hypoNa|hyponatrémie (Na = sodium bas)
+anti-Tg|anticorps anti-ThyroGlobuline
+Anti-Tg|anticorps anti-ThyroGlobuline
+mOsm|milliOsmole
+anti-HTA|anti-HyperTension Artérielle (antihypertenseurs)
+ACTH-dépendant|dépendant de l'Adreno-CorticoTropic Hormone (ACTH)
+octréo-PET|PET (Positron Emission Tomography) à un analogue de l'octréotide
+17-OHP|17-hydroxyprogestérone
+XX|caryotype féminin 46,XX
+Ferriman-Gallwey|score de Ferriman-Gallwey (cotation de l'hirsutisme)
+PTH-dépendante|dépendante de la ParaThyroid Hormone (PTH normale ou haute)
+PTH-indépendante|indépendante de la ParaThyroid Hormone (PTH freinée)
+MIBI-Tc99m|MéthoxyIsoButylIsonitrile (sestamibi) marqué au Technétium 99 métastable
+PET-fluorocholine|Positron Emission Tomography à la fluorocholine (tomographie par émission de positons à la fluorocholine)
+hypoMg|hypomagnésémie (Mg = magnésium bas)
+Hippel-Lindau|maladie de von Hippel-Lindau
+von Hippel-Lindau|maladie de von Hippel-Lindau
