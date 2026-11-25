@@ -194,33 +194,38 @@ syncVol();
 
 /* ---------- Questions : chapitres, tirage déterministe ---------- */
 // Questions admissibles d'un thème pour une sélection de chapitres (chs = null : tous).
-function pool(th, chs){
+const LVL = [{ d: 1, n: 'Facile', ic: '🟢' }, { d: 2, n: 'Moyen', ic: '🟡' }, { d: 3, n: 'Difficile', ic: '🔴' }];
+const qLvl = q => q.d || 2;
+function pool(th, chs, lv){
   return th.questions.map((_, i) => i).filter(i => {
+    const q = th.questions[i];
+    if (lv && lv.length && !lv.includes(qLvl(q))) return false;
     if (!chs || !th.chapters) return true;
-    const h = th.questions[i].h;
-    return chs.includes(h === undefined ? -1 : h);
+    return chs.includes(q.h === undefined ? -1 : q.h);
   });
 }
 // Même graine + mêmes réglages => mêmes questions, même ordre de propositions chez les deux joueurs.
-function build(themeKey, seed, n, chs){
+function build(themeKey, seed, n, chs, lv){
   const th = THEMES.find(t => t.key === themeKey);
-  let ids = pool(th, chs);
-  if (!ids.length) ids = pool(th, null);
+  let ids = pool(th, chs, lv);
+  if (!ids.length) ids = pool(th, chs, null);
+  if (!ids.length) ids = pool(th, null, null);
   const order = shuffle(ids, mulberry(seed)).slice(0, Math.min(n || DEFAULT_N, ids.length));
   return order.map((qi, k) => {
     const q = th.questions[qi];
     const chap = (th.chapters && th.chapters[q.h]) || '';
     // Vrai/Faux : deux boutons dans un ordre fixe (Vrai à gauche, Faux à droite).
     if (typeof q.vf === 'boolean')
-      return { text: q.q, choices: ['Vrai', 'Faux'], correct: q.vf ? 0 : 1, exp: q.e || '', chap, vf: true };
+      return { text: q.q, choices: ['Vrai', 'Faux'], correct: q.vf ? 0 : 1, exp: q.e || '', chap, vf: true, d: qLvl(q) };
     const perm = shuffle(q.c.map((_, j) => j), mulberry(seed + k + 1));
-    return { text: q.q, choices: perm.map(p => q.c[p]), correct: perm.indexOf(0), exp: q.e || '', chap };
+    return { text: q.q, choices: perm.map(p => q.c[p]), correct: perm.indexOf(0), exp: q.e || '', chap, d: qLvl(q) };
   });
 }
 function cfgLabel(c){
   if (!c) return '';
   const th = THEMES.find(t => t.key === c.themeKey);
   let s = `${th.name} · ${c.n} questions`;
+  if (c.lv && c.lv.length && c.lv.length < 3) s += ' · ' + c.lv.map(d => LVL[d - 1].n).join(' + ');
   if (c.chs && th.chapters) s += ' · ' + c.chs.map(i => th.chapters[i]).join(', ');
   return s;
 }
@@ -234,7 +239,7 @@ $('#net-note').textContent = sb
   ? 'Mode en ligne actif ✓'
   : "Mode en ligne non configuré (voir config.js). L'entraînement contre un bot fonctionne déjà.";
 const urlRoom = clean(new URLSearchParams(location.search).get('room'));
-if (urlRoom){ $('#code').value = urlRoom; toast('Invitation détectée : choisis un pseudo puis « Rejoindre »'); }
+if (urlRoom){ $('#code').value = urlRoom; toast('Invitation détectée : choisis un pseudo puis « Rejoindre un salon privé »'); }
 
 function needName(){
   const v = $('#name').value.trim();
@@ -243,8 +248,8 @@ function needName(){
 }
 function needOnline(){ if (!sb){ toast('Mode en ligne non configuré (voir config.js)'); return false; } return true; }
 
-$('#btn-find').onclick = () => { if (!needName() || !needOnline()) return; pending = 'queue'; renderThemes(); show('s-themes'); };
-$('#btn-create').onclick = () => { if (!needName() || !needOnline()) return; pending = 'online'; renderThemes(); show('s-themes'); };
+$('#btn-pub').onclick  = () => { if (!needName() || !needOnline()) return; pending = 'public'; renderThemes(); show('s-themes'); };
+$('#btn-priv').onclick = () => { if (!needName() || !needOnline()) return; pending = 'private'; renderThemes(); show('s-themes'); };
 $('#btn-solo').onclick   = () => { if (!needName()) return; pending = 'solo'; renderThemes(); show('s-themes'); };
 $('#btn-join').onclick   = () => {
   if (!needName() || !needOnline()) return;
@@ -272,10 +277,12 @@ $('#themes-back').onclick = () => {
 
 /* ---------- Réglages : chapitres + nombre de questions ---------- */
 const selArg = th => (th.chapters && setup.sel.size < th.chapters.length) ? [...setup.sel].sort((a, b) => a - b) : null;
+const selLv = () => setup.lv.size === 3 ? null : [...setup.lv].sort();
+function savedLv(){ try { const a = JSON.parse(store.get('md_lv') || 'null'); if (Array.isArray(a) && a.length) return a.filter(d => d >= 1 && d <= 3); } catch(e){} return [1]; }
 
 function openSetup(key){
   const th = THEMES.find(t => t.key === key);
-  setup = { key, sel: new Set((th.chapters || []).map((_, i) => i)), n: parseInt(store.get('md_n'), 10) || DEFAULT_N };
+  setup = { key, sel: new Set((th.chapters || []).map((_, i) => i)), n: parseInt(store.get('md_n'), 10) || DEFAULT_N, lv: new Set(savedLv()) };
   document.documentElement.style.setProperty('--accent', th.color);
   renderSetup();
   show('s-setup');
@@ -296,7 +303,18 @@ function renderSetup(){
   } else {
     box.appendChild(el('p', 'hint', "Ce thème n'a pas encore de chapitres : toutes ses questions sont utilisées."));
   }
-  const avail = pool(th, selArg(th)).length;
+  const lvb = $('#lv-chips'); lvb.innerHTML = '';
+  LVL.forEach(L => {
+    const cnt = pool(th, selArg(th), [L.d]).length;
+    const b = el('button', 'pill' + (setup.lv.has(L.d) ? ' on' : ''));
+    b.append(el('span', '', `${L.ic} ${L.n}`), el('small', '', String(cnt)));
+    b.onclick = () => {
+      if (setup.lv.has(L.d)){ if (setup.lv.size > 1) setup.lv.delete(L.d); } else setup.lv.add(L.d);
+      renderSetup();
+    };
+    lvb.appendChild(b);
+  });
+  const avail = pool(th, selArg(th), selLv()).length;
   $('#pool-hint').textContent = avail
     ? `${avail} question${avail > 1 ? 's' : ''} disponible${avail > 1 ? 's' : ''}`
     : 'Choisis au moins un chapitre';
@@ -311,7 +329,7 @@ function renderSetup(){
   });
   const go = $('#setup-go');
   go.disabled = avail === 0;
-  go.textContent = pending === 'queue' ? 'Chercher un adversaire' : pending === 'online' ? 'Créer le salon' : pending === 'rematch' ? 'Lancer le duel' : 'Lancer';
+  go.textContent = pending === 'public' ? 'Créer le salon public' : pending === 'private' ? 'Créer le salon privé' : pending === 'rematch' ? 'Lancer le duel' : 'Lancer';
 }
 $('#chap-all').onclick = () => {
   const th = THEMES.find(t => t.key === setup.key);
@@ -322,15 +340,15 @@ $('#chap-all').onclick = () => {
 $('#setup-back').onclick = () => show('s-themes');
 $('#setup-go').onclick = () => {
   const th = THEMES.find(t => t.key === setup.key);
-  const chs = selArg(th);
-  const avail = pool(th, chs).length;
+  const chs = selArg(th), lv = selLv();
+  const avail = pool(th, chs, lv).length;
   if (!avail) return;
-  store.set('md_n', String(setup.n));
-  const c = { themeKey: setup.key, n: Math.min(setup.n, avail), chs };
+  store.set('md_n', String(setup.n)); store.set('md_lv', JSON.stringify([...setup.lv]));
+  const c = { themeKey: setup.key, n: Math.min(setup.n, avail), chs, lv };
   if (pending === 'solo') beginMatch({ mode: 'solo', ...c, seed: newSeed(), opp: { id: 'bot', name: 'Bot' } });
-  else if (pending === 'online') openRoom(randomCode(), 'host', c);
+  else if (pending === 'public') openRoom(randomCode(), 'host', c, true);
+  else if (pending === 'private') openRoom(randomCode(), 'host', c, false);
   else if (pending === 'rematch') hostStart(c);
-  else if (pending === 'queue') mmStart(c);
 };
 
 /* ---------- Salon en ligne (Supabase Realtime) ---------- */
@@ -339,9 +357,9 @@ function randomCode(){
   return Array.from({ length: 4 }, () => a[Math.floor(Math.random() * a.length)]).join('');
 }
 
-function openRoom(code, role, c){
+function openRoom(code, role, c, pub){
   leaveRoom();
-  room = { code, role, cfg: c || null, joined: false, resync: false, opp: null };
+  room = { code, role, cfg: c || null, joined: false, resync: false, opp: null, pub: !!pub, t0: Date.now(), auto: !!pub && role === 'host' };
   connect();
   showLobby();
   if (role === 'guest') setTimeout(() => {
@@ -355,12 +373,12 @@ function connect(){
   const ch = sb.channel('mediduel:' + room.code, { config: { broadcast: { self: false }, presence: { key: me.id } } });
   room.ch = ch;
   ch.on('presence', { event: 'sync' }, onPresence);
-  ['start', 'q', 'ans', 'end', 'rematch_req', 'need_state', 'state'].forEach(ev =>
+  ['start', 'q', 'ans', 'end', 'rematch_req', 'need_state', 'state', 'full'].forEach(ev =>
     ch.on('broadcast', { event: ev }, ({ payload }) => onMsg(ev, payload || {})));
   ch.subscribe(status => {
     if (status === 'SUBSCRIBED'){
       room.joined = true;
-      ch.track({ id: me.id, name: me.name, role: room.role });
+      ch.track({ id: me.id, name: me.name, role: room.role, t: room.t0 });
       if (room.resync){ room.resync = false; if (room.role === 'guest' && G) send('need_state', {}); }
     } else if (status === 'CHANNEL_ERROR' || status === 'TIMED_OUT'){
       room.joined = false; toast('Connexion perdue…');
@@ -370,7 +388,7 @@ function connect(){
 
 function leaveRoom(){
   if (room && room.ch){ try { sb.removeChannel(room.ch); } catch(e){} }
-  room = null;
+  room = null; pubUpdate();
 }
 function send(event, payload){
   if (room && room.ch && room.joined) room.ch.send({ type: 'broadcast', event, payload });
@@ -380,18 +398,25 @@ function onPresence(){
   if (!room) return;
   const list = Object.values(room.ch.presenceState()).flat();
   const others = list.filter(p => p.id !== me.id);
-  room.opp = room.role === 'host'
-    ? others.find(p => p.role === 'guest') || null
-    : others.find(p => p.role === 'host') || null;
-  renderLobby();
+  if (room.role === 'host'){
+    // Un seul adversaire : le premier arrivé. Les suivants sont prévenus que le salon est complet.
+    const guests = others.filter(p => p.role === 'guest').sort((a, b) => (a.t || 0) - (b.t || 0));
+    const keep = (G && G.opp && guests.find(p => p.id === G.opp.id)) || (room.opp && guests.find(p => p.id === room.opp.id)) || guests[0] || null;
+    room.opp = keep;
+    guests.filter(p => keep && p.id !== keep.id).forEach(p => send('full', { to: p.id }));
+  } else room.opp = others.find(p => p.role === 'host') || null;
+  renderLobby(); pubUpdate();
   // Duel trouvé par le matchmaking : l'hôte lance dès que l'adversaire est arrivé.
-  if (room.role === 'host' && room.auto && room.opp && !G){ room.auto = false; setTimeout(() => hostStart(room.cfg), 600); }
+  if (room.role === 'host' && room.auto && room.opp && !G){ room.auto = false; setTimeout(() => { if (room && room.opp && !G) hostStart(room.cfg); }, 1200); }
 }
 
 function showLobby(){ renderLobby(); show('s-lobby'); }
 function renderLobby(){
   if (!room) return;
   $('#lb-code').textContent = room.code;
+  $('#lb-kind').textContent = room.pub ? 'Salon public · code' : 'Code du salon privé';
+  $('#lb-pubnote').hidden = !(room.pub && room.role === 'host');
+  $('#btn-share').hidden = room.role !== 'host';
   setAv($('#lb-av-me'), me.name); $('#lb-nm-me').textContent = me.name;
   const av = $('#lb-av-opp');
   if (room.opp){ setAv(av, room.opp.name); av.classList.remove('ghost-av'); $('#lb-nm-opp').textContent = room.opp.name; }
@@ -399,7 +424,7 @@ function renderLobby(){
   const start = $('#lb-start');
   if (room.role === 'host'){
     start.hidden = false; start.disabled = !room.opp;
-    $('#lb-status').textContent = (room.opp ? `${room.opp.name} est là ! ` : 'Partage le code ou le lien. ') + cfgLabel(room.cfg);
+    $('#lb-status').textContent = (room.opp ? `${room.opp.name} est là ! ` : room.pub ? 'En attente d’un adversaire… ' : 'Partage le code ou le lien. ') + cfgLabel(room.cfg);
   } else {
     start.hidden = true;
     $('#lb-status').textContent = room.opp
@@ -421,17 +446,23 @@ function hostStart(c){
   if (!room.opp){ toast("Aucun adversaire dans le salon"); return; }
   const seed = newSeed();
   room.cfg = c;
-  send('start', { theme: c.themeKey, seed, n: c.n, chs: c.chs });
-  beginMatch({ mode: 'online', themeKey: c.themeKey, seed, n: c.n, chs: c.chs, opp: room.opp });
+  send('start', { theme: c.themeKey, seed, n: c.n, chs: c.chs, lv: c.lv || null, guest: room.opp.id });
+  beginMatch({ mode: 'online', themeKey: c.themeKey, seed, n: c.n, chs: c.chs, lv: c.lv || null, opp: room.opp });
+  pubUpdate();
 }
 
 function onMsg(ev, p){
   if (!room) return;
   switch (ev){
+    case 'full':
+      if (room.role !== 'guest' || p.to !== me.id || (G && G.mode === 'online')) return;
+      toast('Ce salon est déjà complet'); leaveRoom(); show('s-home');
+      break;
     case 'start':
       if (room.role !== 'guest') return;
-      room.cfg = { themeKey: p.theme, n: p.n, chs: p.chs || null };
-      beginMatch({ mode: 'online', themeKey: p.theme, seed: p.seed, n: p.n, chs: p.chs || null,
+      if (p.guest && p.guest !== me.id){ if (!G){ toast('Ce salon vient d’être complété par quelqu’un d’autre'); leaveRoom(); show('s-home'); } return; }
+      room.cfg = { themeKey: p.theme, n: p.n, chs: p.chs || null, lv: p.lv || null };
+      beginMatch({ mode: 'online', themeKey: p.theme, seed: p.seed, n: p.n, chs: p.chs || null, lv: p.lv || null,
         opp: room.opp || { id: null, name: 'Adversaire' } });
       break;
     case 'q':
@@ -455,13 +486,13 @@ function onMsg(ev, p){
       break;
     case 'need_state':
       if (room.role === 'host' && G)
-        send('state', { theme: G.cfg.themeKey, seed: G.seed, n: G.cfg.n, chs: G.cfg.chs, idx: G.idx, done: !!G.done,
+        send('state', { theme: G.cfg.themeKey, seed: G.seed, n: G.cfg.n, chs: G.cfg.chs, lv: G.cfg.lv || null, idx: G.idx, done: !!G.done,
           answers: G.answers.map(a => a ? { me: a.me || null, opp: a.opp || null } : null) });
       break;
     case 'state':
       if (room.role !== 'guest') return;
       if (!G || G.seed !== p.seed)
-        beginMatch({ mode: 'online', themeKey: p.theme, seed: p.seed, n: p.n, chs: p.chs || null,
+        beginMatch({ mode: 'online', themeKey: p.theme, seed: p.seed, n: p.n, chs: p.chs || null, lv: p.lv || null,
           opp: room.opp || { id: null, name: 'Adversaire' }, skipCd: true });
       p.answers.forEach((a, i) => {
         if (!a) return;
@@ -489,178 +520,79 @@ function tryReconnect(){
 document.addEventListener('visibilitychange', tryReconnect);
 window.addEventListener('online', tryReconnect);
 
-/* ---------- Matchmaking : liste des joueurs qui cherchent un adversaire ---------- */
-// Canal public commun : chaque joueur en recherche s'y déclare (Presence) ; les défis passent en Broadcast.
-const INVITE_MS = 20000;
-const MM = { ch: null, ready: false, searching: false, cfg: null, since: 0, list: [], out: null, inc: null, refresh: null };
+/* ---------- Salons publics ---------- */
+// Canal commun : chaque hôte d'un salon public en attente s'y déclare (Presence) ; l'accueil affiche la liste.
+const PUB = { ch: null, ready: false, list: [], tracked: false, refresh: null };
 
-function mmInit(){
-  if (!sb || (MM.ch && MM.ch.state !== 'closed' && MM.ch.state !== 'errored')) return;
-  if (MM.ch){ try { sb.removeChannel(MM.ch); } catch(e){} }
-  const ch = sb.channel('mediduel:lobby', { config: { broadcast: { self: false }, presence: { key: me.id } } });
-  MM.ch = ch; MM.ready = false;
-  ch.on('presence', { event: 'sync' }, mmSync);
-  ['invite', 'accept', 'decline', 'cancel'].forEach(ev =>
-    ch.on('broadcast', { event: ev }, ({ payload }) => mmMsg(ev, payload || {})));
+function pubInit(){
+  if (!sb || (PUB.ch && PUB.ch.state !== 'closed' && PUB.ch.state !== 'errored')) return;
+  if (PUB.ch){ try { sb.removeChannel(PUB.ch); } catch(e){} }
+  const ch = sb.channel('mediduel:public', { config: { presence: { key: me.id } } });
+  PUB.ch = ch; PUB.ready = false; PUB.tracked = false;
+  ch.on('presence', { event: 'sync' }, pubSync);
   ch.subscribe(st => {
-    if (st === 'SUBSCRIBED'){ MM.ready = true; if (MM.searching) mmTrack(); mmSync(); }
-    else if (st === 'CHANNEL_ERROR' || st === 'TIMED_OUT' || st === 'CLOSED') MM.ready = false;
+    if (st === 'SUBSCRIBED'){ PUB.ready = true; pubUpdate(); pubSync(); }
+    else if (st === 'CHANNEL_ERROR' || st === 'TIMED_OUT' || st === 'CLOSED'){ PUB.ready = false; PUB.tracked = false; pubRender(); }
   });
 }
-function mmSend(event, payload){ if (MM.ch && MM.ready) MM.ch.send({ type: 'broadcast', event, payload: { ...payload, from: me.id } }); }
-function mmTrack(){
-  if (!MM.ch || !MM.ready || !MM.searching) return;
-  const c = MM.cfg;
-  MM.ch.track({ id: me.id, name: me.name, themeKey: c.themeKey, n: c.n, label: cfgLabel(c), since: MM.since,
-                busy: !!(MM.out || MM.inc) });
+// Mon salon public est-il ouvert (hôte, personne d'autre, pas de duel) ? -> visible dans la liste.
+function pubUpdate(){
+  if (!PUB.ch || !PUB.ready) return;
+  const open = !!(room && room.pub && room.role === 'host' && !room.opp && !G);
+  if (open){
+    const c = room.cfg;
+    PUB.ch.track({ id: me.id, name: me.name, code: room.code, label: cfgLabel(c), color: (THEMES.find(t => t.key === c.themeKey) || {}).color, since: room.t0 });
+    PUB.tracked = true;
+  } else if (PUB.tracked){ try { PUB.ch.untrack(); } catch(e){} PUB.tracked = false; }
 }
-
-function mmStart(c){
-  if (!needOnline()) return;
-  MM.cfg = c; MM.searching = true; MM.since = Date.now(); MM.out = null; MM.inc = null;
-  mmInit(); mmTrack();
-  const th = THEMES.find(t => t.key === c.themeKey);
-  document.documentElement.style.setProperty('--accent', th.color);
-  $('#mm-cfg').textContent = cfgLabel(c);
-  mmRender(); show('s-match');
-  clearInterval(MM.refresh); MM.refresh = setInterval(mmRender, 15000);
-}
-function mmStop(){
-  MM.searching = false; clearInterval(MM.refresh);
-  if (MM.out){ mmSend('cancel', { to: MM.out.id }); clearTimeout(MM.out.t); }
-  if (MM.inc){ clearTimeout(MM.inc.t); clearInterval(MM.inc.bar); }
-  MM.out = null; MM.inc = null; $('#mm-inv').hidden = true;
-  if (MM.ch && MM.ready){ try { MM.ch.untrack(); } catch(e){} }
-}
-
-function mmSync(){
-  if (!MM.ch) return;
+function pubSync(){
+  if (!PUB.ch) return;
   const seen = new Set();
-  MM.list = Object.values(MM.ch.presenceState()).flat()
-    .filter(p => p && p.id && p.id !== me.id && !seen.has(p.id) && seen.add(p.id))
+  PUB.list = Object.values(PUB.ch.presenceState()).flat()
+    .filter(p => p && p.id && p.code && p.id !== me.id && !seen.has(p.id) && seen.add(p.id))
     .sort((a, b) => (a.since || 0) - (b.since || 0));
-  // Compteur sur l'accueil
-  const cnt = $('#mm-count'), n = MM.list.length;
-  if (sb && MM.ready){
-    cnt.hidden = false;
-    cnt.innerHTML = '';
-    cnt.append(el('span', 'mm-dot' + (n ? '' : ' off')),
-      el('span', '', n ? `${n} joueur${n > 1 ? 's' : ''} cherche${n > 1 ? 'nt' : ''} un adversaire` : "Personne ne cherche d'adversaire pour l'instant"));
-  }
-  // Mon défi envoyé : la cible est partie ?
-  if (MM.out && !MM.list.some(p => p.id === MM.out.id)){ toast(`${MM.out.name} n'est plus disponible`); clearTimeout(MM.out.t); MM.out = null; mmTrack(); }
-  if ($('#s-match').classList.contains('active')) mmRender();
+  pubRender();
 }
-
 function ago(ts){
   const s = Math.max(0, Math.round((Date.now() - (ts || Date.now())) / 1000));
   return s < 60 ? "à l'instant" : `depuis ${Math.round(s / 60)} min`;
 }
-function mmRender(){
-  const box = $('#mm-list'); box.innerHTML = '';
-  $('#mm-n').textContent = MM.list.length;
-  if (!MM.list.length){
-    box.appendChild(el('div', 'mm-empty', "Personne d'autre ne cherche pour l'instant.\nReste sur cet écran : dès que quelqu'un arrive, il apparaît ici, et toi tu es déjà dans sa liste."));
-    box.firstChild.style.whiteSpace = 'pre-line';
+function pubRender(){
+  const box = $('#pub-list'); if (!box) return;
+  box.innerHTML = '';
+  $('#pub-n').textContent = PUB.list.length;
+  $('#pub-dot').classList.toggle('off', !PUB.list.length);
+  if (!sb){ box.appendChild(el('div', 'mm-empty', 'Mode en ligne non configuré.')); return; }
+  if (!PUB.ready){ box.appendChild(el('div', 'mm-empty', 'Connexion…')); return; }
+  if (!PUB.list.length){
+    box.appendChild(el('div', 'mm-empty', 'Aucun salon public pour l’instant. Crée le tien : il apparaîtra ici chez tout le monde.'));
+    return;
   }
-  MM.list.forEach(p => {
-    const row = el('div', 'mm-row' + (p.busy ? ' busy' : ''));
+  PUB.list.forEach(p => {
+    const row = el('div', 'mm-row');
     const av = el('div', 'av'); setAv(av, p.name);
     const info = el('div', 'mm-info');
     info.append(el('span', 'mm-nm', p.name), el('span', 'mm-c', `${p.label || ''} · ${ago(p.since)}`));
-    const mine = MM.out && MM.out.id === p.id;
-    const b = el('button', 'btn' + (mine ? ' ghost' : ' primary'), mine ? 'En attente…' : p.busy ? 'Occupé' : 'Défier');
-    b.disabled = !!MM.out || !!p.busy;
-    b.onclick = () => mmChallenge(p);
+    const b = el('button', 'btn primary', 'Rejoindre');
+    b.onclick = () => { if (!needName() || !needOnline()) return; openRoom(p.code, 'guest'); };
     row.append(av, info, b); box.appendChild(row);
   });
-  const out = $('#mm-out');
-  out.hidden = !MM.out;
-  if (MM.out) $('#mm-out-txt').textContent = `Défi envoyé à ${MM.out.name}… (${MM.out.label})`;
 }
-
-function mmChallenge(p){
-  if (MM.out || MM.inc) return;
-  MM.out = { id: p.id, name: p.name, label: p.label || '' };
-  MM.out.t = setTimeout(() => {
-    if (!MM.out || MM.out.id !== p.id) return;
-    mmSend('cancel', { to: p.id }); toast(`${p.name} n'a pas répondu`); MM.out = null; mmTrack(); mmRender();
-  }, INVITE_MS + 2000);
-  mmSend('invite', { to: p.id, name: me.name });
-  mmTrack(); mmRender(); Sfx.beep();
-}
-$('#mm-out-cancel').onclick = () => {
-  if (!MM.out) return;
-  mmSend('cancel', { to: MM.out.id }); clearTimeout(MM.out.t); MM.out = null; mmTrack(); mmRender();
-};
-
-function mmIncoming(p){
-  MM.inc = { id: p.from, name: p.name || 'Un joueur' };
-  setAv($('#mm-inv-av'), MM.inc.name);
-  $('#mm-inv-t').textContent = `${MM.inc.name} te défie !`;
-  $('#mm-inv-cfg').textContent = cfgLabel(MM.cfg);
-  $('#mm-inv').hidden = false;
-  const t0 = Date.now(), bar = $('#mm-inv-bar');
-  bar.style.width = '100%';
-  MM.inc.bar = setInterval(() => { bar.style.width = Math.max(0, 100 - (Date.now() - t0) / INVITE_MS * 100) + '%'; }, 250);
-  MM.inc.t = setTimeout(() => mmAnswer(false), INVITE_MS);
-  mmTrack(); Sfx.go(); if (navigator.vibrate) navigator.vibrate([60, 40, 60]);
-}
-function mmAnswer(ok){
-  const inc = MM.inc; if (!inc) return;
-  clearTimeout(inc.t); clearInterval(inc.bar); MM.inc = null; $('#mm-inv').hidden = true;
-  if (!ok){ mmSend('decline', { to: inc.id }); mmTrack(); mmRender(); return; }
-  // J'accepte : je crée le salon avec MES réglages (ceux affichés dans la liste) et il me rejoint.
-  const code = randomCode(), c = MM.cfg;
-  mmSend('accept', { to: inc.id, code });
-  mmStop();
-  openRoom(code, 'host', c);
-  room.auto = true;
-}
-$('#mm-inv-ok').onclick = () => mmAnswer(true);
-$('#mm-inv-no').onclick = () => mmAnswer(false);
-
-function mmMsg(ev, p){
-  if (p.to !== me.id || !MM.searching) return;
-  switch (ev){
-    case 'invite':
-      if (MM.inc || MM.out){ mmSend('decline', { to: p.from, busy: true }); return; }
-      mmIncoming(p); break;
-    case 'cancel':
-      if (MM.inc && MM.inc.id === p.from){ clearTimeout(MM.inc.t); clearInterval(MM.inc.bar); MM.inc = null; $('#mm-inv').hidden = true; toast('Défi annulé'); mmTrack(); mmRender(); }
-      break;
-    case 'decline':
-      if (MM.out && MM.out.id === p.from){
-        toast(p.busy ? `${MM.out.name} est déjà en train de répondre à un défi` : `${MM.out.name} a refusé`);
-        clearTimeout(MM.out.t); MM.out = null; mmTrack(); mmRender();
-      }
-      break;
-    case 'accept':
-      if (MM.out && MM.out.id === p.from && p.code){
-        clearTimeout(MM.out.t); MM.out = null;
-        mmStop();
-        openRoom(p.code, 'guest');
-      }
-      break;
-  }
-}
-
-$('#mm-back').onclick = () => { mmStop(); document.documentElement.style.removeProperty('--accent'); show('s-home'); };
-$('#mm-change').onclick = () => { mmStop(); pending = 'queue'; renderThemes(); show('s-themes'); };
-document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') mmInit(); });
-window.addEventListener('online', mmInit);
-mmInit();
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') pubInit(); });
+window.addEventListener('online', pubInit);
+pubInit(); pubRender();
+clearInterval(PUB.refresh); PUB.refresh = setInterval(() => { if ($('#s-home').classList.contains('active')) pubRender(); }, 20000);
 
 
 /* ---------- Duel ---------- */
 const isDriver = () => G && (G.mode === 'solo' || (room && room.role === 'host'));
 const total = who => G.answers.reduce((s, a) => s + ((a && a[who] && a[who].pts) || 0), 0);
 
-function beginMatch({ mode, themeKey, seed, n, chs, opp, skipCd }){
+function beginMatch({ mode, themeKey, seed, n, chs, lv, opp, skipCd }){
   clearTimers();
   const th = THEMES.find(t => t.key === themeKey);
-  const questions = build(themeKey, seed, n, chs);
-  G = { mode, theme: th, seed, opp, cfg: { themeKey, n, chs: chs || null }, questions, nq: questions.length,
+  const questions = build(themeKey, seed, n, chs, lv);
+  G = { mode, theme: th, seed, opp, cfg: { themeKey, n, chs: chs || null, lv: lv || null }, questions, nq: questions.length,
         idx: -1, answers: [], locked: true, adv: {}, done: false, lastTick: null };
   document.documentElement.style.setProperty('--accent', th.color);
   setAv($('#av-me'), me.name);  $('#nm-me').textContent = me.name;
@@ -694,7 +626,7 @@ function showQuestion(i){
   const g = G;
   g.idx = i; g.locked = false; g.qStart = performance.now(); g.lastTick = TIME; g.answers[i] = g.answers[i] || {};
   const q = g.questions[i];
-  $('#qn').textContent = `${i + 1}/${g.nq}` + (i === g.nq - 1 ? ' · ×2' : '');
+  $('#qn').textContent = `${i + 1}/${g.nq}` + (i === g.nq - 1 ? ' · ×2' : '') + ' ' + LVL[(q.d || 2) - 1].ic;
   $('#qtext').textContent = q.text;
   const box = $('#choices'); box.innerHTML = '';
   box.classList.toggle('vf', !!q.vf);

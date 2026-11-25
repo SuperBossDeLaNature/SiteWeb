@@ -34,12 +34,17 @@
         <span>Ton pseudo</span>
         <input id="name" maxlength="14" autocomplete="off" placeholder="ex. Haris">
       </label>
-      <button class="btn primary" id="btn-find">Trouver un adversaire</button>
-      <p class="mm-count" id="mm-count" hidden></p>
-      <button class="btn" id="btn-create">Défier un ami avec un code</button>
+      <div class="mp-modes">
+        <button class="btn primary" id="btn-pub">🌐 Créer un salon public</button>
+        <button class="btn" id="btn-priv">🔒 Créer un salon privé</button>
+      </div>
       <div class="join">
-        <input id="code" maxlength="4" placeholder="CODE" autocapitalize="characters" autocomplete="off" spellcheck="false">
-        <button class="btn" id="btn-join">Rejoindre</button>
+        <input id="code" maxlength="4" placeholder="CODE" autocapitalize="characters" autocomplete="off" spellcheck="false" aria-label="Code d'un salon privé">
+        <button class="btn" id="btn-join">Rejoindre un salon privé</button>
+      </div>
+      <div class="pub">
+        <div class="pub-h"><span class="mm-dot" id="pub-dot"></span><span>Salons publics</span><span class="mm-n" id="pub-n">0</span></div>
+        <div class="mm-list" id="pub-list"></div>
       </div>
       <button class="btn" id="btn-board">🏆 Scores</button>
     </div>
@@ -68,40 +73,14 @@
       <div class="pills" id="chap-chips"></div>
     </div>
     <div class="panel">
+      <div class="lbl-row"><span>Difficulté</span><span class="hint">plusieurs choix possibles</span></div>
+      <div class="pills lv-pills" id="lv-chips"></div>
+    </div>
+    <div class="panel">
       <div class="lbl-row"><span>Nombre de questions</span><span class="hint" id="pool-hint"></span></div>
       <div class="pills" id="n-chips"></div>
     </div>
     <button class="btn primary" id="setup-go">Lancer</button>
-  </section>
-
-  <!-- MATCHMAKING : joueurs qui cherchent un adversaire -->
-  <section id="s-match" class="screen">
-    <header class="top">
-      <button class="icon-btn" id="mm-back" aria-label="Arrêter de chercher">←</button>
-      <h2>Trouver un adversaire</h2>
-    </header>
-    <div class="panel">
-      <div class="lbl-row"><span>Ta recherche</span><button class="link" id="mm-change">Changer</button></div>
-      <div class="mm-me"><span class="mm-dot"></span><span id="mm-cfg"></span></div>
-      <p class="hint">Tant que tu restes sur cet écran, les autres joueurs te voient dans leur liste et peuvent te défier.</p>
-    </div>
-    <div class="mm-out" id="mm-out" hidden>
-      <span id="mm-out-txt"></span>
-      <button class="btn small ghost" id="mm-out-cancel">Annuler</button>
-    </div>
-    <h3 class="mm-h">Joueurs qui cherchent <span class="mm-n" id="mm-n"></span></h3>
-    <p class="hint">Le duel se joue avec la matière et le nombre de questions de la personne défiée.</p>
-    <div class="mm-list" id="mm-list"></div>
-    <div class="overlay mm-inv" id="mm-inv" hidden>
-      <div class="mm-card">
-        <div class="av" id="mm-inv-av"></div>
-        <div class="mm-inv-t" id="mm-inv-t"></div>
-        <div class="hint" id="mm-inv-cfg"></div>
-        <div class="mm-inv-bar"><i id="mm-inv-bar"></i></div>
-        <button class="btn primary" id="mm-inv-ok">Accepter</button>
-        <button class="btn ghost" id="mm-inv-no">Refuser</button>
-      </div>
-    </div>
   </section>
 
   <!-- SALON -->
@@ -111,7 +90,7 @@
       <h2>Salon</h2>
     </header>
     <div class="code-box">
-      <span class="lbl">Code du salon</span>
+      <span class="lbl" id="lb-kind">Code du salon</span>
       <div class="code" id="lb-code">----</div>
       <button class="btn small" id="btn-share">Partager le lien</button>
     </div>
@@ -120,6 +99,7 @@
       <div class="vs-mark">VS</div>
       <div class="slot"><div class="av ghost-av" id="lb-av-opp">?</div><div class="nm" id="lb-nm-opp">En attente…</div></div>
     </div>
+    <p class="hint lb-pubnote" id="lb-pubnote" hidden>🌐 Ton salon apparaît dans la liste « Salons publics » de l'accueil : le premier qui clique sur « Rejoindre » joue contre toi, le duel démarre tout seul.</p>
     <p class="status" id="lb-status"></p>
     <button class="btn primary" id="lb-start" hidden>Lancer le duel</button>
   </section>

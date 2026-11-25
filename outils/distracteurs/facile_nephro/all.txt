@@ -1,0 +1,204 @@
+1760500000000|20 à 40 mL/min|150 à 200 mL/min|40 à 60 mL/min
+1760500000001|Lithiase et infections urinaires|Polykystose et lupus|Glomérulonéphrite à IgA et AINS
+1760500000003|Système terminal unique|Système à shunt artério-veineux|Réseau lymphatique
+1760500000004|Afférente|Interlobulaire|Arquée
+1760500000005|Efférente constrictée|Afférente trop dilatée|Efférente non dilatée
+1760500000006|Podocytes → MBG → endothélium fenêtré|MBG → endothélium fenêtré → podocytes|Endothélium fenêtré → podocytes → MBG
+1760500000008|10 %|25 %|90 %
+1760500000009|Tube contourné proximal|Glomérule|Tube contourné distal
+1760500000010|Natrémie et kaliémie|Taille des reins et diurèse|Urée et hématurie
+1760500000011|IRM|Scanner avec injection|Scintigraphie au DMSA
+1760500000013|Gros reins, cortex épaissi, hyperéchogénicité médullaire|Kystes multiples, calcifications, lithiases|Dilatation pyélocalicielle, urétérale et vésicale
+1760500000014|Nécrose tubulaire aiguë|Pyélonéphrite aiguë|Obstruction urétérale
+1760500000015|Infarctus rénal|Pyélonéphrite aiguë|Thrombose de la veine rénale
+1760500000016|Oui|Oui, si la créatinine est normale|Oui, chez le sujet âgé
+1760500000017|Les chaînes légères|La β2-microglobuline|Les immunoglobulines
+1760500000019|Tubulo-interstitielle|Vésicale|Urétrale
+1760500000020|Glomérulaire|Vésicale|Prostatique
+1760500000022|Na⁺ > 135 mmol/L|Na⁺ > 155 mmol/L|Na⁺ > 150 mmol/L
+1760500000023|Résistance du collecteur à l'ADH|Excès de sécrétion d'ADH|Déficit en aldostérone
+1760500000024|Déficit de sécrétion d'ADH|Excès d'aldostérone|Résistance du TCP à la PTH
+1760500000025|Furosémide|Amoxicilline|Paracétamol
+1760500000026|0,60 × poids × (140/Na − 1)|0,20 × poids × (Na − 140)|0,40 × taille × (Na/140 − 1)
+1760500000027|< 25 mmol/L/jour|< 20 mmol/L/heure|< 2 mmol/L/semaine
+1760500000028|Na⁺ < 145 mmol/L|Na⁺ < 125 mmol/L|Na⁺ < 140 mmol/L
+1760500000029|SIADH, potomanie, hypothyroïdie|Diarrhée, vomissements, diurétiques|Insuffisance surrénale, brûlures, pancréatite
+1760500000030|Urines diluées dans un sang concentré|Urines diluées dans un sang dilué|Urines concentrées dans un sang concentré
+1760500000031|Restriction hydrique seule|Furosémide IV seul|Glucosé 5 % IV
+1760500000032|Œdème cérébral|Hémorragie méningée|Insuffisance cardiaque aiguë
+1760500000034|2,5 à 3,5 mmol/L|5,0 à 6,5 mmol/L|135 à 145 mmol/L
+1760500000035|K⁺ < 4,5 mmol/L|K⁺ < 2,5 mmol/L|K⁺ < 5,0 mmol/L
+1760500000036|Onde T pointue|Onde delta|Onde J d'Osborn
+1760500000037|Perfusion IV lente|Voie orale|Voie veineuse centrale
+1760500000038|K⁺ > 3,5 mmol/L|K⁺ > 7,0 mmol/L|K⁺ > 8,0 mmol/L
+1760500000039|K⁺ > 5,0 ou hypotension|K⁺ > 4,5 ou polyurie|K⁺ > 5,5 ou crampes isolées
+1760500000040|Kayexalate (résine échangeuse)|Furosémide IV|Dialyse
+1760500000041|Gluconate de calcium + kayexalate|Hémodialyse + furosémide|Bicarbonate + spironolactone
+1760500000042|Insuline-glucose|Salbutamol|Furosémide
+1760500000047|Calcium lié à l'albumine|Calcium complexé aux anions|Calcium osseux
+1760500000048|Ca − 0,025 × (40 − albumine g/L)|Ca + 0,25 × (albumine g/L − 40)|Ca × 0,025 × (40 + albumine g/L)
+1760500000050|Ca ↓, P ↑|Ca ↑, P ↑|Ca ↓, P ↓
+1760500000051|Ca ↑, P ↓|Ca ↓, P ↑|Ca ↓, P ↓
+1760500000052|Hypocalcémie + hyperphosphatémie|Hypercalcémie + hyperphosphatémie|Hypocalcémie + hypophosphatémie
+1760500000053|QT allongé|Onde U|Sus-décalage du ST diffus
+1760500000054|La calcitonine|La phosphatase alcaline|L'albumine
+1760500000055|> 2,3 mmol/L ou asymptomatique|> 2,0 mmol/L|> 5 mmol/L uniquement
+1760500000056|Furosémide seul|Gluconate de calcium IV|Restriction hydrique
+1760500000057|Brassard gonflé → spasme carpien|Percussion du tendon rotulien → abolition du réflexe|Flexion de la nuque → flexion des hanches
+1760500000058|Percussion du nerf facial → contraction|Percussion du tendon achilléen → aréflexie|Pression sur le globe oculaire → bradycardie
+1760500000059|Bisphosphonate IV|Furosémide IV|Calcitonine SC
+1760500000060|Le sodium|Le phosphore|Le chlore
+1760500000062|PCO₂ / HCO₃⁻|Na⁺ / Cl⁻|PO₂ / PCO₂
+1760500000063|pH < 7,45|pH > 7,42|pH < 7,00
+1760500000064|Toujours le sens opposé|Aucune compensation|Variable selon l'âge
+1760500000065|PaCO₂ = 0,7 × HCO₃⁻ + 20 (± 2)|PaCO₂ = 2 × HCO₃⁻ − 8 (± 2)|PaCO₂ = HCO₃⁻ + 15 (± 5)
+1760500000066|(Cl⁻ + HCO₃⁻) − (Na⁺ + K⁺)|(Na⁺ + Cl⁻) − (K⁺ + HCO₃⁻)|(Na⁺ + HCO₃⁻) − (K⁺ + Cl⁻)
+1760500000067|Accumulation d'acide lactique|Gain de HCO₃⁻|Accumulation de cétoacides
+1760500000068|Rénale (ATR 1)|Rénale (ATR 4)|Pulmonaire
+1760500000069|Extra-rénale (diarrhée)|Digestive|Respiratoire
+1760500000070|Défaut de sécrétion de H⁺|Déficit en aldostérone|Excès de réabsorption du Cl⁻
+1760500000071|Défaut de réabsorption du HCO₃⁻|Excès d'aldostérone|Défaut de réabsorption du Na⁺
+1760500000072|Hyperaldostéronisme (↑ NH₄⁺)|Défaut de réabsorption du HCO₃⁻ proximal|Excès de sécrétion de H⁺
+1760500000073|pH < 7,38 et HCO₃⁻ < 22|pH > 7,42 et PCO₂ < 35|pH < 7,38 et PCO₂ > 45
+1760500000074|pH > 7,45|pH > 7,50|pH > 8,00
+1760500000076|Kaliémie|Calciurie|Glycémie
+1760500000077|Bicarbonate de sodium|Furosémide|Glucosé 5 %
+1760500000078|Diarrhée + vomissements isolés|Hyperventilation anxieuse isolée|Alcalose de contraction isolée
+1760500000079|pH < 7,35 ou HCO₃⁻ < 22|pH < 7,30 ou HCO₃⁻ < 20|pH < 7,38 ou HCO₃⁻ < 24
+1760500000080|Bicarbonate systématique|Hyperventilation mécanique|Restriction hydrique
+1760500000081|L'acidose de la diarrhée|L'intoxication aux salicylés|L'acidose tubulaire rénale
+1760500000085|≈ 60 mL/min/1,73 m²|≈ 200 mL/min/1,73 m²|≈ 30 mL/min/1,73 m²
+1760500000087|Urée|Inuline|Albumine
+1760500000089|Cockcroft-Gault|Friedewald|Winter
+1760500000091|La créatinine|L'âge|Le sexe
+1760500000092|IRA en phase d'installation|Grossesse|Dénutrition sévère
+1760500000094|DFGe × 1,73 / surface corporelle|DFGe × poids / 70|DFGe / surface corporelle × 100
+1760500000095|> 1 mois|> 2 semaines|> 12 mois
+1760500000096|< 90 mL/min/1,73 m²|< 30 mL/min/1,73 m²|< 15 mL/min/1,73 m²
+1760500000098|Polykystose et lupus|Lithiase et pyélonéphrite|AINS et produits de contraste
+1760500000099|30 à 44|60 à 89|15 à 29
+1760500000100|< 30|15 à 29|< 45
+1760500000101|> 30 mg/g|> 3000 mg/g|> 100 mg/g
+1760500000102|G3bA2|G4A2|G5A3
+1760500000104|< 160/100 mmHg|< 110/60 mmHg|< 150/95 mmHg
+1760500000105|Diurétique thiazidique|Bêtabloquant|Inhibiteur calcique dihydropyridinique
+1760500000107|Sulfamides hypoglycémiants|Insulines|Inhibiteurs de l'alpha-glucosidase
+1760500000109|Jamais|Uniquement au stade de dialyse|Uniquement en cas d'hématurie
+1760500000110|≥ 120/80 mmHg|≥ 160/100 mmHg|≥ 130/85 mmHg
+1760500000111|Toujours bénéfique, quelle que soit la protéinurie|Délétère dans tous les cas|Utile seulement en l'absence de protéinurie
+1760500000113|↑ pression intraglomérulaire|Vasoconstriction de l'artériole efférente|Réparation de la membrane basale
+1760500000114|Jusqu'à 100 %|Aucune hausse tolérée|Jusqu'à 200 %
+1760500000116|Thiazidique|Spironolactone|Amiloride
+1760500000117|≈ 75 %|≈ 50 %|≈ 90 %
+1760500000119|Moins de 1 %|Plus de 90 %|Environ 5 %
+1760500000121|5 ans après le diagnostic|Au stade d'insuffisance rénale|À 60 ans seulement
+1760500000122|A1|A0|A2 débutante
+1760500000123|Diminuée|Asymétrique|Normale avec kystes
+1760500000124|Croissants extracapillaires|Dépôts mésangiaux d'IgA|Corps de Michaelis-Gutmann
+1760500000125|≈ 1 %|≈ 95 %|≈ 5 %
+1760500000126|Augmenter l'insuline|Abstention et surveillance|Arrêt définitif des IEC
+1760500000127|Bêtabloquant|Diurétique de l'anse|Alpha-bloquant
+1760500000130|Le furosémide|Les IEC|L'aspirine à forte dose
+1760500000131|Méthyldopa|Labétalol|Nifédipine
+1760500000132|≥ 3 mg/dL (265 µmol/L)|≥ 0,1 mg/dL (8,8 µmol/L)|≥ 1,5 mg/dL (132 µmol/L)
+1760500000133|≥ 1,1 × la valeur de base|≥ 5 × la valeur de base|≥ 10 × la valeur de base
+1760500000134|< 2 mL/kg/h pendant 1 h|< 0,1 mL/kg/h pendant 48 h|< 1,5 mL/kg/h pendant 2 h
+1760500000135|≥ 1,5 × base|≥ 2 × base|≥ 1,2 × base
+1760500000137|Obstructive (post-rénale)|Glomérulaire|Vasculaire
+1760500000138|Biopsie rénale|Scanner injecté|Scintigraphie rénale
+1760500000139|> 3 %|> 10 %|> 20 %
+1760500000140|FE du Na⁺|FE du K⁺|Natriurèse des 24 h
+1760500000142|Furosémide IV|Restriction hydrique|Glucosé 5 % seul
+1760500000143|Hémodialyse seule|Furosémide à forte dose|Corticothérapie
+1760500000144|Glomérulonéphrite extracapillaire|Néphrite interstitielle aiguë|Microangiopathie thrombotique
+1760500000145|Paracétamol, metformine, statines|Insuline, héparine, morphine|Bêtabloquants, digoxine, aspirine
+1760500000146|Absente|< 0,1 g/24 h|Uniquement de bas poids moléculaire
+1760500000147|Contre-indiquée|Inutile|Réservée à l'autopsie
+1760500000148|EEG|Échocardiographie|Radiographie de thorax
+1760500000149|1 semaine|5 ans|24 heures
+1760500000150|Oligurie avec œdèmes|Hématurie macroscopique|Syndrome néphrotique
+1760500000151|Syndrome de Fanconi|SIADH|Syndrome néphrotique
+1760500000153|Antibiotiques, antiviraux, antifongiques|Bêtabloquants, statines, antiagrégants|Benzodiazépines, opiacés, paracétamol
+1760500000154|30 jours|3 mois|1 an
+1760500000155|Autorisés sans limite|Autorisés 4 jours|Recommandés en 1re intention
+1760500000156|Leucocyturie + nitrites|Polyurie + polydipsie|Cristallurie + colique néphrétique
+1760500000157|Nodules de Kimmelstiel-Wilson|Dépôts mésangiaux d'IgA isolés|Fusion isolée des pédicelles
+1760500000158|Moins de 45 g/L|Plus de 50 g/L|Moins de 10 g/L
+1760500000159|Œdèmes, protéinurie, hypoalbuminémie|Hyperlipidémie, œdèmes, protéinurie|Protéinurie, hypoprotidémie, œdèmes
+1760500000160|Thrombose de l'artère mésentérique|Thrombose du sinus caverneux|Thrombose de l'artère centrale de la rétine
+1760500000162|Arrêter tout traitement|Augmenter la corticothérapie à vie|Transplanter d'emblée
+1760500000163|Lésions glomérulaires minimes|Néphropathie à IgA|Amylose AA
+1760500000164|Anti-MBG|Anti-PR3|Anti-ADN natif
+1760500000165|Hématurie isolée + ANCA positif|SN impur + anti-PLA2R négatif|IRA rapide + anti-MBG positif
+1760500000167|Maladie génétique|Maladie infectieuse unique|Maladie auto-immune unique
+1760500000168|10-15 jours|3-4 semaines|2-3 mois
+1760500000170|Lésions minimes, GEM, FSGS|Diabétique, hypertensive, amylose|Alport, Fabry, polykystose
+1760500000171|Récepteur PLA2R|Protéinase 3|Myéloperoxydase
+1760500000172|Dépôts granuleux d'IgA|Aspect « full house »|Absence totale de dépôt
+1760500000173|p-ANCA anti-MPO|Anticorps anti-MBG|Anticorps anti-PLA2R
+1760500000174|Dépôts linéaires d'IgG|Full house|Dépôts mésangiaux d'IgA
+1760500000176|Pauci-immune|Dépôts linéaires d'IgG|IgA mésangiale isolée
+1760500000177|Rituximab (anti-CD20)|Infliximab (anti-TNF)|Tocilizumab (anti-IL-6)
+1760500000178|Bleu de Prusse|Ziehl-Neelsen|PAS-argent
+1760500000179|≈ 10 000|≈ 100 000|≈ 10 millions
+1760500000180|Kyste simple, lithiase, néphrocalcinose, hydrocèle, phimosis|Wilms, neuroblastome, tératome, lymphome, kyste|Ectopie testiculaire, hypospadias, hernie, varicocèle, phimosis
+1760500000181|Néphrectomie systématique|Insuffisance rénale terminale à 5 ans|Chirurgie obligatoire avant 6 mois
+1760500000182|Lithiase et néphrocalcinose|Tumeur de Wilms|Syndrome néphrotique
+1760500000183|Filles uniquement|Les deux sexes de façon égale|Surtout les filles
+1760500000184|Syndrome néphrotique à lésions minimes|Néphropathie à IgA|Tumeur de Wilms
+1760500000185|Syndrome d'Alport|Syndrome de Bartter|Syndrome de Prune-Belly
+1760500000186|Viable sans traitement|Viable avec bon pronostic|Viable si chirurgie néonatale
+1760500000187|Mauvais|Létal|Dialyse dès la naissance
+1760500000188|Oui|Oui, c'est la forme néonatale|Oui, toutes deux liées à PKD1
+1760500000189|Néphropathie diabétique|Néphropathie hypertensive|Néphropathie à IgA
+1760500000190|Obésité, hypersomnie, hyperactivité|Oligurie, prise de poids rapide, puberté précoce|Céphalées isolées, toux, eczéma
+1760500000191|Primaires|Toujours essentielles|Exclusivement iatrogènes
+1760500000192|Hémodialyse à vie|Dialyse péritonéale définitive|Traitement conservateur seul
+1760500000193|Glomérulonéphrite extramembraneuse|Hyalinose segmentaire et focale|Néphropathie à IgA
+1760500000194|Oui, systématiquement|Oui, avant tout traitement|Oui, en urgence
+1760500000195|Endocrines seulement|Excrétrices et endocrines|Aucune
+1760500000196|Épuration des déchets azotés|Régulation de l'eau et du sel|Équilibre acido-basique
+1760500000198|Hémodialyse|Dialyse péritonéale|Traitement conservateur
+1760500000199|< 60 mL/min sans symptômes|< 30 mL/min systématiquement|< 90 mL/min
+1760500000200|Anémie sévère|Anurie|Alcalose métabolique
+1760500000202|Dialyse péritonéale|Hémofiltration continue|Plasmaphérèse
+1760500000203|1 séance de 2 h / semaine|7 séances de 1 h / semaine|1 séance de 12 h / mois
+1760500000204|Cathéter central double voie|Cathéter tunnelisé jugulaire|Voie veineuse périphérique
+1760500000205|Fistule artério-veineuse (FAV)|Pontage prothétique|Cathéter de dialyse péritonéale
+1760500000206|La membrane hémodialyseur|La plèvre|La muqueuse intestinale
+1760500000207|Séances courtes (30 min) diurnes|Antibiothérapie du péritoine|Anticoagulation du cathéter
+1760500000208|Diabète, HTA, âge > 60 ans|Anémie, hyperkaliémie, acidose|Insuffisance cardiaque, oligurie, hypocalcémie
+1760500000210|Prurit, crampes, hypotension|Œdèmes, hypertension, polyurie|Toux, dyspnée, liquide clair
+1760500000211|Syndrome d'Alport|Syndrome de Fanconi|Syndrome de Bartter
+1760500000212|IRC stade 2 (DFG 60-89)|IRA réversible|Lithiase rénale récidivante
+1760500000215|≥ 50/µL|≥ 1000/µL|≥ 20/µL
+1760500000216|Sans importance|Facultative|Compatibilité seulement pour le rhésus
+1760500000217|Oui|Oui, obligatoire|Oui, seulement chez la femme
+1760500000219|Greffe réalisable sans précaution|Greffe prioritaire|Greffe plus rapide
+1760500000220|Humoral|Mixte|Hyperaigu
+1760500000221|Après 10 ans|Entre 5 et 10 ans|Uniquement après 1 an
+1760500000222|Infection urinaire, déshydratation|Lithiase, sténose urétérale|Âge du donneur, ischémie froide
+1760500000223|Oui, après 1 an|Oui, après 5 ans|Oui, si la créatinine est normale
+1760500000225|Azathioprine seule|Corticoïdes seuls|Cyclophosphamide + rituximab
+1760500000226|↑ taux d'IS → toxicité|Aucun effet|↓ taux d'IS → toxicité
+1760500000227|↓ taux d'IS → risque de rejet|Aucun effet|↑ taux d'IS → risque de rejet
+1760500000228|Sérologie IgM|ECBU standard|Hémocultures
+1760500000229|Augmenter l'immunosuppression|Ganciclovir IV|Corticothérapie à forte dose
+1760500000231|≈ 50 %|≈ 1 %|≈ 80 %
+1760500000232|Âge > 80 ans, diabète, HTA|Infections urinaires, lithiase, AINS|Tabac, obésité, sédentarité
+1760500000233|Syndrome d'Alport|Maladie de Fabry|Cystinose
+1760500000234|PKD2|COL4A5|HNF1B
+1760500000235|PKD2|Identiques|Dépend du sexe uniquement
+1760500000236|Au moins 1|Plus de 10|Plus de 20
+1760500000237|Oui|Oui, toujours|Oui, après 20 ans
+1760500000238|Hématurie macroscopique|Insuffisance rénale terminale|Syndrome néphrotique
+1760500000239|Agoniste du récepteur V2|Inhibiteur de l'enzyme de conversion|Inhibiteur de SGLT2
+1760500000240|Fibrilline 1|Collagène I|Podocine
+1760500000241|Autosomique dominant|Mitochondrial|Lié à l'Y
+1760500000242|Protéinurie, cécité, anosmie|Hématurie, diabète, obésité|Lithiase, surdité, ostéoporose
+1760500000243|Corticoïdes à vie|Ciclosporine|Tolvaptan
+1760500000244|Glucocérébrosidase|Hexosaminidase A|α-glucosidase acide
+1760500000245|Tube contourné proximal|Tube collecteur|Glomérule
+1760500000246|Syndrome de Liddle|Syndrome de Fanconi|Cystinurie
+1760500000247|≈ 1/50 000 naissances vivantes|≈ 1/10 naissances vivantes|≈ 1/1 000 000 naissances vivantes
+1760500000248|PKD1|COL4A5|NPHS1

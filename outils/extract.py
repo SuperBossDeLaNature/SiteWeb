@@ -13,6 +13,15 @@ UES = {  # sous-paquet (niveau matière) -> nom affiché, par UE
     'chir': {'Chir plastique · Difficile': 'Chirurgie plastique', 'Chirurgie générale (Difficile)': 'Chirurgie générale', 'Chirurgie orthopédique (Difficile)': 'Chirurgie orthopédique'},
     'neuro': {'Neurochirurgie — Difficile': 'Neurochirurgie', 'Neurologie clinique — Difficile': 'Neurologie clinique', 'Neurophysio Difficile': 'Neurophysiologie', 'Neuropsychologie — Difficile': 'Neuropsychologie', 'Neuropédiatrie--Difficile': 'Neuropédiatrie'},
     'radio': {'Médecine nucléaire — Difficile': 'Médecine nucléaire', 'Radiologie · Difficile': 'Radiologie'},
+    # paquets « Facile » (niveau 1 sur le site) ; Métabolisme n'existe qu'ici et est déjà pris par 'endo'
+    'facile': {'Endocrinologie – Facile': 'Endocrinologie', 'Nutrition — Facile': 'Nutrition',
+               'Néphro ULB – Facile': 'Néphrologie', 'Urologie – Facile': 'Urologie',
+               'Médecine nucléaire — Facile': 'Médecine nucléaire', 'Radiologie · Facile': 'Radiologie',
+               'Chir plastique · Facile': 'Chirurgie plastique', 'Chirurgie générale (Facile)': 'Chirurgie générale',
+               'Chirurgie orthopédique (Facile)': 'Chirurgie orthopédique',
+               'Neurochirurgie — Facile': 'Neurochirurgie', 'Neurologie clinique — Facile': 'Neurologie clinique',
+               'Neurophysio Facile': 'Neurophysiologie', 'Neuropsychologie — Facile': 'Neuropsychologie',
+               'Neuropédiatrie --Facile': 'Neuropédiatrie'},
 }
 TAGCHAP = {  # paquets sans sous-paquets -> chapitre selon le tag
     'Neuropédiatrie--Difficile': {
@@ -24,6 +33,7 @@ TAGCHAP = {  # paquets sans sous-paquets -> chapitre selon le tag
         'Épilepsie__West': '6. Épilepsie (West, POCS, STB)',
     },
 }
+TAGCHAP['Neuropédiatrie --Facile'] = TAGCHAP['Neuropédiatrie--Difficile']
 KEEP = UES[sys.argv[3] if len(sys.argv) > 3 else 'endo']
 
 def clean(s):
